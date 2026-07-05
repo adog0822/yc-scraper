@@ -1,0 +1,371 @@
+[
+  {
+    "slug": "ruvo",
+    "name": "Ruvo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or certification mentioned on ruvo.com; only generic 'market-audited protocols' and 'periodic audits with independent partners', no trust/security page",
+        "source_url": "https://ruvo.com/"
+      },
+      {
+        "signal": "Relies on partner Crossmint's SOC 2 Type II certified infrastructure -- Crossmint's cert, not Ruvo's own",
+        "source_url": "https://www.crossmint.com/case-study/ruvo-global-dollar-account-brazil-us"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4600000,
+      "source_url": "https://techstory.in/ruvo-secures-4-6m-to-bridge-the-us-brazil-gap-with-first-of-its-kind-crypto-pix-integration/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Site mentions only generic 'secure cloud storage'; no provider named",
+    "contacts": [
+      {
+        "name": "Alec Howard",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ruvo"
+      },
+      {
+        "name": "Michael Mason",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ruvo"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "Fresh $4.6M seed fintech with business accounts and no SOC 2 of its own (it leans on Crossmint's certified infra), so an attestation pitch lands as it courts business customers. Brazil HQ and consumer-first product temper the fit."
+  },
+  {
+    "slug": "suretynow",
+    "name": "SuretyNow",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, trust page, or compliance badge anywhere on suretynow.com; only 'encrypted forms' claim. B2B insurance/surety platform serving regulated bonding processes",
+        "source_url": "https://suretynow.com/"
+      },
+      {
+        "signal": "Web search for 'SuretyNow SOC 2' returned no compliance or trust-center results",
+        "source_url": "https://www.ycombinator.com/companies/suretynow"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/news/2024-04-01-suretynow-seed"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Bruce Chi",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/bchi/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/bchi/"
+      },
+      {
+        "name": "Jay Xiao",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/suretynow"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "B2B insurance/surety platform handling sensitive applicant financials with zero visible compliance posture -- a natural SOC 2 candidate. But a 4-person team on YC-only money with no hiring means budget and urgency are unproven."
+  },
+  {
+    "slug": "clarion",
+    "name": "Clarion",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage claims 'Enterprise-grade security' and 'protected patient data and complete audit trails' but shows no SOC 2 badge, no HIPAA cert, no Vanta/Drata badge, and no trust/security page",
+        "source_url": "https://www.clarionhealth.com/"
+      },
+      {
+        "signal": "Sells to enterprise healthcare buyers: outpatient health systems, virtual care companies, and a $5B publicly traded health insurer -- buyers that demand SOC 2 in vendor review",
+        "source_url": "https://www.ycombinator.com/companies/clarion"
+      }
+    ],
+    "hiring_signals": [
+      "9 open roles including Senior Full-Stack Engineer, Forward Deployed Engineer, and Founding Product Designer (https://www.ycombinator.com/companies/clarion/jobs)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 5400000,
+      "source_url": "https://www.ycombinator.com/companies/clarion"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider named on site or job listings; CTO previously built voice AI at Amazon Alexa (background only, not stack evidence)",
+    "contacts": [
+      {
+        "name": "Ryan Gallagher",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://tracxn.com/d/companies/clarion/__e9kbAxLwJK7nWG2X2QJ4xr2nssS_5QJNXyGH-CHej84"
+      },
+      {
+        "name": "Jeffrey Lamothe",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://tracxn.com/d/companies/clarion/__e9kbAxLwJK7nWG2X2QJ4xr2nssS_5QJNXyGH-CHej84"
+      },
+      {
+        "name": "Clarion founders (shared inbox)",
+        "role": "Founders",
+        "linkedin": null,
+        "twitter": null,
+        "email": "founders@clarionhealth.com",
+        "source": "https://www.clarionhealth.com/"
+      }
+    ],
+    "fit_score": 85,
+    "pitch_note": "Prime ICP: $5.4M-seeded healthcare AI selling to health systems and a $5B public insurer, hiring across 9 roles, yet no SOC 2 badge or trust page -- enterprise procurement will force an attestation soon and they have the budget for it."
+  },
+  {
+    "slug": "hazel-2",
+    "name": "Hazel",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "AICPA SOC 2 badge displayed in the footer of hazelai.com",
+        "source_url": "https://www.hazelai.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Full Stack Engineer (TS/SCI clearance required), $150K-$200K (https://www.ycombinator.com/companies/hazel-2/jobs)"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/hazel-22bb"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider mentioned on site or in job posting; no StateRAMP/FedRAMP listed despite govtech focus",
+    "contacts": [
+      {
+        "name": "August Chen",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.hazelai.com/"
+      },
+      {
+        "name": "Elton Lossner",
+        "role": "Co-Founder & COO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.hazelai.com/"
+      }
+    ],
+    "fit_score": 30,
+    "pitch_note": "Disqualified for Type I: already displays an AICPA SOC 2 badge on its site. Only residual angle is ongoing monitoring/Type II renewal or future StateRAMP/FedRAMP work as it lands agencies like the City of Dallas and Navy customers."
+  },
+  {
+    "slug": "miden",
+    "name": "Miden",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Site advertises PCI-DSS compliance and 'bank-grade security' but no SOC 2 and no trust/security page",
+        "source_url": "https://www.miden.co/"
+      },
+      {
+        "signal": "B2B card issuer-processor selling to financial institutions and businesses -- regulated buyer category; search for 'Miden SOC 2' found nothing",
+        "source_url": "https://www.ycombinator.com/companies/miden"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinatorcompanies.com/company/miden"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Dom Okiemute",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://lucidityinsights.com/news/miden-innovative-debit-card-platform"
+      },
+      {
+        "name": "Ini Udoh",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://lucidityinsights.com/news/miden-innovative-debit-card-platform"
+      },
+      {
+        "name": "Miden (general inbox)",
+        "role": "Company contact",
+        "linkedin": null,
+        "twitter": null,
+        "email": "info@miden.co",
+        "source": "https://www.miden.co/"
+      }
+    ],
+    "fit_score": 50,
+    "pitch_note": "B2B fintech infrastructure with financial-institution buyers, PCI-DSS but no SOC 2 -- technically a fit. However it is Nigeria-based, sells into Sub-Saharan Africa where ISO/PCI dominate over SOC 2, and shows no hiring, so demand for a US attestation is uncertain. (Note: the $25M 'Miden' seed in press is the unrelated Polygon Miden crypto project.)"
+  },
+  {
+    "slug": "closure",
+    "name": "Closure",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Site prominently displays SOC 2 Type II, CJIS, and HIPAA compliance plus a Trust Center, validated by third-party audits and pen tests",
+        "source_url": "https://www.closure-intel.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding AI Engineer (https://www.ycombinator.com/companies/closure/jobs/igy1QFY-founding-ai-engineer)",
+      "Founding Ops (https://www.ycombinator.com/companies/closure/jobs/n08FuTY-founding-ops)"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/closure-intelligence/__XTA88iu6vYvAHGzCNADfdbbZsshx0FWfK2EX4MjAQr8"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Aaron Zelinger",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/organization/closure-3999"
+      },
+      {
+        "name": "Gilad Levy",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/organization/closure-3999"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified: already holds SOC 2 Type II alongside CJIS and HIPAA with a public Trust Center -- the most compliance-mature company in this slice. No Type I opportunity here."
+  },
+  {
+    "slug": "toothy-ai",
+    "name": "Toothy AI",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Site claims HIPAA compliance but no SOC 2 badge or trust page found",
+        "source_url": "https://toothy.ai/"
+      },
+      {
+        "signal": "Founding Lead Engineer job explicitly requires implementing 'HIPAA, MFA across remote desktops/jumphosts, SOC2/HITRUST' security and compliance practices -- they are staffing for SOC 2 now and have no dedicated GRC function",
+        "source_url": "https://www.ycombinator.com/companies/toothy-ai/jobs/W8Hxj4B-founding-lead-engineer"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Lead Engineer with infrastructure/DevOps and SOC2/HITRUST compliance-implementation duties, $100K-$200K + 0.5-2% equity (https://www.workatastartup.com/jobs/74334)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/toothy-ai-funding/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Job posting cites 'multi-cloud/hybrid environments', CI/CD, and containerization but names no provider; also runs Windows RPA systems",
+    "contacts": [
+      {
+        "name": "Johnny Chen",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/toothy_ai_yc_w25/"
+      },
+      {
+        "name": "Matt Kerrigan",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/toothy_ai_yc_w25/"
+      },
+      {
+        "name": "Tejas Konduru",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/organization/toothy-ai"
+      }
+    ],
+    "fit_score": 88,
+    "pitch_note": "Strongest lead in the slice: healthcare AI handling PHI and insurance data, just closed a seed after 30x batch growth, and its founding-engineer job posting literally lists SOC2/HITRUST implementation as a duty -- they need SOC 2 help right now and have not yet built the function in-house."
+  },
+  {
+    "slug": "amby-health",
+    "name": "Amby Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification or trust page found in searches or on site; privacy policy acknowledges handling HIPAA/CMIA-covered health data",
+        "source_url": "https://www.tryamby.com/privacy"
+      },
+      {
+        "signal": "Sells AI billing/QA copilot to ambulance agencies and fire departments (regulated healthcare + government buyers)",
+        "source_url": "https://www.ycombinator.com/companies/amby-health"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/amby-health-pre-seed--01ee5209"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Yos Wagenmans",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/yosw/",
+        "twitter": "https://x.com/yos_w/",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/amby-health"
+      },
+      {
+        "name": "Timmy Dang",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/timmydang27/",
+        "twitter": "https://x.com/timdangg",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/amby-health"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "PHI-handling EMS copilot selling into ambulance agencies and fire departments -- buyers who will demand SOC 2 in procurement -- with no attestation in sight. Fit is capped by the 2-person team, pre-seed budget, and no hiring signals yet."
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "slug": "atlas-discovery",
+    "name": "Atlas Discovery",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on atlasdiscovery.bio or in public search results. Biotech/drug discovery company; SOC 2 rarely a gating requirement at this stage.",
+        "source_url": "https://atlasdiscovery.bio/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform as of research date",
+      "3-person team (Summer 2026 batch), extremely early stage"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/atlas-discovery"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Sanjukta Bhattacharya",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/sanjukta-bhattacharya-82b541198/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/sanjukta-bhattacharya-82b541198/"
+      }
+    ],
+    "fit_score": 28,
+    "pitch_note": "Pure biotech / drug discovery — not SaaS/fintech/regulated-data ICP. Team of 3, no cloud stack signals, not handling sensitive customer data in a compliance context. SOC 2 would have minimal near-term relevance. Deprioritize."
+  },
+  {
+    "slug": "sonia",
+    "name": "Sonia",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Digital mental health app handling sensitive PHI; HIPAA compliance confirmed in coverage but no SOC 2 found. B2B enterprise health buyers typically require SOC 2.",
+        "source_url": "https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists/"
+      },
+      {
+        "signal": "No trust center, SOC 2 report, or security page found at soniahealth.com/security (404). No SOC 2 mention in any public source.",
+        "source_url": "https://www.soniahealth.com/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform",
+      "7-person team with $3.4M seed; approaching B2B health enterprise sales would necessitate SOC 2"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3400000,
+      "source_url": "https://www.crunchbase.com/organization/sonia-ce05"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public cloud stack signals found",
+    "contacts": [
+      {
+        "name": "Dustin Klebe",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/dustin-klebe-679675163",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sonia"
+      },
+      {
+        "name": "Lukas Wolf",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/lukas-wolf-14a992143",
+        "twitter": "https://twitter.com/lukaswolf_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sonia"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Consumer/B2B digital mental health app handling sensitive PHI, HIPAA confirmed, no SOC 2 found. $3.4M seeded, 7-person team. As they pursue enterprise health system or employer contracts, SOC 2 Type I will be a hard gate. Pitch angle: SOC 2 unlocks the enterprise deals you're already pursuing — accelerate with a fast Type I."
+  },
+  {
+    "slug": "centauri-ai",
+    "name": "Centauri AI",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "SOC 2 Type II certification prominently featured on homepage alongside Y Combinator, NVIDIA, AWS, and Microsoft logos.",
+        "source_url": "https://centauri-ai.tech/"
+      },
+      {
+        "signal": "Dedicated Trust Center exists at trust.centauri-ai.tech confirming active compliance posture.",
+        "source_url": "https://trust.centauri-ai.tech/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/centauri-ai"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Homepage explicitly mentions AWS VPC deployment option: 'SaaS cloud-hosted, single-tenant, or in your own AWS/Azure VPC.' AWS logo displayed on homepage.",
+    "contacts": [
+      {
+        "name": "He Lu",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/he-lu-63666852/",
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/centauri_ai/"
+      },
+      {
+        "name": "Milan Shen",
+        "role": "Co-Founder / CPO",
+        "linkedin": "https://www.linkedin.com/in/milan-shen-860b5062",
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/centauri_ai/"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Already holds SOC 2 Type II — fully disqualified. Do not pursue."
+  },
+  {
+    "slug": "givefront",
+    "name": "Givefront",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Fintech handling nonprofit financial data, card transactions, grant funds, and IRS 990 compliance. No SOC 2 page found at givefront.com/security (404). No public SOC 2 mention in any source.",
+        "source_url": "https://www.givefront.com/"
+      },
+      {
+        "signal": "Platform includes built-in compliance and AI fraud detection — nonprofit clients with audit requirements will expect vendor SOC 2.",
+        "source_url": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform",
+      "4-person team, $2.5M raised — actively scaling with 200% MoM growth"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2500000,
+      "source_url": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "YC profile page references AWS S3 image hosting with AWS Signature V4 auth, indicating AWS infrastructure in use.",
+    "contacts": [
+      {
+        "name": "Matt Tengtrakool",
+        "role": "Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/matt-tengtrakool",
+        "twitter": null,
+        "email": null,
+        "source": "https://techcrunch.com/2025/12/18/these-21-year-old-dropouts-raised-2m-to-build-givefront-a-fintech-for-nonprofits/"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Fintech for nonprofits handling card spend, grant compliance, and IRS 990 reporting — regulated buyer context even if not enterprise. 200% MoM growth with $2.5M raised means larger institutional clients on the horizon who will demand SOC 2. No SOC 2 found. Pitch angle: Your nonprofit clients increasingly expect vendor attestation — a SOC 2 Type I before your next fundraise signals institutional-grade trust."
+  },
+  {
+    "slug": "parcelbio",
+    "name": "ParcelBio",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found anywhere. Wet-lab / therapeutics biotech — SOC 2 is generally not applicable to pre-clinical drug companies.",
+        "source_url": "https://parcelbio.com/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform",
+      "$13M seed raised in May 2026 — growing but focused on lab/R&D hiring"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 13000000,
+      "source_url": "https://www.businesswire.com/news/home/20260507530407/en/ParcelBio-Launches-with-$13-Million-in-Financing-to-Advance-Next-Generation-mRNA-Medicines"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "David Weinberg",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/david-e-weinberg",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/parcelbio"
+      },
+      {
+        "name": "Chris Carlson",
+        "role": "Co-Founder / CSO",
+        "linkedin": "https://www.linkedin.com/in/christopher-carlson-",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/parcelbio"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Pre-clinical mRNA therapeutics biotech — not a SaaS or data-platform company. SOC 2 is irrelevant to their buyer type (pharma partners, not enterprise SaaS customers). Strong funding ($13M) but wrong ICP. Deprioritize."
+  },
+  {
+    "slug": "exin-therapeutics",
+    "name": "Exin Therapeutics",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found. Pre-clinical AI drug discovery platform — not handling customer data requiring SOC 2 attestation.",
+        "source_url": "https://www.exintherapeutics.com/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform",
+      "9-person team actively building wet-lab and AI infrastructure in Manila"
+    ],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/exin-therapeutics"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Gabriel Ocana Santero",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/gabriel-ocana-santero-85b41819a",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.exintherapeutics.com/team"
+      },
+      {
+        "name": "Marko Tvrdic",
+        "role": "Co-Founder / COO",
+        "linkedin": "https://www.linkedin.com/in/marko-tvrdic/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/marko-tvrdic/"
+      }
+    ],
+    "fit_score": 18,
+    "pitch_note": "AI-driven neurotherapeutics platform operating wet labs — wrong ICP. No enterprise SaaS sales motion, no customer data compliance requirements. Deprioritize."
+  },
+  {
+    "slug": "tire-swing",
+    "name": "Tire Swing",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "GovTech platform handling tenant income certifications, rental assistance compliance (PBRA, LIHTC, HCV) — government and affordable housing clients will require security attestation. No SOC 2 found.",
+        "source_url": "https://www.gettireswing.com/"
+      },
+      {
+        "signal": "Website states tenant data is encrypted in transit and at rest, role-based access controls — security-conscious but no SOC 2 certification page found.",
+        "source_url": "https://www.gettireswing.com/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform",
+      "Co-founder Paul Witten has prior cybersecurity and GRC background (Stroz Friedberg, Lime SecOps/GRC) — security-aware founding team"
+    ],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/tire-swing"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit AWS stack signals found publicly, though Lucas Irvine (CTO) built Capital One's Cloud Custodian open-source cloud governance tool — strong cloud/AWS competency likely.",
+    "contacts": [
+      {
+        "name": "Paul Witten",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/paul-witten",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/paul-witten"
+      },
+      {
+        "name": "Lucas Irvine",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/lucas-irvine",
+        "twitter": null,
+        "email": null,
+        "source": "https://rocketreach.co/lucas-irvine-email_243429430"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Strong lead. GovTech selling to HUD-regulated affordable housing operators — government-adjacent buyers routinely require SOC 2. No SOC 2 found, lean 2-person team, YC-funded. CEO has cybersecurity/GRC background (Stroz Friedberg, Lime) so will understand the need immediately. CTO built AWS cloud governance tooling at Capital One. Pitch angle: Your government and housing authority clients will require SOC 2 before expanding — get Type I now while the team is still lean and cost-effective."
+  },
+  {
+    "slug": "agentic-fabriq",
+    "name": "Agentic Fabriq",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Security/identity platform selling to enterprise buyers who will require vendor SOC 2 before deploying identity infrastructure. No SOC 2 found publicly.",
+        "source_url": "https://www.agenticfabriq.com/"
+      },
+      {
+        "signal": "Tagged as Cybersecurity/Identity on YC — their own customers will demand SOC 2 from them as a prerequisite for adoption.",
+        "source_url": "https://www.ycombinator.com/companies/agentic-fabriq"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC profile",
+      "No jobs posted on YC platform",
+      "2-person team (W26) — extremely early, no dedicated security/GRC hire yet"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/agentic-fabriq"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Product integrates with Okta, Azure AD, Google Workspace and supports MCP/OAuth frameworks. Positioned as infrastructure layer for AI agents — AWS-compatible by design though no explicit AWS-native signal confirmed.",
+    "contacts": [
+      {
+        "name": "Paulina Xu",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/paulina-xu-5bba0821b",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/organization/agentic-fabriq"
+      },
+      {
+        "name": "Matthew Xu",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/xu-matthew/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/xu-matthew/"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Top lead. Cybersecurity/identity platform for AI agents — their enterprise customers will demand SOC 2 before deploying Agentic Fabriq as an identity control plane. No SOC 2 found, 2-person team, YC W26. Security-native product means founders immediately understand the value. Pitch angle: Your enterprise prospects will require SOC 2 before trusting you as their identity layer — get Type I in place before your first major ACV closes."
+  }
+]

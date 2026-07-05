@@ -1,0 +1,164 @@
+[
+ {
+  "slug": "grade",
+  "name": "Grade",
+  "website": "https://usegrade.com",
+  "one_liner": "API for performance-based payroll",
+  "team_size": 2,
+  "batch": "Winter 2026",
+  "tags": [
+   "Fintech",
+   "Payments",
+   "Payroll",
+   "AI"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 65
+ },
+ {
+  "slug": "durate",
+  "name": "Durate",
+  "website": "https://www.durate.com/",
+  "one_liner": "Automated physician scheduling",
+  "team_size": 2,
+  "batch": "Fall 2024",
+  "tags": [
+   "SaaS",
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "riskcube",
+  "name": "RiskCube",
+  "website": "https://riskcube.com",
+  "one_liner": "Top-rated insurance to help close enterprise & government contracts.",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "Insurance"
+  ],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "careforce",
+  "name": "Careforce",
+  "website": "https://careforce.ai/",
+  "one_liner": "AI Workers for Healthcare Orgs to Find, Call & Schedule More Patients.",
+  "team_size": 9,
+  "batch": "Fall 2024",
+  "tags": [
+   "Health Tech",
+   "Healthcare",
+   "Healthcare IT",
+   "Call Center",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "zavo",
+  "name": "Zavo",
+  "website": "https://zavopay.com",
+  "one_liner": "AI Operating System for Restaurants ",
+  "team_size": 8,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "Payments",
+   "B2B",
+   "Restaurant Tech"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": false,
+  "locations": "London, United Kingdom",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "rovi-health",
+  "name": "Rovi Health",
+  "website": "https://www.rovi.health",
+  "one_liner": "AI healthcare concierge for employees",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Consumer Health Services",
+   "Health Tech",
+   "Digital Health",
+   "Healthcare",
+   "Health Insurance"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "qfex",
+  "name": "QFEX",
+  "website": "https://qfex.com",
+  "one_liner": "24/7 Global Stock Exchange",
+  "team_size": 10,
+  "batch": "Spring 2025",
+  "tags": [
+   "Fintech",
+   "Marketplace",
+   "Trading"
+  ],
+  "industries": [
+   "Fintech",
+   "Banking and Exchange"
+  ],
+  "is_hiring": true,
+  "locations": "London, England, United Kingdom",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "claim-health",
+  "name": "Claim Health",
+  "website": "https://www.claimhealth.com",
+  "one_liner": "AI Revenue Platform for Post-Acute Care",
+  "team_size": 6,
+  "batch": "Spring 2025",
+  "tags": [
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ }
+]

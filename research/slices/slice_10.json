@@ -1,0 +1,140 @@
+[
+ {
+  "slug": "sunset",
+  "name": "Sunset",
+  "website": "https://www.hellosunset.com/",
+  "one_liner": "Find and move money after a death",
+  "team_size": 5,
+  "batch": "Fall 2024",
+  "tags": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "futureclinic",
+  "name": "FutureClinic",
+  "website": "https://www.futureclinic.com",
+  "one_liner": "Personal doctors through chat",
+  "team_size": 4,
+  "batch": "Fall 2024",
+  "tags": [
+   "Health Tech",
+   "Digital Health",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "ember",
+  "name": "Ember",
+  "website": "https://www.embercopilot.ai",
+  "one_liner": "AI RCM. A/R Analysis in 3 days or less. Reduce claim denials by 55%. ",
+  "team_size": 25,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "asha-health",
+  "name": "Asha Health",
+  "website": "https://asha.health",
+  "one_liner": "We help medical practices become AI-native",
+  "team_size": 9,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "autonomous-technologies-group",
+  "name": "Autonomous Technologies Group",
+  "website": "https://becomeautonomous.com/",
+  "one_liner": "Superintelligent financial advisor",
+  "team_size": 8,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Consumer Finance"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "logosguard",
+  "name": "LogosGuard",
+  "website": "https://logosguard.com/",
+  "one_liner": "The sensitive data redaction layer for AI",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Compliance",
+   "Security",
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "savahq",
+  "name": "Sava",
+  "website": "https://www.savahq.com",
+  "one_liner": "Building the future of trusts",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "exonic",
+  "name": "Exonic",
+  "website": "https://exonic.ai",
+  "one_liner": "Unsupervised Biological AI",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Drug Discovery and Delivery"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ }
+]

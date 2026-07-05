@@ -1,0 +1,85 @@
+{
+  "slug": "ndb-accountants-consultants",
+  "name": "NDB Accountants & Consultants (NDB)",
+  "website": "https://ndbcpa.com",
+  "hq": "Atlanta, GA (2897 N Druid Hills Rd NE, Suite 355; markets nationally with Dallas/Austin/Houston/California metro pages)",
+  "founded": "2006",
+  "team_size_estimate": "11-50 (LinkedIn range; boutique partner-led team, exact headcount not published)",
+  "founder_led": null,
+  "startup_focus_evidence": [
+    {
+      "signal": "Publishes fixed-fee SOC 2 audit content aimed specifically at startups and 'fast-moving, cloud-native' tech companies (Austin tech companies post)",
+      "source_url": "https://www.ndbcpa.com/blog/soc-2-compliance-for-austin-tech-companies-fixed-fee-audits-by-ndb"
+    },
+    {
+      "signal": "Markets itself as 'California's Leading Provider of Fixed-Fee SOC 2 Audit Services for Technology Startups'",
+      "source_url": "https://ndbcpa.com/blog/regulatory-compliance/californias-leading-provider-of-fixed-fee-soc-2-audit-services-for-technology-startups"
+    },
+    {
+      "signal": "Dedicated post on SOC 2 audits for startup healthcare companies using Drata, describing Drata-integrated evidence collection and mapping AWS/Okta/GitHub into Drata",
+      "source_url": "https://ndbcpa.com/blog/soc-2-audits-for-startup-healthcare-companies-using-drata"
+    },
+    {
+      "signal": "Homepage emphasizes fixed-fee pricing ('keep your budget on target') and serving companies from 'startups or a long established brand'",
+      "source_url": "https://ndbcpa.com"
+    }
+  ],
+  "grc_partnerships": ["Drata", "Vanta", "Secureframe", "Sprinto", "Thoropass"],
+  "aws_cloud_expertise": "Offers cloud security services covering AWS, Microsoft Azure, and Google GCP (listed on homepage); startup SOC 2 blog content explicitly scopes AWS/Azure/GCP cloud infrastructure and maps AWS accounts into Drata for evidence collection (https://ndbcpa.com, https://ndbcpa.com/blog/soc-2-audits-for-startup-healthcare-companies-using-drata)",
+  "services": [
+    "SOC 2 Type 1 and Type 2 audits (fixed-fee)",
+    "SOC 2 readiness assessments and remediation",
+    "SOC 1 SSAE 18 audits",
+    "PCI DSS compliance and assessments",
+    "HITRUST certification",
+    "HIPAA, GDPR, ISO 27001, NIST audits",
+    "Cloud security (AWS, Azure, GCP)",
+    "Penetration testing and cybersecurity risk assessments",
+    "GRC automation platform support (Drata, Vanta, Secureframe, Sprinto, Thoropass)"
+  ],
+  "contacts": [
+    {
+      "name": "Christopher Nickell, CPA",
+      "role": "Partner / SOC 2 lead (listed firm-wide contact for SOC 2 inquiries)",
+      "linkedin": "https://www.linkedin.com/in/christopherdnickell/",
+      "twitter": null,
+      "email": null,
+      "phone": "1-800-277-5415 ext. 706",
+      "source": "https://ndbcpa.com/services/soc-2-audits (phone listed in NDB SOC 2 service/blog pages); LinkedIn profile surfaced via web search for 'Christopher Nickell NDB CPA SOC 2' — verify profile before outreach"
+    },
+    {
+      "name": "Charles Denyer",
+      "role": "Partner (compliance/advisory; long-time public face of NDB press releases)",
+      "linkedin": null,
+      "twitter": null,
+      "email": "cdenyer@ndbcpa.com",
+      "phone": "1-800-277-5415 ext. 705",
+      "source": "https://www.baypayforum.com/latest/ndb-advisory-announces-comprehensive-pci-dss-compliance-and-consulting-services-for-dallas-texas-merchants (public press release listing email and extension)"
+    },
+    {
+      "name": "Thomas M. O'Connor",
+      "role": "Partner",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.buzzfile.com/business/Ndb-Accountants.And.Consultants-LLP-404-348-0283 (company profile listing)"
+    }
+  ],
+  "fit_score": 78,
+  "partnership_angle": "Referral partner with sandbox-tester entry. NDB is a boutique, fixed-fee, startup-priced SOC 2 shop that already runs audits inside Drata, Vanta, Secureframe, Sprinto, and Thoropass and explicitly scopes AWS environments for cloud-native startups — exactly the pre-audit client base LoxeAI wants. Their whole marketing engine is 'startup-friendly, transparent, automation-embracing,' so an AWS-native readiness scan that gets clients 80% audit-ready before engagement slots naturally into their four-phase readiness-to-audit funnel as a recommended first step. Score notes: firm cleared nearly every criterion (startup-specialized, GRC-automation-native, AWS/cloud fluent, direct partner contacts) but is ~20 years old (founded 2006, misses the <8yr bonus) and founder-led status is unconfirmed, so partial credit on the size/founder-led criterion.",
+  "pitch_note": "You're one of the only fixed-fee SOC 2 firms actively publishing on Drata AND Secureframe workflows for cloud-native startups — that's precisely who LoxeAI is built for. We'd like 30 minutes to have you run our AWS-native SOC 2 readiness scan against a sandbox (or your own) AWS account and pick apart the findings as an auditor. If it holds up to your standards, your pre-audit clients get a 'run this scan first — it gets you 80% ready' step that shortens your readiness phase, and NDB gets first look at every startup the scan surfaces.",
+  "source_urls": [
+    "https://ndbcpa.com",
+    "https://www.ndbcpa.com/blog/soc-2-compliance-for-austin-tech-companies-fixed-fee-audits-by-ndb",
+    "https://ndbcpa.com/blog/regulatory-compliance/californias-leading-provider-of-fixed-fee-soc-2-audit-services-for-technology-startups",
+    "https://ndbcpa.com/blog/soc-2-audits-for-startup-healthcare-companies-using-drata",
+    "https://ndbcpa.com/services/soc-2-audits",
+    "https://ndbcpa.com/services/soc-2-readiness",
+    "https://www.baypayforum.com/latest/ndb-advisory-announces-comprehensive-pci-dss-compliance-and-consulting-services-for-dallas-texas-merchants",
+    "https://www.buzzfile.com/business/Ndb-Accountants.And.Consultants-LLP-404-348-0283",
+    "https://www.linkedin.com/company/ndb-accountants-and-consultants",
+    "https://www.linkedin.com/in/christopherdnickell/",
+    "https://www.californiacompliance.net/post/soc-2-auditors-drata-vanta-secureframe-ndb-s-expertise-in-soc-2-and-grc-frameworks-for-san-franci"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "assurancepoint",
+  "name": "AssurancePoint",
+  "website": "https://assurancepoint.cpa/",
+  "hq": "Atlanta, GA",
+  "founded": "2021",
+  "team_size_estimate": "~7-20 (ZoomInfo/RocketReach report ~7 employees; AuditXYZ lists 20-50; clearly under 40)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Firm specializes exclusively in SOC 1/SOC 2 and infosec attestation for technology and SaaS companies; client logos are tech/SaaS startups (Aquifer, Breeze, Catalant, Carta Healthcare, Encircle, Workshop, Volur)",
+      "source_url": "https://assurancepoint.cpa/"
+    },
+    {
+      "signal": "Described as 'startup-friendly' with fixed-fee engagements typically 20-40% lower than larger audit firms, 4-6 week SOC 2 turnaround, and 'a strong fit for startups and SMBs seeking their first SOC 2 engagement'",
+      "source_url": "https://www.auditxyz.com/auditors/firm/assurance-point"
+    },
+    {
+      "signal": "Listed among top SOC 2 auditors for startups in 2026 comparison guides with startup pricing in the ~$10K-$45K range",
+      "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+      "signal": "Client testimonial on homepage cites the firm's fluency with 'modern compliance automation softwares, e.g., Drata'",
+      "source_url": "https://assurancepoint.cpa/"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (listed in Drata Auditor Directory)",
+    "Vanta (listed audit partner in Vanta partner directory)"
+  ],
+  "aws_cloud_expertise": "No explicit AWS specialization published; cloud fluency is implied by an all-SaaS client base, founder's CCSK (Certificate of Cloud Security Knowledge) credential, and a technology-enabled audit model, but no AWS-specific content or pages found",
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 examinations",
+    "SOC for Cybersecurity and SOC for Supply Chain",
+    "ISO 27001 / ISO 27701",
+    "HIPAA / healthcare compliance",
+    "FISMA & NIST",
+    "GDPR and privacy solutions",
+    "Compliance readiness and advisory, internal audit, risk assessments"
+  ],
+  "contacts": [
+    {
+      "name": "Dale Crump",
+      "role": "Founder & Managing Partner (CPA, CISSP, CISA, CIPP/US, CCSK, ISO 27001 Lead Auditor; 1,000+ SOC reports)",
+      "linkedin": "https://www.linkedin.com/in/dale-crump/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/dale-crump/"
+    },
+    {
+      "name": "AssurancePoint (general)",
+      "role": "Firm inbox",
+      "linkedin": "https://www.linkedin.com/company/assurancepoint-llc",
+      "twitter": null,
+      "email": "Info@AssurancePoint.cpa",
+      "phone": null,
+      "source": "https://assurancepoint.cpa/"
+    }
+  ],
+  "fit_score": 64,
+  "partnership_angle": "Referral partner / validator via the founder relationship, but move fast and treat as a bridge into the Axiom GRC / IS Partners network. On fundamentals AssurancePoint is near-ideal: tiny SOC-only team, founder-led, startup/SaaS-exclusive, already embedded in Vanta and Drata automation ecosystems, so validating an AWS-native readiness scan is a natural extension of their tech-enabled audit model. However, Axiom GRC announced its acquisition of AssurancePoint on Jan 6, 2026 and stated it will integrate with IS Partners (Axiom's larger U.S. platform) rather than continue independently — so a deep design partnership will eventually require Axiom/IS Partners sign-off. Best motion: get Dale Crump as an individual auditor-validator now (Tester -> Validator), and use his validation as the wedge into the broader IS Partners referral machine post-integration.",
+  "pitch_note": "Dale — you built AssurancePoint around tech-enabled, no-cookie-cutter SOC audits for SaaS startups, and that's exactly the auditor eye we want on LoxeAI, an AWS-native SOC 2 readiness scanner for lean startups. Could we grab 20 minutes for you to run the scan against a sandbox AWS account and tell us where it holds up (and where it doesn't) against the Trust Services Criteria you've applied across 1,000+ reports? If it earns your sign-off, your pre-audit pipeline gets a simple play: 'run this scan first — it gets you ~80% ready,' which means cleaner evidence, fewer wasted requests, and faster Type 2 engagements for you and the IS Partners team.",
+  "source_urls": [
+    "https://assurancepoint.cpa/",
+    "https://assurancepoint.cpa/about/",
+    "https://www.linkedin.com/in/dale-crump/",
+    "https://www.linkedin.com/company/assurancepoint-llc",
+    "https://drata.com/auditor/directory/assurancepoint-llc",
+    "https://www.vanta.com/partners/find-a-partner",
+    "https://www.auditxyz.com/auditors/firm/assurance-point",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://www.prnewswire.com/news-releases/axiom-grc-acquires-assurancepoint-to-accelerate-us-cyber-compliance-expansion-302653273.html",
+    "https://www.privsource.com/acquisitions/deal/axiom-grc-acquires-assurancepoint-krSZ4Y",
+    "https://www.zoominfo.com/c/assurancepoint-llc/1313574271"
+  ]
+}

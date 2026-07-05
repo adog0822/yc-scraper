@@ -1,0 +1,387 @@
+[
+  {
+    "slug": "deeptrace",
+    "name": "Deeptrace",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on website or trust page; FAQ mentions 'Is my data secure?' but no certification details disclosed",
+        "source_url": "https://deeptrace.com"
+      },
+      {
+        "signal": "Sells AI SRE/on-call platform to engineering teams — enterprise sales motion will require SOC 2 as buyer bar rises",
+        "source_url": "https://www.ycombinator.com/companies/deeptrace"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer role focused on core infrastructure and production monitoring (no dedicated security/DevOps hire yet)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/deeptrace/__ZOM5PHQM6Z2hP7YGx3ktV6Ah3u50g7NRkDnfdrwrhII"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "AI SRE product integrates with CloudWatch logs and Slack alerts — strongly implies AWS-native customer base and likely AWS-hosted infra; no explicit confirmation found",
+    "contacts": [
+      {
+        "name": "Andy Lee",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/andy-lee-126073148/",
+        "twitter": null,
+        "email": "founders@deeptrace.com",
+        "source": "https://www.ycombinator.com/companies/deeptrace"
+      },
+      {
+        "name": "Sri Somasundaram",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/srinath-somasundaram-768bb8210/",
+        "twitter": null,
+        "email": "founders@deeptrace.com",
+        "source": "https://www.ycombinator.com/companies/deeptrace"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "4-person YC F25 AI SRE startup with no SOC 2 detected. Product monitors AWS production environments, so their own cloud posture matters to buyers. Likely_needs SOC 2 as they pursue enterprise DevOps teams. YC-only funding (~$500K) limits timeline urgency but pipeline pressure will build quickly. Lead with: 'Your buyers are running SOC 2 audits — your on-call AI needs to pass their vendor reviews too.'"
+  },
+  {
+    "slug": "trelium",
+    "name": "Trelium",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Trust center page exists at trust.trelium.com but returns only a placeholder 'Trust center' heading with no certification content",
+        "source_url": "https://trust.trelium.com"
+      },
+      {
+        "signal": "B2B workflow automation with CRM/internal system access means enterprise buyers will require SOC 2 during procurement",
+        "source_url": "https://www.ycombinator.com/companies/trelium"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (India/Remote) — no dedicated security or DevOps hire listed"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/trelium"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS references found in job postings or public materials",
+    "contacts": [
+      {
+        "name": "Abhimanyu Yadav",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/abhiy1",
+        "twitter": "https://x.com/not_by_default",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/trelium"
+      },
+      {
+        "name": "Ritanshu Dokania",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ritanshudokania",
+        "twitter": "https://x.com/ritanshu675",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/trelium"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "6-person YC F25 AI workflow automation startup. Trust center placeholder signals awareness of compliance need but no SOC 2 yet — ideal timing for a Type I engagement. Sells to B2B teams integrating with CRMs and internal systems, which means their first enterprise deal will demand SOC 2. Lead with: 'Your trust center is live but empty — we can help you fill it with a SOC 2 Type I report before your next enterprise deal closes.'"
+  },
+  {
+    "slug": "hypercubic",
+    "name": "Hypercubic",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification mentioned on website; site mentions 'zero data egress, immutable audit trails' as security features but no formal attestation",
+        "source_url": "https://www.hypercubic.ai"
+      },
+      {
+        "signal": "Targets Fortune 500 banking, insurance, government, and healthcare clients — these buyers mandate SOC 2 as a minimum vendor requirement",
+        "source_url": "https://www.ycombinator.com/companies/hypercubic"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Software Engineer role (generalist) — no dedicated security/compliance hire listed; security likely an immediate gap as they pursue regulated enterprises"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/hypercubic"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Website explicitly lists AWS as one of supported deployment platforms alongside Azure, Google Cloud, Oracle, and IBM Cloud; customer VPC deployment model confirmed",
+    "contacts": [
+      {
+        "name": "Sai Gurrapu",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/saig18",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hypercubic"
+      },
+      {
+        "name": "Aayush Naik",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/aayn/",
+        "twitter": "https://x.com/aayush_naik",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hypercubic"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "3-person YC F25 startup selling AI mainframe modernization to banks, insurers, governments, and healthcare enterprises — the heaviest regulated buyers imaginable. AWS-confirmed deployment target. No SOC 2 found. Every single prospect they have will run a vendor security review; they cannot close Fortune 500 financial services contracts without a SOC 2 report. Lead with: 'Banking and government CISOs will block your deal at procurement without SOC 2 — we can get you Type I in 6-8 weeks.'"
+  },
+  {
+    "slug": "atlasgrid",
+    "name": "AtlasGrid",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found; enterprise preview page signals enterprise go-to-market but no trust/security page found",
+        "source_url": "https://www.atlasgrid.ai/enterprise-preview"
+      },
+      {
+        "signal": "Mobile analytics platform accessing app user data — enterprise buyers (especially in fintech and healthcare verticals) will require SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/atlasgrid"
+      }
+    ],
+    "hiring_signals": [
+      "Frontend Engineer (3+ years) — no security or DevOps role posted"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://fyicombinator.com/company/atlasgrid"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS references found in job postings or public materials; SaaS cloud platform but provider unspecified",
+    "contacts": [
+      {
+        "name": "Oleg Kostour",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/olegkostour/",
+        "twitter": "https://x.com/olegkostour",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/atlasgrid"
+      },
+      {
+        "name": "Anton Krutiansky",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/antonkrutiansky",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/atlasgrid"
+      },
+      {
+        "name": "Aram Aghababyan",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/aaghababyan/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/atlasgrid"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "6-person YC F25 mobile analytics platform; second-time YC founders from Dropbox and Meta with proven enterprise go-to-market sense. $1M seed raised. No SOC 2 detected and enterprise preview suggests they are actively courting larger buyers. AWS status unknown weakens the case slightly. Lead with: 'Enterprise mobile teams will ask for your SOC 2 report before sharing app analytics access — let us help you get there before your next enterprise pilot.'"
+  },
+  {
+    "slug": "hillclimb",
+    "name": "hillclimb",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found; website inaccessible (403) but no trust page or security documentation discovered via search",
+        "source_url": "https://www.ycombinator.com/companies/hillclimb"
+      },
+      {
+        "signal": "Sells training data to frontier AI labs (e.g., Nous Research partnership confirmed) — enterprise AI buyers often require SOC 2 for data vendors",
+        "source_url": "https://www.ycombinator.com/launches/Oqr-hillclimb-training-data-derived-from-human-superintelligence"
+      }
+    ],
+    "hiring_signals": [
+      "4 open roles: Member of Technical Staff (SWE), Member of Technical Staff (Research), Research Engineer Intern, Software Engineer Intern — no security/DevOps/GRC role posted"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/hillclimb"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider references found in public materials",
+    "contacts": [
+      {
+        "name": "Jun Park",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jpark72/",
+        "twitter": "https://x.com/jparkjmc",
+        "email": "founders@hillclimb.ing",
+        "source": "https://www.ycombinator.com/companies/hillclimb"
+      },
+      {
+        "name": "Ibrakhim Ustalbay",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ibrakhim/",
+        "twitter": null,
+        "email": "founders@hillclimb.ing",
+        "source": "https://www.ycombinator.com/companies/hillclimb"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "4-person YC F25 training data company selling to frontier AI labs. No SOC 2 found. AWS status unknown and team is research-focused (DeepMind, IMO mathematicians) rather than enterprise-sales-focused. Fit is moderate — AI lab buyers may require SOC 2 data vendor attestation but procurement cycles are less formal than regulated industries. Lead with: 'AI labs like Anthropic and Google have SOC 2 requirements for data vendors — getting Type I now positions you for those contracts.'"
+  },
+  {
+    "slug": "sf-tensor",
+    "name": "SF Tensor",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on website or search; no trust or security page discovered",
+        "source_url": "https://sf-tensor.com"
+      },
+      {
+        "signal": "Manages compute and training infrastructure across multiple cloud providers for AI labs — strong data access and infra access means SOC 2 will be required by research lab buyers",
+        "source_url": "https://sf-tensor.com/news/tensor-cloud-launch"
+      }
+    ],
+    "hiring_signals": [
+      "4 open roles: Founding GPU Compiler Engineer, Founding GPU Kernel Engineer, Founding Research Engineer (AI-Driven Compilation), Founding Product Engineer — deep technical infra roles, no security/GRC hire yet"
+    ],
+    "funding": {
+      "stage": "Pre-Seed/Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/sf-tensor-pre-seed--33a87f1a"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Product explicitly integrates with AWS (and GCP/Azure) for cross-cloud GPU orchestration; AWS H100/A100 instances referenced as supported hardware; Susa Ventures backed",
+    "contacts": [
+      {
+        "name": "Ben Koska",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/benkoska",
+        "twitter": null,
+        "email": "founders@sf-tensor.com",
+        "source": "https://www.ycombinator.com/companies/sf-tensor"
+      },
+      {
+        "name": "Luk Koska",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/lukkoska/",
+        "twitter": null,
+        "email": "founders@sf-tensor.com",
+        "source": "https://www.ycombinator.com/companies/sf-tensor"
+      },
+      {
+        "name": "Tom Koska",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/tomkoska/",
+        "twitter": null,
+        "email": "founders@sf-tensor.com",
+        "source": "https://www.ycombinator.com/companies/sf-tensor"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "6-person YC F25 AWS-native GPU infrastructure startup backed by Susa Ventures and Paul Graham angels. Manages cloud access across multiple providers for AI labs — any serious AI lab customer will require vendor SOC 2. No SOC 2 found. Pre-seed stage means they are still in early sales; SOC 2 Type I now will unlock enterprise research lab contracts. Lead with: 'You are managing compute access for AI labs — their security teams will require a SOC 2 report before they route training jobs through your platform.'"
+  },
+  {
+    "slug": "allus-ai",
+    "name": "Allus AI",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Website states platform 'upholds ISO 27001 and SOC 2 standards, with robust, continuously monitored controls' and mentions 'Control framework, evidence collection, and monitoring ready for independent attestation'",
+        "source_url": "https://www.allus.ai"
+      },
+      {
+        "signal": "Bilarna trust profile and 007 Venture Partners investor page reference SOC 2 readiness — language of 'ready for independent attestation' suggests in-progress rather than completed",
+        "source_url": "https://bilarna.com/provider/allus"
+      },
+      {
+        "signal": "Customers include Apple, Tesla, Panasonic, Corning, Novo Nordisk — all require SOC 2 vendor attestation; company appears to be working toward certification",
+        "source_url": "https://www.007venturepartners.com/signals/allus-ai"
+      }
+    ],
+    "hiring_signals": [
+      "Founding AI Agent Engineer (3+ years, $100K-$200K) — no dedicated security/GRC/DevOps role posted",
+      "Software Engineer Internship — no compliance focus"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 6000000,
+      "source_url": "https://www.angelsround.com/p/allus"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No specific AWS references found; deployed directly at factory floor with Fortune 500 manufacturers — cloud provider not disclosed",
+    "contacts": [
+      {
+        "name": "Chris Kai Cui",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/kaixiang-cui",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/allus-ai"
+      },
+      {
+        "name": "Shijie Wang",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/shijiew/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/allus-ai"
+      },
+      {
+        "name": "Zhisen An",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/zhisenan/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/allus-ai"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "3-person YC F25 manufacturing vision AI startup raising $6M seed; appears to be actively working toward SOC 2 ('ready for independent attestation') with Fortune 500 customers. Moderate fit — they appear compliance-aware and in-progress, meaning they may already have an attestation partner. Could be a timing play if their current vendor relationship is weak. Lead with: 'Your Fortune 500 customers like Apple and Tesla need a completed attestation, not just controls readiness — we can accelerate your Type I report in weeks, not months.'"
+  },
+  {
+    "slug": "multifactor",
+    "name": "Multifactor",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on website or in any public press materials including $15M seed round announcement",
+        "source_url": "https://www.prnewswire.com/news-releases/yc-f25-startup-multifactor-raises-15m-seed-round-to-make-online-accounts-safe-for-ai-agents-302633496.html"
+      },
+      {
+        "signal": "Security product company (zero-trust auth for AI agents) selling to enterprises managing $7.5B+ manufacturing supply chains — buyers will require SOC 2 from their own security vendors",
+        "source_url": "https://www.ycombinator.com/companies/multifactor"
+      },
+      {
+        "signal": "Job posting references 'AWS console' access as a core use case, and founding engineer role includes 'cryptographic infrastructure' — no separate GRC/compliance hire",
+        "source_url": "https://www.ycombinator.com/companies/multifactor/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer ($145K-$195K) focused on cryptographic infrastructure — security-adjacent but not a GRC/compliance or DevOps/infra role"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 15000000,
+      "source_url": "https://www.prnewswire.com/news-releases/yc-f25-startup-multifactor-raises-15m-seed-round-to-make-online-accounts-safe-for-ai-agents-302633496.html"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Job posting explicitly references 'AWS console' access as a primary use case for AI agent authentication; company built around cloud account security",
+    "contacts": [
+      {
+        "name": "Vivek Nair",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/nair/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/multifactor"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "6-person YC F25 security startup with $15M seed — strongest funded company in this batch. Sells zero-trust auth for AI agents to enterprises; AWS console access is a named use case. No SOC 2 detected despite being a security vendor, which is a credibility gap they will feel acutely in enterprise sales. Former CIA/NASA founders will understand compliance importance. Lead with: 'Enterprise CISOs buying security tools expect their vendors to be SOC 2 certified first — your own attestation is table stakes for selling into the accounts you are targeting.'"
+  }
+]

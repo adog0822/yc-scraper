@@ -1,0 +1,368 @@
+[
+  {
+    "slug": "abundant",
+    "name": "Abundant",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on website (abundant.ai); footer has a generic 'Security' link with no details",
+        "source_url": "https://www.abundant.ai/"
+      },
+      {
+        "signal": "No trust center, security page, or certification badges found in public search results",
+        "source_url": "https://www.ycombinator.com/companies/abundant"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Member of Technical Staff, Platform Engineering (SF) - infra-adjacent role",
+      "Hiring: Member of Technical Staff, Research/RL (SF/Remote)",
+      "Hiring: Chief of Staff, Strategic Project Lead, Research PM - no dedicated security/GRC role listed",
+      "Founder Ke Huang led compliance engineering at Brex - compliance awareness in founding team",
+      "Founder Meji Abidoye architected EC2 instance provisioning at AWS - cloud infra expertise"
+    ],
+    "funding": {
+      "stage": "Pre-Seed/Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/abundant-04c5"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founder Meji Abidoye architected EC2 instance provisioning at AWS; company serves top AI labs and Fortune 500 enterprises with RL data pipelines - AWS-scale infrastructure expected",
+    "contacts": [
+      {
+        "name": "Jesse Hu",
+        "role": "Co-Founder (ex-Waymo ML Engineer)",
+        "linkedin": "https://linkedin.com/in/jessehu",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/abundant"
+      },
+      {
+        "name": "Meji Abidoye",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/meji-abidoye/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/abundant"
+      },
+      {
+        "name": "Ke Huang",
+        "role": "Co-Founder (ex-Brex Compliance Engineering Lead)",
+        "linkedin": "https://www.linkedin.com/in/ke-huang-07611058",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/abundant"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Abundant powers top AI labs and Fortune 500 enterprises with RL training data, making enterprise security requirements likely imminent. No SOC 2 found publicly. Founder Ke Huang led compliance engineering at Brex - she understands the value proposition. Platform Engineering hiring suggests infra investment. Pitch angle: 'You're serving F500 enterprises; SOC 2 Type I in 60 days unlocks procurement gates and validates your security posture before you get asked for it.'"
+  },
+  {
+    "slug": "dexter",
+    "name": "Dexter",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Dexter has a published Trust Center at trust.getdexter.co with security controls tab, but 'No documents yet' in the documents tab - strongly signals SOC 2 prep in progress, not yet certified",
+        "source_url": "https://trust.getdexter.co/"
+      },
+      {
+        "signal": "Trust Center shows 'oneleetEssentials_v1' framework controls - a lightweight SOC 2 readiness framework, not a full audit",
+        "source_url": "https://trust.getdexter.co/?tab=securityControls&frameworks=oneleetEssentials_v1"
+      },
+      {
+        "signal": "Published Vulnerability Disclosure Policy indicates active security program",
+        "source_url": "https://docs.getdexter.co/vulnerability_disclosure_policy/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding Engineer (Berlin) - full-stack, likely infra-involved",
+      "Hiring: GTM & Growth Marketing Intern, Founders' Associate Intern",
+      "No dedicated security, DevOps, or GRC role posted",
+      "Sells to 'complex enterprises' in procurement - regulated buyers who will demand SOC 2"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/dexter/__9BItit9_jsSlzQDB4ZPvH6WmM9UpBNeLR8yFrB9ensM/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit AWS mention found in public sources; Berlin-based team, cloud provider unconfirmed",
+    "contacts": [
+      {
+        "name": "Bella Wu",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/bellacwu/",
+        "twitter": null,
+        "email": null,
+        "source": "https://rocketreach.co/bella-wu-email_4117118"
+      },
+      {
+        "name": "Vincent Garrigues-Geithner",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/posts/garriguv_ive-been-working-with-bella-wu-and-caterina-activity-7241784574907682816-3tr2",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/company/getdexter"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Dexter has a live trust center with 'No documents yet' - textbook SOC 2 prep stage, not yet certified. They sell spend intelligence to complex enterprises (procurement teams) who regularly require vendor SOC 2 before signing. Strong ICP fit. Pitch: 'Your trust center is live but empty - enterprise procurement buyers will block deals without the audit report. We can get you to SOC 2 Type I in 60 days before your next enterprise close.'"
+  },
+  {
+    "slug": "origami-2",
+    "name": "Origami",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Origami has a dedicated Trust & Security page claiming encryption in transit/at rest and strict access controls, but no SOC 2 certification mentioned",
+        "source_url": "https://origami.chat/trust"
+      },
+      {
+        "signal": "Separate Trust Center exists via Delve (trust.delve.co/origami) suggesting active compliance program setup",
+        "source_url": "https://trust.delve.co/origami"
+      },
+      {
+        "signal": "Uses Delve compliance platform - a SOC 2 automation tool, indicating they are actively pursuing SOC 2 but not yet certified",
+        "source_url": "https://origami.chat/trust"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding GTM (SF) - sales-focused, no security/infra role",
+      "Sells to B2B sales teams including enterprise sales orgs who require vendor security",
+      "Raised $2M seed - has budget to invest in compliance"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2000000,
+      "source_url": "https://venturebeat.com/ai/y-combinators-hottest-startup-origami-agents-secures-2m-seed-round-to-supercharge-sales-teams-with-ai"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "RocketReach technology stack listing shows React + AWS + Stripe as core stack",
+    "contacts": [
+      {
+        "name": "Finn Mallery",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/~finn/",
+        "twitter": "https://x.com/fin465",
+        "email": null,
+        "source": "https://venturebeat.com/ai/y-combinators-hottest-startup-origami-agents-secures-2m-seed-round-to-supercharge-sales-teams-with-ai"
+      },
+      {
+        "name": "Kenson Chung",
+        "role": "Co-Founder & President",
+        "linkedin": "https://www.linkedin.com/in/~kenson/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/origami-2"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Origami is actively using Delve (a SOC 2 automation tool) and has a trust page but no certification. With $2M raised and selling to enterprise sales orgs, SOC 2 is the next milestone. AWS-native stack confirmed. Pitch: 'You're using Delve for readiness - we can run the actual Type I attestation in parallel so you can close enterprise deals that are blocked on compliance.'"
+  },
+  {
+    "slug": "capy",
+    "name": "Capy",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Capy explicitly announced SOC 2 Type II certification on their blog",
+        "source_url": "https://capy.ai/blog/capy-achieves-soc-2-type-ii"
+      },
+      {
+        "signal": "Dedicated /security page confirms SOC 2 Type II, TLS 1.3, AES-256, VPC-isolated infrastructure on AWS",
+        "source_url": "https://capy.ai/security"
+      }
+    ],
+    "hiring_signals": [
+      "No security or compliance hiring signals found",
+      "SOC 2 Type II already achieved - compliance need is met"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/capy"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Security page explicitly states 'VPC-isolated infrastructure on AWS with SOC 2 certified data centers'",
+    "contacts": [],
+    "fit_score": 10,
+    "pitch_note": "DISQUALIFIED - Capy has SOC 2 Type II certification already. They are AWS-native and have completed the full audit cycle. Not a prospect."
+  },
+  {
+    "slug": "alex",
+    "name": "Alex",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or compliance certifications found on alexcodes.app; site emphasizes local data privacy ('code never relayed through servers') rather than formal compliance",
+        "source_url": "https://www.alexcodes.app/"
+      },
+      {
+        "signal": "Company has been acquired by OpenAI (team joined OpenAI Codex division, Sept 2025); downloads halted Oct 1 2025",
+        "source_url": "https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/"
+      }
+    ],
+    "hiring_signals": [
+      "Company is no longer an independent startup - team joined OpenAI in September 2025",
+      "Not a viable prospect"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC F24) - acquired by OpenAI Sept 2025",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/alex-39e4"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS evidence found; product relied on local Xcode integration with OpenAI-compatible endpoints",
+    "contacts": [
+      {
+        "name": "Daniel Edrisian",
+        "role": "Founder & CEO (now at OpenAI)",
+        "linkedin": "https://www.linkedin.com/in/daniel-edrisian/",
+        "twitter": "https://x.com/danieledrisian",
+        "email": null,
+        "source": "https://techcrunch.com/2025/09/05/openai-hires-the-team-behind-xcode-coding-assistant-alex-codes/"
+      }
+    ],
+    "fit_score": 5,
+    "pitch_note": "DISQUALIFIED - Alex no longer exists as an independent company. The team joined OpenAI's Codex division in September 2025 and downloads were halted. No prospect opportunity."
+  },
+  {
+    "slug": "kilvin",
+    "name": "Kilvin",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Kilvin website explicitly lists 'SOC 2 Type II' under compliance alongside HIPAA, describing it as 'Enterprise-grade security standards' - signals they claim compliance or are pursuing it, but no public audit report or certificate date found",
+        "source_url": "https://www.kilvin.ai/"
+      },
+      {
+        "signal": "No public SOC 2 certification announcement, press release, or audit completion date found in search results - likely in-progress or recently achieved without announcement",
+        "source_url": "https://www.kilvin.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Senior Platform Engineer (NY/Denver/Philadelphia/Remote) - infrastructure role, strong signal of infra investment",
+      "No dedicated security or GRC role listed",
+      "Claims HIPAA compliance alongside SOC 2 - regulated buyer focus (healthcare, enterprise)"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/kilvin"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS-specific evidence found in public sources; cloud provider unconfirmed",
+    "contacts": [
+      {
+        "name": "Chris Schlaepfer",
+        "role": "CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.kilvin.ai/"
+      },
+      {
+        "name": "Jorrie Brettin",
+        "role": "CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.kilvin.ai/"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Kilvin claims SOC 2 Type II on their site but no public certification evidence found - possibly self-attested or in-progress. They serve non-technical enterprise teams and claim HIPAA, indicating regulated buyer exposure. Senior Platform Engineer hire signals infra maturity investment. If SOC 2 is genuinely in-progress, they need an auditor. Pitch: 'You're claiming SOC 2 Type II on your site - let us run the actual audit so your claim is backed by a certified attestation your enterprise buyers can rely on.'"
+  },
+  {
+    "slug": "ryvn",
+    "name": "Ryvn",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Ryvn's own homepage uses the phrase 'SOC2 isn't enough. Can you deploy to our cloud?' as a customer objection they solve - implies their customers already have SOC 2 but need more; Ryvn itself has no SOC 2 page or trust center",
+        "source_url": "https://ryvn.ai/"
+      },
+      {
+        "signal": "No SOC 2 certification, trust center, or compliance page found for Ryvn in any search results",
+        "source_url": "https://ryvn.ai/docs/support/faq"
+      },
+      {
+        "signal": "Markets to healthcare, finance, and Fortune 100 - these regulated buyers will require vendor SOC 2",
+        "source_url": "https://ryvn.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding Software Engineer (NYC) - infra/engineering role",
+      "Both founders ex-Palantir (Shardool: deployment infra; Albert: security products at Capital One)",
+      "Zero Trust Security, enterprise SLAs, strict data residency - strong security culture",
+      "No dedicated GRC or compliance role, but founders have infra/security DNA"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startup-seeker.com/company/ryvn~ai"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Homepage explicitly states 'Two-click install on AWS, GCP, Azure, or on-prem'; AWS is lead cloud platform supported; founders from Palantir and Capital One with deep AWS deployment experience",
+    "contacts": [
+      {
+        "name": "Albert Lam",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/simplyalam",
+        "twitter": "https://x.com/albertlam_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ryvn"
+      },
+      {
+        "name": "Shardool Patel",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/sp97/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ryvn"
+      }
+    ],
+    "fit_score": 83,
+    "pitch_note": "Ryvn is a strong lead. They explicitly target healthcare, finance, and Fortune 100 enterprises with a platform that handles customer cloud deployments - these buyers will demand SOC 2 from Ryvn itself. Zero Trust messaging shows security awareness but no compliance attestation exists. AWS-native with multi-cloud support. Ex-Palantir founders understand enterprise security requirements. Pitch: 'You sell to healthcare and finance enterprises who require SOC 2 from their vendors. You have the security posture - let us formally attest it so you can say yes to every enterprise security questionnaire.'"
+  },
+  {
+    "slug": "canvas",
+    "name": "Canvas",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust center, or compliance mention found on canvas.inc or in any public search results",
+        "source_url": "https://www.canvas.inc/"
+      },
+      {
+        "signal": "Contact only via founders@canvas.inc; very early stage (3 employees), compliance infrastructure not yet established",
+        "source_url": "https://www.canvas.inc/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding Software Engineer (SF) - general engineering, not security",
+      "Hiring: Growth Sales & Ops (SF/Remote)",
+      "Founder Essam Sleiman built ML infrastructure at AWS (AWS IVS internship, production system)",
+      "No dedicated security, DevOps, or GRC role"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://pitchbook.com/profiles/company/820084-78"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founder Essam Sleiman built production ML infrastructure for AWS IVS at AWS; background strongly suggests AWS preference",
+    "contacts": [
+      {
+        "name": "Essam Sleiman",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/essam-sleiman-4253b1128/",
+        "twitter": null,
+        "email": "essam@canvas.inc",
+        "source": "https://essamsleiman.com/"
+      }
+    ],
+    "fit_score": 50,
+    "pitch_note": "Canvas is very early (3 people, just out of stealth) with no compliance infrastructure. Founder has AWS background and builds continual-learning infrastructure for enterprise AI agents - enterprise buyers will eventually require SOC 2. Too early for immediate close, but worth a warm outreach now to plant the seed. Pitch: 'As you scale agents into enterprise accounts, SOC 2 will be the first gate. Start the Type I process now while your codebase is small - it's 10x harder to do at 50 engineers.'"
+  }
+]

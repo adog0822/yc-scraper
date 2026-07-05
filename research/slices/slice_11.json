@@ -1,0 +1,151 @@
+[
+ {
+  "slug": "freeport-markets",
+  "name": "Freeport Markets",
+  "website": "https://www.freeportmarkets.com/",
+  "one_liner": "Trade like a hedge fund. ",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Fintech",
+   "Crypto / Web3",
+   "Investing",
+   "Consumer Finance",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "lunabill",
+  "name": "LunaBill",
+  "website": "https://lunabill.com/",
+  "one_liner": "AI Voice callers for healthcare billing teams",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Generative AI",
+   "Health Tech",
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "avallon-ai",
+  "name": "Avallon AI",
+  "website": "https://www.avallon.ai/",
+  "one_liner": "AI agents for insurance claims operations",
+  "team_size": 7,
+  "batch": "Spring 2025",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "acolite",
+  "name": "Acolite",
+  "website": "https://acolite.ai",
+  "one_liner": "AI Native Commercial Insurance Broker",
+  "team_size": 3,
+  "batch": "Spring 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Insurance",
+   "Operations"
+  ],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "novoflow",
+  "name": "Novoflow",
+  "website": "https://www.novoflow.io/",
+  "one_liner": "AI employees that automate medical operations for clinics. ",
+  "team_size": 6,
+  "batch": "Spring 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare Services"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "scalar-field",
+  "name": "Scalar Field",
+  "website": "https://www.scalarfield.io/",
+  "one_liner": "Your Agentic Trading Desk \u2014 Building the next era of agentic\u2026",
+  "team_size": 3,
+  "batch": "Spring 2025",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "adentris",
+  "name": "Adentris",
+  "website": "https://www.adentris.com",
+  "one_liner": "Real-time AI Compliance for Medical Documentation",
+  "team_size": 4,
+  "batch": "Spring 2025",
+  "tags": [
+   "Health Tech",
+   "B2B",
+   "Compliance",
+   "Enterprise Software",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "clara-2",
+  "name": "Clara",
+  "website": "http://askclara.com",
+  "one_liner": "AI primary care doctor",
+  "team_size": 9,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ }
+]

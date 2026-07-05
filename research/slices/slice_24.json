@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "vocality-health",
+  "name": "Vocality Health",
+  "website": "https://www.vocalityhealth.com",
+  "one_liner": "Voice AI for medical language translation",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Healthcare",
+   "Health & Wellness"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare Services"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "10x",
+  "name": "10x",
+  "website": "https://www.10xdental.com/",
+  "one_liner": "AI Sales Teams for Dental Practices",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "harbera",
+  "name": "Harbera",
+  "website": "https://harbera.com/",
+  "one_liner": "AI Healthcare Provider Credentialing Software",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "Healthcare",
+   "Healthcare IT",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "candor-security",
+  "name": "Candor",
+  "website": "https://candor.security/",
+  "one_liner": "Protect your data and stop insider risk",
+  "team_size": 3,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "waypoint-transit",
+  "name": "Waypoint Transit",
+  "website": "https://waypointtransit.com",
+  "one_liner": "We automate urban planning so cities can build cheaper and faster.",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "mesh-2",
+  "name": "Mesh",
+  "website": "http://www.usemesh.com",
+  "one_liner": "Eliminating accrual spreadsheets for faster month-end",
+  "team_size": 3,
+  "batch": "Winter 2025",
+  "tags": [
+   "FinOps",
+   "Fintech",
+   "Finance",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Finance and Accounting"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "copycat",
+  "name": "CopyCat",
+  "website": "https://runcopycat.com",
+  "one_liner": "AI agents built for insurance. ",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Logistics",
+   "Healthcare",
+   "Operations"
+  ],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "Seattle, WA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "overdrive-health",
+  "name": "Overdrive Health",
+  "website": "https://overdrive.health",
+  "one_liner": "AI-Native Medical Billing Services",
+  "team_size": 1,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare Services"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 45
+ }
+]

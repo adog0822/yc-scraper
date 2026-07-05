@@ -1,0 +1,133 @@
+[
+ {
+  "slug": "aegis",
+  "name": "Aegis",
+  "website": "https://aegishealth.us/",
+  "one_liner": "AI Agents to win denied health insurance claims.",
+  "team_size": 3,
+  "batch": "Spring 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "finaldose",
+  "name": "FinalDose",
+  "website": "https://finaldose.ai/",
+  "one_liner": "Programmable DNA drug destroying all cancers, unlocking 80% of targets",
+  "team_size": 5,
+  "batch": "Spring 2026",
+  "tags": [
+   "Artificial Intelligence",
+   "Gene Therapy",
+   "Therapeutics",
+   "Genetic Engineering"
+  ],
+  "industries": [
+   "Healthcare",
+   "Therapeutics"
+  ],
+  "is_hiring": false,
+  "locations": "London, United Kingdom",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "klarify",
+  "name": "Klarify",
+  "website": "https://www.klarify.ca/",
+  "one_liner": "AI Agent for Therapists",
+  "team_size": 4,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "zolvo",
+  "name": "Zolvo",
+  "website": "https://zolvo.com/",
+  "one_liner": "AI Back-Office Automation for Commercial Lenders",
+  "team_size": 3,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Credit and Lending"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "hevn-inc",
+  "name": "HEVN, inc",
+  "website": "https://gethevn.com",
+  "one_liner": "Agentic payroll",
+  "team_size": 4,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "kelai",
+  "name": "KelAI",
+  "website": "https://kelaitech.com/",
+  "one_liner": "The AI Quant: Autonomous Alpha Engine for Funds and Traders.",
+  "team_size": 3,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": false,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "kimpton-ai",
+  "name": "Kimpton AI",
+  "website": "https://kimpton.ai",
+  "one_liner": "The IDE for Investors",
+  "team_size": 5,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "voquill",
+  "name": "Voquill",
+  "website": "https://voquill.com/",
+  "one_liner": "The agentic OS for medical labs",
+  "team_size": 3,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ }
+]

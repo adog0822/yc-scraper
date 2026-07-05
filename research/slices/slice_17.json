@@ -1,0 +1,153 @@
+[
+ {
+  "slug": "trueclaim",
+  "name": "TrueClaim",
+  "website": "https://www.trytrueclaim.com",
+  "one_liner": "Transparent, AI-powered healthcare TPA.",
+  "team_size": 10,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "healia",
+  "name": "Healia",
+  "website": "https://www.healiahealth.com/",
+  "one_liner": "Modern health insurance for dual income families",
+  "team_size": 15,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "Columbus, OH, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "granza-bio",
+  "name": "Granza Bio",
+  "website": "https://www.granzabio.com/",
+  "one_liner": "Building programmable therapeutics for the immune system",
+  "team_size": 7,
+  "batch": "Winter 2024",
+  "tags": [
+   "Synthetic Biology",
+   "Biotech",
+   "Healthcare",
+   "Therapeutics",
+   "Oncology"
+  ],
+  "industries": [
+   "Healthcare",
+   "Therapeutics"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "karoo",
+  "name": "Karoo",
+  "website": "https://www.karoo.ca",
+  "one_liner": "AI native consumer lending platform for underserved Americans",
+  "team_size": 3,
+  "batch": "Winter 2025",
+  "tags": [
+   "Fintech",
+   "Consumer",
+   "Neobank"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "Toronto, ON, Canada",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "rally-3",
+  "name": "Rally",
+  "website": "https://www.getrally.com/",
+  "one_liner": "Financial OS for Modern Fleets",
+  "team_size": 5,
+  "batch": "Winter 2025",
+  "tags": [
+   "Fintech",
+   "Logistics",
+   "Transportation",
+   "AI"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "Berlin, Berlin, Germany",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "cardamon",
+  "name": "Cardamon",
+  "website": "https://cardamon.ai/",
+  "one_liner": "AI compliance co-pilot for regulated financial businesses",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "Compliance",
+   "Regtech"
+  ],
+  "industries": [
+   "B2B",
+   "Finance and Accounting"
+  ],
+  "is_hiring": false,
+  "locations": "London, United Kingdom",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "healthkey",
+  "name": "HealthKey",
+  "website": "https://gethealthkey.com/",
+  "one_liner": "AI-powered Patient Identification for Clinical Trials",
+  "team_size": 10,
+  "batch": "Winter 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "Austin, TX, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "mecha-health",
+  "name": "Mecha Health",
+  "website": "https://www.mecha-health.ai/",
+  "one_liner": "Foundation models to automate x-ray analysis for radiologists",
+  "team_size": 4,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Machine Learning",
+   "Computer Vision",
+   "Health Tech",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ }
+]

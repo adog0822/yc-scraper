@@ -1,0 +1,76 @@
+{
+  "slug": "control-logics",
+  "name": "Control Logics",
+  "website": "https://control-logics.com",
+  "hq": "Tampa, FL",
+  "founded": "2008",
+  "team_size_estimate": "Small boutique; headcount not published. Flat, no-management-layers structure; every consultant has 15+ years of audit experience. Likely well under 40 people, but no LinkedIn headcount could be verified.",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Listed on Secureframe's 'Trusted SOC 2 Audit Firms' hub (described there as having performed security assessments for 200+ companies since 2008 with personalized service) — Secureframe's audience is largely startups.",
+      "source_url": "https://secureframe.com/hub/soc-2/audit-firms"
+    },
+    {
+      "signal": "COUNTER-SIGNAL: the firm's own site markets SOX compliance, Model Audit Rule, ISO, GDPR/CCPA to multi-national and public companies; showcased clients are MarineMax, TradeStation, Primo Water, Cryo-Cell, Heska — not startups. No startup/SaaS/YC-specific marketing found.",
+      "source_url": "https://control-logics.com/"
+    },
+    {
+      "signal": "SOC readiness page targets service organizations 'new to the process' generally (gap analysis, remediation roadmap, fixed-fee pricing, Director-level involvement), not startups specifically.",
+      "source_url": "https://control-logics.com/soc-readiness/"
+    }
+  ],
+  "grc_partnerships": [
+    "Secureframe (listed firm on Secureframe's SOC 2 audit firms hub)"
+  ],
+  "aws_cloud_expertise": null,
+  "services": [
+    "SOC readiness assessment (gap analysis, remediation recommendations, pre-audit prep)",
+    "SOX compliance",
+    "Model Audit Rule (MAR) implementation",
+    "ISO 27001 certification support",
+    "GDPR / CCPA privacy compliance",
+    "NOTE: SOC attestation/CPA audit practice was sold to CyberGuard Advantage in August 2024 — Control Logics no longer issues SOC 2 reports itself"
+  ],
+  "contacts": [
+    {
+      "name": "Homan Lajevardi",
+      "role": "Co-founder & Director (ex-Protiviti; MBA, USF)",
+      "linkedin": "https://www.linkedin.com/in/homanlajevardi/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://control-logics.com/about-control-logics/"
+    },
+    {
+      "name": "Dena Dahlquist",
+      "role": "Director (CIA, CFE; 25+ yrs audit/risk)",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://control-logics.com/about-control-logics/"
+    },
+    {
+      "name": "Control Logics (firm)",
+      "role": "General inquiries",
+      "linkedin": null,
+      "twitter": null,
+      "email": "info@control-logics.com",
+      "phone": "(866) 955-6442",
+      "source": "https://control-logics.com/"
+    }
+  ],
+  "fit_score": 42,
+  "partnership_angle": "Referral partner with caveats — NOT an auditor-validation partner. CyberGuard Advantage bought Control Logics' CPA/SOC attestation practice in Aug 2024 (accesswire/Yahoo Finance, confirmed by Homan Lajevardi quote), so the firm can no longer sign SOC 2 reports and cannot run the core 'auditor validates, then recommends to pre-audit clients' motion. Its remaining readiness-consulting business partially overlaps with LoxeAI's scan (gap analysis is their billable work). Realistic angles: (a) sandbox tester whose CISA-credentialed consultants use LoxeAI to accelerate their fixed-fee readiness engagements (scan does evidence collection, they do interpretation/remediation), or (b) a door into CyberGuard Advantage, the actual audit shop that absorbed their SOC clients. Score reflects founder-led boutique (+30), Secureframe ecosystem presence (+15), direct founder contact (+10), minus no startup specialization, no AWS signals, 2008 vintage, and the structural mismatch of no longer being an audit firm.",
+  "pitch_note": "Homan — since the SOC attestation practice moved to CyberGuard Advantage, your readiness engagements live or die on how fast gap analysis gets done. LoxeAI is an AWS-native SOC 2 readiness scanner: run it against a sandbox (or your own environment) on a 30-minute call and see whether it matches what your directors find manually. If it holds up, use it as the first pass on fixed-fee readiness work — clients show up 80% ready, your team keeps the high-value remediation and Director-level advisory, and we'd credit Control Logics on every referred scan.",
+  "source_urls": [
+    "https://control-logics.com/",
+    "https://control-logics.com/about-control-logics/",
+    "https://control-logics.com/soc-readiness/",
+    "https://secureframe.com/hub/soc-2/audit-firms",
+    "https://finance.yahoo.com/news/cyberguard-advantage-purchases-control-logics-140000268.html",
+    "https://www.accesswire.com/905631/cyberguard-advantage-purchases-control-logics-cpa-practice",
+    "https://www.linkedin.com/in/homanlajevardi/"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "leadflix",
+	"compatibility_date": "2026-07-01",
+	"assets": {
+		"directory": "./crm",
+		"not_found_handling": "single-page-application"
+	},
+	"routes": [
+		{ "pattern": "leads.loxeai.com", "custom_domain": true }
+	]
+}

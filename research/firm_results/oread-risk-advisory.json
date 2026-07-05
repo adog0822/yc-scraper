@@ -1,0 +1,84 @@
+{
+  "slug": "oread-risk-advisory",
+  "name": "Oread Risk & Advisory",
+  "website": "https://oreadrisk.com/",
+  "hq": "Olathe, KS (Kansas City metro)",
+  "founded": "2014-2015 (KS LLC incorporated 2015-07-15 per OpenCorporates; CB Insights lists 2014) — ~11 years old",
+  "team_size_estimate": "<25 employees (ZoomInfo: fewer than 25 total, ~7 at Olathe HQ; 2 principals + 1 director named on site)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Featured in soc2auditors.org 'SOC 2 Auditors for Startups' roundup with startup-range fixed pricing (Type 1 $12K-$28K, Type 2 $20K-$50K, 3-8 week timeline), but the roundup itself notes 'Oread isn't explicitly marketed as startup-specialist'",
+      "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+      "signal": "SOC reporting page sells readiness engagements ('a preliminary assessment... to successfully prepare for, and achieve, an unqualified opinion') — the exact pre-audit stage LoxeAI targets — but aimed at generic 'service organizations', with zero mention of startups, SaaS, or YC on their own site",
+      "source_url": "https://oreadrisk.com/soc-reporting/"
+    },
+    {
+      "signal": "Tentacle partnership (April 2023) pitches simplified SOC 2 for 'organizations of all sizes', signaling willingness to serve smaller clients",
+      "source_url": "https://cioinfluence.com/itechnology-series-news/tentacle-and-oread-announce-partnership-to-simplify-soc-2-compliance-for-organizations-of-all-sizes/"
+    }
+  ],
+  "grc_partnerships": [
+    "Tentacle (formal partnership April 2023; niche infosec-management platform, NOT in the Vanta/Drata/Secureframe/Thoropass/Oneleet ecosystems — a web check of the soc2auditors.org roundup confirms 'no specific GRC platform partnerships (Vanta, Drata, Secureframe) are mentioned')"
+  ],
+  "aws_cloud_expertise": null,
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 reporting, audits, and readiness assessments",
+    "ALTA Best Practice certifications (title/settlement industry)",
+    "HIPAA assessments",
+    "PCI consulting",
+    "HITRUST",
+    "ISO 27001/27002 consulting",
+    "IT security and risk assessments",
+    "Network vulnerability assessment and penetration testing",
+    "Third-party vendor due diligence",
+    "Privacy regulation compliance (GDPR/CCPA)"
+  ],
+  "contacts": [
+    {
+      "name": "Raja Paranjothi, CISA",
+      "role": "Founder & Principal (18 yrs IT security/risk; ex-CBIZ, Mayer Hoffman McCann, EY, Deloitte; quoted lead in Tentacle partnership)",
+      "linkedin": "https://www.linkedin.com/in/rajaparanjothi",
+      "twitter": null,
+      "email": null,
+      "phone": "(913) 707-8019 (firm main line)",
+      "source": "https://oreadrisk.com/about-us/"
+    },
+    {
+      "name": "Jason Goethe, CPA",
+      "role": "Principal (accounting side; founded Encompass Accounting Solutions LLC)",
+      "linkedin": "https://www.linkedin.com/in/jason-goethe-1056485",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://oreadrisk.com/about-us/"
+    },
+    {
+      "name": "Mihir Acharya",
+      "role": "Director (SOC 2 reports, IT audit/governance; ex-Protiviti, EY/Deloitte consultant roles)",
+      "linkedin": "https://www.linkedin.com/in/acharyamihir",
+      "twitter": null,
+      "email": "info@oreadrisk.com (firm inbox)",
+      "phone": "(913) 707-8019",
+      "source": "https://oreadrisk.com/about-us/"
+    }
+  ],
+  "fit_score": 53,
+  "partnership_angle": "Referral partner / sandbox tester (second tier). Scoring: +30 small (<25) and founder-led; +8 partial startup credit (startup-priced readiness engagements per third-party roundups, but their own site never mentions startups and leans ALTA/title-insurance, HIPAA, PCI generalist); +5 partial GRC credit (Tentacle co-marketing shows the principals will partner with compliance software, but no Vanta/Drata/Secureframe/Thoropass presence); +0 AWS (no cloud signals anywhere); +10 direct founder contact (Raja's LinkedIn plus public firm phone/email); +0 age (founded 2014-15, outside the 8-year window). The Tentacle precedent is the real hook: they have already run exactly the co-marketing motion LoxeAI wants, so pitch a like-for-like referral arrangement where a validated scan shortens their $12K-$28K Type 1 readiness engagements. Do not assume AWS fluency — lead with a guided sandbox demo.",
+  "pitch_note": "Hi Raja — I saw Oread's Tentacle partnership, so you clearly believe SOC 2 goes smoother when evidence is organized before the engagement starts. We built LoxeAI, an AWS-native SOC 2 readiness scanner for lean startups; I'd love 30 minutes to have you run it against a sandbox AWS account and tear the findings apart from an auditor's perspective. If it holds up, the motion mirrors your Tentacle play: when a pre-audit startup isn't ready, you tell them 'run this scan first — it gets you about 80% of the way,' and they arrive at your Type 1 clean, faster, and cheaper to serve.",
+  "source_urls": [
+    "https://oreadrisk.com/",
+    "https://oreadrisk.com/about-us/",
+    "https://oreadrisk.com/soc-reporting/",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://cioinfluence.com/itechnology-series-news/tentacle-and-oread-announce-partnership-to-simplify-soc-2-compliance-for-organizations-of-all-sizes/",
+    "https://www.zoominfo.com/c/oread-risk/372992322",
+    "https://opencorporates.com/companies/us_ks/8016446",
+    "https://www.cbinsights.com/company/oread-risk-advisory",
+    "https://www.brightdefense.com/resources/soc-2-audit-firms/",
+    "https://www.linkedin.com/in/rajaparanjothi/",
+    "https://www.linkedin.com/company/oread-risk-advisory"
+  ]
+}

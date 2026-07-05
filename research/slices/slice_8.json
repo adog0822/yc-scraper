@@ -1,0 +1,171 @@
+[
+ {
+  "slug": "ralo",
+  "name": "Ralo",
+  "website": "https://www.ralo.com/",
+  "one_liner": "AI-Native Mortgage Broker",
+  "team_size": 2,
+  "batch": "Spring 2025",
+  "tags": [
+   "Fintech",
+   "Consumer Finance",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "eloquent-ai",
+  "name": "Eloquent AI",
+  "website": "https://www.eloquentai.co/",
+  "one_liner": "The AI Operator for Financial Services",
+  "team_size": 5,
+  "batch": "Spring 2025",
+  "tags": [
+   "Fintech",
+   "B2B",
+   "Enterprise",
+   "AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "cotool",
+  "name": "Cotool",
+  "website": "https://cotool.ai",
+  "one_liner": "AI Agents for Security Operations Teams",
+  "team_size": 4,
+  "batch": "Spring 2025",
+  "tags": [
+   "SaaS",
+   "Compliance",
+   "Security",
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "uno-wallet",
+  "name": "Uno Wallet",
+  "website": "https://myunowallet.com/",
+  "one_liner": "The AI mobile wallet that replaces Apple Pay",
+  "team_size": 2,
+  "batch": "Spring 2026",
+  "tags": [
+   "Fintech",
+   "Payments",
+   "Consumer",
+   "Infrastructure",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "saphira-ai",
+  "name": "Saphira AI",
+  "website": "https://saphira.ai",
+  "one_liner": "The Enablement Layer for Physical AI",
+  "team_size": 8,
+  "batch": "Summer 2024",
+  "tags": [
+   "Hardware",
+   "Robotics",
+   "Compliance",
+   "Enterprise",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "unbound",
+  "name": "Unbound",
+  "website": "https://getunbound.ai/",
+  "one_liner": "Use AI tools without fear of data leakage",
+  "team_size": 7,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Privacy",
+   "Cybersecurity",
+   "Data Labeling"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "clearly-ai",
+  "name": "Clearly AI",
+  "website": "https://clearly-ai.com",
+  "one_liner": "Automate security and privacy reviews",
+  "team_size": 12,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Generative AI",
+   "Security",
+   "Privacy",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": true,
+  "locations": "Seattle, WA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "rentflow",
+  "name": "RentFlow",
+  "website": "https://www.therentflow.com",
+  "one_liner": "The AI infrastructure for cash-flow-aligned business rent",
+  "team_size": 3,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "Generative AI",
+   "SaaS",
+   "Payments",
+   "Proptech"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 55
+ }
+]

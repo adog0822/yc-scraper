@@ -1,0 +1,389 @@
+[
+  {
+    "slug": "tradeflow",
+    "name": "TradeFlow",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention on website; site claims 'maximum data security' with no certification, no trust/security page",
+        "source_url": "https://www.tradeflowai.com/"
+      },
+      {
+        "signal": "Sells AI trade-settlement software to financial firms' back offices (Goldman-alum founder), a buyer segment that requires SOC 2 in vendor reviews",
+        "source_url": "https://www.ycombinator.com/companies/tradeflow"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/tradeflow"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Taryn Reardon",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/taryn-reardon/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/tradeflow"
+      },
+      {
+        "name": "Liam Breen",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/liam-b-456081124/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/tradeflow"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Fintech settlement startup selling into institutional finance back offices with no SOC 2 badge anywhere -- they will hit vendor-security walls fast. Weak spots: only 2 people, not hiring, and no funding beyond the YC standard deal, so budget/urgency is unproven."
+  },
+  {
+    "slug": "elayne",
+    "name": "Elayne",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Third-party review profile reports 'bank-level encryption, SOC II certification, HIPAA compliance, MFA' -- suggests SOC 2 already obtained or claimed",
+        "source_url": "https://bilarna.com/provider/elayne"
+      },
+      {
+        "signal": "Elayne's own homepage claims only 'bank-level security' with encryption; no SOC 2 badge or trust page, and elayne.com/security returns 404",
+        "source_url": "https://www.elayne.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Senior Software Engineer ($170K-$230K)",
+      "Former Founder role ($140K-$250K)",
+      "Customer Operations Lead",
+      "Visual Designer"
+    ],
+    "funding": {
+      "stage": "seed (Accel-backed)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://pitchbook.com/profiles/company/606845-53"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Adria Ferrier",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/adria-ferrier-8b242836/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/elayne"
+      },
+      {
+        "name": "Rebecca Lee",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/rebeccablee1",
+        "twitter": "https://twitter.com/beccablee",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/elayne"
+      },
+      {
+        "name": "Elayne (general)",
+        "role": "Company contact",
+        "linkedin": null,
+        "twitter": null,
+        "email": "hello@elayne.com",
+        "source": "https://www.elayne.com/"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Third-party profiles report Elayne already holds SOC II certification (unverified on their own site), which likely means the Type I work is done or well underway. Hiring and Accel-backed, so worth a light touch for Type II/renewal services, but not a fresh Type I prospect."
+  },
+  {
+    "slug": "usul",
+    "name": "Usul",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification or trust page found on usul.com; site says 'secure, trusted way to deploy AI' with no framework named",
+        "source_url": "https://usul.com/"
+      },
+      {
+        "signal": "Sells AI platform to defense contractors and government-facing teams -- buyers with heavy compliance expectations (SOC 2/CMMC/FedRAMP pressure)",
+        "source_url": "https://www.ycombinator.com/companies/usul"
+      }
+    ],
+    "hiring_signals": [
+      "Full Stack Engineer ($160K-$220K)",
+      "Deployment Strategist",
+      "Founding Account Executive",
+      "Chief of Staff",
+      "Head of Growth"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 3300000,
+      "source_url": "https://usul.com/news/3-3m-seed-fundraising-announcement"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Jarren Reid",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jarrenreid",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/usul"
+      },
+      {
+        "name": "Joonghyun Lee",
+        "role": "Co-Founder & CTO / Chief Engineer",
+        "linkedin": "https://www.linkedin.com/in/joonghyun-lee/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/usul"
+      },
+      {
+        "name": "Oliver Gomez",
+        "role": "Co-Founder & CPO",
+        "linkedin": "https://www.linkedin.com/in/oliveragomez/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/usul"
+      }
+    ],
+    "fit_score": 85,
+    "pitch_note": "15-person, $3.3M-seeded defense/gov AI platform with paying defense primes and zero public SOC 2 posture -- exactly the profile that gets forced into SOC 2 (and beyond) by contractor procurement. Actively hiring engineering and GTM, so security questionnaires are landing on their desk now."
+  },
+  {
+    "slug": "simcare",
+    "name": "SimCare",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, HIPAA, or FERPA mention on site or docs; no trust center found",
+        "source_url": "https://docs.simcare.ai/"
+      },
+      {
+        "signal": "Sells B2B to medical schools, social work programs, and behavioral-health training buyers -- institutional buyers that run vendor security reviews",
+        "source_url": "https://www.ycombinator.com/companies/simcare"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Operations Associate ($80K-$100K, NYC) -- no engineering/security roles open"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 2000000,
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/27/3033964/0/en/As-seasoned-doctors-exit-the-field-SimCare-AI-raises-2M-to-scale-clinical-training-with-AI-patients.html"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Vrishank Saini",
+        "role": "Co-Founder (CEO)",
+        "linkedin": "https://www.linkedin.com/in/vrishanksaini/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/simcare"
+      },
+      {
+        "name": "Tigran (Tiko) Bdoyan",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/tigran-bdoyan/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/simcare"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Seed-funded ($2M, Drive Capital) healthcare-training AI selling to med schools and health programs with no compliance posture published -- university and health-system procurement will demand SOC 2/HIPAA answers as they scale past $5M ARR targets. Slight ding: education buyers push less hard than payers, and no infra hiring signal."
+  },
+  {
+    "slug": "effigov",
+    "name": "EffiGov",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or compliance framework found on site or job posts",
+        "source_url": "https://www.ycombinator.com/companies/effigov/jobs/c37ANEq-founding-engineer"
+      },
+      {
+        "signal": "Sells AI call-taking to city/county governments (live in a 160K-resident county) -- gov procurement routinely requires SOC 2 and security attestations",
+        "source_url": "https://www.ycombinator.com/companies/effigov"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer ($100K-$200K, 0.60%-3.00% equity, SF) -- owns full stack including AWS ECS Fargate infra"
+    ],
+    "funding": {
+      "stage": "pre-seed / yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://prospeo.io/c/effigov-yc-s25-revenue"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Founding Engineer job posting lists deployment on AWS (ECS Fargate) alongside Python/FastAPI, Next.js, MongoDB, Docker, LiveKit, Twilio (https://www.ycombinator.com/companies/effigov/jobs/c37ANEq-founding-engineer)",
+    "contacts": [
+      {
+        "name": "Aubteen Pour-Biazar",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/aubteen-pour-biazar",
+        "twitter": "https://twitter.com/AubteenPB",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/effigov"
+      },
+      {
+        "name": "Aden Clemente",
+        "role": "Co-Founder (technical; ex-Atlassian Rovo)",
+        "linkedin": "https://www.linkedin.com/in/aden-clemente",
+        "twitter": "https://twitter.com/adencle",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/effigov"
+      }
+    ],
+    "fit_score": 88,
+    "pitch_note": "Best-fit lead in this slice: explicitly AWS-native (ECS Fargate in the founding-engineer JD), sells 24/7 AI phone lines to city governments handling resident PII, has zero published compliance posture, and is hiring its first engineer -- government RFPs will force a SOC 2 Type I almost immediately. Only caveat is pre-seed budget (~$500K)."
+  },
+  {
+    "slug": "twentytwo",
+    "name": "TwentyTwo",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 information found; company was acquired by LatchBio to form Latch Biosecurity, so it is no longer an independent buyer",
+        "source_url": "https://blog.latch.bio/p/latchbio-acquires-twentytwo-to-form"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "yc-only (acquired by LatchBio)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://blog.latch.bio/p/latchbio-acquires-twentytwo-to-form"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Evan Seeyave",
+        "role": "Co-Founder (ex-Google, SecureBio)",
+        "linkedin": "https://www.linkedin.com/in/evanseeyave",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/twentytwo"
+      },
+      {
+        "name": "Harmon Bhasin",
+        "role": "Co-Founder (now leading biosecurity at LatchBio)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://blog.latch.bio/p/latchbio-acquires-twentytwo-to-form"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Dead lead: TwentyTwo was acquired by LatchBio and folded into Latch Biosecurity, so there is no independent 3-person startup left to sell a SOC 2 engagement to. Any compliance buying decision now sits with LatchBio."
+  },
+  {
+    "slug": "perspectives-health",
+    "name": "Perspectives Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 badge, trust page, or compliance claim found on site or job posts",
+        "source_url": "https://www.ycombinator.com/companies/perspectives-health/jobs"
+      },
+      {
+        "signal": "Product writes clinical documentation and audits charts for behavioral health clinics -- handles PHI, so clinic and payer vendor reviews will demand SOC 2 + HIPAA",
+        "source_url": "https://www.ycombinator.com/companies/perspectives-health"
+      }
+    ],
+    "hiring_signals": [
+      "Senior Engineer ($140K-$250K, 0.75%-2.00% equity, Chicago)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 1600000,
+      "source_url": "https://insights.tryspecter.com/specter-monitor-234/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Eshan Dosani",
+        "role": "Co-Founder & CEO (ex-White House drug policy)",
+        "linkedin": "https://www.ycombinator.com/companies/perspectives-health",
+        "twitter": "https://twitter.com/EshanDosani",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/perspectives-health"
+      },
+      {
+        "name": "Kyle Jung",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/kyle-hyun-woo-jung/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/kyle-hyun-woo-jung/"
+      },
+      {
+        "name": "Nicholas Kovalsky",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/nicholaskovalsky/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/nicholaskovalsky/"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "PHI-touching AI for behavioral health clinics (chart audits, clinical documentation) with ~$1.6M raised, $250K cARR in 4 weeks, a senior engineering hire open, and no published SOC 2/HIPAA posture -- clinic groups and payers will require SOC 2 Type I as deals grow. Classic pre-compliance seed-stage healthtech."
+  },
+  {
+    "slug": "veritus",
+    "name": "Veritus",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Funding coverage states Veritus is 'PCI compliant for handling payments, HIPAA compliant, ISO certified, and SOC Type II compliant'",
+        "source_url": "https://www.fintechfutures.com/venture-capital-funding/exclusive-veritus-raises-10-1m-seed-funding-to-power-voice-first-ai-agents-for-lenders"
+      }
+    ],
+    "hiring_signals": [
+      "YC profile marked is_hiring; team of 10 scaling after $10.1M seed"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 10100000,
+      "source_url": "https://theaiinsider.tech/2026/02/11/veritus-secures-10-1m-seed-round-to-deploy-ai-agents-across-consumer-lending/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Joshua March",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/company/veritus-agent",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.fintechfutures.com/venture-capital-funding/exclusive-veritus-raises-10-1m-seed-funding-to-power-voice-first-ai-agents-for-lenders"
+      },
+      {
+        "name": "David Schlesinger",
+        "role": "Co-Founder (ex-Divvy Homes engineering)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.fintechfutures.com/venture-capital-funding/exclusive-veritus-raises-10-1m-seed-funding-to-power-voice-first-ai-agents-for-lenders"
+      },
+      {
+        "name": "Joey Stein",
+        "role": "Co-Founder (ex-Divvy Homes engineering)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.fintechfutures.com/venture-capital-funding/exclusive-veritus-raises-10-1m-seed-funding-to-power-voice-first-ai-agents-for-lenders"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified: Veritus already advertises SOC 2 Type II plus PCI, HIPAA, and ISO in its $10.1M seed press -- compliance stack is done and their round exceeds the <$10M ICP threshold. Only angle would be ongoing audit/renewal support."
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "slug": "advantage-partners",
+  "name": "Advantage Partners",
+  "website": "https://advantage-partners.com/",
+  "hq": "San Francisco, CA (directory listings; June 2025 press release lists a Seattle-area founder contact — team appears distributed)",
+  "founded": "circa 2021 (est.; both cofounders left Vanta partner-relations roles to start the firm — exact year not published)",
+  "team_size_estimate": "~10-15 (about page lists ~10 named staff across leadership, audit, and customer success)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Homepage and Vanta-directory positioning: 'seamless, efficient SOC 2 attestations to small and start-up technology companies' / serves 'emerging technology companies' and 'growing technology companies'",
+      "source_url": "https://advantage-partners.com/"
+    },
+    {
+      "signal": "Blog explicitly targets growing tech companies: 'Five Tips for a Successful SOC 2 Audit: A Guide for Growing Tech Companies'",
+      "source_url": "https://advantage-partners.com/blog/soc-2-audit-tips/"
+    },
+    {
+      "signal": "Case study with startup client OutboundSync ('SOC 2 Attestation That's More Than Just Checkbox Compliance')",
+      "source_url": "https://advantage-partners.com/case-study/outboundsync/"
+    },
+    {
+      "signal": "Third-party directory: client focus = 'Startups and SMBs in SaaS and Technology sectors', custom-quote pricing, 4-6 week report turnaround",
+      "source_url": "https://soc2auditors.io/firm/advantage-partners"
+    },
+    {
+      "signal": "Startup customer story: 'How Relay Achieved SOC 2 Type II Compliance with Vanta and Advantage Partners'",
+      "source_url": "https://www.relayco.io/insights/how-relay-achieved-soc-2-type-ii-compliance-with-vanta-and-advantage-partners"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (Certified Vanta Partner; both cofounders and multiple staff are ex-Vanta employees; David Hulsen is a certified Vanta administrator)"
+  ],
+  "aws_cloud_expertise": "Strong for an audit firm: sells SOC 2 audits directly on AWS Marketplace (standalone seller profile plus a bundled 'Vanta + VioletX + Advantage Partners: SOC 2 Accelerator for Startups' listing), and cofounder Andrew Gulrajani is an AWS Certified Cloud Practitioner (per about page).",
+  "services": [
+    "SOC 2 Type I & Type II attestations",
+    "HIPAA attestations",
+    "ISO/IEC 27001 certification audits (ANAB-accredited as of June 2025)",
+    "HITRUST assessments",
+    "CMMC advisory",
+    "Penetration testing",
+    "Audit readiness / gap assessments"
+  ],
+  "contacts": [
+    {
+      "name": "Andrew Gulrajani",
+      "role": "Cofounder & Partner (CPA; ex-Vanta partner relations, ex-Deloitte; AWS Certified Cloud Practitioner)",
+      "linkedin": "https://www.linkedin.com/in/andrew-gulrajani-cpa-b2388026",
+      "twitter": null,
+      "email": null,
+      "phone": "425-466-4660 (listed as media contact in June 2025 PRNewswire release)",
+      "source": "https://advantage-partners.com/about/ ; https://www.prnewswire.com/news-releases/advantage-partners-achieves-isoiec-27001-accreditation-302471547.html"
+    },
+    {
+      "name": "James Whiteside",
+      "role": "Cofounder & Partner (CPA; ex-Vanta Partner Relations Manager, ex-Deloitte)",
+      "linkedin": "https://www.linkedin.com/in/james-whiteside-cpa-797910b0",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://advantage-partners.com/about/"
+    },
+    {
+      "name": "Peter Case",
+      "role": "Director of Partnerships (3+ years at Vanta in go-to-market) — natural first door for a partner pitch",
+      "linkedin": "https://www.linkedin.com/in/peter-case (as listed on firm about page; verify exact slug)",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://advantage-partners.com/about/"
+    }
+  ],
+  "fit_score": 97,
+  "partnership_angle": "Referral partner + sandbox tester — the archetype fit. The firm is founder-led, ~10-15 people, exists specifically to do fast SOC 2 for small/startup tech companies, and its whole operating model is built on GRC automation (Certified Vanta Partner, staff full of ex-Vanta people, dedicated Director of Partnerships in Peter Case). Crucially, they already sell audits through AWS Marketplace, so an AWS-native readiness scanner is a natural pre-audit funnel for them: LoxeAI gets clients to audit-ready faster, Advantage keeps its 4-6 week turnaround promise. Peter Case (partnerships) is the warm entry; Gulrajani (AWS Certified) is the technical validator.",
+  "pitch_note": "Open with the AWS overlap: 'You sell SOC 2 audits on AWS Marketplace; we built an AWS-native scanner that gets your pre-audit prospects most of the way to ready before they ever sign your engagement letter.' Ask for a 20-minute call, then offer to let Gulrajani or an auditor run a LoxeAI scan against their own AWS account or a sandbox — no strings, they judge the evidence quality themselves. If it holds up, they tell pre-audit and Vanta-onboarding clients 'run this scan first — it gets you ~80% ready,' which shortens their readiness phase, protects their fast-turnaround brand, and gives LoxeAI a design-partner auditor whose validation carries weight with lean AWS-native startups.",
+  "source_urls": [
+    "https://advantage-partners.com/",
+    "https://advantage-partners.com/about/",
+    "https://advantage-partners.com/blog/soc-2-audit-tips/",
+    "https://advantage-partners.com/case-study/outboundsync/",
+    "https://soc2auditors.io/firm/advantage-partners",
+    "https://www.prnewswire.com/news-releases/advantage-partners-achieves-isoiec-27001-accreditation-302471547.html",
+    "https://aws.amazon.com/marketplace/pp/prodview-kolq7prcrbnfu",
+    "https://aws.amazon.com/marketplace/pp/prodview-q3jwxcssm4als",
+    "https://aws.amazon.com/marketplace/seller-profile?id=seller-6zw772prnwk2i",
+    "https://www.relayco.io/insights/how-relay-achieved-soc-2-type-ii-compliance-with-vanta-and-advantage-partners"
+  ]
+}

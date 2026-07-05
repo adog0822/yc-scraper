@@ -1,0 +1,362 @@
+[
+  {
+    "slug": "gecko-security",
+    "name": "Gecko Security",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Privacy policy explicitly states 'We maintain independent attestation of our control environment, including SOC 2 compliance' and references annual third-party audits.",
+        "source_url": "https://www.gecko.security/privacy-policy"
+      },
+      {
+        "signal": "Trust Center hosted at trust.gecko.security referenced on main website.",
+        "source_url": "https://www.gecko.security/"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupinvestments.investinglists.com/startupfunding/159160_gecko-security_founding"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Website shows Azure integration logo; no AWS-specific mentions found in public sources.",
+    "contacts": [
+      {
+        "name": "Jeevan Jutla",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jeevan-jutla/",
+        "twitter": "https://x.com/jjjutla",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/gecko-security"
+      },
+      {
+        "name": "Artemiy Malyshau",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/artemiy-malyshau/",
+        "twitter": "https://x.com/nkoorty",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/gecko-security"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified: Gecko Security already has SOC 2 compliance per their own privacy policy and trust center. As an AI security engineering company they are also the wrong ICP — they are a security vendor themselves, not a buyer of compliance services."
+  },
+  {
+    "slug": "roundabout-technologies",
+    "name": "Roundabout Technologies",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Government/municipal buyer vertical (city traffic infrastructure) typically requires SOC 2 or equivalent for vendor procurement. No SOC 2 evidence found publicly.",
+        "source_url": "https://www.ycombinator.com/companies/roundabout-technologies"
+      },
+      {
+        "signal": "Deploying safety-critical AI systems on public roads for city governments — regulated procurement environment.",
+        "source_url": "https://www.governing.com/artificial-intelligence/can-artificial-intelligence-fix-small-town-traffic-a-bay-area-town-thinks-so"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.linkedin.com/in/sabeek-pradhan/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public cloud/AWS mentions found. Edge/embedded compute likely given real-time traffic signal control use case.",
+    "contacts": [
+      {
+        "name": "Collin Barnwell",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": "founders@roundabout.tech",
+        "source": "https://hiretop.com/blog2/roundabout-technologies-ai-powered-traffic-lights/"
+      },
+      {
+        "name": "Sabeek Pradhan",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/sabeek-pradhan/",
+        "twitter": null,
+        "email": "founders@roundabout.tech",
+        "source": "https://www.linkedin.com/in/sabeek-pradhan/"
+      }
+    ],
+    "fit_score": 42,
+    "pitch_note": "Government/municipal buyer vertical means SOC 2 will likely be required for enterprise contracts, but this is edge/embedded compute (not AWS-native SaaS), team of 5 with no security hiring signals, and the software is not SaaS in the traditional sense. Low-priority lead: wrong stack profile and buyer type for a typical SOC 2 SaaS conversation."
+  },
+  {
+    "slug": "nori",
+    "name": "Nori",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website mentions 'HIPAA-grade encryption' and data encryption in transit and at rest, but no SOC 2 or formal HIPAA certification found.",
+        "source_url": "https://nori.ai/"
+      },
+      {
+        "signal": "Consumer health app integrating Apple Health, Oura, Whoop, medical records — PHI exposure means enterprise/B2B sales will require SOC 2.",
+        "source_url": "https://www.ycombinator.com/companies/nori"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/nori-7088"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS or cloud infrastructure mentions found in available sources.",
+    "contacts": [
+      {
+        "name": "Dave Zohrob",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/dzohrob/",
+        "twitter": "https://x.com/dzohrob",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/nori"
+      },
+      {
+        "name": "Harish Agarwal",
+        "role": "Co-Founder & President",
+        "linkedin": "https://www.linkedin.com/in/harish-p-agarwal/",
+        "twitter": "https://x.com/smock",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/nori"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Consumer-first health coach handling medical records and wearable data — any B2B or enterprise channel (employer wellness, payer partnerships) will require SOC 2. No SOC 2 found publicly. Founders are serial entrepreneurs (Chartable/Spotify, Octopart/YC). Primary uncertainty: mostly consumer-facing today, so enterprise SOC 2 pressure may not be immediate. Monitor for B2B pivot signals."
+  },
+  {
+    "slug": "kaigo-health",
+    "name": "Kaigo Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Healthcare IT platform handling Medicare patient data (PHI) and coordinating with hospital systems — SOC 2 almost certainly required by health system customers.",
+        "source_url": "https://www.ycombinator.com/companies/kaigo-health"
+      },
+      {
+        "signal": "No SOC 2 or HIPAA certification found on website or any public source; website only lists contact email founders@kaigohealth.ai.",
+        "source_url": "https://www.kaigohealth.ai/"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.linkedin.com/posts/lukas-klaiber-0458121ba_kaigo-health-yc-f25-just-raised-500000-activity-7382113315612901376-nINX"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS or cloud infrastructure mentions found. Healthcare AI platforms frequently default to AWS for HIPAA eligibility.",
+    "contacts": [
+      {
+        "name": "Peter Chien",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": "founders@kaigohealth.ai",
+        "source": "https://www.ycombinator.com/companies/kaigo-health"
+      },
+      {
+        "name": "Lukas Klaiber",
+        "role": "Co-Founder & COO",
+        "linkedin": "https://www.linkedin.com/in/lukas-klaiber-0458121ba/",
+        "twitter": null,
+        "email": "founders@kaigohealth.ai",
+        "source": "https://www.linkedin.com/in/lukas-klaiber-0458121ba/"
+      },
+      {
+        "name": "Kazuki Shin",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": "founders@kaigohealth.ai",
+        "source": "https://www.ycombinator.com/companies/kaigo-health"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Strong ICP signal: Medicare/outpatient care AI handling sensitive PHI, selling to regulated health system buyers who will demand SOC 2. No SOC 2 found — gap confirmed. Lean team of 3 at YC F25. Pitch: 'Your hospital and payer customers will require SOC 2 before signing — we can get you Type I in 8-12 weeks so you don't lose deals.' Lukas Klaiber is the warmest contact (active on LinkedIn)."
+  },
+  {
+    "slug": "casey",
+    "name": "Casey",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "AI-native commercial insurance brokerage handling sensitive commercial risk data and carrier submissions — insurance carriers typically require SOC 2 from technology vendors.",
+        "source_url": "https://www.ycombinator.com/companies/casey"
+      },
+      {
+        "signal": "No SOC 2 certification found on caseyinsure.com or any public source.",
+        "source_url": "https://caseyinsure.com/"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Pre-Seed / raising Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.angelsround.com/p/casey"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS or specific cloud infrastructure mentions found. InsurTech startups with ETH Zurich/grape engineering backgrounds often use cloud-native stacks.",
+    "contacts": [
+      {
+        "name": "Nico Hanggi",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/nicohaenggi/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/casey"
+      },
+      {
+        "name": "Maximilian Thoelen",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.angelsround.com/p/casey"
+      },
+      {
+        "name": "Pascal Kung",
+        "role": "Co-Founder & CPO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.angelsround.com/p/casey"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Regulated fintech/insurance vertical: commercial insurance carriers and brokers will demand SOC 2 as a table-stakes vendor requirement. No SOC 2 evidence found. Actively raising a $2.5M Seed round — compliance spend is timely. Pitch: 'Carriers won't sign without SOC 2 — we get you Type I before your next carrier onboarding.' Nico Hanggi (CTO) is the primary technical contact via LinkedIn."
+  },
+  {
+    "slug": "play-health",
+    "name": "Play Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Perimenopause care platform handling hormone testing and medical health data for women — any clinical or employer channel will require SOC 2 + HIPAA.",
+        "source_url": "https://www.ycombinator.com/companies/play-health"
+      },
+      {
+        "signal": "No SOC 2 or HIPAA certification found on playhealth.com (site returned 403). No public compliance documentation found.",
+        "source_url": "http://playhealth.com"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/orgs/play-health"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS or cloud infrastructure mentions found.",
+    "contacts": [
+      {
+        "name": "Andrea Mazzocchi",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/andrea-mazzocchi-phd-b61b4b40/",
+        "twitter": "https://x.com/a_mazzocchi",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/play-health"
+      },
+      {
+        "name": "Ian Miller",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/play-health"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Digital women's health platform handling hormone test results and health data — enterprise employer or clinical sales will require SOC 2. No SOC 2 found. Second-time founders with a prior exit (Known Medicine to Pathos AI) understand compliance burden. Pitch angle: 'Employer wellness and clinical partnerships will gate on SOC 2 — get it done before you lose your first enterprise deal.' Andrea Mazzocchi is accessible on both LinkedIn and X."
+  },
+  {
+    "slug": "anto-biosciences",
+    "name": "Anto Biosciences",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Biotech/genomics foundation model company — primary customers are pharma/biotech research orgs which may or may not require SOC 2. No SOC 2 evidence found publicly.",
+        "source_url": "https://anto.bio/"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/anto-biosciences/__UQaABWRSvm8wf5osvhtwUpQT8gjOcZ4zNJUrQOjzaAs"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS or cloud infrastructure mentions found. Genomics/ML workloads commonly run on cloud GPU clusters (AWS, GCP, or Azure).",
+    "contacts": [
+      {
+        "name": "Arvid E. Gollwitzer",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/arvid-gollwitzer/",
+        "twitter": null,
+        "email": "arvid@anto.bio",
+        "source": "https://anto.bio/team"
+      },
+      {
+        "name": "David de Gruijl",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/daviddegruijl/",
+        "twitter": null,
+        "email": "david@anto.bio",
+        "source": "https://anto.bio/team"
+      }
+    ],
+    "fit_score": 38,
+    "pitch_note": "Biotech foundation model company selling to pharma/research orgs — SOC 2 need is plausible if they handle genomic/clinical data for enterprise pharma customers, but buyer type (academic/pharma researchers) is not a classic SOC 2-driven procurement environment. Small team, very early stage, wrong primary vertical for this ICP. Low priority — revisit if they pivot toward healthcare IT or enterprise SaaS."
+  },
+  {
+    "slug": "amera",
+    "name": "Amera",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Automating claims processing for health insurance payers handling EDI claims, PDFs, and stop-loss reporting — highly regulated, and health plan payers require SOC 2 from all vendors handling their data.",
+        "source_url": "https://www.ycombinator.com/companies/amera"
+      },
+      {
+        "signal": "Website references 'Built-in compliance checks' and 'Built for Healthcare' but no SOC 2 or HIPAA certification explicitly stated.",
+        "source_url": "https://amerahealthsolutions.com/"
+      },
+      {
+        "signal": "Already working with payers/plan administrators representing ~100k members — enterprise payer contracts will mandate SOC 2.",
+        "source_url": "https://www.fondo.com/blog/amera-launches"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/amera"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Deep Kapur has background in distributed systems and cloud infrastructure per YC profile. Rupa Health (prior employer) is AWS-native. Health insurance claims processing at scale typically runs on AWS for HIPAA eligibility.",
+    "contacts": [
+      {
+        "name": "Deep Kapur",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/deepkkapur/",
+        "twitter": "https://x.com/deepkkapur",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/amera"
+      },
+      {
+        "name": "Louise Tanski",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/louise-tanski/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/amera"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Top lead in this slice. Amera processes claims for health insurance payers — one of the most regulated environments possible. Payers representing 100k+ members are already customers; those contracts will mandate SOC 2. No SOC 2 evidence found. Likely AWS-native (founders from Rupa Health, cloud infrastructure background). Lean team of 8 at YC F25. Pitch: 'Your payer customers cannot renew contracts without SOC 2 in place — we can deliver Type I in 8-12 weeks so you protect existing MRR and close the next payer deal.' Deep Kapur (@deepkkapur) is the most reachable founder via X and LinkedIn."
+  }
+]

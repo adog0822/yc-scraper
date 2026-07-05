@@ -1,0 +1,166 @@
+[
+ {
+  "slug": "bylaw",
+  "name": "Bylaw",
+  "website": "https://www.usebylaw.com",
+  "one_liner": "Guarantee your agents use the right evidence before they act.",
+  "team_size": 3,
+  "batch": "Summer 2026",
+  "tags": [
+   "SaaS",
+   "Compliance",
+   "Security",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "risklytics",
+  "name": "Risklytics",
+  "website": "https://www.risklytics.ai/",
+  "one_liner": "AI-powered catastrophe risk modeling",
+  "team_size": 2,
+  "batch": "Summer 2026",
+  "tags": [
+   "Machine Learning",
+   "B2B",
+   "Climate",
+   "Insurance",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "onyx",
+  "name": "Onyx",
+  "website": "https://www.onyx.app/",
+  "one_liner": "Open Source AI Chat",
+  "team_size": 20,
+  "batch": "Winter 2024",
+  "tags": [
+   "Open Source",
+   "NLP",
+   "Enterprise",
+   "Search",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Productivity"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "copper-health",
+  "name": "Copper Health",
+  "website": "https://www.copperhealth.co/",
+  "one_liner": "Modern patient engagement and remote therapeutic monitoring platform",
+  "team_size": 2,
+  "batch": "Winter 2024",
+  "tags": [
+   "Health Tech",
+   "Telehealth",
+   "B2B",
+   "Digital Health",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "dime-2",
+  "name": "Dime",
+  "website": "https://www.dimehealth.ai/",
+  "one_liner": "Dime automates administrative busywork at healthcare clinics",
+  "team_size": 3,
+  "batch": "Winter 2024",
+  "tags": [
+   "Healthcare"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "codeant-ai",
+  "name": "CodeAnt AI",
+  "website": "https://codeant.ai/",
+  "one_liner": "Autonomous offensive and defensive security platform",
+  "team_size": 25,
+  "batch": "Winter 2024",
+  "tags": [
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "carma",
+  "name": "Carma",
+  "website": "https://www.joincarma.com/",
+  "one_liner": "The AI Operating System For Modern Fleets.",
+  "team_size": 15,
+  "batch": "Winter 2024",
+  "tags": [
+   "B2B",
+   "Workflow Automation",
+   "Compliance",
+   "AI",
+   "Automotive"
+  ],
+  "industries": [
+   "B2B",
+   "Operations"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "offdeal",
+  "name": "OffDeal",
+  "website": "https://offdeal.io",
+  "one_liner": "AI-native investment bank for small businesses",
+  "team_size": 15,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "B2B",
+   "SMB"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 45
+ }
+]

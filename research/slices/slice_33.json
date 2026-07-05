@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "raycaster",
+  "name": "Raycaster",
+  "website": "https://raycaster.ai",
+  "one_liner": "AI for life sciences documents",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "Biotech",
+   "Enterprise Software"
+  ],
+  "industries": [
+   "B2B",
+   "Productivity"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "revyl",
+  "name": "Revyl",
+  "website": "https://www.revyl.com",
+  "one_liner": "The mobile source of truth",
+  "team_size": 7,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Developer Tools",
+   "B2B",
+   "Infrastructure"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "cekura-ai",
+  "name": "Cekura",
+  "website": "https://www.cekura.ai/",
+  "one_liner": "Voice AI and Chat AI agents: Testing and Observability",
+  "team_size": 15,
+  "batch": "Fall 2024",
+  "tags": [
+   "Developer Tools",
+   "SaaS",
+   "B2B"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "reticular",
+  "name": "Reticular",
+  "website": "https://reticular.com",
+  "one_liner": "Scaling Genomic AI for Embryo Selection",
+  "team_size": 2,
+  "batch": "Fall 2024",
+  "tags": [
+   "Generative AI",
+   "Consumer Health Services",
+   "Biotech"
+  ],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "unusual",
+  "name": "Unusual",
+  "website": "https://unusual.ai",
+  "one_liner": "Market to AI agents",
+  "team_size": 4,
+  "batch": "Fall 2024",
+  "tags": [
+   "Sales",
+   "Marketing",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Marketing"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "beglaubigtde",
+  "name": "Beglaubigt.de",
+  "website": "https://beglaubigt.de/en-us",
+  "one_liner": "The legal back-office for European founders - the incorporation API\u2026",
+  "team_size": 15,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "vly-ai-2",
+  "name": "vly.ai",
+  "website": "https://vly.ai",
+  "one_liner": "The Lovable & Replit killers",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "No-code",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "crustdata",
+  "name": "Crustdata",
+  "website": "https://crustdata.com",
+  "one_liner": "Real-time B2B data via simple APIs",
+  "team_size": 30,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Sales"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 35
+ }
+]

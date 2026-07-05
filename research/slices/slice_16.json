@@ -1,0 +1,152 @@
+[
+ {
+  "slug": "attunement",
+  "name": "Attunement",
+  "website": "http://attunement.ai",
+  "one_liner": "Attunement turns fragmented behavioral health records into structured\u2026",
+  "team_size": 3,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Workflow Automation",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "inquery-2",
+  "name": "InQuery",
+  "website": "https://www.inquery.ai/",
+  "one_liner": "Intelligent Medical Record Reviews",
+  "team_size": 4,
+  "batch": "Winter 2024",
+  "tags": [
+   "Documents",
+   "Insurance",
+   "AI",
+   "AI Assistant"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "parallel",
+  "name": "Parallel",
+  "website": "https://www.beparallel.com/?utm_source=ycombinator&utm_medium=directory",
+  "one_liner": "AI agents for healthcare admin",
+  "team_size": 15,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Healthcare",
+   "Automation"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "Paris, \u00cele-de-France, France",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "cleva",
+  "name": "Cleva",
+  "website": "https://www.getcleva.com",
+  "one_liner": "USD banking platform for Africa",
+  "team_size": 30,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "B2B",
+   "Remote Work",
+   "Emerging Markets",
+   "Neobank"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "Lagos, LA, Nigeria; Remote",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "velorum-therapeutics",
+  "name": "Velorum Therapeutics",
+  "website": "https://www.velorumtx.com/",
+  "one_liner": "Breakthrough medicines unlocking the biology of heme",
+  "team_size": 5,
+  "batch": "Winter 2024",
+  "tags": [
+   "Biotech",
+   "Healthcare",
+   "Therapeutics",
+   "Drug discovery",
+   "Oncology"
+  ],
+  "industries": [
+   "Healthcare",
+   "Therapeutics"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "xpay",
+  "name": "xPay",
+  "website": "https://www.xpaycheckout.com/",
+  "one_liner": "International Billing Ops, Sales Tax and Payments for SaaS businesses",
+  "team_size": 3,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": true,
+  "locations": "Bengaluru, India",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "powder",
+  "name": "Powder",
+  "website": "https://www.powderfi.com/",
+  "one_liner": "AI Agents for precise document analysis",
+  "team_size": 6,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "piramidal",
+  "name": "Piramidal",
+  "website": "https://piramidal.ai",
+  "one_liner": "Foundation Model for the Brain",
+  "team_size": 10,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ }
+]

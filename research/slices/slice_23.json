@@ -1,0 +1,163 @@
+[
+ {
+  "slug": "opencall",
+  "name": "Opencall",
+  "website": "https://opencall.ai",
+  "one_liner": "Practice admin run by AI",
+  "team_size": 7,
+  "batch": "Winter 2024",
+  "tags": [
+   "Healthcare"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "prosights",
+  "name": "ProSights",
+  "website": "https://prosights.co/",
+  "one_liner": "ProSights is a data / AI transformation partner to PE-backed portcos.",
+  "team_size": 14,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "Analytics",
+   "Enterprise Software",
+   "Investments"
+  ],
+  "industries": [
+   "B2B",
+   "Operations"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "polar",
+  "name": "Polar",
+  "website": "https://www.polarfi.com",
+  "one_liner": "The smarter way to manage USD earnings globally",
+  "team_size": 2,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Crypto / Web3",
+   "Investing",
+   "Remittances",
+   "Neobank"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "haplotype-labs",
+  "name": "Haplotype Labs",
+  "website": "https://www.haplotypelabs.com/",
+  "one_liner": "Personalized prevention using genetics and AI",
+  "team_size": 1,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Diagnostics"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "indemni",
+  "name": "Indemni",
+  "website": "http://www.indemni.com",
+  "one_liner": "Cargo Theft and Fraud Prevention Platform",
+  "team_size": 7,
+  "batch": "Winter 2024",
+  "tags": [
+   "Identity",
+   "Logistics",
+   "Supply Chain",
+   "Fraud Prevention",
+   "Fraud Detection"
+  ],
+  "industries": [
+   "B2B",
+   "Supply Chain and Logistics"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "overstand-labs",
+  "name": "Overstand Labs",
+  "website": "https://overstandlabs.com",
+  "one_liner": "Navigate any set of data - no matter how large - in minutes.",
+  "team_size": 4,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "LegalTech",
+   "Data Science",
+   "Data Engineering",
+   "Conversational AI"
+  ],
+  "industries": [
+   "B2B",
+   "Analytics"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "youshift",
+  "name": "YouShift",
+  "website": "https://www.you-shift.com/",
+  "one_liner": "The OS for hospital workforce management",
+  "team_size": 10,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "Healthcare",
+   "HR Tech",
+   "Operations"
+  ],
+  "industries": [
+   "B2B",
+   "Human Resources"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "candor",
+  "name": "Candor",
+  "website": "https://www.usecandor.ai",
+  "one_liner": "We help companies win government funding with AI",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "GovTech"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ }
+]

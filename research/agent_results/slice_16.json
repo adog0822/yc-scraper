@@ -1,0 +1,385 @@
+[
+  {
+    "slug": "attunement",
+    "name": "Attunement",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "HIPAA Compliant listed as a key feature on homepage; built for behavioral health compliance but no SOC 2 mentioned",
+        "source_url": "https://attunement.ai"
+      },
+      {
+        "signal": "Connects to EHRs via FHIR/HL7, stores clinical data — regulated environment requiring SOC 2 for enterprise sales",
+        "source_url": "https://www.ycombinator.com/companies/attunement"
+      },
+      {
+        "signal": "YC-only seed $500K raised April 2024; no SOC 2 page found at attunement.ai/security (404)",
+        "source_url": "https://www.cbinsights.com/company/attunement-ai"
+      }
+    ],
+    "hiring_signals": [
+      "No current job postings on YC platform",
+      "Previously posted Founding Engineer role (now filled); team size 3"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/attunement"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Angie Muller",
+        "role": "Co-founder / CEO",
+        "linkedin": "https://linkedin.com/in/angiemuller",
+        "twitter": "https://x.com/lokosbasilisk",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/attunement"
+      },
+      {
+        "name": "Briar Smith",
+        "role": "Co-founder / CTO",
+        "linkedin": "https://linkedin.com/in/briar-smith",
+        "twitter": null,
+        "email": null,
+        "source": "https://uwaterloo.ca/news/four-waterloo-founded-startups-earn-2-million-seed-funding"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Attunement sells compliance automation to behavioral health orgs — a highly regulated sector where their enterprise buyers will demand SOC 2 before signing. No SOC 2 evidence found on their site; HIPAA compliance is mentioned but that is a floor, not a ceiling for enterprise procurement. With a 3-person team and fresh YC seed funding, they are exactly at the stage where SOC 2 Type I would unblock deals."
+  },
+  {
+    "slug": "inquery-2",
+    "name": "InQuery",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "InQuery maintains SOC 2 Type I attestation from a qualified third-party auditor and is actively progressing toward SOC 2 Type II",
+        "source_url": "https://www.inquery.ai/security"
+      },
+      {
+        "signal": "Uses AWS KMS for AES-256 encryption at rest; HIPAA-compliant BAA; 130 security controls documented",
+        "source_url": "https://www.inquery.ai/security"
+      }
+    ],
+    "hiring_signals": [
+      "No current job postings on YC platform; team size 4"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/inquery-2"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "AWS KMS used for encryption key management; stated on inquery.ai/security",
+    "contacts": [
+      {
+        "name": "Erick Enriquez",
+        "role": "Co-founder / CEO",
+        "linkedin": "https://linkedin.com/in/erick-enriquez",
+        "twitter": "https://x.com/generick_ez",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/inquery-2"
+      },
+      {
+        "name": "Khalil Miri",
+        "role": "Co-founder / CTO",
+        "linkedin": "https://linkedin.com/in/khalil-miri",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/inquery-2"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "InQuery already holds SOC 2 Type I and is progressing toward Type II — they are mid-journey and could benefit from attestation services to accelerate the Type II audit. They are AWS-native and serve law firms handling PHI, a strong regulated-buyer signal. However they are partially disqualified from a cold-start pitch; best angle is Type II acceleration or gap assessment."
+  },
+  {
+    "slug": "parallel",
+    "name": "Parallel",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Website states data hosted in EU, compliant with RGPD, HDS (French health data hosting), and ISO 27001; no SOC 2 mentioned",
+        "source_url": "https://www.beparallel.com"
+      },
+      {
+        "signal": "Security page (beparallel.com/security) returned 404; no SOC 2 trust page found",
+        "source_url": "https://www.beparallel.com/security"
+      },
+      {
+        "signal": "Deploys in European hospitals; ISO 27001 and HDS focus suggests EU compliance path, SOC 2 likely not yet pursued for US market",
+        "source_url": "https://www.beparallel.com"
+      }
+    ],
+    "hiring_signals": [
+      "No current job postings on YC platform; team size 15",
+      "Raised $20M Series A in March 2026 from Index Ventures — likely expanding US operations soon"
+    ],
+    "funding": {
+      "stage": "series_a",
+      "total_usd_estimate": 23500000,
+      "source_url": "https://www.beparallel.com/news/parallel-raises-20m-to-accelerate-ai-agent-deployment-in-hospitals"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mention found; EU-hosted infrastructure per website",
+    "contacts": [
+      {
+        "name": "Paul Lafforgue",
+        "role": "Founder / CEO",
+        "linkedin": "https://linkedin.com/in/paullafforgue",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/parallel"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "Parallel is France-based selling to European hospitals under ISO 27001 / HDS. SOC 2 is not their current compliance path. However, their fresh $20M raise and likely US expansion ambitions could make SOC 2 Type I a near-term need as US hospital systems demand it. A forward-looking pitch around US market entry compliance readiness may resonate."
+  },
+  {
+    "slug": "cleva",
+    "name": "Cleva",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mentioned on website or in any press coverage; compliance posture focused on FinCEN MSB registration, IMTO license (Nigeria CBN), and Flagright AML",
+        "source_url": "https://www.getcleva.com/blog/cleva-enhances-financial-security-and-aml-compliance-with-flagrights-ai-native-solutions"
+      },
+      {
+        "signal": "Regulated fintech handling USD accounts and international money transfers for businesses — US enterprise and B2B clients will require SOC 2",
+        "source_url": "https://techcrunch.com/2024/01/08/yc-backed-african-fintech-cleva-founded-by-stripe-and-aws-alums-raises-1-5m-pre-seed/"
+      }
+    ],
+    "hiring_signals": [
+      "No current job postings on YC platform; team size 30",
+      "CTO Philip Abel is an AWS infrastructure veteran — likely building on AWS"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 1500000,
+      "source_url": "https://techcrunch.com/2024/01/08/yc-backed-african-fintech-cleva-founded-by-stripe-and-aws-alums-raises-1-5m-pre-seed/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO Philip Abel previously spent years as an infrastructure engineer at AWS building multi-region services per YC profile",
+    "contacts": [
+      {
+        "name": "Tolu Alabi",
+        "role": "Co-founder / CEO",
+        "linkedin": "https://linkedin.com/in/tolu-alabi-08697525",
+        "twitter": "https://x.com/tolu_tols1",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cleva"
+      },
+      {
+        "name": "Philip Abel",
+        "role": "Co-founder / CTO",
+        "linkedin": "https://linkedin.com/in/abelphilip",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cleva"
+      }
+    ],
+    "fit_score": 76,
+    "pitch_note": "Cleva is a regulated fintech handling US dollar accounts for African businesses — their US-based financial partners and enterprise B2B clients will increasingly require SOC 2 attestation. With an AWS-native CTO background, infrastructure-first culture, and no SOC 2 evidence found, they are a strong candidate approaching the scale where enterprise deals get blocked without it."
+  },
+  {
+    "slug": "velorum-therapeutics",
+    "name": "Velorum Therapeutics",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Drug discovery / therapeutics company, not a SaaS or data platform; SOC 2 is not standard compliance for pharma R&D companies",
+        "source_url": "https://www.velorumtx.com/"
+      },
+      {
+        "signal": "No SOC 2 or trust page found; company focuses on cancer drug development, not software/data services",
+        "source_url": "https://www.ycombinator.com/companies/velorum-therapeutics"
+      }
+    ],
+    "hiring_signals": [
+      "No current job postings on YC platform; team size 5"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/velorum-therapeutics/__CR5zp2KV656jgiPMVcuiEb1u6IULZ9SJClo5uBpwR44/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Pouya Modareszadeh",
+        "role": "Co-founder / CEO",
+        "linkedin": "https://linkedin.com/in/pouya-modareszadeh",
+        "twitter": "https://x.com/pouyamodares",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/velorum-therapeutics"
+      },
+      {
+        "name": "Parsa Modareszadeh",
+        "role": "Co-founder / President",
+        "linkedin": "https://linkedin.com/in/parsa-modareszadeh",
+        "twitter": "https://x.com/parsamodares",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/velorum-therapeutics"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Velorum Therapeutics is a drug discovery company, not a SaaS or data services provider. SOC 2 is not the relevant compliance framework for pharma R&D; they would pursue FDA, GxP, or similar regulatory paths. Wrong ICP — do not pursue."
+  },
+  {
+    "slug": "xpay",
+    "name": "xPay",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website claims PCI DSS compliance only; no SOC 2 mentioned anywhere on site or in docs",
+        "source_url": "https://www.xpaycheckout.com/"
+      },
+      {
+        "signal": "FAQ page (docs.xpaycheckout.com/faqs) found but no SOC 2 reference; compliance focus is on RBI/FEMA and PCI DSS",
+        "source_url": "https://docs.xpaycheckout.com/faqs/overall-faq"
+      },
+      {
+        "signal": "Sells billing infrastructure to global SaaS companies — enterprise SaaS buyers universally require SOC 2 from payment/billing vendors",
+        "source_url": "https://www.xpaycheckout.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Sales Lead role posted on YC (Bengaluru); actively hiring go-to-market",
+      "Team size 3; early-stage, infrastructure and compliance build-out likely next priority"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://prospeo.io/c/xpay-yc-w24-revenue"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Aniket Gupta",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/theaniketg",
+        "twitter": "https://x.com/theaniketg",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/xpay"
+      },
+      {
+        "name": "Rakshit Bansal",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/rakshitbansal",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/xpay"
+      }
+    ],
+    "fit_score": 74,
+    "pitch_note": "xPay provides billing infrastructure to global SaaS companies — a segment where SOC 2 is a table-stakes requirement demanded by enterprise SaaS clients. Currently only PCI DSS compliant. As they pursue larger B2B SaaS customers, SOC 2 Type I will be the first gate. Small team, hiring sales, early-stage — perfect timing for SOC 2 initiation conversation."
+  },
+  {
+    "slug": "powder",
+    "name": "Powder",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Website explicitly states SOC 2 Type I and SOC 2 Type II completed with continued monitoring",
+        "source_url": "https://www.powderfi.com/"
+      },
+      {
+        "signal": "Listed as serving largest and most regulated global institutions with SEC/FINRA compliance built in",
+        "source_url": "https://www.powderfi.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Software Engineer, Agents role posted ($100K-$150K, 0.30%-1.00% equity, Redwood City CA)",
+      "Team size 6; hiring engineering talent"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 5000000,
+      "source_url": "https://www.ycombinator.com/companies/powder"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Kanishk Parashar",
+        "role": "Co-founder / CEO",
+        "linkedin": "https://linkedin.com/in/diamondk",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/powder"
+      },
+      {
+        "name": "Soo Yung Cho",
+        "role": "Co-founder / CTO",
+        "linkedin": "https://linkedin.com/in/soo-yung-cho-53643811",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/powder"
+      },
+      {
+        "name": "David Goerz",
+        "role": "Co-founder / Chief Investment Officer",
+        "linkedin": "https://linkedin.com/in/davidgoerz3",
+        "twitter": "https://x.com/StrategicCAPM",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/powder"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Powder has completed both SOC 2 Type I and Type II — fully disqualified as a new SOC 2 services lead. They are already compliant and serving regulated financial institutions. Do not pursue."
+  },
+  {
+    "slug": "piramidal",
+    "name": "Piramidal",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention on website, YC page, or in press coverage; no trust/security page found (404)",
+        "source_url": "https://piramidal.ai"
+      },
+      {
+        "signal": "Healthcare AI company processing EEG/brainwave data for neurologists and epilepsy diagnosis; hospital and clinical buyers will require SOC 2 + HIPAA",
+        "source_url": "https://hitconsultant.net/2024/08/21/piramidal-secures-6m-to-expand-foundational-ai-brain-model-for-neurologists/"
+      },
+      {
+        "signal": "Advisory team from Cleveland Clinic, Stanford, King's College London — institutional healthcare buyers with strict vendor compliance requirements",
+        "source_url": "https://piramidal.ai"
+      }
+    ],
+    "hiring_signals": [
+      "Research Engineer - Foundational AI ($120K-$280K, NY/London)",
+      "Front End Engineer - User Interface ($120K-$235K, New York)",
+      "Team size 10; actively hiring technical talent post-$6M seed raise"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 6000000,
+      "source_url": "https://www.feedtheai.com/piramidal-raises-6m-in-seed-funding/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Dimitris Fotis Sakellariou",
+        "role": "Co-founder / CEO",
+        "linkedin": "https://linkedin.com/in/sacellarius",
+        "twitter": "https://x.com/dsacellarius",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/piramidal"
+      },
+      {
+        "name": "Kris Pahuja",
+        "role": "Co-founder / Head of Product",
+        "linkedin": "https://linkedin.com/in/kris-pahuja-a59a905b",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/piramidal"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Piramidal is a well-funded ($6M seed) healthcare AI company selling EEG diagnostic tools to neurologists and hospital systems. Clinical and hospital buyers are among the strictest enterprise procurement environments — SOC 2 Type I will be required before meaningful enterprise contracts close. They are actively hiring, recently funded, and have no visible compliance certifications. Highest-priority lead in this slice."
+  }
+]

@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "lexi",
+  "name": "Lexi",
+  "website": "https://getlexi.io/",
+  "one_liner": "AI Operating System for Legal Teams",
+  "team_size": 15,
+  "batch": "Fall 2025",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Legal",
+   "LegalTech",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "thesis",
+  "name": "Thesis",
+  "website": "https://thesislabs.ai",
+  "one_liner": "Autonomous AI research",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Hard Tech",
+   "Machine Learning",
+   "Automation",
+   "AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "leadbay",
+  "name": "Leadbay",
+  "website": "https://leadbay.ai/",
+  "one_liner": "Qualify millions of Data-Signal-Scarce leads that couldn't be found\u2026",
+  "team_size": 8,
+  "batch": "Fall 2025",
+  "tags": [
+   "B2B",
+   "Sales",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Sales"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "nucleo",
+  "name": "Nucleo",
+  "website": "https://nucleoresearch.com/",
+  "one_liner": "The first Agentic platform for Oncology",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "patent-watch",
+  "name": "Patent Watch",
+  "website": "https://www.patentwatch.ai/",
+  "one_liner": "AI for detecting patent infringements",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "B2B",
+   "Legal",
+   "LegalTech"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": false,
+  "locations": "Toronto, ON, Canada",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "imagine-ai",
+  "name": "Imagine AI",
+  "website": "https://imagineai.me",
+  "one_liner": "We reverse engineer B2B growth, starting with LinkedIn.",
+  "team_size": 5,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Sales",
+   "Marketing"
+  ],
+  "industries": [
+   "B2B",
+   "Sales"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "scott-ai",
+  "name": "Scott AI",
+  "website": "https://tryscott.ai",
+  "one_liner": "The planning layer for teams that build with coding agents",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "sourcebot",
+  "name": "Sourcebot",
+  "website": "https://www.sourcebot.dev/",
+  "one_liner": "Helping humans and AI agents understand massive codebases",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Developer Tools",
+   "Open Source"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ }
+]

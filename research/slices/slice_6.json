@@ -1,0 +1,163 @@
+[
+ {
+  "slug": "ruvo",
+  "name": "Ruvo",
+  "website": "https://ruvo.com/",
+  "one_liner": "The Global Dollar App for Brazil",
+  "team_size": 6,
+  "batch": "Summer 2025",
+  "tags": [
+   "Fintech",
+   "Crypto / Web3",
+   "Payments"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "S\u00e3o Paulo, SP, Brazil",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "suretynow",
+  "name": "SuretyNow",
+  "website": "https://suretynow.com/",
+  "one_liner": "The Modern Surety Bond Platform",
+  "team_size": 4,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "B2B",
+   "Insurance"
+  ],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "Austin, TX, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "clarion",
+  "name": "Clarion",
+  "website": "https://clarionhealth.com",
+  "one_liner": "The AI communication layer for healthcare",
+  "team_size": 14,
+  "batch": "Winter 2024",
+  "tags": [
+   "Health Tech",
+   "Digital Health",
+   "Healthcare",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "hazel-2",
+  "name": "Hazel",
+  "website": "https://hazelai.com",
+  "one_liner": "AI-enabled procurement for government",
+  "team_size": 5,
+  "batch": "Winter 2024",
+  "tags": [
+   "GovTech",
+   "Procurement",
+   "AI"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "miden",
+  "name": "Miden",
+  "website": "http://www.miden.co",
+  "one_liner": "Card issuer processor and banking stack for businesses in Sub-\u2026",
+  "team_size": 19,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Payments",
+   "B2B",
+   "APIs"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "Ikeja, LA, Nigeria",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "closure",
+  "name": "Closure",
+  "website": "https://closure-intel.com/",
+  "one_liner": "We help law enforcement solve crime",
+  "team_size": 10,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "GovTech"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "toothy-ai",
+  "name": "Toothy AI",
+  "website": "https://www.toothy.ai/",
+  "one_liner": "AI for insurance verification & billing at dental clinics",
+  "team_size": 15,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "Healthcare",
+   "Dental",
+   "Conversational AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "amby-health",
+  "name": "Amby Health",
+  "website": "https://tryamby.com",
+  "one_liner": "AI Copilot for Ambulance Agencies (EMS)",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "SaaS",
+   "Health Tech",
+   "Digital Health",
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ }
+]

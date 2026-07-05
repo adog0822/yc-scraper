@@ -1,0 +1,69 @@
+{
+  "slug": "modern-assurance",
+  "name": "Modern Assurance",
+  "website": "https://modassurance.com/",
+  "hq": "Oregon, USA (registered CPA firm in Oregon; founder based in Colorado/Denver area per University of Denver affiliation)",
+  "founded": "2022 (per modassurance.com/about)",
+  "team_size_estimate": "~5-20 (LinkedIn bracket 11-50 at low end; founder-led micro-boutique — site names only Managing Director Noelle Gantz plus unnamed CPA/CISSP/CISA audit staff)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Listed in soc2auditors.org's 'SOC 2 Auditors for Startups' directory with startup-tier pricing: Type 1 $5K-$24K, Type 2 $7K-$42K, 1-7 week timelines",
+      "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+      "signal": "Directory profile: targets modern SaaS, FinTech, Healthcare, and AI companies seeking tech-enabled, lean audit processes with reduced complexity",
+      "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+      "signal": "Firm 'designed from inception to apply the principles of lean manufacturing to the professional services industry' — highest-quality audit at least expense/headache, a value prop aimed at lean early-stage buyers; leverages AI and modern tooling in audit delivery",
+      "source_url": "https://modassurance.com/about"
+    },
+    {
+      "signal": "Caveat: the firm's own site markets broadly to 'businesses globally' and does not use the word 'startup'; the explicit startup positioning comes from directory listing + pricing tiers, not site copy",
+      "source_url": "https://modassurance.com/"
+    }
+  ],
+  "grc_partnerships": [],
+  "aws_cloud_expertise": "No explicit AWS specialization published. Indirect signals only: tech-first/AI-enabled audit approach and SOC 2 practice serving cloud-native SaaS/FinTech clients — verify AWS depth on intro call.",
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 attestations",
+    "ISO 27001 / ISO 27701 / ISO 42001 certifications",
+    "CMMC audits",
+    "HIPAA and GDPR audits",
+    "AI Safety & Compliance audits",
+    "SOX ITGC and business process audits",
+    "Financial statement compilation, review, and audit"
+  ],
+  "contacts": [
+    {
+      "name": "Noelle Gantz, CPA, MBA, CISSP, CISA",
+      "role": "Founder / Owner & Managing Director",
+      "linkedin": "https://www.linkedin.com/in/noellegantz/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://modassurance.com/about (named as Managing Director; ex-EY, 10 years leading FinTech/Healthcare SOC 1/2/3 and SOX ITGC engagements); https://www.linkedin.com/in/noellegantz/; adjunct professor of Accounting Ethics at University of Denver per https://daniels.du.edu/directory/noelle-gantz/"
+    },
+    {
+      "name": "Modern Assurance (firm inbox)",
+      "role": "General inquiries",
+      "linkedin": "https://www.linkedin.com/company/modern-assurance-llc",
+      "twitter": null,
+      "email": "info@modassurance.com",
+      "phone": null,
+      "source": "https://modassurance.com/"
+    }
+  ],
+  "fit_score": 70,
+  "partnership_angle": "Referral partner + sandbox tester (design-partner feeder potential). Near-ideal profile: very young (2022), founder-led boutique whose whole brand is lean, tech/AI-enabled auditing — the founder personally decides on tooling and is philosophically pre-sold on automated evidence gathering. Crucially, the firm is explicitly platform-agnostic with no exclusive Vanta/Drata/Secureframe alliance (scores 0 on the ecosystem rubric but is strategically a plus: a LoxeAI scan-validation partnership fills a gap in her stack with zero channel conflict). Entry motion: get Noelle Gantz to run LoxeAI against a sandbox AWS account, validate that findings map cleanly to SOC 2 criteria, then formalize a referral loop where pre-audit SaaS/FinTech inbound runs the scan first — which also pre-qualifies and warms her own pipeline.",
+  "pitch_note": "Noelle, you built Modern Assurance to strip waste out of SOC 2 audits — LoxeAI applies the same lean principle to the phase before the audit: an AWS-native scan that maps a startup's actual cloud config to SOC 2 criteria before evidence collection starts. We'd love 30 minutes to have you run it against a sandbox AWS environment and tear the output apart with your EY IT-audit eye. If it holds up, your pre-audit inbound gets a 'run this scan first — it gets you ~80% ready' answer: they show up cleaner and faster to audit, and you stay fully platform-agnostic.",
+  "source_urls": [
+    "https://modassurance.com/",
+    "https://modassurance.com/about",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://www.linkedin.com/in/noellegantz/",
+    "https://www.linkedin.com/company/modern-assurance-llc",
+    "https://daniels.du.edu/directory/noelle-gantz/"
+  ]
+}

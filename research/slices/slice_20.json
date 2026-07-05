@@ -1,0 +1,157 @@
+[
+ {
+  "slug": "river-markets",
+  "name": "River Markets",
+  "website": "https://www.rivermarkets.com",
+  "one_liner": "Prime brokerage for prediction markets",
+  "team_size": 2,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "lattice-health",
+  "name": "Lattice Health",
+  "website": "https://www.latticehealthai.com/",
+  "one_liner": "Monitoring and governance for deployed medical imaging AI",
+  "team_size": 1,
+  "batch": "Spring 2026",
+  "tags": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "huscarl",
+  "name": "Huscarl",
+  "website": "https://www.huscarl.io/",
+  "one_liner": "AI-native actuary enabling self-insurance for corporations",
+  "team_size": 2,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "codes-health",
+  "name": "Codes Health",
+  "website": "https://www.codeshealth.com/",
+  "one_liner": "Medical Record Retrieval with Zero Human Error",
+  "team_size": 12,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "B2B",
+   "LegalTech"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "maitai",
+  "name": "Maitai",
+  "website": "https://trymaitai.com",
+  "one_liner": "Reliable, self-improving enterprise AI",
+  "team_size": 6,
+  "batch": "Summer 2024",
+  "tags": [
+   "AIOps",
+   "Artificial Intelligence",
+   "Developer Tools",
+   "Enterprise",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "firstwork",
+  "name": "FirstWork",
+  "website": "https://firstwork.com",
+  "one_liner": "Rippling for seasonal workers",
+  "team_size": 9,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "Human Resources",
+   "Workflow Automation",
+   "Compliance"
+  ],
+  "industries": [
+   "B2B",
+   "Human Resources"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "benchify",
+  "name": "Benchify",
+  "website": "https://www.benchify.com",
+  "one_liner": "Executable healthcare contracts",
+  "team_size": 4,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Finance",
+   "B2B",
+   "Healthcare",
+   "Insurance"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "ontra-mobility",
+  "name": "Ontra Mobility",
+  "website": "https://www.ontramobility.com",
+  "one_liner": "Platform for cities to optimize transit ",
+  "team_size": 2,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Civic Tech",
+   "GovTech",
+   "Climate",
+   "Transportation"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA; Remote",
+  "soc2_prior": 45
+ }
+]

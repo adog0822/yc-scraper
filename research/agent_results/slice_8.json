@@ -1,0 +1,356 @@
+[
+  {
+    "slug": "ralo",
+    "name": "Ralo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 badge or trust page found; press coverage mentions bank-grade encryption and not storing SSNs in core databases, but no SOC 2 attestation claimed",
+        "source_url": "https://www.globenewswire.com/news-release/2026/06/18/3314263/0/en/ralo-launches-as-first-ai-native-mortgage-broker-announces-seed-round.html"
+      },
+      {
+        "signal": "Operates as licensed mortgage broker in CA/CO/TX handling sensitive borrower financial data (heavily regulated sector)",
+        "source_url": "https://www.housingwire.com/articles/ralo-ai-mortgage-broker-seed/"
+      }
+    ],
+    "hiring_signals": [
+      "Loan Officer Engineer (engineering role, New York, $100K-$150K) - https://www.ycombinator.com/companies/ralo",
+      "Performance Marketing Lead and Brand & Social Media Lead also open (3 total jobs on YC page)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 2900000,
+      "source_url": "https://www.housingwire.com/articles/ralo-ai-mortgage-broker-seed/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Arjun Lalwani",
+        "role": "Co-Founder & CEO (ex-Google PM)",
+        "linkedin": "https://www.linkedin.com/in/arjun-lalwani/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ralo"
+      },
+      {
+        "name": "Helly Shah",
+        "role": "Co-Founder & CTO (ex-Google Maps, ex-Goldman Sachs)",
+        "linkedin": "https://www.linkedin.com/in/hellyshah/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ralo"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Fresh $2.9M seed (June 2026) mortgage broker handling regulated borrower data with a 2-person team, actively hiring engineers, and no SOC 2 attestation found anywhere - lender partnerships and state regulators will force compliance work soon. AWS usage unconfirmed and buyers are consumers rather than enterprises, which is the only soft spot."
+  },
+  {
+    "slug": "eloquent-ai",
+    "name": "Eloquent AI",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage displays AICPA SOC 2 badge linked to Vanta verification",
+        "source_url": "https://www.eloquentai.co/"
+      },
+      {
+        "signal": "Privacy policy states systems are reviewed against SOC 2 framework at least annually",
+        "source_url": "https://www.eloquentai.co/legal/privacy"
+      }
+    ],
+    "hiring_signals": [
+      "AI Engineer, Multimodal LLMs ($150K-$250K) - https://www.ycombinator.com/companies/eloquent-ai",
+      "AI Engineer, Agent; Forward Deployed Engineer; Software Engineer Front-End; Product Designer (5 open roles)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 7400000,
+      "source_url": "https://fintech.global/2025/09/12/eloquent-ai-raises-7-4m-to-transform-fs-customer-ops/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Tugce Bulut",
+        "role": "Co-Founder (previously founded Streetbees)",
+        "linkedin": "https://www.linkedin.com/in/tugcebulut/",
+        "twitter": "https://x.com/TugceBulut",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/eloquent-ai"
+      },
+      {
+        "name": "Aldo Lipani",
+        "role": "Co-Founder (ML Professor at UCL)",
+        "linkedin": "https://www.linkedin.com/in/aldo-lipani",
+        "twitter": "https://x.com/aldolipani",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/eloquent-ai"
+      }
+    ],
+    "fit_score": 30,
+    "pitch_note": "Already displays a Vanta-verified AICPA SOC 2 badge on its homepage, so the core Type I sale is gone. Only residual angle is Type II expansion or continuous-compliance services as they scale their $7.4M-seeded regulated-financial-services platform."
+  },
+  {
+    "slug": "cotool",
+    "name": "Cotool",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention, trust center, or certification badge on website (only privacy policy, license, subprocessors pages)",
+        "source_url": "https://www.cotool.ai/"
+      },
+      {
+        "signal": "Sells AI agents to enterprise security operations teams (customers include Ramp and EliseAI) - buyers who mandate vendor SOC 2",
+        "source_url": "https://www.cotool.ai/blog/announcing-our-seed-round"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles listed on YC page (0 jobs); slice data marks is_hiring false"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 7400000,
+      "source_url": "https://www.cotool.ai/blog/announcing-our-seed-round"
+    },
+    "aws_native": "no",
+    "aws_evidence": "Subprocessor list names Google Cloud as cloud infrastructure provider; AWS not listed (https://www.cotool.ai/subprocessors)",
+    "contacts": [
+      {
+        "name": "Max Pollard",
+        "role": "Co-Founder & CEO (ex-Material, ex-Okta)",
+        "linkedin": "https://www.linkedin.com/in/mmpollard/",
+        "twitter": "https://x.com/maxpollard415",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cotool"
+      },
+      {
+        "name": "Logan Carmody",
+        "role": "Co-Founder & CTO (ex-Staff SWE at LinkedIn)",
+        "linkedin": "https://www.linkedin.com/in/logan-carmody/",
+        "twitter": "https://x.com/endorseurgirl",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cotool"
+      },
+      {
+        "name": "Eddie Conk",
+        "role": "Co-Founder, CPO + Head of AI (ex-Apple)",
+        "linkedin": "https://www.linkedin.com/in/eddieconk",
+        "twitter": "https://x.com/eddieconkml",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cotool"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Sells to enterprise security teams (Ramp, EliseAI) with a fresh a16z-led $7.4M seed and no SOC 2 badge anywhere - security buyers will demand attestation imminently. Docked points because their subprocessor list shows Google Cloud, not AWS, so they miss the AWS-native ICP criterion."
+  },
+  {
+    "slug": "uno-wallet",
+    "name": "Uno Wallet",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found in searches or on site; brand-new Spring 2026 batch consumer wallet with 2-person team",
+        "source_url": "https://www.ycombinator.com/companies/uno-wallet"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC page (0 jobs); slice data marks is_hiring false"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://app.dealroom.co/news/feed/yc-debuts-500k-usdc-funding-for-all-s26-startups-completes-first-fully-on-chain-seed-investment"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Mordi Shadpour",
+        "role": "Co-Founder & CEO (Harvard MBA, ex-Bloomberg)",
+        "linkedin": "https://www.linkedin.com/in/mordi-shadpour/",
+        "twitter": "https://x.com/MordiShadpour",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/uno-wallet"
+      },
+      {
+        "name": "Saket Joshi",
+        "role": "Co-Founder (ex-xAI, Harvard MS Data Science)",
+        "linkedin": "https://www.linkedin.com/in/saket-dattatray-joshi/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/uno-wallet"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Consumer payments wallet building a new payment rail will eventually need compliance for bank/network partnerships, but it is a 2-person YC-only-funded startup with no hiring and no enterprise buyers today. Worth a nurture-track touch, not active outreach."
+  },
+  {
+    "slug": "saphira-ai",
+    "name": "Saphira AI",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification or trust page found in searches; company sells compliance/safety-certification SaaS to enterprise hardware and robotics manufacturers who run vendor security reviews",
+        "source_url": "https://www.ycombinator.com/companies/saphira-ai"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Full-Stack Engineer ($100K-$150K, 0.5-2% equity) - https://www.ycombinator.com/companies/saphira-ai",
+      "Founding Applied AI Engineer ($100K-$150K, 0.5-2% equity)",
+      "Founding Account Executive - Enterprise Safety & Compliance",
+      "Senior Industrial Functional Safety Engineer"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/saphira-ai-pre-seed--db0d7d80"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Akshay Chalana",
+        "role": "Co-Founder & CEO (ex-Citadel, Apple, Tesla, Meta)",
+        "linkedin": "https://www.linkedin.com/in/akshaychalana",
+        "twitter": "https://x.com/ac2zoom",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/saphira-ai"
+      },
+      {
+        "name": "Oscar Avatare",
+        "role": "Co-Founder (ex-Amazon, Twitter)",
+        "linkedin": "https://www.linkedin.com/in/oavatare",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/saphira-ai"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Compliance-tooling vendor selling into enterprise industrial/robotics buyers with no SOC 2 of its own, ~$500K pre-seed, and four open founding-engineer/enterprise-AE roles - exactly the profile that needs a fast Type I before enterprise deals close. A compliance company without SOC 2 is also an easy credibility pitch."
+  },
+  {
+    "slug": "unbound",
+    "name": "Unbound",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage displays 'SOC 2 Compliant' badge and states 'SOC 2 compliant. Available on AWS Marketplace.'",
+        "source_url": "https://getunbound.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Slice data marks is_hiring true, but no security/GRC-specific roles verified"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4000000,
+      "source_url": "https://www.entrepreneur.com/en-in/news-and-trends/unbound-raises-usd-4-million-to-power-enterprise-ai/493017"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Sells via AWS Marketplace, stated on homepage (https://getunbound.ai/)",
+    "contacts": [
+      {
+        "name": "Rajaram Srinivasan",
+        "role": "Co-Founder (ex-Palo Alto Networks, Imperva)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.entrepreneur.com/en-in/news-and-trends/unbound-raises-usd-4-million-to-power-enterprise-ai/493017"
+      },
+      {
+        "name": "Vignesh Subbiah",
+        "role": "Co-Founder (ex-Adobe, Tophatter, Shogun)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.entrepreneur.com/en-in/news-and-trends/unbound-raises-usd-4-million-to-power-enterprise-ai/493017"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified for the Type I pitch: advertises SOC 2 compliance directly on its homepage and already sells through AWS Marketplace. Only possible angle is ongoing audit/Type II renewal support."
+  },
+  {
+    "slug": "clearly-ai",
+    "name": "Clearly AI",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Company blog states 'Yes, Clearly AI has our SOC 2' and describes completing the audit roughly 10 months before the post",
+        "source_url": "https://clearly-ai.com/blog/security-soc-2-startups"
+      }
+    ],
+    "hiring_signals": [
+      "Forward Deployed Security Engineer ($125K-$175K) - https://www.ycombinator.com/companies/clearly-ai",
+      "Founding GTM Engineer, Founding Account Executive, Founding UI/UX Design Engineer, Technical Customer Support Engineer - Security (5 open roles)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 8400000,
+      "source_url": "https://clearly-ai.com/blog/seed-round"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Founders are ex-Amazon (Alexa AI Security, Project Kuiper), suggesting AWS familiarity, but no explicit stack evidence found",
+    "contacts": [
+      {
+        "name": "Emily Choi-Greene",
+        "role": "Founder & CEO (ex-Moveworks data security lead, ex-Amazon Alexa AI Security)",
+        "linkedin": "https://www.linkedin.com/in/emilycgreene/",
+        "twitter": "https://twitter.com/escgreene",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/clearly-ai"
+      },
+      {
+        "name": "Joe Choi-Greene",
+        "role": "Founder & CTO (ex-Amazon senior SWE)",
+        "linkedin": "https://www.linkedin.com/in/jcg-cmu",
+        "twitter": "https://twitter.com/JoeChoiGreene",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/clearly-ai"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Double disqualification: they already completed their own SOC 2 (stated on their blog) and they sell automated security/privacy review tooling, making them closer to a competitor/channel partner than a prospect."
+  },
+  {
+    "slug": "rentflow",
+    "name": "RentFlow",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found in searches or on site; B2B fintech doing real-time underwriting from transaction-level bank data for commercial landlords/tenants (regulated data, institutional counterparties)",
+        "source_url": "https://www.ycombinator.com/companies/rentflow"
+      }
+    ],
+    "hiring_signals": [
+      "Senior AI/ML Lead ($130K-$200K, 0.5-2.5% equity, SF/NY/Remote) - https://www.ycombinator.com/companies/rentflow"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/mindely"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Alix Maurin",
+        "role": "Co-Founder & CEO (ex-McKinsey fintech, ex-Uber, ex-Amazon)",
+        "linkedin": "https://www.linkedin.com/in/alix-maurin-850610148/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rentflow"
+      },
+      {
+        "name": "Joseph Thalinjan",
+        "role": "Co-Founder & CEO (ex-McKinsey real estate & financial services)",
+        "linkedin": "https://www.linkedin.com/in/joseph-thalinjan",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rentflow"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "B2B fintech ingesting transaction-level bank data for commercial rent underwriting with no SOC 2 anywhere in sight, a 3-person team, and an open senior AI/ML hire - landlord/property-platform partners will require attestation. Funding beyond the YC standard deal is unverified, so budget is the main open question."
+  }
+]

@@ -1,0 +1,169 @@
+[
+ {
+  "slug": "pluto",
+  "name": "Pluto",
+  "website": "https://www.pluto.trade",
+  "one_liner": "Regulated derivatives exchange",
+  "team_size": 5,
+  "batch": "Winter 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "FinOps",
+   "Fintech",
+   "Infrastructure"
+  ],
+  "industries": [
+   "Fintech",
+   "Banking and Exchange"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "blindpay",
+  "name": "BlindPay",
+  "website": "https://blindpay.com/",
+  "one_liner": "Stablecoin API for global payments",
+  "team_size": 9,
+  "batch": "Winter 2025",
+  "tags": [
+   "Developer Tools",
+   "Fintech",
+   "Crypto / Web3",
+   "Payments",
+   "API"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "ritivel",
+  "name": "Ritivel",
+  "website": "https://www.ritivel.com",
+  "one_liner": "AI-native platform for Life-Sciences Documentation ",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [
+   "Generative AI",
+   "Compliance",
+   "Enterprise Software",
+   "Regtech",
+   "Biotechnology"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "luthor",
+  "name": "Luthor",
+  "website": "https://luthor.ai",
+  "one_liner": "Real-time governance for enterprise communications",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "B2B",
+   "Compliance",
+   "Marketing",
+   "Regtech",
+   "AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "lakonia",
+  "name": "Lakonia",
+  "website": "https://lakonia.us.com",
+  "one_liner": "Delivering AI-powered situational awareness in tactical environments.",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [
+   "GovTech",
+   "NLP",
+   "Defense"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "complydo",
+  "name": "ComplyDo",
+  "website": "https://www.complydo.io/",
+  "one_liner": "Global Compliance for Enterprises",
+  "team_size": 10,
+  "batch": "Fall 2025",
+  "tags": [
+   "B2B",
+   "Compliance",
+   "LegalTech",
+   "Cybersecurity",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": false,
+  "locations": "Berlin, Berlin, Germany",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "mayflower",
+  "name": "Mayflower",
+  "website": "https://mayflowervisa.com",
+  "one_liner": "AI plug-in that automates HR immigration screening and compliance",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [
+   "GovTech",
+   "LegalTech",
+   "Immigration"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "chestnut",
+  "name": "Chestnut",
+  "website": "https://chestnutmortgage.com/",
+  "one_liner": "The first AI mortgage lender",
+  "team_size": 2,
+  "batch": "Spring 2025",
+  "tags": [
+   "Fintech",
+   "Real Estate",
+   "Consumer",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Credit and Lending"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 55
+ }
+]

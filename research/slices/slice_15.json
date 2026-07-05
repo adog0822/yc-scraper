@@ -1,0 +1,155 @@
+[
+ {
+  "slug": "munify",
+  "name": "Munify",
+  "website": "https://munify.ai",
+  "one_liner": "The Cross-Border Neobank for the Middle East",
+  "team_size": 4,
+  "batch": "Summer 2025",
+  "tags": [
+   "Fintech",
+   "Consumer",
+   "B2B",
+   "Consumer Finance",
+   "Neobank"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "Remote",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "freya",
+  "name": "Freya",
+  "website": "https://freyavoice.ai/",
+  "one_liner": "Voice AI for Enterprises",
+  "team_size": 14,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "cova",
+  "name": "Cova",
+  "website": "https://cova.care/",
+  "one_liner": "AI-Native Home Care Agency",
+  "team_size": 5,
+  "batch": "Summer 2026",
+  "tags": [
+   "Artificial Intelligence",
+   "Consumer Health Services",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "Detroit, MI, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "florin",
+  "name": "Florin",
+  "website": "https://florin.inc",
+  "one_liner": "The financial operating system for the companies building the future.",
+  "team_size": 3,
+  "batch": "Summer 2026",
+  "tags": [
+   "Artificial Intelligence",
+   "Banking as a Service",
+   "Fintech",
+   "Finance",
+   "Neobank"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "governgpt",
+  "name": "GovernGPT",
+  "website": "https://www.governgpt.com/",
+  "one_liner": "The RFP Platform Asset Managers Adopt",
+  "team_size": 6,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "Montreal, QC, Canada",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "yenmo",
+  "name": "Yenmo",
+  "website": "https://yenmo.in/",
+  "one_liner": "Secured consumer lending in India",
+  "team_size": 5,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Lending",
+   "Consumer Finance"
+  ],
+  "industries": [
+   "Fintech",
+   "Credit and Lending"
+  ],
+  "is_hiring": false,
+  "locations": "Bengaluru, KA, India",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "event-horizon-labs",
+  "name": "Event Horizon Labs",
+  "website": "https://www.ehl.markets/",
+  "one_liner": "AI research lab automating all of investing",
+  "team_size": 4,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Finance",
+   "Investing"
+  ],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "arini",
+  "name": "Arini",
+  "website": "https://www.arini.ai",
+  "one_liner": "AI receptionist for dentists",
+  "team_size": 17,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "Dental",
+   "Call Center",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ }
+]

@@ -1,0 +1,344 @@
+[
+  {
+    "slug": "openbuilder",
+    "name": "OpenBuilder",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Security page exists at theopenbuilder.com/security (now 404) but cached content confirms AWS-hosted infrastructure with VPC, SSL/TLS, encrypted data at rest/transit, annual pen testing. No SOC 2 certification mentioned.",
+        "source_url": "https://theopenbuilder.com/security"
+      },
+      {
+        "signal": "Hosts on AWS (RDS, S3) in the US. No SOC 2 attestation found on website or trust center.",
+        "source_url": "https://www.ycombinator.com/companies/openbuilder"
+      }
+    ],
+    "hiring_signals": [
+      "Founding DevOps Engineer (SF, $170K-$220K, 1-2% equity) — direct infra/DevOps signal",
+      "Founding Full Stack Engineer (SF, $170K-$220K, 1-2% equity)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2200000,
+      "source_url": "https://benzatine.com/news-room/openbuilder-secures-22-million-to-revolutionize-vibe-coding-pricing-for-non-tech-users"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Security documentation explicitly states OpenBuilder hosts all software in AWS (US), uses AWS-managed PostgreSQL RDS and S3, and operates within its own VPC.",
+    "contacts": [
+      {
+        "name": "Paul Li",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/hey-paul/",
+        "twitter": "https://x.com/PaulTheLi",
+        "email": "paul@theopenbuilder.com",
+        "source": "https://www.ycombinator.com/companies/openbuilder"
+      },
+      {
+        "name": "James Jiang",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jamesdreamcrafters/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/openbuilder"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "AWS-native (RDS + S3 confirmed), seed funded, hiring a Founding DevOps Engineer now — classic pre-SOC 2 profile. No-code SaaS for B2B means enterprise customers will demand a trust report soon. Pitch around: 'Your DevOps hire will need to own the compliance stack — let us give them a head start with SOC 2 Type I in weeks, not months.'"
+  },
+  {
+    "slug": "prox",
+    "name": "Prox",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage explicitly states 'SOC 2 Type II certified' with trust center at trust.useprox.com. Independent audit attests to access, change-management, and incident-response controls.",
+        "source_url": "https://useprox.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Engineer (SF, $200K + 1% equity) — infra-heavy role involving Docker, AWS, telephony systems",
+      "Chief of Staff (SF, $135K + 0.35% equity)",
+      "Agent Evals Specialist (remote, $5-10/hr)"
+    ],
+    "funding": {
+      "stage": "Seed (YC)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/prox"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founding Engineer job description references Docker and AWS in real system design interviews; company is SF-based, AWS likely but not confirmed as exclusive cloud.",
+    "contacts": [
+      {
+        "name": "Gregory Makodzeba",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/gregory-makodzeba/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prox"
+      },
+      {
+        "name": "Dima Yanovsky",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/yanovsk/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prox"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Already SOC 2 Type II certified — disqualified as a new buyer. Could be relevant only if they need ongoing audit support or scope expansion, but not a primary prospect."
+  },
+  {
+    "slug": "fernstone",
+    "name": "Fernstone",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "AI-native insurance brokerage operating in regulated fintech/insurance sector with 100+ business clients. No SOC 2 page, trust center, or compliance mention found on fernstone.com.",
+        "source_url": "https://www.ycombinator.com/companies/fernstone"
+      },
+      {
+        "signal": "Raised $1.5M pre-seed + YC funding. Insurance carriers and enterprise buyers typically require SOC 2 for data-sharing relationships.",
+        "source_url": "https://www.trysignalbase.com/news/funding/fernstone-secures-15m-pre-seed-funding"
+      }
+    ],
+    "hiring_signals": [
+      "Growth & Operations Lead posting — no security/DevOps/GRC roles listed",
+      "Not actively hiring on YC platform for technical/infra roles"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 2800000,
+      "source_url": "https://www.trysignalbase.com/news/funding/fernstone-secures-15m-pre-seed-funding"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud infrastructure information publicly available for Fernstone.",
+    "contacts": [
+      {
+        "name": "James Chen",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/james-chen-394ab7b/",
+        "twitter": "https://x.com/James_R_Chen",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/fernstone"
+      },
+      {
+        "name": "Bryant Le",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/bryant-le-3884a7134/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/fernstone"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Insurance/fintech = heavy regulated buyer pressure (carriers, MGAs, reinsurers all demand SOC 2). 2-person team with $2.8M raised, 100+ business clients, no compliance certifications found — exactly the inflection point where enterprise sales stalls without a trust report. Pitch: 'Your insurance carrier partners and corporate clients will ask for SOC 2 before expanding the relationship — we can get you Type I in 8 weeks.'"
+  },
+  {
+    "slug": "brickanta",
+    "name": "Brickanta",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Trust center at trust.brickanta.com shows ISO 27001 (certified), GDPR (compliant), EU AI Act (compliant) — no SOC 2 listed. US enterprise construction buyers often require SOC 2.",
+        "source_url": "https://trust.brickanta.com/"
+      },
+      {
+        "signal": "ISO 27001:2022 certified (Certificate SE559537-3647) confirms security maturity but SOC 2 not pursued, likely due to EU-primary focus (Stockholm HQ).",
+        "source_url": "https://www.brickanta.com/security"
+      }
+    ],
+    "hiring_signals": [
+      "GTM Engineer role open — focused on revenue/product bridge, no security/infra roles",
+      "Software / AI Engineering role open — general engineering, no DevOps/GRC signal"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 8000000,
+      "source_url": "https://techfundingnews.com/brickanta-8m-seed-northzone-ai-construction/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider specified publicly. Stockholm HQ and EU AI Act compliance suggest possible European cloud (AWS EU or Azure). Cannot confirm AWS-native.",
+    "contacts": [
+      {
+        "name": "Lucas Otterling",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/lucas-otterling/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/brickanta"
+      }
+    ],
+    "fit_score": 48,
+    "pitch_note": "Already ISO 27001 certified and Stockholm-based — primary compliance story is EU-aligned (GDPR, EU AI Act). SOC 2 is a US-market requirement; Brickanta may not feel urgency unless expanding to North American enterprise construction firms. Lower priority unless they signal US go-to-market push. Score penalized for EU-only compliance posture and unknown AWS footprint."
+  },
+  {
+    "slug": "uplane",
+    "name": "Uplane",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website states ISO 27001 compliant and GDPR compliant. No SOC 2 mentioned. Enterprise-grade security claim with no attestation found.",
+        "source_url": "https://uplane.com/"
+      },
+      {
+        "signal": "19-person team, $5M raised, selling to B2B marketing buyers including regulated industries (finance, healthcare mentioned as target verticals).",
+        "source_url": "https://www.tamradar.com/funding-rounds/uplane-seed-4-5m"
+      }
+    ],
+    "hiring_signals": [
+      "Forward Deployed Engineer (Berlin) — product/client integration role",
+      "No security, GRC, DevOps, or infra-specific roles listed on YC or job board"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 5000000,
+      "source_url": "https://www.tamradar.com/funding-rounds/uplane-seed-4-5m"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider publicly disclosed. Dual HQ in Berlin and SF with EU-leaning compliance (ISO 27001, GDPR) suggests possible Azure or AWS EU. Cannot confirm AWS-native.",
+    "contacts": [
+      {
+        "name": "Julius Korfgen",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/julius-koerfgen/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/uplane"
+      },
+      {
+        "name": "Lukas Vollmer",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/lukasvollmer/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/uplane"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Funded at $5M, 19 people, selling AI SaaS to enterprise marketing teams where procurement increasingly requires SOC 2. ISO 27001 in place shows security awareness — SOC 2 Type I is a logical next step for US enterprise deals. Score reduced for EU-heavy compliance posture and unknown AWS stack. Best angle: 'Your US enterprise pipeline will hit a SOC 2 gate — ISO 27001 gets you halfway there.'"
+  },
+  {
+    "slug": "bolna-ai",
+    "name": "Bolna AI",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on bolna.ai, docs, or public trust documentation. Compliance page covers India DPDP and phone number regulations only.",
+        "source_url": "https://www.bolna.ai/docs/compliance-application/introduction"
+      },
+      {
+        "signal": "Sells to BFSI (Banking, Financial Services, Insurance) and enterprise clients including Varun Beverages, Spinny — regulated buyers requiring SOC 2 for US expansion.",
+        "source_url": "https://www.bolna.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC platform at time of research",
+      "Company at 21 employees post-$6.3M seed — likely scaling infra team internally"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 6300000,
+      "source_url": "https://www.bolna.ai/newsroom/bolna-bags-63-million-seed-funding-led-by-general-catalyst-to-build-indias-voice-ai-platform"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "On-prem deployment docs reference AWS as supported deployment target alongside GCP, Azure, and bare metal. India + USA data residency options suggest multi-cloud.",
+    "contacts": [
+      {
+        "name": "Maitreya Wagh",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/maitreya-wagh/",
+        "twitter": "https://x.com/maitreya_wagh",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/bolna-ai"
+      },
+      {
+        "name": "Prateek Sachan",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/prateek-sachan/",
+        "twitter": "https://x.com/xan_ps",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/bolna-ai"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Well-funded ($6.3M seed, General Catalyst led) voice AI platform selling into BFSI and enterprise — exactly the buyers that demand SOC 2. India-first but US expansion trajectory is clear. No SOC 2 found. Pitch angle: 'Your US BFSI customers will require SOC 2 Type II before signing — start with Type I now to unblock the pipeline while you build the controls.'"
+  },
+  {
+    "slug": "hyperspell",
+    "name": "Hyperspell",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage explicitly states 'SOC 2 Certified' — 'Independent audit confirming that we safeguard your data with the highest security standards.' Also GDPR compliant.",
+        "source_url": "https://www.hyperspell.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Platform Engineer (SF, $150K-$220K, 0.5-1.5% equity) — infrastructure-heavy role",
+      "Founding AI Engineer (SF, $150K-$220K, 0.5-1.5% equity)",
+      "Founding Forward Deployed Engineer (SF, $150K-$220K, 0.5-1.5% equity)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2000000,
+      "source_url": "https://www.extruct.ai/hub/hyperspell-com/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider publicly stated. Integrates with 50+ enterprise tools but hosting stack not disclosed.",
+    "contacts": [
+      {
+        "name": "Conor Brennan-Burke",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/conorbrennanburke/",
+        "twitter": "https://x.com/conor_ai",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hyperspell"
+      },
+      {
+        "name": "Manu Ebert",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": "https://x.com/maebert",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hyperspell"
+      }
+    ],
+    "fit_score": 18,
+    "pitch_note": "Already SOC 2 certified — disqualified as a new buyer. No fit for SOC 2 attestation services at this time."
+  },
+  {
+    "slug": "aspect-inc",
+    "name": "Aspect",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage prominently lists 'AICPA SOC 2' compliance alongside HIPAA and GDPR. Trust center at trust.aspect.inc. SSO/SAML, audit logging, multi-region replication in place.",
+        "source_url": "https://aspect.inc/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding GTM (NYC, $110K-$130K, 0.5-1% equity) — sales/GTM role",
+      "Founding Engineer (NYC, $120K-$175K, 1.5-2.5% equity) — general engineering, no infra/security specificity"
+    ],
+    "funding": {
+      "stage": "Seed (YC)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/aspect-inc"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Supports 'existing on-prem and S3 storage' and offers BYOS3 (Bring Your Own S3) enterprise feature, indicating deep AWS S3 integration. Primary cloud unconfirmed but S3-native product architecture.",
+    "contacts": [
+      {
+        "name": "Gurish Sharma",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/gurish-sharma-/",
+        "twitter": null,
+        "email": "gurish@aspect.inc",
+        "source": "https://rocketreach.co/gurish-sharma-email_284222432"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Already SOC 2 and HIPAA compliant — disqualified. Very small team (3 people) and already over-invested in compliance relative to stage. No fit."
+  }
+]

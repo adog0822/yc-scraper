@@ -1,0 +1,410 @@
+[
+  {
+    "slug": "adialante",
+    "name": "Adialante",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention on website, YC profile, or in any press coverage. Hardware/MRI device company — SOC 2 less typical but data handling of patient scan results may require it.",
+        "source_url": "https://adialante.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board",
+      "4-person team (founding stage). No DevOps, security, or GRC roles listed anywhere."
+    ],
+    "funding": {
+      "stage": "Pre-Seed/Seed",
+      "total_usd_estimate": 2930000,
+      "source_url": "https://svpost.com/articles/adialante-yc-launch-mobile-mri/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Efraín Torres",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/efra%C3%ADn-torres-phd-85293512a/",
+        "twitter": "https://x.com/ET_adialante",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/adialante"
+      },
+      {
+        "name": "Parker Jenkins",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/parker-jenkins-486893130/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/adialante"
+      }
+    ],
+    "fit_score": 38,
+    "pitch_note": "Adialante is a hardware/medtech company building mobile MRI units — not a SaaS or cloud-native play. SOC 2 is unlikely to be a near-term priority. Wrong ICP for SOC 2 attestation services."
+  },
+  {
+    "slug": "archer",
+    "name": "Archer",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Fintech payments platform handling global payouts and money movement for AI workforce — strong regulatory and compliance pressure from enterprise clients.",
+        "source_url": "https://www.ycombinator.com/companies/archer"
+      },
+      {
+        "signal": "CTO Vivek Yanamadula is ex-AWS, suggesting AWS-native infrastructure very likely.",
+        "source_url": "https://www.ycombinator.com/companies/archer"
+      },
+      {
+        "signal": "No SOC 2 evidence found on archermoney.com or any public source.",
+        "source_url": "https://archermoney.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (4-person team, early stage)",
+      "CTO with ex-AWS background indicates cloud-native build"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC P26)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/archer"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO Vivek Yanamadula is ex-AWS (Columbia CS M.S.). Fintech payments companies in this space almost universally use AWS. No direct confirmation found.",
+    "contacts": [
+      {
+        "name": "Benjamin Nguyen",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/benjaminnguyen206/",
+        "twitter": "https://x.com/bennewgen",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/archer"
+      },
+      {
+        "name": "Vivek Yanamadula",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/vivekyy/",
+        "twitter": "https://x.com/VivekYanamadula",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/archer"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Strong fit: fintech payout platform with global money movement needs SOC 2 to close enterprise and banking partner deals. CTO is ex-AWS so infrastructure is likely AWS-native. 4-person pre-seed team — early but SOC 2 conversations are relevant now before first enterprise deal. Lead with compliance unlocking enterprise customers."
+  },
+  {
+    "slug": "soria",
+    "name": "Soria",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Sells AI financial research terminal to hedge funds, bulge bracket banks, and asset managers handling >$1T AUM — these buyers routinely require SOC 2 before vendor onboarding.",
+        "source_url": "https://www.ycombinator.com/companies/soria"
+      },
+      {
+        "signal": "No SOC 2 page, trust center, or compliance mention found on soriaanalytics.com.",
+        "source_url": "https://www.soriaanalytics.com/"
+      },
+      {
+        "signal": "Won BattleFin #1 New Data Vendor and already serves teams at largest banks/hedge funds — enterprise buyers will demand SOC 2.",
+        "source_url": "https://www.ycombinator.com/companies/soria"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (3-person team)",
+      "CTO Cameron Spiller is serial fintech founding engineer — previously scaled Petal and Pinwheel to $500M-$1B valuations"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC P26)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/soria"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Adam Ron",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adammron",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/soria"
+      },
+      {
+        "name": "Cameron Spiller",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/cameron-spiller-b316b850/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/soria"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "High-priority lead: Soria already sells to bulge bracket banks and top hedge funds — these buyers almost certainly require SOC 2 before or shortly after contract. 3-person team with no compliance infrastructure, no SOC 2 evidence, and enterprise traction creating urgency. CTO has scaled fintech companies before and understands why compliance unblocks revenue."
+  },
+  {
+    "slug": "mochatrade",
+    "name": "Mochatrade",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Self-custodial crypto/derivatives platform for Indian retail traders — SOC 2 less common in consumer crypto context; regulatory focus is on FIU-IND registration.",
+        "source_url": "https://www.ycombinator.com/companies/mochatrade"
+      },
+      {
+        "signal": "No SOC 2, trust center, or compliance certification found publicly.",
+        "source_url": "https://www.mochatrade.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (3-person team)",
+      "CTO Parth Maheshwari led engineering at India's largest fintech lending startup and built Adobe Photoshop web"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": null,
+      "source_url": "https://entrackr.com/snippets/mochatrade-raises-pre-seed-funding-from-y-combinator-pioneer-fund-11804894"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Utkarsh Sinha",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/utksn15/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mochatrade"
+      },
+      {
+        "name": "Parth Maheshwari",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/parthm1801",
+        "twitter": "https://x.com/_ParthVader_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mochatrade"
+      },
+      {
+        "name": "Chetan Manda",
+        "role": "CPO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/chetanmanda/",
+        "twitter": "https://x.com/theblackmanda",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mochatrade"
+      }
+    ],
+    "fit_score": 42,
+    "pitch_note": "Weak ICP fit: Mochatrade is a consumer-facing crypto/derivatives app for Indian retail traders — SOC 2 is not a standard requirement in this jurisdiction or product category. Primary regulatory path is FIU-IND, not SOC 2. Deprioritize."
+  },
+  {
+    "slug": "arctic-health",
+    "name": "Arctic Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "AI-native credentialing and contracting platform for healthcare — handles PHI, payer integrations, and provider data. Healthcare enterprise buyers require HIPAA BAA and typically SOC 2.",
+        "source_url": "https://arctic.health/"
+      },
+      {
+        "signal": "No SOC 2 mention on arctic.health website or any public source.",
+        "source_url": "https://arctic.health/"
+      },
+      {
+        "signal": "Founder Sam Slezek built PhD data platform at Scale AI — familiar with enterprise compliance requirements.",
+        "source_url": "https://www.ycombinator.com/companies/arctic-health"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (4-person team)",
+      "CTO Raghav Mehrish was senior engineer at Airbnb and Zenefits — both AWS-heavy shops"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC P26)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/arctic-health"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO Raghav Mehrish previously at Airbnb and Zenefits, both known AWS-native companies. Healthcare cloud workloads heavily favor AWS HealthLake/HIPAA-eligible services. No direct confirmation.",
+    "contacts": [
+      {
+        "name": "Sam Slezek",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/slezek/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/arctic-health"
+      },
+      {
+        "name": "Raghav Mehrish",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/rmehrish/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/arctic-health"
+      },
+      {
+        "name": "Michael Clark",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/michael-clark-newyork/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/arctic-health"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Strong fit: healthcare credentialing platform touches PHI and requires payer trust — enterprise hospital systems and payers will demand HIPAA BAA and SOC 2 before integrating. No compliance certs found publicly. CTO from AWS-native companies. Lean 4-person team at YC stage is ideal timing. Pitch: 'Your payer partners will ask for SOC 2 before signing — let us get you there fast.'"
+  },
+  {
+    "slug": "ligo-biosciences",
+    "name": "Ligo Biosciences",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Enzyme design/synthetic biology tool for chemical industry — sells to pharma/biotech companies as a scientific SaaS. Enterprise biopharma buyers may require SOC 2.",
+        "source_url": "https://ligo.bio/"
+      },
+      {
+        "signal": "No SOC 2 mention found on ligo.bio, YC profile, or any press coverage.",
+        "source_url": "https://ligo.bio/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (4-person team)",
+      "CTO Arda Goreci is a Google Cloud Research Innovator — signals cloud-native build but GCP not AWS"
+    ],
+    "funding": {
+      "stage": "Pre-Seed/Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/ligo-biosciences"
+    },
+    "aws_native": "no",
+    "aws_evidence": "CTO Arda Goreci is a Google Cloud Research Innovator. Ligo Biosciences appears GCP-native rather than AWS-native.",
+    "contacts": [
+      {
+        "name": "Edward Harris",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/edward-harris-537837188",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ligo-biosciences"
+      },
+      {
+        "name": "Arda Goreci",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/arda-g-a26506118",
+        "twitter": "https://x.com/ArdaGoreci",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ligo-biosciences"
+      },
+      {
+        "name": "Emily Egerton-Warburton",
+        "role": "CSO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/emily-egerton-warburton-a70121211",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ligo-biosciences"
+      }
+    ],
+    "fit_score": 48,
+    "pitch_note": "Marginal fit: biotech SaaS with pharma clients might eventually need SOC 2, but the company appears GCP-native (disqualifying criterion partially met), is in biotech not typical SaaS/fintech/healthtech ICP, and has $440K ARR suggesting early traction without current compliance pressure. Lower priority."
+  },
+  {
+    "slug": "evolvere-biosciences",
+    "name": "Evolvere BioSciences",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on evolverebiosciences.com or any public source.",
+        "source_url": "https://www.evolverebiosciences.com/"
+      },
+      {
+        "signal": "Antibiotic drug discovery platform — sells to pharma companies. Pharma enterprise clients may require data security certifications for IP-sensitive computational work.",
+        "source_url": "https://www.evolverebiosciences.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (3-person team)",
+      "UK-based (Oxford) — SOC 2 less common driver vs ISO 27001 in UK/EU context"
+    ],
+    "funding": {
+      "stage": "Seed (YC S24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/evolvere-biosciences"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "AWS published a case study: 'How Evolvere Biosciences performs macromolecule design on the AWS cloud.' Uses AWS Batch, Amazon S3, AWS CloudFormation, AWS CodeBuild, AWS Lambda, Amazon FSx for Lustre, Amazon SageMaker, and Amazon ECR. Part of AWS Activate program.",
+    "contacts": [
+      {
+        "name": "Adam Winnifrith",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adam-winnifrith-b438ab182",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/evolvere-biosciences"
+      },
+      {
+        "name": "Piotr Jedryszek",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/piotr-jedryszek-085991180",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/evolvere-biosciences"
+      },
+      {
+        "name": "Weronika Slesak",
+        "role": "CSO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/weronika-slesak",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/evolvere-biosciences"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Moderate fit: confirmed AWS-native (deep AWS integration documented by AWS itself). Drug discovery biotech selling to pharma — enterprise pharma clients can require security attestations. However, UK-based team may prefer ISO 27001 over SOC 2, and drug discovery is not classic SOC 2 ICP. Worth a light touch outreach emphasizing SOC 2 for pharma enterprise sales."
+  },
+  {
+    "slug": "angstrom-ai",
+    "name": "Ångström AI",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on angstrom-ai.com or any public source.",
+        "source_url": "https://www.angstrom-ai.com/"
+      },
+      {
+        "signal": "Sells AI molecular simulation to pharma/biotech clients — enterprise pharma clients handling proprietary drug candidate data may require data security attestations.",
+        "source_url": "https://www.ycombinator.com/companies/angstrom-ai"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board (5-person team)",
+      "$900K ARR reported in 2024 — early commercial traction with pharma clients"
+    ],
+    "funding": {
+      "stage": "Seed (YC S24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/%C3%A5ngstr%C3%B6m-ai-pre-seed--431d3671"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Significant GPU compute needs (1 week on 8x A100 GPUs per run mentioned). No specific cloud provider confirmed. Cambridge spinout — may use HPC clusters or cloud, provider unknown.",
+    "contacts": [
+      {
+        "name": "Javier Antoran",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jose-miguel-hernandez-lobato-7790512a5",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/angstrom-ai"
+      },
+      {
+        "name": "Laurence Midgley",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/laurencemidgley/",
+        "twitter": "https://x.com/SilkyDogfish",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/angstrom-ai"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "Moderate fit with unknowns: $900K ARR from pharma/biotech clients means SOC 2 conversation is plausible if clients are demanding it. UK-based (Cambridge spinout) — ISO 27001 may be more relevant than SOC 2. Cloud provider unclear. Outreach should probe whether pharma clients are requesting compliance documentation."
+  }
+]

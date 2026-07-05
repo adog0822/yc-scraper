@@ -1,0 +1,153 @@
+[
+ {
+  "slug": "abel-police",
+  "name": "Abel Police",
+  "website": "http://abelpolice.com",
+  "one_liner": "Automating police paperwork",
+  "team_size": 5,
+  "batch": "Summer 2024",
+  "tags": [],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "aminoanalytica",
+  "name": "AminoAnalytica",
+  "website": "https://www.aminoanalytica.com",
+  "one_liner": "The AI scientist for always-on biodefense",
+  "team_size": 3,
+  "batch": "Summer 2024",
+  "tags": [
+   "Nanosensors",
+   "Synthetic Biology",
+   "Biotech",
+   "Diagnostics",
+   "Therapeutics"
+  ],
+  "industries": [
+   "Healthcare",
+   "Diagnostics"
+  ],
+  "is_hiring": false,
+  "locations": "London, United Kingdom",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "mito-health",
+  "name": "Mito Health",
+  "website": "https://mitohealth.com/",
+  "one_liner": "At-cost lab testing marketplace that profits when you test less",
+  "team_size": 5,
+  "batch": "Summer 2024",
+  "tags": [
+   "Consumer Health Services",
+   "Digital Health",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "mage-legal",
+  "name": "Mage Legal",
+  "website": "https://magelegal.com",
+  "one_liner": "Automatic AI Legal Diligence",
+  "team_size": 2,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Legal",
+   "LegalTech",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "rescript",
+  "name": "Rescript",
+  "website": "https://rescript.ai/",
+  "one_liner": "AI for Legal & Public Policy Teams",
+  "team_size": 2,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "Civic Tech",
+   "B2B",
+   "LegalTech"
+  ],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": true,
+  "locations": "Washington, DC, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "xtraffic",
+  "name": "XTraffic",
+  "website": "https://XTraffic.com/",
+  "one_liner": "Technology for cities to automate and manage their traffic lights.",
+  "team_size": 3,
+  "batch": "Summer 2024",
+  "tags": [],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "phases",
+  "name": "Phases",
+  "website": "https://phases.ai",
+  "one_liner": "Automated clinical trial oversight and execution",
+  "team_size": 3,
+  "batch": "Summer 2025",
+  "tags": [
+   "Healthcare IT",
+   "AI",
+   "Conversational AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "avelis-health",
+  "name": "Avelis Health",
+  "website": "https://avelishealth.com",
+  "one_liner": "We audit medical claims for self-insured employers and health plans.",
+  "team_size": 3,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ }
+]

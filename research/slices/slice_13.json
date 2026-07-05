@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "dodo",
+  "name": "Dodo",
+  "website": "https://www.dodo.ai/",
+  "one_liner": "AI agents that handle communications for clinics",
+  "team_size": 6,
+  "batch": "Summer 2024",
+  "tags": [
+   "Health Tech",
+   "Dental",
+   "Call Center",
+   "AI",
+   "Conversational AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "anthrogen",
+  "name": "Anthrogen",
+  "website": "https://anthrogen.com",
+  "one_liner": "We're training the next generation of protein foundation models.",
+  "team_size": 6,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Deep Learning",
+   "Biotech"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "baseline-ai",
+  "name": "Baseline AI",
+  "website": "https://www.baselinetrials.com/",
+  "one_liner": "AI document creation and data management for clinical trials",
+  "team_size": 2,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "Health Tech",
+   "B2B",
+   "Biotech"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "kontigo",
+  "name": "Kontigo",
+  "website": "https://kontigo.lat/",
+  "one_liner": "USDC-Smart Neobank for Latinos. ",
+  "team_size": 10,
+  "batch": "Summer 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Banking and Exchange"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "pharos",
+  "name": "Pharos",
+  "website": "https://pharos.health/",
+  "one_liner": "Helping hospitals identify and prevent avoidable harm using AI",
+  "team_size": 5,
+  "batch": "Summer 2024",
+  "tags": [
+   "Healthcare",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "vera-health",
+  "name": "Vera Health",
+  "website": "https://www.vera-health.ai",
+  "one_liner": "AI-powered clinical decision support for healthcare providers",
+  "team_size": 6,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Digital Health",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare Services"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "syntra",
+  "name": "Syntra",
+  "website": "https://www.syntra.com",
+  "one_liner": "Medical chart intelligence",
+  "team_size": 10,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Big Data",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "blank-bio",
+  "name": "Blank Bio",
+  "website": "http://blank.bio/",
+  "one_liner": "RNA intelligence for precision medicine",
+  "team_size": 6,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Therapeutics"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ }
+]

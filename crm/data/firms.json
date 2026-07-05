@@ -1,0 +1,2117 @@
+{
+ "generated_at": "2026-07-05",
+ "meta": {
+  "total": 26,
+  "tiers": {
+   "prime": 16,
+   "strong": 7,
+   "bench": 3
+  },
+  "founder_led": 24,
+  "with_contact": 26,
+  "grc_networked": 23
+ },
+ "firms": [
+  {
+   "slug": "advantage-partners",
+   "name": "Advantage Partners",
+   "website": "https://advantage-partners.com/",
+   "hq": "San Francisco, CA",
+   "founded": "circa 2021",
+   "team_size_estimate": "~10-15",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Homepage and Vanta-directory positioning: 'seamless, efficient SOC 2 attestations to small and start-up technology companies' / serves 'emerging technology companies' and 'growing technology companies'",
+     "source_url": "https://advantage-partners.com/"
+    },
+    {
+     "signal": "Blog explicitly targets growing tech companies: 'Five Tips for a Successful SOC 2 Audit: A Guide for Growing Tech Companies'",
+     "source_url": "https://advantage-partners.com/blog/soc-2-audit-tips/"
+    },
+    {
+     "signal": "Case study with startup client OutboundSync ('SOC 2 Attestation That's More Than Just Checkbox Compliance')",
+     "source_url": "https://advantage-partners.com/case-study/outboundsync/"
+    },
+    {
+     "signal": "Third-party directory: client focus = 'Startups and SMBs in SaaS and Technology sectors', custom-quote pricing, 4-6 week report turnaround",
+     "source_url": "https://soc2auditors.io/firm/advantage-partners"
+    },
+    {
+     "signal": "Startup customer story: 'How Relay Achieved SOC 2 Type II Compliance with Vanta and Advantage Partners'",
+     "source_url": "https://www.relayco.io/insights/how-relay-achieved-soc-2-type-ii-compliance-with-vanta-and-advantage-partners"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta"
+   ],
+   "aws_cloud_expertise": "Strong for an audit firm: sells SOC 2 audits directly on AWS Marketplace (standalone seller profile plus a bundled 'Vanta + VioletX + Advantage Partners: SOC 2 Accelerator for Startups' listing), and cofounder Andrew Gulrajani is an AWS Certified Cloud Practitioner (per about page).",
+   "services": [
+    "SOC 2 Type I & Type II attestations",
+    "HIPAA attestations",
+    "ISO/IEC 27001 certification audits",
+    "HITRUST assessments",
+    "CMMC advisory",
+    "Penetration testing",
+    "Audit readiness / gap assessments"
+   ],
+   "contacts": [
+    {
+     "name": "Andrew Gulrajani",
+     "role": "Cofounder & Partner (CPA; ex-Vanta partner relations, ex-Deloitte; AWS Certified Cloud Practitioner)",
+     "linkedin": "https://www.linkedin.com/in/andrew-gulrajani-cpa-b2388026",
+     "twitter": null,
+     "email": null,
+     "phone": "425-466-4660 (listed as media contact in June 2025 PRNewswire release)",
+     "source": "https://advantage-partners.com/about/ ; https://www.prnewswire.com/news-releases/advantage-partners-achieves-isoiec-27001-accreditation-302471547.html"
+    },
+    {
+     "name": "James Whiteside",
+     "role": "Cofounder & Partner (CPA; ex-Vanta Partner Relations Manager, ex-Deloitte)",
+     "linkedin": "https://www.linkedin.com/in/james-whiteside-cpa-797910b0",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://advantage-partners.com/about/"
+    },
+    {
+     "name": "Peter Case",
+     "role": "Director of Partnerships (3+ years at Vanta in go-to-market) \u2014 natural first door for a partner pitch",
+     "linkedin": "https://www.linkedin.com/in/peter-case (as listed on firm about page; verify exact slug)",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://advantage-partners.com/about/"
+    }
+   ],
+   "fit_score": 97,
+   "partnership_angle": "Referral partner + sandbox tester \u2014 the archetype fit. The firm is founder-led, ~10-15 people, exists specifically to do fast SOC 2 for small/startup tech companies, and its whole operating model is built on GRC automation (Certified Vanta Partner, staff full of ex-Vanta people, dedicated Director of Partnerships in Peter Case). Crucially, they already sell audits through AWS Marketplace, so an AWS-native readiness scanner is a natural pre-audit funnel for them: LoxeAI gets clients to audit-ready faster, Advantage keeps its 4-6 week turnaround promise. Peter Case (partnerships) is the warm entry; Gulrajani (AWS Certified) is the technical validator.",
+   "pitch_note": "Open with the AWS overlap: 'You sell SOC 2 audits on AWS Marketplace; we built an AWS-native scanner that gets your pre-audit prospects most of the way to ready before they ever sign your engagement letter.' Ask for a 20-minute call, then offer to let Gulrajani or an auditor run a LoxeAI scan against their own AWS account or a sandbox \u2014 no strings, they judge the evidence quality themselves. If it holds up, they tell pre-audit and Vanta-onboarding clients 'run this scan first \u2014 it gets you ~80% ready,' which shortens their readiness phase, protects their fast-turnaround brand, and gives LoxeAI a design-partner auditor whose validation carries weight with lean AWS-native startups.",
+   "source_urls": [
+    "https://advantage-partners.com/",
+    "https://advantage-partners.com/about/",
+    "https://advantage-partners.com/blog/soc-2-audit-tips/",
+    "https://advantage-partners.com/case-study/outboundsync/",
+    "https://soc2auditors.io/firm/advantage-partners",
+    "https://www.prnewswire.com/news-releases/advantage-partners-achieves-isoiec-27001-accreditation-302471547.html",
+    "https://aws.amazon.com/marketplace/pp/prodview-kolq7prcrbnfu",
+    "https://aws.amazon.com/marketplace/pp/prodview-q3jwxcssm4als",
+    "https://aws.amazon.com/marketplace/seller-profile?id=seller-6zw772prnwk2i",
+    "https://www.relayco.io/insights/how-relay-achieved-soc-2-type-ii-compliance-with-vanta-and-advantage-partners"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "mjd-advisors",
+   "name": "MJD Advisors",
+   "website": "https://www.mjd.cpa/",
+   "hq": "Des Moines, IA",
+   "founded": "2021",
+   "team_size_estimate": "~7 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "SOC-only boutique CPA firm serving 'software and cloud companies'; homepage testimonials are all SaaS/tech startups (Bonfire, Trovata, Pipedream, Weglot, Wednesday)",
+     "source_url": "https://www.mjd.cpa/"
+    },
+    {
+     "signal": "Fixed-fee pricing aimed at first-time SOC 2 startups: Type I $8K-$20K, Type II $15K-$35K, no hourly billing; targets 'tech startups and mid-stage SaaS companies seeking affordable first SOC 2 audits'",
+     "source_url": "https://soc2auditors.org/auditors/mjd-advisors/"
+    },
+    {
+     "signal": "CEO Mike DeKock co-presented with Drata on 'what SOC 2 readiness actually looks like for startups' and appears on podcasts about simplifying tech compliance (Brains Byte Back)",
+     "source_url": "https://sociable.co/brains-byte-back/not-your-typical-cpa-firm-a-ceo-on-a-mission-to-guide-companies-through-the-ever-changing-world-of-tech-compliance-brains-byte-back-podcast/"
+    },
+    {
+     "signal": "Firm does only SOC 1/2/2+/3 engagements for technology companies \u2014 no tax, no financial audit; completed 300+ SOC 2 reports by 2023; named Accounting Today 2026 Best Firms for Technology",
+     "source_url": "https://drata.com/blog/mjd-advisors"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta"
+   ],
+   "aws_cloud_expertise": "Third-party auditor profile credits MJD with fluency in 'cloud-native, AWS/GCP/Azure, containerized environments'; firm site emphasizes 'modern tech stack' and integrating the client's compliance platform and internal systems into the audit (source: https://soc2auditors.org/auditors/mjd-advisors/)",
+   "services": [
+    "SOC 1 examinations",
+    "SOC 2 Type I and Type II examinations",
+    "SOC 2+",
+    "SOC 3 reports",
+    "SOC 2 readiness assessments"
+   ],
+   "contacts": [
+    {
+     "name": "Mike DeKock",
+     "role": "Founder & CEO",
+     "linkedin": "https://www.linkedin.com/in/mike-dekock-7325a654/",
+     "twitter": null,
+     "email": "info@mjd.cpa",
+     "phone": null,
+     "source": "https://www.mjd.cpa/ (firm public email) and https://www.linkedin.com/in/mike-dekock-7325a654/"
+    },
+    {
+     "name": "Chris Giles, CPA",
+     "role": "Senior Manager",
+     "linkedin": "https://www.linkedin.com/in/chris-giles-cpa-812567121/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/chris-giles-cpa-812567121/"
+    }
+   ],
+   "fit_score": 95,
+   "partnership_angle": "Referral partner + design-partner feeder \u2014 near-perfect profile: ~7-person founder-led SOC-only shop that lives entirely in the first-time-SOC-2 startup segment LoxeAI targets. They already operate inside GRC automation ecosystems (Drata Auditor Alliance, Vanta partner) and publicly celebrate tooling that streamlines evidence collection, so an AWS-native pre-audit scan slots naturally in front of their fixed-fee Type 2 engagements. Mike DeKock is content-forward (podcasts, Accounting Today columns, Drata webinars), making him both reachable and a high-leverage amplifier if he validates the scan.",
+   "pitch_note": "Mike, you built MJD to make SOC 2 predictable for first-time startups \u2014 LoxeAI is trying to do the same one step earlier. It's an AWS-native readiness scan; we'd love 30 minutes for you to run it against a sandbox AWS account and pressure-test what it flags against what your auditors actually see in fieldwork. If it holds up, your pre-audit pipeline gets a simple play: 'run this scan first \u2014 it gets you ~80% ready,' which means cleaner fixed-fee engagements for MJD and fewer stalled readiness phases.",
+   "source_urls": [
+    "https://www.mjd.cpa/",
+    "https://www.mjd.cpa/about-us",
+    "https://soc2auditors.org/auditors/mjd-advisors/",
+    "https://drata.com/partners/audit-alliance/directory/mjd-advisors-llc",
+    "https://drata.com/blog/mjd-advisors",
+    "https://www.linkedin.com/company/mjd-advisors",
+    "https://www.linkedin.com/in/mike-dekock-7325a654/",
+    "https://www.linkedin.com/in/chris-giles-cpa-812567121/",
+    "https://sociable.co/brains-byte-back/not-your-typical-cpa-firm-a-ceo-on-a-mission-to-guide-companies-through-the-ever-changing-world-of-tech-compliance-brains-byte-back-podcast/",
+    "https://www.accountingtoday.com/author/mike-dekock"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "zero-day-cpa",
+   "name": "Zero Day CPA, PC",
+   "website": "https://www.zerodaycpa.com",
+   "hq": "Troy, MI",
+   "founded": "2020",
+   "team_size_estimate": "~25-30 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Homepage positions firm as 'trusted partner for B2B, SaaS, and a spectrum of industries' and describes SOC 2 as 'ideal for tech and cloud service providers'",
+     "source_url": "https://www.zerodaycpa.com"
+    },
+    {
+     "signal": "Third-party profile: specializes in startups and growing companies (1-100 employees) in SaaS, healthcare, fintech, and AI needing their first SOC 2, with flexible payment terms; SOC 2 Type 1 priced $5K-$7K, Type 2 $7K-$10K, 4-6 week turnaround",
+     "source_url": "https://soc2auditors.org/auditors/zero-day-cpa/"
+    },
+    {
+     "signal": "Startup client testimonials: healthcare startup received final SOC 2 Type 1 report within 16 days; SCYTHE praised 'deep familiarity with the Drata platform'",
+     "source_url": "https://soc2auditors.org/auditors/zero-day-cpa/"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta",
+    "Secureframe",
+    "Sprinto",
+    "TrustCloud",
+    "Thoropass",
+    "OneTrust",
+    "Apptega"
+   ],
+   "aws_cloud_expertise": "Supports AWS, Azure, and Google Cloud deployments with remote delivery; core client base is cloud/SaaS companies and CTO co-founder Patrick Sesi has a computer science background, but no AWS-exclusive specialization is claimed",
+   "services": [
+    "SOC 1",
+    "SOC 2 Type I & II",
+    "SOC 3",
+    "HIPAA",
+    "ISO 27001",
+    "HITRUST",
+    "Penetration testing",
+    "vCISO services"
+   ],
+   "contacts": [
+    {
+     "name": "Patrick Sesi",
+     "role": "Co-Founder & CTO (described as primary contact for new business and partnerships)",
+     "linkedin": "https://www.linkedin.com/in/patrick-sesi-609008b7/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/patrick-sesi-609008b7/"
+    },
+    {
+     "name": "Lance Samona",
+     "role": "President & CPA, Co-Founder",
+     "linkedin": "https://www.linkedin.com/in/lance-samona-cpa-a4515898/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/lance-samona-cpa-a4515898/"
+    },
+    {
+     "name": "Zero Day CPA (firm general contact)",
+     "role": "Main office",
+     "linkedin": "https://www.linkedin.com/company/zero-day-cpa-pc",
+     "twitter": null,
+     "email": "info@zerodaycpa.com",
+     "phone": "+1-800-599-1700",
+     "source": "https://www.zerodaycpa.com/about-us"
+    }
+   ],
+   "fit_score": 95,
+   "partnership_angle": "Referral partner AND sandbox tester \u2014 the strongest dual-fit candidate found. As a tech-forward boutique (CTO co-founder with CS background, in-house pen testing) already embedded in Drata, Vanta, AND Secureframe ecosystems, they clearly embrace automation rather than fear it, making them ideal validators of an AWS-native scanning tool. Their entire funnel is first-time SOC 2 startups (1-100 employees, cloud-hosted), which maps exactly to LoxeAI's ICP, and their fast/affordable positioning means a pre-audit readiness scan that shortens engagements complements their business model instead of cannibalizing it. Patrick Sesi (CTO) is the published entry point for partnerships.",
+   "pitch_note": "Reach out to Patrick Sesi: 'You built Zero Day around getting cloud startups through their first SOC 2 fast \u2014 LoxeAI is an AWS-native readiness scanner built for exactly those clients. Would you run a scan against a sandbox AWS account (or your own environment) and tear it apart? If it holds up to your standards, your pre-audit pipeline gets a tool you can hand to prospects \u2014 run this scan first, it gets you ~80% ready before fieldwork \u2014 which makes your 4-6 week turnarounds even faster and your Drata/Vanta-side clients cleaner on day one.' The ask is a 20-minute call plus one sandbox scan; validation converts them into a referral channel for every not-yet-ready startup that calls them too early.",
+   "source_urls": [
+    "https://www.zerodaycpa.com",
+    "https://www.zerodaycpa.com/about-us",
+    "https://soc2auditors.org/auditors/zero-day-cpa/",
+    "https://www.linkedin.com/in/patrick-sesi-609008b7/",
+    "https://www.linkedin.com/in/lance-samona-cpa-a4515898/",
+    "https://www.linkedin.com/company/zero-day-cpa-pc",
+    "https://drata.com/partners/audit-alliance/directory"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "constellation-grc",
+   "name": "Constellation GRC (ConstellationGRC)",
+   "website": "https://www.constellationgrc.com/",
+   "hq": "3020 Old Ranch Pkwy # 300, Seal\u2026",
+   "founded": null,
+   "team_size_estimate": "~8 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Dedicated 'Audits for Startups' industry page: 'we understand what's important to early stage companies: speed, simplicity, and cost'; recommends Security-criterion-only, 3-month observation windows, Type I 'within weeks' as startup-friendly on-ramps",
+     "source_url": "https://www.constellationgrc.com/industries/audits-for-startups"
+    },
+    {
+     "signal": "Separate industry pages for SaaS companies and agencies; homepage 'catering to the unique needs of startups'; positions SOC 2 as 'table stakes' for SaaS competitive advantage",
+     "source_url": "https://www.constellationgrc.com/industries/audits-for-saas"
+    },
+    {
+     "signal": "About page: founded by 'former big 4 executives looking to work with startups, small and medium-size organizations' seeking security/privacy compliance",
+     "source_url": "https://www.constellationgrc.com/about-us"
+    },
+    {
+     "signal": "Third-party review listing describes them as delivering 'fast, seamless and affordable SOC 2 audits for startups' with pricing 'remarkably accessible... ideal choice for small startups'",
+     "source_url": "https://www.g2.com/products/constellationgrc/reviews"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta",
+    "Drata"
+   ],
+   "aws_cloud_expertise": "Homepage displays AWS, Azure, Google Cloud, and Digital Ocean logos as 'Trusted Cloud Partners'; SOC 2 page explicitly addresses 'cloud-only infrastructure' clients. Cloud-native client base implied but no dedicated AWS practice page found. (Sources: https://www.constellationgrc.com/, https://www.constellationgrc.com/soc2)",
+   "services": [
+    "SOC 2 Type I and Type II examinations",
+    "Startup-focused audit scoping",
+    "Evidence collection via automated compli\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Michael Skiles",
+     "role": "Co-Founder & Head of Partnerships (Huntington Beach, CA; PhD UCLA, MBA Quantic; ex-HostGPO)",
+     "linkedin": "https://www.linkedin.com/in/mskiles/",
+     "twitter": "https://x.com/GRCmichael",
+     "email": null,
+     "phone": null,
+     "source": "https://rocketreach.co/constellationgrc-management_b6de3646c737ac2b and https://www.zoominfo.com/p/Michael-Skiles/21346287"
+    },
+    {
+     "name": "Dan Smith",
+     "role": "Co-Founder & CEO",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.constellationgrc.com/about-us"
+    },
+    {
+     "name": "Firm general inbox",
+     "role": "General contact (email + Calendly consultation link on site)",
+     "linkedin": null,
+     "twitter": null,
+     "email": "contact@constellationgrc.com",
+     "phone": null,
+     "source": "https://www.constellationgrc.com/"
+    }
+   ],
+   "fit_score": 92,
+   "partnership_angle": "Referral partner + sandbox tester \u2014 the single best profile in this niche. It is a ~8-person, founder-led boutique CPA firm with a dedicated startups practice, it already monetizes GRC-platform alignment (discounts for Vanta/Drata users), and \u2014 uniquely \u2014 it has a named Co-Founder whose entire job is partnerships (Michael Skiles). A LoxeAI referral arrangement mirrors a motion they already run with Vanta/Drata: auditor validates the tool, then routes pre-audit startup clients to it. Their 'speed, simplicity, cost' positioning for early-stage AWS-native teams matches LoxeAI's readiness-scan value prop exactly.",
+   "pitch_note": "Reach out to Michael Skiles (Co-Founder & Head of Partnerships): 'You already give discounts to startups on Vanta and Drata because clean evidence makes your audits faster \u2014 LoxeAI does the same thing one step earlier, for AWS-native teams that aren't audit-ready yet.' Ask for a 30-minute call where his audit team runs a LoxeAI scan against a sandbox AWS account and pokes holes in the findings as auditors. If it holds up, Constellation tells pre-audit startup leads 'run this scan first \u2014 it gets you 80% ready,' turning their not-yet-ready pipeline into faster, cheaper engagements they can close sooner.",
+   "source_urls": [
+    "https://www.constellationgrc.com/",
+    "https://www.constellationgrc.com/about-us",
+    "https://www.constellationgrc.com/industries/audits-for-startups",
+    "https://www.constellationgrc.com/soc2",
+    "https://www.constellationgrc.com/industries/audits-for-saas",
+    "https://rocketreach.co/constellationgrc-management_b6de3646c737ac2b",
+    "https://www.zoominfo.com/c/constellation-grc/1340984312",
+    "https://www.linkedin.com/company/painless-soc2",
+    "https://www.linkedin.com/in/mskiles/",
+    "https://x.com/GRCmichael",
+    "https://www.g2.com/products/constellationgrc/reviews"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "render-compliance",
+   "name": "Render Compliance",
+   "website": "https://rendercompliance.com/",
+   "hq": "Seattle, WA",
+   "founded": "2023",
+   "team_size_estimate": "2-10",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Pricing page explicitly targets early-stage SaaS: Type 1 pitched as ideal for 'a Series A startup that just received their first enterprise security questionnaire'; smallest pricing band is 1-100 employees at $20K",
+     "source_url": "https://rendercompliance.com/pricing/"
+    },
+    {
+     "signal": "Firm positions as a SOC 1/SOC 2 CPA firm exclusively for B2B SaaS companies, 'auditors fluent in SaaS infrastructure', 3-week report turnaround",
+     "source_url": "https://rendercompliance.com/"
+    },
+    {
+     "signal": "Homepage headline market is SaaS companies 200-2,000 employees (slightly upstream of a 1-30 person ICP), but pricing bands and Series A messaging show they actively serve the startup end",
+     "source_url": "https://rendercompliance.com/"
+    },
+    {
+     "signal": "Practitioner blog aimed at SaaS compliance/DevOps teams, e.g. 'SOC 2 Controls for AWS: A Practical Security Checklist for SaaS Teams'",
+     "source_url": "https://rendercompliance.com/blog/soc-2-controls-for-aws-a-practical-security-checklist-for-saas-teams/"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta"
+   ],
+   "aws_cloud_expertise": "Strong for firm size: publishes AWS-specific SOC 2 control content covering IAM key rotation, prod/non-prod environment separation, resource tagging (EC2/S3/RDS), WAF, and GuardDuty; team lists AWS Security Fundamentals certification; blog references a free open-source 'AWS Audit Playbook' on GitHub and critiques generic GRC-tool control templates that 'fit like a bad pair of shoes' for AWS environments.",
+   "services": [
+    "SOC 1 attestation",
+    "SOC 2 Type 1 and Type 2 attestation",
+    "SOC 3 report",
+    "SOC 2+",
+    "Compliance gap assessments",
+    "Microsoft SSPA assessments",
+    "Compliance consulting"
+   ],
+   "contacts": [
+    {
+     "name": "Beau Butaud",
+     "role": "Co-Founder / Information Security Assurance Partner (CPA, CISA, MPAcc)",
+     "linkedin": "https://www.linkedin.com/in/beaubutaud/",
+     "twitter": null,
+     "email": null,
+     "phone": "(805) 769-8026",
+     "source": "https://rendercompliance.com/about/"
+    },
+    {
+     "name": "Matthew Corapi",
+     "role": "Information Security Assurance Manager (CPA, CISA, MBA, ISO 27001 Lead Auditor)",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://rendercompliance.com/about/"
+    }
+   ],
+   "fit_score": 92,
+   "partnership_angle": "Referral partner + sandbox tester (Tester -> Validator -> Design Partner). A 2-person founder-led CPA firm founded in 2023 with genuine AWS configuration fluency is the ideal validator profile: Beau Butaud already writes hands-on AWS SOC 2 checklists and maintains open-source AWS audit tooling, so he can technically vet LoxeAI's scan output and, if satisfied, route pre-audit Series A prospects to it as a readiness step. Their published $20K small-band pricing means an inbound startup that isn't audit-ready is currently a stalled deal for them \u2014 LoxeAI gives them something to hand those prospects instead of losing them. Only caveat: headline positioning is SaaS 200-2,000 employees, slightly upstream of LoxeAI's 1-30 ICP, so frame LoxeAI as their funnel for the smaller inbound leads they'd otherwise turn away or park.",
+   "pitch_note": "Beau \u2014 your AWS SOC 2 checklist (IAM rotation, env separation, GuardDuty) covers exactly what LoxeAI scans for automatically in AWS-native startups. Would you spend 30 minutes running it against a sandbox account and telling us where it's wrong? If it holds up to your standards, you'd have a concrete answer for the pre-Series-A inbounds that aren't ready for your $20K engagement yet: 'run this scan first \u2014 it gets you 80% ready,' and they come back to Render audit-ready instead of ghosting.",
+   "source_urls": [
+    "https://rendercompliance.com/",
+    "https://rendercompliance.com/about/",
+    "https://rendercompliance.com/pricing/",
+    "https://rendercompliance.com/blog/soc-2-controls-for-aws-a-practical-security-checklist-for-saas-teams/",
+    "https://rendercompliance.com/contact/",
+    "https://www.linkedin.com/in/beaubutaud/",
+    "https://www.linkedin.com/company/render-compliance"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "audit-peak",
+   "name": "Audit Peak",
+   "website": "https://www.auditpeak.com",
+   "hq": "1441 Broadway, Suite 6107, New Y\u2026",
+   "founded": "2021",
+   "team_size_estimate": "Very small boutique \u2014 Ro\u2026",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Firm's own launch press release: 'completed hundreds of audits for start-ups, mid-caps, and large-cap companies' and worked with companies 'with less than ten (10) employees'",
+     "source_url": "https://www.auditpeak.com/bridging-diversity-gap-minority-cpa-firm/"
+    },
+    {
+     "signal": "Drata Auditor Directory profile: explicitly experienced with 'startups, high-growth companies, and global enterprises'; 5.0/5 rating with a startup reviewer saying 'As a startup, we've found the guidance provided by the Audit Peak team to be invaluable'",
+     "source_url": "https://drata.com/auditor/directory/audit-peak"
+    },
+    {
+     "signal": "About page: serves 'start-ups, mid-size and large-cap companies' with fair pricing and a no-sales-culture ethos; prior research put SOC 2 Type II pricing at $15-45K, below specialist-tier average \u2014 priced for lean startups",
+     "source_url": "https://www.auditpeak.com/about/"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Sprinto"
+   ],
+   "aws_cloud_expertise": "Team holds AWS and Cloud certifications alongside CPA/CISA (about page); Drata directory profile lists 'cloud infrastructure evaluation (AWS, Azure, GCP)' as a key specialty; firm markets experience auditing both legacy and cloud environments",
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 audits",
+    "Readiness assessments",
+    "HIPAA, GDPR, GLBA compliance",
+    "FISMA, NIST 800-53, NIST CSF, IRS Public\u2026",
+    "HITRUST, ISO 27001, PCI DSS advisory",
+    "Agreed-Upon Procedures",
+    "Cybersecurity assessments and risk advis\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Chevorne Lewis",
+     "role": "Project Manager / Compliance Officer (media contact in firm press releases)",
+     "linkedin": "https://www.linkedin.com/in/chevorne-lewis/",
+     "twitter": null,
+     "email": "chevorne.lewis@auditpeak.com",
+     "phone": "+1 212-740-7325",
+     "source": "https://www.auditpeak.com/bridging-diversity-gap-minority-cpa-firm/"
+    },
+    {
+     "name": "Monifa Sutherland",
+     "role": "Senior Accountant",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://rocketreach.co/audit-peak-management_b70301ebc4f94d92"
+    },
+    {
+     "name": "Audit Peak (general)",
+     "role": "Firm inbox / scheduling",
+     "linkedin": "https://www.linkedin.com/company/auditpeak",
+     "twitter": null,
+     "email": "info@auditpeak.com",
+     "phone": "+1 (212) 740-7325",
+     "source": "https://www.auditpeak.com"
+    }
+   ],
+   "fit_score": 90,
+   "partnership_angle": "Referral partner + sandbox tester. Audit Peak is exactly the profile LoxeAI wants: a founder-led, sub-15-person boutique founded in 2021 that already audits 10-person cloud-native startups at startup-friendly prices ($15-45K Type II), holds AWS certifications, and already operates inside the Drata automation ecosystem \u2014 so recommending a readiness scan to pre-audit clients is a natural extension of how they already work. Their small size means one validated relationship converts the whole firm. Best entry: get them to run LoxeAI against a sandbox AWS account (sandbox tester), then convert to a standing referral partner for their pre-audit/readiness-assessment pipeline. Caveat: the founder is not publicly named, so the first call likely routes through Chevorne Lewis or info@/Calendly.",
+   "pitch_note": "You built Audit Peak to give 10-person cloud startups Big 4-quality SOC 2 audits without Big 4 friction \u2014 LoxeAI was built for the same clients on the readiness side. It's an AWS-native scanner that maps a startup's actual AWS posture against SOC 2 criteria before the audit starts; we'd love 30 minutes to have you run it against a sandbox (or your own) AWS environment and tear it apart as an auditor. If it holds up, your pre-audit clients get a 'run this scan first \u2014 it gets you 80% ready' step that shortens your readiness assessments and sends you cleaner evidence on day one.",
+   "source_urls": [
+    "https://www.auditpeak.com",
+    "https://www.auditpeak.com/about/",
+    "https://www.auditpeak.com/bridging-diversity-gap-minority-cpa-firm/",
+    "https://drata.com/auditor/directory/audit-peak",
+    "https://rocketreach.co/audit-peak-management_b70301ebc4f94d92",
+    "https://www.linkedin.com/company/auditpeak",
+    "https://www.linkedin.com/in/chevorne-lewis/"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "bd-emerson",
+   "name": "BD Emerson",
+   "website": "https://www.bdemerson.com/",
+   "hq": "Richmond, Virginia, US",
+   "founded": "2020",
+   "team_size_estimate": "~14 employees per Linked\u2026",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Dedicated 'Cybersecurity Services for Startups' industry page: 'your strategic partner in innovation... ensures that your startup is on the fast track to regulatory compliance from the very beginning', featuring a 'VC Backed Startup' SOC 2 Type 1-in-60-days case study",
+     "source_url": "https://www.bdemerson.com/industries/startups"
+    },
+    {
+     "signal": "Runs a 'SOC 2 Compliance Cohort Program' \u2014 a group/shared-cost readiness program aimed at small companies getting SOC 2 for the first time",
+     "source_url": "https://www.bdemerson.com/service/soc-2-compliance-cohort-program"
+    },
+    {
+     "signal": "Case-study roster is dominated by small SaaS/tech startups: Boxcore, Dedupely, HiredHelpr, Incentiv, LifeLenz, Meridian AI, Titan Intake, mdhub (HIPAA + SOC 2 audit)",
+     "source_url": "https://www.bdemerson.com/industries/startups"
+    },
+    {
+     "signal": "Recommended organically on r/soc2 by a practitioner who works with multiple audit firms: 'BD Emerson in particular is very economical and works with a lot of SaaS companies your size' (context: ~10-person SaaS startup)",
+     "source_url": "https://www.reddit.com/r/soc2/"
+    },
+    {
+     "signal": "Vanta customer story: 'Lemba Therapeutics builds trust in biotech with Vanta and BD Emerson' \u2014 early-stage-company co-sell motion with a GRC automation platform",
+     "source_url": "https://www.vanta.com/customers/lemba-therapeutics"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta",
+    "VComply"
+   ],
+   "aws_cloud_expertise": "Yes \u2014 team certification badges displayed on the SOC 2 service page include AWS Solutions Architect and AWS Security (Specialty); firm offers a Managed Cloud Security service line; Managing Director Drew Danner's bio highlights 'securing cloud infrastructure' plus a software-engineering background (sources: https://www.bdemerson.com/service/soc-2, https://www.bdemerson.com/team/drew-danner)",
+   "services": [
+    "SOC 2 readiness/compliance consulting",
+    "SOC 2 Type 1 & Type 2 audits",
+    "SOC 2 Compliance Cohort Program",
+    "Vanta implementation",
+    "ISO 27001 / HIPAA / GDPR / CMMC / FedRAM\u2026",
+    "vCISO / vCTO / vCIO / vDPO fractional le\u2026",
+    "Web app penetration testing",
+    "Managed cloud security & IT",
+    "Technology due diligence",
+    "AI governance / ISO 42001 / EU AI Act co\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Drew Danner",
+     "role": "Managing Director (leads the firm; CISSP, PMP; background in military intelligence, software engineering, security leadership)",
+     "linkedin": "https://www.linkedin.com/in/drew-danner-strategy-transformation-risk-innovation-security/",
+     "twitter": null,
+     "email": "Drew.Danner@bdemerson.com",
+     "phone": "+1 (804) 913-3012 (firm main line, published sitewide)",
+     "source": "https://www.bdemerson.com/team/drew-danner"
+    },
+    {
+     "name": "Jose Gonzalez Jr.",
+     "role": "Director - Operations",
+     "linkedin": null,
+     "twitter": null,
+     "email": "Jose.Gonzalez@bdemerson.com",
+     "phone": null,
+     "source": "https://www.bdemerson.com/team/jose-gonzalez-jr"
+    }
+   ],
+   "fit_score": 90,
+   "partnership_angle": "Referral partner + sandbox tester \u2014 the strongest-profile firm in the pipeline. They hit every criterion: boutique (~14 FTE, founded 2020, Richmond VA), founder-led (Drew Danner), startup/SaaS-specialized (dedicated startups page, SOC 2 cohort program, VC-backed case studies), already automation-first (early Vanta Certified implementation partner, VComply Premier Partner), and AWS-credentialed staff (AWS SA + AWS Security badges). Because they run both a readiness consulting arm and a CPA audit arm, a validated LoxeAI scan slots directly into their pre-audit intake, and the SOC 2 Cohort Program is a natural bulk-distribution channel. Two caveats reflected in the score: (1) they sell readiness consulting themselves, so position LoxeAI as automating their lowest-margin evidence-gathering work rather than replacing advisory; (2) they joined Andersen Consulting as a collaborating firm in July 2025 (Danner's LinkedIn now shows Andersen Consulting) \u2014 move fast while boutique decision-making autonomy is intact, and confirm AICPA independence lines given their dual consult+audit model.",
+   "pitch_note": "Hi Drew \u2014 you were one of the first Vanta Certified implementation partners, so you clearly bet early on automation that makes SOC 2 cheaper for the SaaS startups you serve. We built LoxeAI, an AWS-native SOC 2 readiness scanner for exactly that segment; I'd love 20 minutes for you to run it against a sandbox AWS account and tear the results apart with your auditor's eye. If it holds up, the ask is simple: tell pre-audit clients and your SOC 2 cohort members to run the scan first \u2014 it gets them ~80% audit-ready before your team bills an hour, and every report arrives pre-mapped to the evidence your CPA arm needs.",
+   "source_urls": [
+    "https://www.bdemerson.com/",
+    "https://www.bdemerson.com/team/drew-danner",
+    "https://www.bdemerson.com/team/jose-gonzalez-jr",
+    "https://www.bdemerson.com/industries/startups",
+    "https://www.bdemerson.com/service/soc-2",
+    "https://www.bdemerson.com/service/soc-2-compliance-cohort-program",
+    "https://www.bdemerson.com/about",
+    "https://www.bdemerson.com/service/vanta-implementation-services",
+    "https://www.vanta.com/customers/lemba-therapeutics",
+    "https://www.v-comply.com/partnership-b-d-emerson-2024/",
+    "https://www.linkedin.com/company/bd-emerson",
+    "https://www.linkedin.com/in/drew-danner-strategy-transformation-risk-innovation-security/",
+    "https://www.bbb.org/us/va/richmond/profile/cyber-security/bd-emerson-0603-63421272",
+    "https://andersen.com/resources/andersen-consulting-strengthens-cybersecurity-capabilities-addition-bd-emerson",
+    "https://www.businesswire.com/news/home/20250722998030/en/Andersen-Consulting-Strengthens-Cybersecurity-Capabilities-with-Addition-of-BD-Emerson"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "tempo-audits",
+   "name": "Tempo Audits",
+   "website": "https://www.tempoaudits.com",
+   "hq": "Bristol, UK",
+   "founded": "early 2024",
+   "team_size_estimate": "~5-15",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Site tagline 'Building trust in fast-growing tech companies' and 'We're built to work with tech companies'; remote-first, cybersecurity-specialist audits",
+     "source_url": "https://www.tempoaudits.com"
+    },
+    {
+     "signal": "SOC 2 'Starter Package' explicitly priced for 0-50 employee startups (Type 1 \u00a34,000 / Type 2 \u00a310,000); targets B2B SaaS, fintech, cloud and data platforms",
+     "source_url": "https://www.tempoaudits.com/soc-2"
+    },
+    {
+     "signal": "techSPARK interview: founded early 2024 by tech founder Rob Hall to fix 'old-school, slow-moving' audit firms 'unsuited to early-stage tech'; now serving 200+ early-stage tech companies",
+     "source_url": "https://techspark.co/blog/2026/03/04/auditing-at-the-speed-of-tech-rob-hall/"
+    },
+    {
+     "signal": "Drata directory lists ideal client size as SMB (1-300 FTE), industry focus 'SaaS, Start-ups, Technology'; 5.0 rating across 9 reviews",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/tempo-audits"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta",
+    "URM Consulting"
+   ],
+   "aws_cloud_expertise": "SOC 2 page says its auditors understand 'cloud-native infrastructure' and 'AWS architecture' tech stacks; positioning is 'built around streamlining the process for companies that use cloud tools and/or compliance platforms' \u2014 cloud-fluent but no formal AWS specialization or certifications published",
+   "services": [
+    "SOC 2 Type 1 and Type 2 attestations",
+    "ISO 27001 certification",
+    "ISO 42001",
+    "Audit preparation and consultation"
+   ],
+   "contacts": [
+    {
+     "name": "Rob Hall",
+     "role": "Founder & CEO (ex-corporate lawyer; founded Bristol startup Wriggle; ex-Chief of Staff at an ISO 27001 automation platform)",
+     "linkedin": "https://www.linkedin.com/in/robjshall/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://techspark.co/blog/2026/03/04/auditing-at-the-speed-of-tech-rob-hall/"
+    },
+    {
+     "name": "Tempo Audits (general)",
+     "role": "Firm inbox",
+     "linkedin": "https://www.linkedin.com/company/tempo-audits",
+     "twitter": null,
+     "email": "hello@tempoaudits.com",
+     "phone": null,
+     "source": "https://www.tempoaudits.com/soc-2"
+    }
+   ],
+   "fit_score": 90,
+   "partnership_angle": "Referral partner + sandbox tester for a European entry motion. Tempo is a founder-led micro-boutique (well under 40 people) serving 200+ early-stage tech companies, already deeply embedded in the Drata/Vanta automation ecosystems and publicly claiming AWS-architecture fluency \u2014 exactly the profile that can validate LoxeAI and route pre-audit SaaS clients to it. Caveat: UK/Europe-based, so it complements rather than replaces a US-first referral channel; SOC 2 opinions run through US partner Sensiba, which could also make Tempo a warm intro path into a larger US CPA firm.",
+   "pitch_note": "Rob \u2014 you built Tempo because legacy audit firms were too slow for early-stage tech; LoxeAI exists for the same reason on the readiness side. It's an AWS-native SOC 2 readiness scanner built for lean startups: would you take 30 minutes to run it against a sandbox AWS account and tear apart the findings as an auditor? If it holds up, your pre-audit pipeline gets a simple play \u2014 'run this scan first, it gets you ~80% ready' \u2014 so clients arrive at your Type 1/Type 2 engagements cleaner and faster, at zero cost to Tempo.",
+   "source_urls": [
+    "https://www.tempoaudits.com",
+    "https://www.tempoaudits.com/soc-2",
+    "https://www.tempoaudits.com/vanta-user-guide",
+    "https://techspark.co/blog/2026/03/04/auditing-at-the-speed-of-tech-rob-hall/",
+    "https://drata.com/partners/audit-alliance/directory/tempo-audits",
+    "https://www.linkedin.com/in/robjshall/",
+    "https://www.urmconsulting.com/partners/tempo-audits"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "auditvisor",
+   "name": "Auditvisor LLC",
+   "website": "https://auditvisor.com/",
+   "hq": "Fort Lauderdale, FL",
+   "founded": "2025",
+   "team_size_estimate": "1-10 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Site segments clients by stage, with a dedicated 'Startups: Building a Strong Foundation' tier offering tailored consultation and initial audits",
+     "source_url": "https://auditvisor.com/"
+    },
+    {
+     "signal": "AWS Marketplace listing says the firm serves 'B2B SaaS companies, financial service providers, healthcare organizations' \u2014 'from early-stage startups to global enterprises'",
+     "source_url": "https://aws.amazon.com/marketplace/pp/prodview-zwdcg5dyj4pay"
+    },
+    {
+     "signal": "Positions itself for SaaS, fintech, payment processors, and cloud/data-center companies as named industry verticals",
+     "source_url": "https://auditvisor.com/"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta",
+    "Drata",
+    "Secureframe",
+    "Tugboat"
+   ],
+   "aws_cloud_expertise": "Strong: registered AWS Marketplace seller with a dedicated 'SOC 2 Audit & Attestation Services' listing that includes an 'AWS Security Controls Audit & Mapping' service covering Security Hub, GuardDuty, WAF, CloudTrail, and Control Tower; claims deep expertise in cloud-native AWS/GCP/Azure deployments (https://aws.amazon.com/marketplace/pp/prodview-zwdcg5dyj4pay)",
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 attestation",
+    "SOC 2 readiness assessments",
+    "AWS security controls audit & mapping",
+    "PCI DSS",
+    "ISO certification",
+    "HIPAA",
+    "GDPR",
+    "NIST",
+    "FedRAMP",
+    "Penetration testing",
+    "Non-attest cybersecurity/compliance cons\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Pranav Tulsian",
+     "role": "Founder & Director (CPA, CFE; ex-PricewaterhouseCoopers); active LinkedIn poster on SOC 2 topics",
+     "linkedin": "https://ca.linkedin.com/in/tulsianpranav",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://ca.linkedin.com/in/tulsianpranav"
+    },
+    {
+     "name": "Daniel Hoffman",
+     "role": "Manager / Authorized Representative (per Florida filing)",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.bizprofile.net/fl/fort-lauderdale/auditvisor-llc"
+    },
+    {
+     "name": "Auditvisor (firm general)",
+     "role": "Main firm contact",
+     "linkedin": "https://www.linkedin.com/company/usauditvisor",
+     "twitter": null,
+     "email": "info@auditvisor.com",
+     "phone": "+1 (647) 574-2353",
+     "source": "https://www.auditvisor.com/about-us"
+    }
+   ],
+   "fit_score": 88,
+   "partnership_angle": "Referral partner + sandbox tester \u2014 near-ideal profile. A brand-new (2025), founder-led, 1-10 person CPA boutique that already sells SOC 2 audits ON AWS Marketplace and offers an AWS-specific security-controls audit (Security Hub, GuardDuty, CloudTrail, Control Tower), so LoxeAI's AWS-native scan maps directly onto work they already do manually. As a young firm hungry for deal flow, a co-referral loop (LoxeAI sends scan users needing an auditor; Auditvisor sends pre-audit clients to the scan) is mutually valuable. Their alternative practice structure (separate attest and consulting entities) makes it clean for them to recommend a readiness tool without independence conflicts. One nuance: founder Pranav Tulsian has publicly posted 'AI in SOC 2 audits: a misleading promise' \u2014 he is skeptical of AI-replaces-auditor claims, so position LoxeAI strictly as pre-audit readiness scanning that feeds him better-prepared clients, not as audit automation.",
+   "pitch_note": "Pranav \u2014 you already audit AWS Security Hub, GuardDuty, and CloudTrail configs by hand, and your posts make clear you have no patience for tools that overpromise on SOC 2. LoxeAI doesn't claim to audit anything: it's an AWS-native readiness scan that gets lean startups ~80% of the way before they ever call a CPA. Run it against your own or a sandbox AWS account on a 20-minute call \u2014 if the findings hold up to your standards, tell your pre-audit pipeline 'run this scan first,' and we'll route scan users who need a Type 1/Type 2 straight to Auditvisor.",
+   "source_urls": [
+    "https://auditvisor.com/",
+    "https://www.auditvisor.com/about-us",
+    "https://aws.amazon.com/marketplace/pp/prodview-zwdcg5dyj4pay",
+    "https://ca.linkedin.com/in/tulsianpranav",
+    "https://www.linkedin.com/company/usauditvisor",
+    "https://www.bizprofile.net/fl/fort-lauderdale/auditvisor-llc",
+    "https://www.zoominfo.com/c/auditvisor-llc/1327050469",
+    "https://www.linkedin.com/posts/tulsianpranav_soc2-cpa-auditethics-activity-7343072470712598528-VC4W"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "consilium-labs",
+   "name": "Consilium Labs",
+   "website": "https://consilium-labs.com/",
+   "hq": "El Dorado Hills, CA",
+   "founded": "2020",
+   "team_size_estimate": "~15 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Vanta partner page explicitly markets 'affordable, startup-friendly pricing' and 'helping startups like yours overcome cybersecurity challenges swiftly'; Vanta clients get a 15% discount",
+     "source_url": "https://vanta.consilium-labs.com/"
+    },
+    {
+     "signal": "Among the cheapest startup-friendly SOC 2 Type 2 pricing tracked by soc2auditors.org ($10K-$16K range) in its list of SOC 2 auditors for startups",
+     "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+     "signal": "Blog post 'SOC 2 Made Simple: A Strategic Asset for Scaling SaaS' pitches a redesigned audit experience for SaaS teams: GRC-tool integration, SaaS-aware auditors who understand modern dev teams, delivery SLAs",
+     "source_url": "https://consilium-labs.com/soc-2-made-simple-a-strategic-asset-for-scaling-saas/"
+    },
+    {
+     "signal": "Homepage targets SaaS, cloud-native, and AI companies; client logos are startups (Bria, Pliant, SoSafe, Affinda); LinkedIn post celebrates startup Queue achieving SOC 2 Type I",
+     "source_url": "https://consilium-labs.com/"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta",
+    "Drata",
+    "Secureframe"
+   ],
+   "aws_cloud_expertise": "No explicit AWS specialization published, but clearly cloud-fluent: targets SaaS/cloud-native/AI companies, is a CSA STAR Level 2 certified auditor (cloud security assurance), and emphasizes automation-driven, GRC-tool-integrated audits. AWS depth unverified.",
+   "services": [
+    "SOC 2 Type I and Type II audits",
+    "ISO/IEC 27001 and 27701 certification",
+    "ISO/IEC 42001",
+    "CSA STAR Certification",
+    "Penetration testing",
+    "CMMC pre-assessment",
+    "Microsoft SSPA"
+   ],
+   "contacts": [
+    {
+     "name": "Ben Ben Aderet",
+     "role": "CEO (also co-founder/CEO of GRSee Consulting, Consilium Labs' sister consultancy)",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://councils.forbes.com/profile/Ben-Ben-Aderet-CEO-GRSee-Consulting-Consilium-Labs/9a2d84c6-9c4c-4f59-82c2-07371b8a9cfa"
+    },
+    {
+     "name": "Elad Motola",
+     "role": "Managing Director",
+     "linkedin": "https://www.linkedin.com/in/elad-motola-3233b94a/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/elad-motola-3233b94a/"
+    },
+    {
+     "name": "Consilium Labs (general)",
+     "role": "Firm inbox + office line; Calendly booking link on Vanta partner page",
+     "linkedin": "https://www.linkedin.com/company/consilium-labs",
+     "twitter": null,
+     "email": "info@consilium-labs.com",
+     "phone": "669-777-3084",
+     "source": "https://consilium-labs.com/"
+    }
+   ],
+   "fit_score": 88,
+   "partnership_angle": "Referral partner with a design-partner feeder motion. Consilium Labs is a ~15-person, founder-led boutique founded in 2020 that already runs its practice on GRC automation (dedicated Vanta, Drata, and Secureframe partner pages) and explicitly sells cheap, fast audits to startups and SaaS teams \u2014 exactly the pre-audit pipeline LoxeAI needs. Because they are also an accredited ISO 42001/27001 certification body, one relationship covers SOC 2 plus AI-governance referrals. Their whole brand is 'automation-driven efficiency,' so a scanner that pre-cleans AWS environments before evidence collection strengthens their pitch rather than threatening it. Caveats: leadership appears Israel-rooted (GRSee spin-off), so expect a distributed team, and AWS depth is implied rather than proven \u2014 validate on the first call.",
+   "pitch_note": "You've built the audit experience startups actually want \u2014 startup pricing, Vanta/Drata/Secureframe integrations, SLAs that hold. LoxeAI is an AWS-native SOC 2 readiness scanner for exactly those lean cloud teams: we'd love 30 minutes to have your auditors run it against a sandbox (or your own AWS account) and tear it apart. If it holds up to your standards, your pre-audit pipeline gets a simple play \u2014 'run this scan first, it gets you ~80% ready' \u2014 so clients arrive cleaner, audits close faster, and your Vanta-speed positioning gets even sharper.",
+   "source_urls": [
+    "https://consilium-labs.com/",
+    "https://vanta.consilium-labs.com/",
+    "https://sf.consilium-labs.com/",
+    "https://drata.com/partners/audit-alliance/directory/consilium-labs",
+    "https://www.linkedin.com/company/consilium-labs",
+    "https://www.zoominfo.com/c/consilium-labs/541337882",
+    "https://councils.forbes.com/profile/Ben-Ben-Aderet-CEO-GRSee-Consulting-Consilium-Labs/9a2d84c6-9c4c-4f59-82c2-07371b8a9cfa",
+    "https://www.linkedin.com/in/elad-motola-3233b94a/",
+    "https://consilium-labs.com/soc-2-made-simple-a-strategic-asset-for-scaling-saas/",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://www.iasonline.org/wp-content/uploads/2024/01/MSCB-352-Cert.pdf"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "geels-norton",
+   "name": "Geels Norton",
+   "website": "https://www.geelsnorton.com/",
+   "hq": "Distributed, US",
+   "founded": "2021",
+   "team_size_estimate": "~8 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Drata auditor directory listing states focus on 'emerging and high-growth cloud technology companies' with explicit specializations in SaaS, Startups, and Technology, serving SMBs from 1-300 FTE",
+     "source_url": "https://drata.com/auditor/directory/geels-norton"
+    },
+    {
+     "signal": "Homepage testimonials from B2B tech/SaaS clients including Sourcegraph, Resolve, and AITX; pitches a two-week report turnaround and 'white-glove' partner-level access - a lean-startup-friendly model",
+     "source_url": "https://www.geelsnorton.com/"
+    },
+    {
+     "signal": "Vanta partner directory description: helps emerging and high-growth cloud technology companies focus on building products while demonstrating sound, scalable data security practices",
+     "source_url": "https://www.vanta.com/partners/find-a-partner"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta",
+    "Drata",
+    "Hyperproof",
+    "Sprinto"
+   ],
+   "aws_cloud_expertise": "Strong cloud fluency: firm was founded specifically to audit 'emerging and high-growth cloud technology companies' and its client base is cloud-native SaaS (e.g., Sourcegraph). No explicit AWS-branded specialization found, but its entire audit practice is oriented to cloud-stack startups.",
+   "services": [
+    "SOC 1 audits",
+    "SOC 2 Type 1 and Type 2 audits",
+    "ISO 27001 internal audit and advisory",
+    "HIPAA compliance",
+    "Microsoft SSPA",
+    "Risk advisory services"
+   ],
+   "contacts": [
+    {
+     "name": "Bryan Geels",
+     "role": "Co-Founder, CPA",
+     "linkedin": "https://www.linkedin.com/in/bryan-geels-27496311/",
+     "twitter": null,
+     "email": "bryan@geelsnorton.com",
+     "phone": "319-899-2732",
+     "source": "https://www.geelsnorton.com/team"
+    },
+    {
+     "name": "Nick Norton",
+     "role": "Co-Founder, MPAc, CISA",
+     "linkedin": "https://www.linkedin.com/in/nicholas-norton-8559251b/",
+     "twitter": null,
+     "email": "nick@geelsnorton.com",
+     "phone": "207-749-3939",
+     "source": "https://www.geelsnorton.com/team"
+    },
+    {
+     "name": "Turner Lee",
+     "role": "CPA (audit team)",
+     "linkedin": "https://www.linkedin.com/in/turner-lee-cpa-6b2759b4/",
+     "twitter": null,
+     "email": "turner@geelsnorton.com",
+     "phone": "425-681-6311",
+     "source": "https://www.geelsnorton.com/team"
+    }
+   ],
+   "fit_score": 88,
+   "partnership_angle": "Referral partner + validator. This is close to the ideal profile: an 8-person founder-led firm built explicitly for high-growth cloud startups, already fluent in GRC automation (Vanta/Drata/Hyperproof partner) and selling a fast two-week-report model that rewards clients who arrive pre-remediated - exactly what a LoxeAI pre-audit scan produces. Both co-founders publish direct emails and cell numbers, so a founder-to-founder outreach motion works. One caveat lowers the ceiling: acquired by Smith + Howard (Atlanta) effective Feb 1, 2026, so partnership decisions may eventually route through a parent firm; founders remain hands-on under the Geels Norton brand today, so move quickly. Note: SOC 2 thought-leader Troy Fine appears to have departed (LinkedIn now shows 'Fine Assurance') - do not anchor outreach on him.",
+   "pitch_note": "Bryan, you built Geels Norton around a two-week SOC 2 report for cloud startups - the bottleneck you can't compress is how unready clients are when they show up. LoxeAI is an AWS-native readiness scanner for lean startups: 20 minutes on a call, run it against a sandbox or your own AWS environment, and judge the output as an auditor. If it holds up to your bar, tell pre-audit clients 'run this scan first - it gets you 80% ready,' and every referral lands on your desk cleaner and closes faster.",
+   "source_urls": [
+    "https://www.geelsnorton.com/",
+    "https://www.geelsnorton.com/team",
+    "https://drata.com/auditor/directory/geels-norton",
+    "https://www.vanta.com/partners/find-a-partner",
+    "https://www.partnerbase.com/geels-norton",
+    "https://hyperproof.io/partner-directory/geels-norton-llc/",
+    "https://www.smith-howard.com/smith-howard-welcomes-geels-norton-expanding-cyber-risk-audit-and-advisory-capabilities/",
+    "https://www.linkedin.com/company/geels-norton",
+    "https://www.zoominfo.com/c/geels-norton-llc/556262880"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "sentry-assurance",
+   "name": "Sentry Assurance",
+   "website": "https://www.sentryassurance.com/",
+   "hq": "2814 Detroit Ave., Cleveland, OH\u2026",
+   "founded": "circa 2022",
+   "team_size_estimate": "Boutique \u2014 3 named leade\u2026",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Drata auditor directory profile lists industry focus as Government, Healthcare, SaaS, Technology, and Startups, serving SMBs (1-300 FTE) and mid-market",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/sentry-assurance"
+    },
+    {
+     "signal": "Audit process 'built from the ground up with acceleration tools like Drata in mind' \u2014 automation-first methodology designed for lean companies with minimal manual evidence requests",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/sentry-assurance"
+    },
+    {
+     "signal": "Firm markets 'reducing client effort during fieldwork 70% compared to traditional auditors' \u2014 pitch aimed at resource-constrained teams",
+     "source_url": "https://www.sentryassurance.com/"
+    },
+    {
+     "signal": "Sister firm RISCPoint has 'served companies ranging from Fortune 10 to pre-Series A startups'",
+     "source_url": "https://www.riscpoint.com/post/riscpoint-hires-information-technology-and-sox-audit-leader-matt-drewyor"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta"
+   ],
+   "aws_cloud_expertise": "Co-founder Jacob Nix is a certified AWS Cloud Practitioner (plus CISM, CISA, CMMC RP, CDPSE, ISO Lead Implementer, CCSFP, Okta Certified Professional). Sister firm RISCPoint is a FedRAMP-accredited 3PAO with work spanning cloud engineering and offensive security \u2014 strong cloud-native audit fluency overall, though no AWS-specific marketing on the Sentry site itself.",
+   "services": [
+    "SOC 2 Type 1 & Type 2 attestation",
+    "SOC 1 attestation",
+    "SOC 3",
+    "ISO 27001 / ISO 27701",
+    "HIPAA / healthcare assessments",
+    "Privacy assessments",
+    "Penetration testing",
+    "CISO advisory / risk advisory",
+    "CMMC, NIST frameworks"
+   ],
+   "contacts": [
+    {
+     "name": "Jacob (Jake) Nix",
+     "role": "Co-Founder, Sentry Assurance (also Founder & Chief Growth Officer, RISCPoint); CPA, AWS Cloud Practitioner, CISM, CISA; Ohio Society of CPAs board member",
+     "linkedin": "https://www.linkedin.com/in/jake-nix-risc",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.sentryassurance.com/about; https://www.riscpoint.com/team/jake-nix; https://www.linkedin.com/in/jake-nix-risc"
+    },
+    {
+     "name": "Matt Drewyor",
+     "role": "Co-Founder & Managing Principal / CEO, Sentry Assurance (since Jan 2023); also CEO of RISCPoint (appointed Aug 2025); ex-Deloitte/PwC IT audit",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.sentryassurance.com/about; https://www.prnewswire.com/news-releases/riscpoint-appoints-matt-drewyor-as-chief-executive-officer-302523464.html"
+    },
+    {
+     "name": "Chad Gross",
+     "role": "VP of Cybersecurity Compliance Services (ex-EY, ex-A-LIGN; FIP, CISA, CISM, CDPSE)",
+     "linkedin": "https://www.linkedin.com/in/chad-gross-fip-cisa-cism-cdpse-33163028/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.sentryassurance.com/about; https://www.linkedin.com/in/chad-gross-fip-cisa-cism-cdpse-33163028/"
+    },
+    {
+     "name": "Sentry Assurance (firm)",
+     "role": "General inbox / main line",
+     "linkedin": "https://www.linkedin.com/company/sentry-assurance",
+     "twitter": null,
+     "email": "contact@sentryassurance.com",
+     "phone": "888-320-1327",
+     "source": "https://www.sentryassurance.com/"
+    }
+   ],
+   "fit_score": 88,
+   "partnership_angle": "Referral partner + sandbox tester \u2014 the strongest profile researched so far for the validate-then-refer motion. Sentry is a young, founder-led boutique that explicitly built its audit methodology around automation tools (Drata) and sells '70% less client effort,' so a pre-audit AWS readiness scan that reduces evidence churn extends their core pitch rather than competing with it. The RISCPoint affiliation is a bonus: it adds a cloud-engineering/FedRAMP-fluent advisory arm that can absorb remediation work LoxeAI scans surface, and gives two referral surfaces (Sentry for attest, RISCPoint for advisory). Best-fit entry: get Jake Nix (AWS-certified CPA co-founder) to run a sandbox scan and act as the technical validator.",
+   "pitch_note": "You built Sentry's audit process ground-up around tools like Drata so lean SaaS teams aren't buried in evidence requests \u2014 LoxeAI attacks the same problem one step earlier, scanning a startup's AWS environment for SOC 2 readiness gaps before they ever engage an auditor. Since you hold the AWS Cloud Practitioner cert yourself, we'd love 30 minutes to have you run the scan against a sandbox account and tear apart the findings. If it holds up to your bar, your pre-audit pipeline gets a simple play: 'run this scan first \u2014 it gets you 80% ready,' meaning cleaner fieldwork for your team and faster Type 1s for your SMB clients.",
+   "source_urls": [
+    "https://www.sentryassurance.com/",
+    "https://www.sentryassurance.com/about",
+    "https://drata.com/partners/audit-alliance/directory/sentry-assurance",
+    "https://www.riscpoint.com/team/jake-nix",
+    "https://www.riscpoint.com/team/matt-drewyor",
+    "https://www.prnewswire.com/news-releases/riscpoint-appoints-matt-drewyor-as-chief-executive-officer-302523464.html",
+    "https://www.prnewswire.com/news-releases/riscpoint-founder-jacob-nix-takes-on-chief-growth-officer-as-part-of-executive-team-expansion-302519848.html",
+    "https://www.linkedin.com/in/jake-nix-risc",
+    "https://www.linkedin.com/in/chad-gross-fip-cisa-cism-cdpse-33163028/",
+    "https://www.linkedin.com/company/sentry-assurance"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "decrypt-compliance",
+   "name": "Decrypt Compliance",
+   "website": "https://decrypt.cpa/",
+   "hq": "3031 Tisch Way, San Jose, CA 951\u2026",
+   "founded": "2023",
+   "team_size_estimate": "~11-12",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Homepage positioning: 'Get high-growth B2B SaaS companies certified 50% faster'; SOC auditors for B2B SaaS",
+     "source_url": "https://decrypt.cpa/"
+    },
+    {
+     "signal": "About Us: 'a Silicon Valley cybersecurity audit firm built by technology veterans for high-growth B2B SaaS companies'; founder-led, 'No PE ownership, no rotating staff'",
+     "source_url": "https://decrypt.cpa/about-us/"
+    },
+    {
+     "signal": "Company describes itself as built to help cloud-native startups prove their cybersecurity and grow revenue via SOC 2, ISO 27001, etc.",
+     "source_url": "https://www.linkedin.com/company/decrypt-compliance"
+    },
+    {
+     "signal": "Testimonials emphasize async, timezone-flexible engagement style suited to lean startup teams",
+     "source_url": "https://decrypt.cpa/"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta",
+    "Drata"
+   ],
+   "aws_cloud_expertise": "Cloud-native SaaS specialization (audits 'cloud-native tech stacks'); founder holds CCSK (Certificate of Cloud Security Knowledge). No AWS-specific practice or AWS partner signal found.",
+   "services": [
+    "SOC 1 Type I & II",
+    "SOC 2 Type I & II",
+    "SOC 3",
+    "ISO 27001",
+    "ISO 27701",
+    "ISO 42001",
+    "PCI DSS",
+    "HIPAA",
+    "HITRUST",
+    "GDPR"
+   ],
+   "contacts": [
+    {
+     "name": "Raymond Cheng",
+     "role": "Founder, CEO & Managing Partner (CPA, CITP, CISSP, CISA, CCSK, CIPP/E, ISO 27001/42001 Lead Auditor; ex-EY, Salesforce, Tencent; Forbes Best-in-State CPA 2025-26)",
+     "linkedin": "https://www.linkedin.com/in/raymondvcheng/",
+     "twitter": null,
+     "email": "info@decrypt.cpa",
+     "phone": null,
+     "source": "https://decrypt.cpa/raymond-cheng/"
+    },
+    {
+     "name": "Marcel Pillay",
+     "role": "Director of Audit Operations",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://decrypt.cpa/about-us/"
+    }
+   ],
+   "fit_score": 86,
+   "partnership_angle": "Referral partner + validator, with design-partner potential. Decrypt is exactly the target profile: a 2023-founded, ~12-person founder-led Silicon Valley firm auditing high-growth B2B SaaS/cloud-native startups (the same companies LoxeAI targets), and it already embraces automation by working alongside Vanta and Drata client stacks. Because it competes on speed ('certified 50% faster'), a pre-audit AWS readiness scan that makes clients arrive audit-ready directly reinforces its core pitch. Raymond Cheng is technically deep (CISSP, CCSK, ISO 42001 Lead Auditor) and publicly brand-forward (Forbes, AICPA recognition), making him a credible early validator whose endorsement carries weight with startup founders.",
+   "pitch_note": "Raymond -- Decrypt promises SaaS startups certification 50% faster, and the biggest drag on that promise is clients showing up with messy AWS environments. LoxeAI is an AWS-native SOC 2 readiness scanner built for lean startups: I'd love 30 minutes to have you run it against a sandbox AWS account and tear apart the findings as an auditor. If it holds up to your standard, your pre-audit pipeline gets a simple play: 'run this scan first -- it gets you ~80% ready before fieldwork starts,' which means cleaner evidence, fewer exceptions, and faster engagements for Decrypt.",
+   "source_urls": [
+    "https://decrypt.cpa/",
+    "https://decrypt.cpa/about-us/",
+    "https://decrypt.cpa/raymond-cheng/",
+    "https://www.linkedin.com/in/raymondvcheng/",
+    "https://www.linkedin.com/company/decrypt-compliance",
+    "https://www.crunchbase.com/organization/decrypt-compliance",
+    "https://www.forbes.com/profile/raymond-cheng/"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "aarc-360",
+   "name": "AARC-360",
+   "website": "https://www.aarc-360.com",
+   "hq": "Alpharetta",
+   "founded": "2014",
+   "team_size_estimate": "~33",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Drata Auditor Alliance directory profile lists 'Start-ups', 'SaaS', and 'Technology' as named industry specializations, and targets SMB clients of 1-300 employees",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/aarc-360"
+    },
+    {
+     "signal": "Firm's SOC 2 content positions SOC 2 as a market differentiator for IT, SaaS, and cloud-services companies; audit team cites extensive experience with SaaS, fintech, and cloud providers, partnering long-term from readiness through annual Type 2 audits",
+     "source_url": "https://www.aarc-360.com/assurance/soc-2-report/"
+    },
+    {
+     "signal": "5.0-star rating across 5 customer reviews on Drata directory praising 'non-intimidating, active engagement' \u2014 a tone pitched at first-time/pre-audit companies rather than enterprises",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/aarc-360"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata"
+   ],
+   "aws_cloud_expertise": "Generic cloud fluency but no explicit AWS specialization found: audit team claims extensive experience with SaaS and cloud service providers, and the firm audits cloud-hosted environments for SOC 2, but no AWS-specific practice, blog content, or AWS Partner listing was located (sources: https://www.aarc-360.com/assurance/soc-2-report/, https://www.aarc-360.com/)",
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 reports",
+    "PCI DSS assessments",
+    "HITRUST CSF",
+    "ISO 27001 / 27701 / 42001",
+    "FedRAMP",
+    "Microsoft SSPA",
+    "Readiness assessments",
+    "Penetration testing & vulnerability asse\u2026",
+    "Internal audit outsourcing / SOX testing",
+    "GDPR / HIPAA / FISMA-NIST / CCPA complia\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Neil Gonsalves",
+     "role": "Founder & CEO (CPA, CISA, CISM, PCI QSA, HITRUST CCSFP; ex-A-LIGN Director, ex-EY; personally reviews all engagements)",
+     "linkedin": "https://www.linkedin.com/in/neilgonsalves1/",
+     "twitter": null,
+     "email": "neil.gonsalves@aarc-360.com",
+     "phone": "+1 866-576-4414 x101",
+     "source": "https://www.aarc-360.com/our-team/neil-gonsalves/ (role); https://contactout.com/Neil-Gonsalves-22056996 (public email/phone listing)"
+    },
+    {
+     "name": "Jeffrey A. Sopshin",
+     "role": "Chief Revenue Officer (likely owner of referral/partnership motions)",
+     "linkedin": "https://www.linkedin.com/in/jeffreysopshin/",
+     "twitter": null,
+     "email": null,
+     "phone": "+1 866-576-4414 (main line)",
+     "source": "https://www.aarc-360.com/our-team/"
+    },
+    {
+     "name": "Brian Fischer",
+     "role": "Head of Sales and Marketing",
+     "linkedin": "https://www.linkedin.com/in/brianfischer1",
+     "twitter": null,
+     "email": null,
+     "phone": "+1 866-576-4414 (main line)",
+     "source": "https://www.aarc-360.com/our-team/"
+    }
+   ],
+   "fit_score": 83,
+   "partnership_angle": "Referral partner with sandbox-tester entry. AARC-360 is the near-ideal profile: 33-person founder-led boutique, explicitly startup/SaaS-specialized in the Drata directory, already fluent in GRC automation via the Drata Auditor Alliance, and serving 1-300-employee clients \u2014 exactly LoxeAI's ICP. Neil Gonsalves learned the audit-referral playbook at A-LIGN, so he understands tools that feed pre-audit clients into his pipeline. Entry motion: get Neil or CRO Jeff Sopshin to run a LoxeAI scan on a sandbox AWS environment (Tester), have the audit team confirm the findings map cleanly to Trust Services Criteria (Validator), then formalize a referral arrangement where AARC-360 points readiness-stage prospects to LoxeAI (Design Partner feeder). The firm already sells its own readiness assessments, so position LoxeAI as the automated pre-readiness layer that qualifies leads for their higher-margin audit work rather than competing with it.",
+   "pitch_note": "Hi Neil \u2014 you built AARC-360 around exactly the SaaS and startup clients we scan for. LoxeAI is an AWS-native SOC 2 readiness scanner for lean startups; before we tell any founder 'this gets you audit-ready,' we want a real auditor to pressure-test it. Would you spend 30 minutes running our scan against a sandbox AWS account? If the findings hold up against your Trust Services mapping, we'd love AARC-360 to be the firm you recommend after clients run the scan \u2014 they show up 80% ready, your fieldwork shrinks, and readiness-stage prospects come to you pre-qualified.",
+   "source_urls": [
+    "https://www.aarc-360.com/",
+    "https://www.aarc-360.com/our-team/",
+    "https://www.aarc-360.com/our-team/neil-gonsalves/",
+    "https://www.aarc-360.com/about-us/",
+    "https://www.aarc-360.com/assurance/soc-2-report/",
+    "https://drata.com/partners/audit-alliance/directory/aarc-360",
+    "https://www.linkedin.com/company/aarc-360",
+    "https://www.linkedin.com/in/neilgonsalves1/",
+    "https://contactout.com/Neil-Gonsalves-22056996",
+    "https://www.cience.com/company/aarc-360/156106703348560220"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "ndb-accountants-consultants",
+   "name": "NDB Accountants & Consultants (NDB)",
+   "website": "https://ndbcpa.com",
+   "hq": "Atlanta, GA",
+   "founded": "2006",
+   "team_size_estimate": "11-50",
+   "founder_led": null,
+   "startup_focus_evidence": [
+    {
+     "signal": "Publishes fixed-fee SOC 2 audit content aimed specifically at startups and 'fast-moving, cloud-native' tech companies (Austin tech companies post)",
+     "source_url": "https://www.ndbcpa.com/blog/soc-2-compliance-for-austin-tech-companies-fixed-fee-audits-by-ndb"
+    },
+    {
+     "signal": "Markets itself as 'California's Leading Provider of Fixed-Fee SOC 2 Audit Services for Technology Startups'",
+     "source_url": "https://ndbcpa.com/blog/regulatory-compliance/californias-leading-provider-of-fixed-fee-soc-2-audit-services-for-technology-startups"
+    },
+    {
+     "signal": "Dedicated post on SOC 2 audits for startup healthcare companies using Drata, describing Drata-integrated evidence collection and mapping AWS/Okta/GitHub into Drata",
+     "source_url": "https://ndbcpa.com/blog/soc-2-audits-for-startup-healthcare-companies-using-drata"
+    },
+    {
+     "signal": "Homepage emphasizes fixed-fee pricing ('keep your budget on target') and serving companies from 'startups or a long established brand'",
+     "source_url": "https://ndbcpa.com"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta",
+    "Secureframe",
+    "Sprinto",
+    "Thoropass"
+   ],
+   "aws_cloud_expertise": "Offers cloud security services covering AWS, Microsoft Azure, and Google GCP (listed on homepage); startup SOC 2 blog content explicitly scopes AWS/Azure/GCP cloud infrastructure and maps AWS accounts into Drata for evidence collection (https://ndbcpa.com, https://ndbcpa.com/blog/soc-2-audits-for-startup-healthcare-companies-using-drata)",
+   "services": [
+    "SOC 2 Type 1 and Type 2 audits",
+    "SOC 2 readiness assessments and remediat\u2026",
+    "SOC 1 SSAE 18 audits",
+    "PCI DSS compliance and assessments",
+    "HITRUST certification",
+    "HIPAA, GDPR, ISO 27001, NIST audits",
+    "Cloud security",
+    "Penetration testing and cybersecurity ri\u2026",
+    "GRC automation platform support"
+   ],
+   "contacts": [
+    {
+     "name": "Christopher Nickell, CPA",
+     "role": "Partner / SOC 2 lead (listed firm-wide contact for SOC 2 inquiries)",
+     "linkedin": "https://www.linkedin.com/in/christopherdnickell/",
+     "twitter": null,
+     "email": null,
+     "phone": "1-800-277-5415 ext. 706",
+     "source": "https://ndbcpa.com/services/soc-2-audits (phone listed in NDB SOC 2 service/blog pages); LinkedIn profile surfaced via web search for 'Christopher Nickell NDB CPA SOC 2' \u2014 verify profile before outreach"
+    },
+    {
+     "name": "Charles Denyer",
+     "role": "Partner (compliance/advisory; long-time public face of NDB press releases)",
+     "linkedin": null,
+     "twitter": null,
+     "email": "cdenyer@ndbcpa.com",
+     "phone": "1-800-277-5415 ext. 705",
+     "source": "https://www.baypayforum.com/latest/ndb-advisory-announces-comprehensive-pci-dss-compliance-and-consulting-services-for-dallas-texas-merchants (public press release listing email and extension)"
+    },
+    {
+     "name": "Thomas M. O'Connor",
+     "role": "Partner",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.buzzfile.com/business/Ndb-Accountants.And.Consultants-LLP-404-348-0283 (company profile listing)"
+    }
+   ],
+   "fit_score": 78,
+   "partnership_angle": "Referral partner with sandbox-tester entry. NDB is a boutique, fixed-fee, startup-priced SOC 2 shop that already runs audits inside Drata, Vanta, Secureframe, Sprinto, and Thoropass and explicitly scopes AWS environments for cloud-native startups \u2014 exactly the pre-audit client base LoxeAI wants. Their whole marketing engine is 'startup-friendly, transparent, automation-embracing,' so an AWS-native readiness scan that gets clients 80% audit-ready before engagement slots naturally into their four-phase readiness-to-audit funnel as a recommended first step. Score notes: firm cleared nearly every criterion (startup-specialized, GRC-automation-native, AWS/cloud fluent, direct partner contacts) but is ~20 years old (founded 2006, misses the <8yr bonus) and founder-led status is unconfirmed, so partial credit on the size/founder-led criterion.",
+   "pitch_note": "You're one of the only fixed-fee SOC 2 firms actively publishing on Drata AND Secureframe workflows for cloud-native startups \u2014 that's precisely who LoxeAI is built for. We'd like 30 minutes to have you run our AWS-native SOC 2 readiness scan against a sandbox (or your own) AWS account and pick apart the findings as an auditor. If it holds up to your standards, your pre-audit clients get a 'run this scan first \u2014 it gets you 80% ready' step that shortens your readiness phase, and NDB gets first look at every startup the scan surfaces.",
+   "source_urls": [
+    "https://ndbcpa.com",
+    "https://www.ndbcpa.com/blog/soc-2-compliance-for-austin-tech-companies-fixed-fee-audits-by-ndb",
+    "https://ndbcpa.com/blog/regulatory-compliance/californias-leading-provider-of-fixed-fee-soc-2-audit-services-for-technology-startups",
+    "https://ndbcpa.com/blog/soc-2-audits-for-startup-healthcare-companies-using-drata",
+    "https://ndbcpa.com/services/soc-2-audits",
+    "https://ndbcpa.com/services/soc-2-readiness",
+    "https://www.baypayforum.com/latest/ndb-advisory-announces-comprehensive-pci-dss-compliance-and-consulting-services-for-dallas-texas-merchants",
+    "https://www.buzzfile.com/business/Ndb-Accountants.And.Consultants-LLP-404-348-0283",
+    "https://www.linkedin.com/company/ndb-accountants-and-consultants",
+    "https://www.linkedin.com/in/christopherdnickell/",
+    "https://www.californiacompliance.net/post/soc-2-auditors-drata-vanta-secureframe-ndb-s-expertise-in-soc-2-and-grc-frameworks-for-san-franci"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "dansa-darata-soucia-llp",
+   "name": "Dansa D'Arata Soucia LLP",
+   "website": "https://www.darata.com/",
+   "hq": "Buffalo, NY",
+   "founded": "2003",
+   "team_size_estimate": "~40 professional staff",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "SOC 2 page features testimonials from SaaS/fintech startups: Placements.io ('as a fast growing SaaS startup, DDS provided us with the necessary guidance...'), Slope, Teampay, Cube Software, MxHero, Kademi, Full Circle Insights, Green Project",
+     "source_url": "https://www.darata.com/soc-2-reports/"
+    },
+    {
+     "signal": "Runs ~200 SOC 2 examinations annually with SaaS/Technology/Finance/Healthcare/Crypto as listed industries; positions as 'the friendly auditors' with a collaborative, cost-effective approach",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/dansa-darata-soucia-llp"
+    },
+    {
+     "signal": "Partner Daniel Garigen developed an audit program to conduct 100+ SOC 2 engagements annually; featured in CFO Tech Outlook (April 2021) article 'Demystifying SOC 2 Reporting'",
+     "source_url": "https://www.darata.com/employees/daniel-garigen/"
+    },
+    {
+     "signal": "Firm tagline 'technology-driven business accountability'; SOC 2 page describes clients using a GRC tool with automated audit task integration and monthly progress monitoring",
+     "source_url": "https://www.darata.com/"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta",
+    "Secureframe",
+    "Hyperproof"
+   ],
+   "aws_cloud_expertise": "No explicit AWS specialization found on the site or directories. Cloud fluency is implicit: nearly all featured clients are cloud-hosted SaaS startups and the firm maximizes GRC-automation evidence (Vanta/Drata integrations) rather than manual sampling, but no AWS-specific content, certifications, or blog posts were located.",
+   "services": [
+    "SOC 1 and SOC 2",
+    "ISO 27001 internal audit",
+    "HIPAA, GDPR, CCPA, NIST CSF assessments",
+    "Privacy assessments and risk advisory",
+    "Financial statement assurance",
+    "Tax",
+    "Transactional advisory / M&A due diligen\u2026",
+    "Outsourced accounting / CFO services",
+    "Business valuation and litigation suppor\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Daniel Garigen, CPA",
+     "role": "Partner \u2014 leads the SOC 2 / information security compliance practice (built the 100+/yr SOC 2 audit program)",
+     "linkedin": "https://www.linkedin.com/in/danielgarigen/",
+     "twitter": null,
+     "email": "dgarigen@darata.com",
+     "phone": "(716) 842-3900",
+     "source": "https://www.darata.com/employees/daniel-garigen/ and https://www.darata.com/soc-2-reports/"
+    },
+    {
+     "name": "Eric Soucia, CPA",
+     "role": "Founding/name Partner, firm leadership on AICPA Trust Services Criteria",
+     "linkedin": "https://www.linkedin.com/in/eric-soucia-945266a/",
+     "twitter": null,
+     "email": null,
+     "phone": "(716) 842-3900",
+     "source": "https://www.linkedin.com/in/eric-soucia-945266a/ and https://www.darata.com/what-we-do/information-security-compliance/"
+    },
+    {
+     "name": "Taylor Gavigan, CPA, CISA, CITP",
+     "role": "Senior Manager, Information Security Compliance",
+     "linkedin": null,
+     "twitter": null,
+     "email": "tgavigan@darata.com",
+     "phone": "(716) 842-3900",
+     "source": "https://www.darata.com/soc-2-reports/"
+    }
+   ],
+   "fit_score": 75,
+   "partnership_angle": "Referral partner (with sandbox-tester entry). DDS is the archetypal high-volume boutique: ~200 SOC 2 exams a year, heavily startup-weighted, and already monetizing the GRC-automation ecosystem (Drata Registered Alliance Member, Vanta discounts, Secureframe, Hyperproof). They have proven they will recommend third-party readiness tooling to pre-audit clients, so LoxeAI slots into an existing referral motion rather than requiring a new behavior. Caveats: at ~40 staff they are the largest firm in the target band, founded 2003 (not a young firm), and their multi-tool GRC commitments mean LoxeAI must position as a complement (pre-engagement AWS readiness scan) rather than a Vanta/Drata competitor. Not a white-label fit \u2014 they have their own brand and volume.",
+   "pitch_note": "Dan, you built DDS's SOC 2 practice around automation-first audits \u2014 200 exams a year, mostly cloud-native SaaS startups on AWS. LoxeAI is an AWS-native SOC 2 readiness scanner built for exactly those pre-audit clients; before we pitch a single startup, we want an auditor of your caliber to pressure-test it. Run the scan on a sandbox AWS account on a 30-minute call \u2014 if it holds up, your pre-engagement clients get told 'run this first, it gets you ~80% ready,' and DDS gets cleaner evidence and faster Type IIs without adding headcount.",
+   "source_urls": [
+    "https://www.darata.com/",
+    "https://www.darata.com/soc-2-reports/",
+    "https://www.darata.com/employees/daniel-garigen/",
+    "https://www.darata.com/what-we-do/information-security-compliance/",
+    "https://drata.com/partners/audit-alliance/directory/dansa-darata-soucia-llp",
+    "https://hyperproof.io/partner-directory/dansa-darata-soucia-llp/",
+    "https://soc2vendors.com/auditors/dansa-darata-soucia/",
+    "https://www.linkedin.com/company/dansa-darata-soucia-llp",
+    "https://www.linkedin.com/in/danielgarigen/",
+    "https://www.linkedin.com/in/eric-soucia-945266a/",
+    "https://opengovny.com/corporation/2340121"
+   ],
+   "tier": "prime"
+  },
+  {
+   "slug": "linford-and-company",
+   "name": "Linford & Company LLP",
+   "website": "https://linfordco.com/",
+   "hq": "Denver, CO",
+   "founded": "2008",
+   "team_size_estimate": "~33-45",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Publishes dedicated startup guidance: 'SOC 2 Audits for Small Business & Start-Ups: Readiness Hacks' blog post with startup-specific readiness advice (pre-approved role matrix, VC-funding rule of thumb for when SOC 2 is needed)",
+     "source_url": "https://linfordco.com/blog/soc-2-audit-readiness-hacks-for-startups/"
+    },
+    {
+     "signal": "Partner Isaac Clarke's bio explicitly cites SOC 1/SOC 2 expertise 'for startups through Fortune 100 companies'",
+     "source_url": "https://linfordco.com/about/leadership-team/"
+    },
+    {
+     "signal": "SaaS-specific SOC 2 content ('SaaS & SOC 2 Audits: Considerations to Achieve Compliance') and transparent audit-cost breakdown content aimed at first-time/small buyers",
+     "source_url": "https://linfordco.com/blog/soc-2-considerations-saas/"
+    },
+    {
+     "signal": "Frequently recommended in third-party roundups as a cost-effective boutique option for small-business/startup first SOC 2 audits (e.g., cited at $8k-15k audit fees alongside Sprinto subscriptions vs. Schellman/A-LIGN pricing)",
+     "source_url": "https://soc2compliancecost.com/thoropass-cost"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Secureframe"
+   ],
+   "aws_cloud_expertise": "Modest, not a marketed specialty: Partner Jenny Shen holds AWS Cloud Practitioner certification and has focused on SaaS clients since 2015; firm audits cloud-hosted SaaS companies routinely but publishes no AWS-specific practice page",
+   "services": [
+    "SOC 1 audits",
+    "SOC 2 audits",
+    "SOC 3 / SOC for Cybersecurity / SOC for\u2026",
+    "HIPAA compliance audits",
+    "HITRUST certification",
+    "FedRAMP assessments",
+    "GovRAMP assessments",
+    "CMMC assessments",
+    "ISO/IEC 27001:2022, 27701, 42001 certifi\u2026",
+    "PCI compliance audits",
+    "Penetration testing",
+    "Royalty/licensing audits"
+   ],
+   "contacts": [
+    {
+     "name": "Newel Linford",
+     "role": "Managing Partner (CPA, CISA; firm namesake, ex-Big Four)",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": "(720) 330-7201 (firm main line, public on site)",
+     "source": "https://linfordco.com/about/leadership-team/"
+    },
+    {
+     "name": "Nicole Hemmer",
+     "role": "Partner & Co-founder (CISSP, CISA; ex-Ernst & Young)",
+     "linkedin": "https://www.linkedin.com/in/nicolehemmer/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://linfordco.com/blog/author/nicole/"
+    },
+    {
+     "name": "Isaac Clarke",
+     "role": "Partner (CPA, CISA, CISSP) \u2014 bio highlights SOC audits for startups through Fortune 100",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://linfordco.com/about/leadership-team/"
+    }
+   ],
+   "fit_score": 70,
+   "partnership_angle": "Referral partner (validator-tier). Linford is too established for a design-partner feeder role \u2014 founded 2008, 18 partners, every engagement staffed with 10+ year auditors \u2014 but that seniority is exactly what makes their validation valuable. They are already in the Drata Audit Alliance, so they understand and embrace automation-assisted audits, and they publish startup readiness content that a LoxeAI pre-audit scan slots directly into. Entry motion: get one partner (Isaac Clarke, whose bio leads with startups, or co-founder Nicole Hemmer) to sandbox-test the scan, then have them recommend it to inbound startup prospects who aren't audit-ready yet. Caveats: headcount hovers right at the ~40 line and the firm serves clients up to Fortune 500, so startup work is a segment, not the whole book.",
+   "pitch_note": "You wrote the readiness-hacks playbook that half the startup ecosystem reads before their first SOC 2 \u2014 LoxeAI turns that playbook into an automated AWS scan. I'd love 30 minutes to have one of your partners run it against a sandbox AWS account and tear it apart; if it holds up to your 10-years-minimum auditor bar, it becomes something you hand to pre-audit startups: 'run this scan first \u2014 it gets you 80% ready before we ever start fieldwork.' No cost, no integration lift \u2014 you validate it, your early-stage pipeline shows up cleaner, and your team spends fieldwork on judgment instead of missing MFA screenshots.",
+   "source_urls": [
+    "https://linfordco.com/about/",
+    "https://linfordco.com/about/leadership-team/",
+    "https://linfordco.com/blog/soc-2-audit-readiness-hacks-for-startups/",
+    "https://linfordco.com/blog/soc-2-considerations-saas/",
+    "https://linfordco.com/blog/author/nicole/",
+    "https://www.linkedin.com/in/nicolehemmer/",
+    "https://www.linkedin.com/company/linford-&-company",
+    "https://drata.com/partners/audit-alliance/directory/linford-company-llp",
+    "https://secureframe.com/blog/how-to-choose-an-auditor",
+    "https://soc2compliancecost.com/thoropass-cost",
+    "https://soc2auditors.org/insights/soc-2-software/"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "modern-assurance",
+   "name": "Modern Assurance",
+   "website": "https://modassurance.com/",
+   "hq": "Oregon, USA",
+   "founded": "2022",
+   "team_size_estimate": "~5-20",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Listed in soc2auditors.org's 'SOC 2 Auditors for Startups' directory with startup-tier pricing: Type 1 $5K-$24K, Type 2 $7K-$42K, 1-7 week timelines",
+     "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+     "signal": "Directory profile: targets modern SaaS, FinTech, Healthcare, and AI companies seeking tech-enabled, lean audit processes with reduced complexity",
+     "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+     "signal": "Firm 'designed from inception to apply the principles of lean manufacturing to the professional services industry' \u2014 highest-quality audit at least expense/headache, a value prop aimed at lean early-stage buyers; leverages AI and modern tooling in audit delivery",
+     "source_url": "https://modassurance.com/about"
+    },
+    {
+     "signal": "Caveat: the firm's own site markets broadly to 'businesses globally' and does not use the word 'startup'; the explicit startup positioning comes from directory listing + pricing tiers, not site copy",
+     "source_url": "https://modassurance.com/"
+    }
+   ],
+   "grc_partnerships": [],
+   "aws_cloud_expertise": "No explicit AWS specialization published. Indirect signals only: tech-first/AI-enabled audit approach and SOC 2 practice serving cloud-native SaaS/FinTech clients \u2014 verify AWS depth on intro call.",
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 attestations",
+    "ISO 27001 / ISO 27701 / ISO 42001 certif\u2026",
+    "CMMC audits",
+    "HIPAA and GDPR audits",
+    "AI Safety & Compliance audits",
+    "SOX ITGC and business process audits",
+    "Financial statement compilation, review,\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Noelle Gantz, CPA, MBA, CISSP, CISA",
+     "role": "Founder / Owner & Managing Director",
+     "linkedin": "https://www.linkedin.com/in/noellegantz/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://modassurance.com/about (named as Managing Director; ex-EY, 10 years leading FinTech/Healthcare SOC 1/2/3 and SOX ITGC engagements); https://www.linkedin.com/in/noellegantz/; adjunct professor of Accounting Ethics at University of Denver per https://daniels.du.edu/directory/noelle-gantz/"
+    },
+    {
+     "name": "Modern Assurance (firm inbox)",
+     "role": "General inquiries",
+     "linkedin": "https://www.linkedin.com/company/modern-assurance-llc",
+     "twitter": null,
+     "email": "info@modassurance.com",
+     "phone": null,
+     "source": "https://modassurance.com/"
+    }
+   ],
+   "fit_score": 70,
+   "partnership_angle": "Referral partner + sandbox tester (design-partner feeder potential). Near-ideal profile: very young (2022), founder-led boutique whose whole brand is lean, tech/AI-enabled auditing \u2014 the founder personally decides on tooling and is philosophically pre-sold on automated evidence gathering. Crucially, the firm is explicitly platform-agnostic with no exclusive Vanta/Drata/Secureframe alliance (scores 0 on the ecosystem rubric but is strategically a plus: a LoxeAI scan-validation partnership fills a gap in her stack with zero channel conflict). Entry motion: get Noelle Gantz to run LoxeAI against a sandbox AWS account, validate that findings map cleanly to SOC 2 criteria, then formalize a referral loop where pre-audit SaaS/FinTech inbound runs the scan first \u2014 which also pre-qualifies and warms her own pipeline.",
+   "pitch_note": "Noelle, you built Modern Assurance to strip waste out of SOC 2 audits \u2014 LoxeAI applies the same lean principle to the phase before the audit: an AWS-native scan that maps a startup's actual cloud config to SOC 2 criteria before evidence collection starts. We'd love 30 minutes to have you run it against a sandbox AWS environment and tear the output apart with your EY IT-audit eye. If it holds up, your pre-audit inbound gets a 'run this scan first \u2014 it gets you ~80% ready' answer: they show up cleaner and faster to audit, and you stay fully platform-agnostic.",
+   "source_urls": [
+    "https://modassurance.com/",
+    "https://modassurance.com/about",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://www.linkedin.com/in/noellegantz/",
+    "https://www.linkedin.com/company/modern-assurance-llc",
+    "https://daniels.du.edu/directory/noelle-gantz/"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "rs-assurance-advisory",
+   "name": "RS Assurance & Advisory (RSAA)",
+   "website": "https://rsassure.com/",
+   "hq": "United States",
+   "founded": null,
+   "team_size_estimate": "Very small boutique",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Blog post 'What Is SOC 2 and Why Do Investors Keep Asking For It?' targets venture-backed companies facing investor/customer SOC 2 demands",
+     "source_url": "https://rsassure.com/blog/"
+    },
+    {
+     "signal": "Client logos skew small/startup: Hubifi, Vetriq, Workback, LucyRX (early-stage SaaS/health-tech names) alongside SMU and Dimont",
+     "source_url": "https://rsassure.com/"
+    },
+    {
+     "signal": "Listed as a startup-focused SOC 2 auditor in third-party soc2auditors.org roundup (per prior research notes); not explicitly self-described as startup-focused on its own site",
+     "source_url": "https://rsassure.com/soc-2-audit-firm-automation-expertise/"
+    },
+    {
+     "signal": "Blog covers pre-audit readiness topics ('5 Signs You're Not Ready for a SOC 2 Audit', 'How Much Does SOC 2 Readiness Actually Cost?') aimed at first-time audit buyers",
+     "source_url": "https://rsassure.com/blog/"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta"
+   ],
+   "aws_cloud_expertise": null,
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 examinations",
+    "SOC readiness assessments",
+    "HIPAA advisory and risk assessments",
+    "HITRUST readiness/certification support",
+    "CMMC readiness and gap assessments",
+    "Penetration testing",
+    "Microsoft security and privacy assessmen\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Richard Stevenson",
+     "role": "Managing Partner (firm initials 'RS' match his name; presumed founder)",
+     "linkedin": "https://www.linkedin.com/in/richardstevensoncpa/",
+     "twitter": null,
+     "email": "partners@rsassure.com",
+     "phone": "(903) 229-0341",
+     "source": "https://rsassure.com/who-we-are/ (name/role); LinkedIn profile richardstevensoncpa matches a cyber-credentialed CPA (CPA, CISSP, CISA, CCSFP, CITP, CIPM) consistent with a 'Cyber CPA Firm' founder, but headline still shows a prior firm (Lawrence J Beardsley CPA) \u2014 verify before outreach"
+    },
+    {
+     "name": "Mason Guyette",
+     "role": "Sales Director",
+     "linkedin": null,
+     "twitter": null,
+     "email": "partners@rsassure.com",
+     "phone": "(903) 229-0341",
+     "source": "https://rsassure.com/who-we-are/"
+    },
+    {
+     "name": "Matthew Lim",
+     "role": "Solutions Advisor",
+     "linkedin": null,
+     "twitter": null,
+     "email": "partners@rsassure.com",
+     "phone": "(903) 229-0341",
+     "source": "https://rsassure.com/who-we-are/"
+    }
+   ],
+   "fit_score": 65,
+   "partnership_angle": "Referral partner + sandbox tester. RSAA is exactly the profile that benefits from a readiness-scan feeder: a tiny CPA-led shop (3 named people) that sells SOC 2 readiness AND audits, already embraces automation (Vanta 'trusted partner', markets 'continuous evidence collection' and 'real-time readiness dashboards'), and publishes a blog post arguing your compliance advisor and auditor should be DIFFERENT firms \u2014 which is precisely the wedge for LoxeAI to be the independent pre-audit readiness layer that keeps RSAA's auditor independence clean. Entry motion: get Richard Stevenson to run a LoxeAI scan against a sandbox AWS account as a validation exercise, then have RSAA recommend the scan to inbound pre-audit prospects that aren't audit-ready yet (their '5 Signs You're Not Ready' funnel). Caveats keeping the score at 65: no AWS/cloud specialization signals, no published founding year or headcount, and startup positioning is inferred from clients/blog rather than explicit \u2014 verify size and Stevenson's LinkedIn before outreach. Rank behind firms with explicit startup + AWS positioning.",
+   "pitch_note": "Hi Richard \u2014 you wrote that a compliance advisor and auditor should be different firms, and that's exactly how we built LoxeAI: an AWS-native SOC 2 readiness scanner that does the pre-audit legwork so a CPA-led firm like RSAA never has to blur the independence line. Could we get 30 minutes to have you run a scan against one of your sandbox AWS environments and pick apart the findings against your SOC 2 workpapers? If it holds up to your standards, your not-ready-yet inbound leads (the '5 signs' crowd) get a 'run this scan first \u2014 it gets you ~80% audit-ready' referral, and they arrive at RSAA cleaner, faster, and cheaper to audit.",
+   "source_urls": [
+    "https://rsassure.com/",
+    "https://rsassure.com/who-we-are/",
+    "https://rsassure.com/cybersecurity-compliance-assurance/",
+    "https://rsassure.com/soc-2-audit-firm-automation-expertise/",
+    "https://rsassure.com/blog/",
+    "https://www.linkedin.com/in/richardstevensoncpa/",
+    "https://www.linkedin.com/company/rs-assurance-advisory"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "assurancepoint",
+   "name": "AssurancePoint",
+   "website": "https://assurancepoint.cpa/",
+   "hq": "Atlanta, GA",
+   "founded": "2021",
+   "team_size_estimate": "~7-20",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Firm specializes exclusively in SOC 1/SOC 2 and infosec attestation for technology and SaaS companies; client logos are tech/SaaS startups (Aquifer, Breeze, Catalant, Carta Healthcare, Encircle, Workshop, Volur)",
+     "source_url": "https://assurancepoint.cpa/"
+    },
+    {
+     "signal": "Described as 'startup-friendly' with fixed-fee engagements typically 20-40% lower than larger audit firms, 4-6 week SOC 2 turnaround, and 'a strong fit for startups and SMBs seeking their first SOC 2 engagement'",
+     "source_url": "https://www.auditxyz.com/auditors/firm/assurance-point"
+    },
+    {
+     "signal": "Listed among top SOC 2 auditors for startups in 2026 comparison guides with startup pricing in the ~$10K-$45K range",
+     "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+     "signal": "Client testimonial on homepage cites the firm's fluency with 'modern compliance automation softwares, e.g., Drata'",
+     "source_url": "https://assurancepoint.cpa/"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta"
+   ],
+   "aws_cloud_expertise": "No explicit AWS specialization published; cloud fluency is implied by an all-SaaS client base, founder's CCSK (Certificate of Cloud Security Knowledge) credential, and a technology-enabled audit model, but no AWS-specific content or pages found",
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 examinations",
+    "SOC for Cybersecurity and SOC for Supply\u2026",
+    "ISO 27001 / ISO 27701",
+    "HIPAA / healthcare compliance",
+    "FISMA & NIST",
+    "GDPR and privacy solutions",
+    "Compliance readiness and advisory, inter\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Dale Crump",
+     "role": "Founder & Managing Partner (CPA, CISSP, CISA, CIPP/US, CCSK, ISO 27001 Lead Auditor; 1,000+ SOC reports)",
+     "linkedin": "https://www.linkedin.com/in/dale-crump/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/dale-crump/"
+    },
+    {
+     "name": "AssurancePoint (general)",
+     "role": "Firm inbox",
+     "linkedin": "https://www.linkedin.com/company/assurancepoint-llc",
+     "twitter": null,
+     "email": "Info@AssurancePoint.cpa",
+     "phone": null,
+     "source": "https://assurancepoint.cpa/"
+    }
+   ],
+   "fit_score": 64,
+   "partnership_angle": "Referral partner / validator via the founder relationship, but move fast and treat as a bridge into the Axiom GRC / IS Partners network. On fundamentals AssurancePoint is near-ideal: tiny SOC-only team, founder-led, startup/SaaS-exclusive, already embedded in Vanta and Drata automation ecosystems, so validating an AWS-native readiness scan is a natural extension of their tech-enabled audit model. However, Axiom GRC announced its acquisition of AssurancePoint on Jan 6, 2026 and stated it will integrate with IS Partners (Axiom's larger U.S. platform) rather than continue independently \u2014 so a deep design partnership will eventually require Axiom/IS Partners sign-off. Best motion: get Dale Crump as an individual auditor-validator now (Tester -> Validator), and use his validation as the wedge into the broader IS Partners referral machine post-integration.",
+   "pitch_note": "Dale \u2014 you built AssurancePoint around tech-enabled, no-cookie-cutter SOC audits for SaaS startups, and that's exactly the auditor eye we want on LoxeAI, an AWS-native SOC 2 readiness scanner for lean startups. Could we grab 20 minutes for you to run the scan against a sandbox AWS account and tell us where it holds up (and where it doesn't) against the Trust Services Criteria you've applied across 1,000+ reports? If it earns your sign-off, your pre-audit pipeline gets a simple play: 'run this scan first \u2014 it gets you ~80% ready,' which means cleaner evidence, fewer wasted requests, and faster Type 2 engagements for you and the IS Partners team.",
+   "source_urls": [
+    "https://assurancepoint.cpa/",
+    "https://assurancepoint.cpa/about/",
+    "https://www.linkedin.com/in/dale-crump/",
+    "https://www.linkedin.com/company/assurancepoint-llc",
+    "https://drata.com/auditor/directory/assurancepoint-llc",
+    "https://www.vanta.com/partners/find-a-partner",
+    "https://www.auditxyz.com/auditors/firm/assurance-point",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://www.prnewswire.com/news-releases/axiom-grc-acquires-assurancepoint-to-accelerate-us-cyber-compliance-expansion-302653273.html",
+    "https://www.privsource.com/acquisitions/deal/axiom-grc-acquires-assurancepoint-krSZ4Y",
+    "https://www.zoominfo.com/c/assurancepoint-llc/1313574271"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "arora-solutions-llc",
+   "name": "ARORA Solutions LLC",
+   "website": "https://www.arora-solutions.com",
+   "hq": "Holland, MI, USA",
+   "founded": "2016",
+   "team_size_estimate": "Very small boutique, lik\u2026",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Drata Auditor Alliance directory profile explicitly lists startups among supported client types, with SMB (1-300 FTE) as an ideal client segment and SaaS/technology among industries served",
+     "source_url": "https://drata.com/auditor/directory/arora-solutions-llc"
+    },
+    {
+     "signal": "Remote-first ('Virtual. Human. Solved.') delivery model with flat-fee, AI-assisted audits designed for fast turnarounds, which suits lean startup budgets",
+     "source_url": "https://www.arora-solutions.com/"
+    },
+    {
+     "signal": "Perfect 5.0 rating across 7 Drata directory reviews, with clients citing 'comprehensive and actionable' reports and certification 'with zero non-conformances'",
+     "source_url": "https://drata.com/auditor/directory/arora-solutions-llc"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta",
+    "ISMS.online",
+    "Certification-body partn\u2026"
+   ],
+   "aws_cloud_expertise": null,
+   "services": [
+    "ISO 27001 / 27701 / 42001 readiness, imp\u2026",
+    "SOC 2 compliance readiness support",
+    "CMMC Level 1 & 2 readiness",
+    "Fractional vCISO services",
+    "GDPR / CCPA privacy consulting and EU AI\u2026",
+    "Virtual internal audits and compliance a\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Steve Cullen",
+     "role": "Founder & Managing Director (MBA, ISO 27001 Lead Auditor, HITRUST CCSFP)",
+     "linkedin": "https://www.linkedin.com/in/steve-cullen-arora-solutions",
+     "twitter": null,
+     "email": null,
+     "phone": "+1 855 960 4885 (firm main line, not personal)",
+     "source": "https://www.arora-solutions.com/our-human-focus"
+    },
+    {
+     "name": "Justin Moore",
+     "role": "Managing Director",
+     "linkedin": "https://www.linkedin.com/in/justinandrewmoore/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/justinandrewmoore/"
+    }
+   ],
+   "fit_score": 62,
+   "partnership_angle": "Referral/channel partner and sandbox tester - NOT an attestation feeder. ARORA is a readiness and internal-audit consultancy (ISO-centric, SOC 2 readiness only), so they cannot sign SOC 2 reports; they hand clients off to certification/audit partners like Prescient Security and Barr Advisory. That makes them a two-way channel: (1) they can embed or white-label the LoxeAI scan inside their readiness and fractional-vCISO engagements to speed up flat-fee delivery, and (2) their partner network gives LoxeAI a bridge into actual attest firms. They are demonstrably automation-friendly (Drata, Vanta, ISMS.online partners; market themselves on AI-assisted audits), so a sandbox validation ask fits their brand. Caveats keeping the score moderate: no AWS/cloud specialization signals, founded 2016 (just outside the 8-year window), and startups are one of several client segments (they also serve mid-market/enterprise).",
+   "pitch_note": "Steve, you've built ARORA around virtual, AI-assisted readiness work on Drata and Vanta - LoxeAI is a natural extension of that stack for your AWS-native startup clients. It's an AWS-focused SOC 2 readiness scanner; I'd love 20 minutes to have you run it against a sandbox AWS account and tear the findings apart as an auditor. If it holds up, your pre-audit and vCISO clients could run the scan first and walk into readiness engagements ~80% of the way there - making your flat-fee model even more profitable per engagement.",
+   "source_urls": [
+    "https://www.arora-solutions.com/",
+    "https://www.arora-solutions.com/contact-us",
+    "https://www.arora-solutions.com/partners",
+    "https://www.arora-solutions.com/our-human-focus",
+    "https://drata.com/auditor/directory/arora-solutions-llc",
+    "https://drata.com/resources/webinars/ask-an-auditor-with-arora-iso-27001",
+    "https://www.linkedin.com/company/arora-solutions-llc",
+    "https://www.linkedin.com/in/justinandrewmoore/"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "audit-advantage-group",
+   "name": "Audit Advantage Group",
+   "website": "https://www.auditadvantagegroup.com/",
+   "hq": "Ann Arbor, MI",
+   "founded": "2023",
+   "team_size_estimate": "2-10 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Owner directly pitched the firm in an r/soc2 auditor-recommendation thread ('I own a CPA firm that does SOC 2 audits... audit portal that streamlines evidence collection... issue an audit report within 2 weeks of closing fieldwork') \u2014 actively hustling for early-stage clients in startup communities (from prior research notes; original Reddit thread no longer surfaced in search)",
+     "source_url": "https://www.reddit.com/r/soc2/"
+    },
+    {
+     "signal": "LinkedIn posts tagged #saasgrowth #enterprisesales #soc2compliance \u2014 marketing SOC 2 to growth-stage SaaS companies",
+     "source_url": "https://www.linkedin.com/posts/audit-advantage-group_saasgrowth-enterprisesales-soc2compliance-activity-7395083161300480000-BIhA"
+    },
+    {
+     "signal": "Homepage targets cloud service providers, payment processors, edtech platforms, and MSPs, with a 4-step process (readiness assessment -> control implementation guidance -> portal-driven audit -> report within 2 weeks of testing completion) built for fast, small engagements",
+     "source_url": "https://www.auditadvantagegroup.com/"
+    }
+   ],
+   "grc_partnerships": [],
+   "aws_cloud_expertise": "No explicit AWS specialization. Serves 'cloud service providers' as a named industry and runs a streamlined evidence-collection audit portal (Zoho Projects-based client login at projects.zoho.com/portal/auditprojects), indicating comfort with cloud/SaaS tooling but no stated AWS depth.",
+   "services": [
+    "SOC 2 Type 1 and Type 2 audits",
+    "SOC 1 audits",
+    "SOC 3 audits",
+    "SOC readiness assessments",
+    "ISO 27001 internal audits",
+    "Outsourced internal audit",
+    "Tax management"
+   ],
+   "contacts": [
+    {
+     "name": "Owner/founder (name not published; identify via LinkedIn company page employees before outreach)",
+     "role": "Owner, CPA firm principal",
+     "linkedin": "https://www.linkedin.com/company/audit-advantage-group",
+     "twitter": "https://x.com/AuditAdvantage",
+     "email": null,
+     "phone": "888-341-7149",
+     "source": "https://www.auditadvantagegroup.com/about"
+    }
+   ],
+   "fit_score": 55,
+   "partnership_angle": "Referral partner + sandbox tester. This is a tiny (2-10 person), owner-operated, 2023-founded CPA firm that hunts for pre-audit startup clients on Reddit and LinkedIn \u2014 exactly the profile that benefits from a free lead-qualification tool. They have no Vanta/Drata/Secureframe ecosystem ties, so LoxeAI would face no incumbent GRC-platform conflict; a validated LoxeAI scan slots in as their readiness front-end, feeding clients into their fast 2-week-report audit motion. Their DIY streak (own evidence portal, self-promotion in communities) makes them a plausible early sandbox tester who will actually run the scan.",
+   "pitch_note": "You built an audit portal to kill evidence-collection friction \u2014 LoxeAI attacks the same problem one step earlier, at readiness. It's an AWS-native SOC 2 scan built for the lean cloud startups you're already courting on r/soc2: 15-minute call, we hand you a sandbox AWS environment (or scan your own), and you judge the findings as an auditor. If it holds up, you tell pre-audit prospects 'run this scan first \u2014 it gets you 80% ready,' so they arrive at your fieldwork cleaner and your 2-week report promise gets even easier to keep.",
+   "source_urls": [
+    "https://www.auditadvantagegroup.com/",
+    "https://www.auditadvantagegroup.com/about",
+    "https://www.linkedin.com/company/audit-advantage-group",
+    "https://www.linkedin.com/posts/audit-advantage-group_saasgrowth-enterprisesales-soc2compliance-activity-7395083161300480000-BIhA",
+    "https://ald.nasba.org/search/firm/459454571?jurisdictionId=117",
+    "https://x.com/AuditAdvantage"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "mhm-professional-corporation",
+   "name": "MHM Professional Corporation (MHM CPA)",
+   "website": "https://www.mhmcpa.ca/",
+   "hq": "Calgary, AB, Canada",
+   "founded": "2020",
+   "team_size_estimate": "16 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Stated mission: 'high quality and affordable security and privacy compliance audits to smaller organizations'; pricing 'tailored for small and mid-sized organizations'",
+     "source_url": "https://ca.linkedin.com/in/markhmandel"
+    },
+    {
+     "signal": "Drata directory lists target market as small to mid-sized businesses (1-300 FTE), industries including SaaS and Technology",
+     "source_url": "https://drata.com/partners/audit-alliance/directory/mhm-professional-corporation"
+    },
+    {
+     "signal": "Case studies feature tech startups/scaleups: Neo Financial (Canadian fintech), AutoVerify, F12.net, Field Effect",
+     "source_url": "https://www.mhmcpa.ca/"
+    },
+    {
+     "signal": "Positions itself as 'Big 4 Experience. Better Value' with a transparent fixed-fee pricing page aimed at cost-sensitive smaller buyers",
+     "source_url": "https://www.mhmcpa.ca/pricing"
+    }
+   ],
+   "grc_partnerships": [
+    "Drata",
+    "Vanta"
+   ],
+   "aws_cloud_expertise": "No explicit AWS specialization found. Cloud-adjacent signals only: SaaS/Technology industry focus, 'technology enabled' audit delivery, and Drata/Vanta automation-platform fluency. Jose Costa's post-PwC stint as an industry CISO adds practical security depth.",
+   "services": [
+    "SOC 1 / SOC 2 / SOC 2+ / SOC 3 audits",
+    "SOC readiness assessments",
+    "ISO 27001:2022, ISO 27701, ISO 42001 cer\u2026",
+    "Privacy assessments",
+    "Microsoft SSPA and NIST assessments",
+    "Internal controls assessments"
+   ],
+   "contacts": [
+    {
+     "name": "Mark Mandel",
+     "role": "Founder & Principal (CEO); ex-PwC Partner (25 years)",
+     "linkedin": "https://www.linkedin.com/in/markhmandel/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://ca.linkedin.com/in/markhmandel"
+    },
+    {
+     "name": "Jose Costa",
+     "role": "Co-Founder / Principal; ex-PwC Partner and former industry CISO",
+     "linkedin": "https://www.linkedin.com/in/jose-costa/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.linkedin.com/in/jose-costa/"
+    },
+    {
+     "name": "MHM (general inbox)",
+     "role": "Firm contact email",
+     "linkedin": "https://www.linkedin.com/company/mhmprofessionalcorporation/",
+     "twitter": null,
+     "email": "mhm@mhmcpa.ca",
+     "phone": null,
+     "source": "https://www.mhmcpa.ca/pricing"
+    }
+   ],
+   "fit_score": 55,
+   "partnership_angle": "Referral partner / validator \u2014 with a timing caveat. Operationally MHM is still an ideal profile: 16-person senior-only team, founder-led delivery, SME/SaaS clientele, Drata + Vanta ecosystem fluency, and a value-vs-Big-4 positioning that pairs naturally with a 'run this scan first, arrive 80% ready' pitch. However, MHM was acquired in June 2026 by Axiom GRC (PE-backed, ~1,500 staff, 7 acquisitions since 2024), so partnership decisions may now route through group leadership, and Axiom may push its own readiness/advisory arms (e.g., sister firm IS Partners) instead of third-party tools. Best motion: get Mark Mandel or Jose Costa on a validator call quickly while founders still steer client relationships; if group politics block a formal referral deal, treat them as a sandbox tester whose validation quote carries ex-PwC credibility across the Canadian startup market.",
+   "pitch_note": "Hi Mark \u2014 you built MHM to give smaller companies Big-4-quality SOC 2 audits without the Big-4 drag, and that's exactly the client LoxeAI serves: lean AWS-native startups walking into their first audit unprepared. Would you take 30 minutes to run our automated SOC 2 readiness scan against a sandbox AWS environment and tell us, auditor-to-builder, where it holds up and where it doesn't? If it earns your validation, your pre-audit clients get a 'run this scan first \u2014 it gets you 80% ready' head start, and your team gets cleaner, faster Type 2 engagements on the Drata/Vanta evidence you already work with.",
+   "source_urls": [
+    "https://www.mhmcpa.ca/",
+    "https://www.mhmcpa.ca/pricing",
+    "https://www.mhmcpa.ca/our-approach",
+    "https://www.mhmcpa.ca/contact-us",
+    "https://drata.com/partners/audit-alliance/directory/mhm-professional-corporation",
+    "https://ca.linkedin.com/in/markhmandel",
+    "https://www.linkedin.com/in/jose-costa/",
+    "https://www.linkedin.com/company/mhmprofessionalcorporation/",
+    "https://www.consulting.ca/news/5057/axiom-grc-expands-to-canada-with-mhm-acquisition",
+    "https://www.morningstar.com/news/pr-newswire/20260609dc78885/axiom-grc-accelerates-north-american-expansion-via-acquisition-of-canadian-assurance-firm-mhm",
+    "https://www.signalhire.com/companies/mhm-professional-corporation"
+   ],
+   "tier": "strong"
+  },
+  {
+   "slug": "oread-risk-advisory",
+   "name": "Oread Risk & Advisory",
+   "website": "https://oreadrisk.com/",
+   "hq": "Olathe, KS",
+   "founded": "2014-2015",
+   "team_size_estimate": "<25 employees",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Featured in soc2auditors.org 'SOC 2 Auditors for Startups' roundup with startup-range fixed pricing (Type 1 $12K-$28K, Type 2 $20K-$50K, 3-8 week timeline), but the roundup itself notes 'Oread isn't explicitly marketed as startup-specialist'",
+     "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+     "signal": "SOC reporting page sells readiness engagements ('a preliminary assessment... to successfully prepare for, and achieve, an unqualified opinion') \u2014 the exact pre-audit stage LoxeAI targets \u2014 but aimed at generic 'service organizations', with zero mention of startups, SaaS, or YC on their own site",
+     "source_url": "https://oreadrisk.com/soc-reporting/"
+    },
+    {
+     "signal": "Tentacle partnership (April 2023) pitches simplified SOC 2 for 'organizations of all sizes', signaling willingness to serve smaller clients",
+     "source_url": "https://cioinfluence.com/itechnology-series-news/tentacle-and-oread-announce-partnership-to-simplify-soc-2-compliance-for-organizations-of-all-sizes/"
+    }
+   ],
+   "grc_partnerships": [
+    "Vanta"
+   ],
+   "aws_cloud_expertise": null,
+   "services": [
+    "SOC 1 / SOC 2 / SOC 3 reporting, audits,\u2026",
+    "ALTA Best Practice certifications",
+    "HIPAA assessments",
+    "PCI consulting",
+    "HITRUST",
+    "ISO 27001/27002 consulting",
+    "IT security and risk assessments",
+    "Network vulnerability assessment and pen\u2026",
+    "Third-party vendor due diligence",
+    "Privacy regulation compliance"
+   ],
+   "contacts": [
+    {
+     "name": "Raja Paranjothi, CISA",
+     "role": "Founder & Principal (18 yrs IT security/risk; ex-CBIZ, Mayer Hoffman McCann, EY, Deloitte; quoted lead in Tentacle partnership)",
+     "linkedin": "https://www.linkedin.com/in/rajaparanjothi",
+     "twitter": null,
+     "email": null,
+     "phone": "(913) 707-8019 (firm main line)",
+     "source": "https://oreadrisk.com/about-us/"
+    },
+    {
+     "name": "Jason Goethe, CPA",
+     "role": "Principal (accounting side; founded Encompass Accounting Solutions LLC)",
+     "linkedin": "https://www.linkedin.com/in/jason-goethe-1056485",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://oreadrisk.com/about-us/"
+    },
+    {
+     "name": "Mihir Acharya",
+     "role": "Director (SOC 2 reports, IT audit/governance; ex-Protiviti, EY/Deloitte consultant roles)",
+     "linkedin": "https://www.linkedin.com/in/acharyamihir",
+     "twitter": null,
+     "email": "info@oreadrisk.com (firm inbox)",
+     "phone": "(913) 707-8019",
+     "source": "https://oreadrisk.com/about-us/"
+    }
+   ],
+   "fit_score": 53,
+   "partnership_angle": "Referral partner / sandbox tester (second tier). Scoring: +30 small (<25) and founder-led; +8 partial startup credit (startup-priced readiness engagements per third-party roundups, but their own site never mentions startups and leans ALTA/title-insurance, HIPAA, PCI generalist); +5 partial GRC credit (Tentacle co-marketing shows the principals will partner with compliance software, but no Vanta/Drata/Secureframe/Thoropass presence); +0 AWS (no cloud signals anywhere); +10 direct founder contact (Raja's LinkedIn plus public firm phone/email); +0 age (founded 2014-15, outside the 8-year window). The Tentacle precedent is the real hook: they have already run exactly the co-marketing motion LoxeAI wants, so pitch a like-for-like referral arrangement where a validated scan shortens their $12K-$28K Type 1 readiness engagements. Do not assume AWS fluency \u2014 lead with a guided sandbox demo.",
+   "pitch_note": "Hi Raja \u2014 I saw Oread's Tentacle partnership, so you clearly believe SOC 2 goes smoother when evidence is organized before the engagement starts. We built LoxeAI, an AWS-native SOC 2 readiness scanner for lean startups; I'd love 30 minutes to have you run it against a sandbox AWS account and tear the findings apart from an auditor's perspective. If it holds up, the motion mirrors your Tentacle play: when a pre-audit startup isn't ready, you tell them 'run this scan first \u2014 it gets you about 80% of the way,' and they arrive at your Type 1 clean, faster, and cheaper to serve.",
+   "source_urls": [
+    "https://oreadrisk.com/",
+    "https://oreadrisk.com/about-us/",
+    "https://oreadrisk.com/soc-reporting/",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://cioinfluence.com/itechnology-series-news/tentacle-and-oread-announce-partnership-to-simplify-soc-2-compliance-for-organizations-of-all-sizes/",
+    "https://www.zoominfo.com/c/oread-risk/372992322",
+    "https://opencorporates.com/companies/us_ks/8016446",
+    "https://www.cbinsights.com/company/oread-risk-advisory",
+    "https://www.brightdefense.com/resources/soc-2-audit-firms/",
+    "https://www.linkedin.com/in/rajaparanjothi/",
+    "https://www.linkedin.com/company/oread-risk-advisory"
+   ],
+   "tier": "bench"
+  },
+  {
+   "slug": "control-logics",
+   "name": "Control Logics",
+   "website": "https://control-logics.com",
+   "hq": "Tampa, FL",
+   "founded": "2008",
+   "team_size_estimate": "Small boutique",
+   "founder_led": true,
+   "startup_focus_evidence": [
+    {
+     "signal": "Listed on Secureframe's 'Trusted SOC 2 Audit Firms' hub (described there as having performed security assessments for 200+ companies since 2008 with personalized service) \u2014 Secureframe's audience is largely startups.",
+     "source_url": "https://secureframe.com/hub/soc-2/audit-firms"
+    },
+    {
+     "signal": "COUNTER-SIGNAL: the firm's own site markets SOX compliance, Model Audit Rule, ISO, GDPR/CCPA to multi-national and public companies; showcased clients are MarineMax, TradeStation, Primo Water, Cryo-Cell, Heska \u2014 not startups. No startup/SaaS/YC-specific marketing found.",
+     "source_url": "https://control-logics.com/"
+    },
+    {
+     "signal": "SOC readiness page targets service organizations 'new to the process' generally (gap analysis, remediation roadmap, fixed-fee pricing, Director-level involvement), not startups specifically.",
+     "source_url": "https://control-logics.com/soc-readiness/"
+    }
+   ],
+   "grc_partnerships": [
+    "Secureframe"
+   ],
+   "aws_cloud_expertise": null,
+   "services": [
+    "SOC readiness assessment",
+    "SOX compliance",
+    "Model Audit Rule",
+    "ISO 27001 certification support",
+    "GDPR / CCPA privacy compliance",
+    "NOTE: SOC attestation/CPA audit practice\u2026"
+   ],
+   "contacts": [
+    {
+     "name": "Homan Lajevardi",
+     "role": "Co-founder & Director (ex-Protiviti; MBA, USF)",
+     "linkedin": "https://www.linkedin.com/in/homanlajevardi/",
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://control-logics.com/about-control-logics/"
+    },
+    {
+     "name": "Dena Dahlquist",
+     "role": "Director (CIA, CFE; 25+ yrs audit/risk)",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://control-logics.com/about-control-logics/"
+    },
+    {
+     "name": "Control Logics (firm)",
+     "role": "General inquiries",
+     "linkedin": null,
+     "twitter": null,
+     "email": "info@control-logics.com",
+     "phone": "(866) 955-6442",
+     "source": "https://control-logics.com/"
+    }
+   ],
+   "fit_score": 42,
+   "partnership_angle": "Referral partner with caveats \u2014 NOT an auditor-validation partner. CyberGuard Advantage bought Control Logics' CPA/SOC attestation practice in Aug 2024 (accesswire/Yahoo Finance, confirmed by Homan Lajevardi quote), so the firm can no longer sign SOC 2 reports and cannot run the core 'auditor validates, then recommends to pre-audit clients' motion. Its remaining readiness-consulting business partially overlaps with LoxeAI's scan (gap analysis is their billable work). Realistic angles: (a) sandbox tester whose CISA-credentialed consultants use LoxeAI to accelerate their fixed-fee readiness engagements (scan does evidence collection, they do interpretation/remediation), or (b) a door into CyberGuard Advantage, the actual audit shop that absorbed their SOC clients. Score reflects founder-led boutique (+30), Secureframe ecosystem presence (+15), direct founder contact (+10), minus no startup specialization, no AWS signals, 2008 vintage, and the structural mismatch of no longer being an audit firm.",
+   "pitch_note": "Homan \u2014 since the SOC attestation practice moved to CyberGuard Advantage, your readiness engagements live or die on how fast gap analysis gets done. LoxeAI is an AWS-native SOC 2 readiness scanner: run it against a sandbox (or your own environment) on a 30-minute call and see whether it matches what your directors find manually. If it holds up, use it as the first pass on fixed-fee readiness work \u2014 clients show up 80% ready, your team keeps the high-value remediation and Director-level advisory, and we'd credit Control Logics on every referred scan.",
+   "source_urls": [
+    "https://control-logics.com/",
+    "https://control-logics.com/about-control-logics/",
+    "https://control-logics.com/soc-readiness/",
+    "https://secureframe.com/hub/soc-2/audit-firms",
+    "https://finance.yahoo.com/news/cyberguard-advantage-purchases-control-logics-140000268.html",
+    "https://www.accesswire.com/905631/cyberguard-advantage-purchases-control-logics-cpa-practice",
+    "https://www.linkedin.com/in/homanlajevardi/"
+   ],
+   "tier": "bench"
+  },
+  {
+   "slug": "compliancepoint-assurance",
+   "name": "CompliancePoint Assurance",
+   "website": "https://www.compliancepoint.com/assurance/",
+   "hq": "Duluth",
+   "founded": "November 2024",
+   "team_size_estimate": "Attest arm is small",
+   "founder_led": false,
+   "startup_focus_evidence": [
+    {
+     "signal": "No startup/SaaS/YC-specific marketing found; assurance page showcases enterprise client logos (Verizon, Comcast, Chewy) and speaks to 'organizations' generally",
+     "source_url": "https://www.compliancepoint.com/assurance/"
+    }
+   ],
+   "grc_partnerships": [],
+   "aws_cloud_expertise": "No AWS or cloud-specific specialization signals found; parent lists generic 'Cloud Compliance' among many service areas and promotes proprietary tools (OnePoint, RegInfoHub) rather than Vanta/Drata-style automation",
+   "services": [
+    "SOC 2 Type 1 and Type 2 attestation",
+    "Blended audits",
+    "PCI DSS assessments",
+    "ISO 27001 / ISO 27701 certification",
+    "HITRUST certification",
+    "AI risk management assessments",
+    "SOC 2 readiness consulting"
+   ],
+   "contacts": [
+    {
+     "name": "Carol Amick",
+     "role": "Managing Director of Audit Services, leads CompliancePoint Assurance (CPA, 20+ yrs infosec/healthcare compliance, ex-Big 4)",
+     "linkedin": "https://www.linkedin.com/in/carolamick/",
+     "twitter": null,
+     "email": null,
+     "phone": "(855) 670-8780 (firm main line)",
+     "source": "https://www.compliancepoint.com/about-us/carol-amick/"
+    },
+    {
+     "name": "Greg Sparrow",
+     "role": "President, CompliancePoint (parent org; quoted in Assurance launch press release)",
+     "linkedin": null,
+     "twitter": null,
+     "email": null,
+     "phone": null,
+     "source": "https://www.prnewswire.com/news-releases/new-cpa-firm-compliancepoint-assurance-founded-to-conduct-soc-2-audits-302303368.html"
+    }
+   ],
+   "fit_score": 12,
+   "partnership_angle": "Effectively none of the boutique entry motions fit anymore. CompliancePoint (including its assurance arm's parent org) was acquired by Wipfli, a top-25 national accounting firm, effective May 1, 2026 \u2014 so this is now a big-firm channel, which the client explicitly excludes. On top of that, the parent sells its own SOC 2 readiness services (now backed by Wipfli's advisory bench), meaning LoxeAI's readiness scan competes directly with their in-house revenue line rather than complementing it. If pursued at all, the only angle is a low-priority sandbox-tester relationship with Carol Amick personally to gather auditor feedback on scan output quality \u2014 not a referral pipeline.",
+   "pitch_note": "Not recommended for outreach under the Tester\u2192Validator\u2192Design Partner strategy: post-Wipfli acquisition, referral decisions route through a top-25 firm's partnership machinery, and their own readiness consulting practice is the exact service LoxeAI automates. If contact is made anyway, position narrowly to Carol Amick as a no-cost technical validation exercise: 'Run a LoxeAI scan against a sandbox AWS environment and tell us where the evidence falls short of what your audit team needs' \u2014 useful product feedback, but do not expect them to tell pre-audit clients to run the scan when their parent firm sells that readiness work.",
+   "source_urls": [
+    "https://www.compliancepoint.com/assurance/",
+    "https://www.prnewswire.com/news-releases/new-cpa-firm-compliancepoint-assurance-founded-to-conduct-soc-2-audits-302303368.html",
+    "https://www.compliancepoint.com/about-us/carol-amick/",
+    "https://www.prnewswire.com/news-releases/wipfli-to-complete-compliancepoint-transaction-and-add-associates-expanding-capabilities-302756208.html",
+    "https://www.wipfli.com/news/2026/wipfli-and-compliancepoint-enter-into-transaction",
+    "https://www.cpapracticeadvisor.com/2026/04/30/wipfli-adds-risk-management-firm-compliancepoint/182512/",
+    "https://www.linkedin.com/company/compliancepoint"
+   ],
+   "tier": "bench"
+  }
+ ]
+}

@@ -1,0 +1,373 @@
+[
+  {
+    "slug": "selfin",
+    "name": "Selfin",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on selfin.app or any trust/security page; fintech neobank handling user financial data (credit, investments, crypto, 401k) will face regulated buyer demands for SOC 2 as it scales",
+        "source_url": "https://selfin.app/"
+      },
+      {
+        "signal": "YC F25 batch; seed-stage ($500K) neobank targeting US consumers — compliance pressure imminent once enterprise/institutional partnerships pursued",
+        "source_url": "https://www.ycombinator.com/companies/selfin"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/orgs/selfin"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Paula Gutierrez",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/paula-gutierrez-/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/selfin"
+      },
+      {
+        "name": "Joel Tomas Pimentel",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/joel-tomas-pimentel",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/selfin"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "Selfin is a 2-person YC F25 AI neobank with no detected SOC 2. Consumer-focused fintech at $500K seed — SOC 2 need will arrive when they court banking partners or B2B integrations. Pitch angle: 'As you onboard institutional partners, they'll require SOC 2 Type I — start the process now while you're lean and it's fastest.' Not an urgent lead today, but flag for 3-6 months out."
+  },
+  {
+    "slug": "antigen",
+    "name": "Antigen",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mentioned on antigen.sh website; no trust center found. Sells continuous offensive security to enterprise buyers (financial services, healthcare, government) — customers will require vendor SOC 2 attestation",
+        "source_url": "https://antigen.sh/"
+      },
+      {
+        "signal": "Target markets listed as financial services, healthcare, retail, government — all regulated verticals that mandate SOC 2 for security vendors",
+        "source_url": "https://www.ycombinator.com/companies/antigen"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Infrastructure Engineer at $300K-$350K + 1% equity (YC jobs page, San Francisco)",
+      "Infrastructure role focused on building sandboxed environments and real build tools — strong signal of infra build-out"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": null,
+      "source_url": "https://www.ycombinator.com/companies/antigen"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Antigen website states they work 'across your infrastructure, cloud providers, and applications - from AWS to GCP,' indicating AWS is a primary supported environment and likely their own cloud too",
+    "contacts": [
+      {
+        "name": "Saad Jamal",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/sadjamz/",
+        "twitter": "https://x.com/sadjamz_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/antigen"
+      },
+      {
+        "name": "Abdullah Nauman",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/abdullahnauman",
+        "twitter": "https://x.com/_AbdullahNauman",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/antigen"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Antigen sells offensive security to regulated enterprise buyers (fintech, healthcare, gov) but has no detected SOC 2. Actively hiring infrastructure engineers. Backed by Lightspeed, DST Global, and Susa Ventures — funded enough to invest in compliance. Pitch angle: 'Your enterprise customers in financial services and healthcare will require you to be SOC 2 compliant before they can vendor-approve you — let us get you Type I in weeks so your security brand matches your security product.'"
+  },
+  {
+    "slug": "frekil",
+    "name": "Frekil",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website explicitly claims HIPAA Compliant and GDPR Compliant, supports AWS/GCP/Azure/Databricks/Snowflake environments, but no SOC 2 attestation found",
+        "source_url": "https://www.frekil.com/"
+      },
+      {
+        "signal": "Sells RWE (Real World Evidence) generation to life sciences/pharma — regulated buyers who increasingly require SOC 2 alongside HIPAA for vendor approval",
+        "source_url": "https://www.ycombinator.com/companies/frekil"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://prospeo.io/c/frekil-yc-x25-revenue"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Frekil website explicitly lists AWS as a supported cloud environment alongside Databricks, Snowflake, GCP, and Azure",
+    "contacts": [
+      {
+        "name": "Nikhil Tiwari",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/nikhiltiwari-iitb/",
+        "twitter": null,
+        "email": "founders@frekil.com",
+        "source": "https://www.ycombinator.com/companies/frekil"
+      },
+      {
+        "name": "Shivesh Gupta",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/shivesh-gupta-iitb/",
+        "twitter": null,
+        "email": "founders@frekil.com",
+        "source": "https://www.ycombinator.com/companies/frekil"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Frekil is a 2-person healthtech startup processing clinical EHR/claims data for life sciences companies on AWS with HIPAA and GDPR compliance — but no SOC 2 detected. Pharma and health system buyers frequently require SOC 2 alongside HIPAA. At $1M raised (2 rounds) they have modest runway; pitch as a fast, lean SOC 2 Type I path. Pitch angle: 'HIPAA gets you compliant, SOC 2 gets you enterprise deals — life sciences procurement requires both, and we can have you Type I ready in 6-8 weeks.'"
+  },
+  {
+    "slug": "parsewise",
+    "name": "Parsewise",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Parsewise explicitly states SOC 2 Type II certification on their LLM pages security documentation; report available under NDA via trust center",
+        "source_url": "https://llms.parsewise.ai/security/soc2-gdpr-compliance/"
+      },
+      {
+        "signal": "Security page confirms SOC 2 Type II + GDPR, with AES-256 at rest, TLS 1.2+ in transit, VPC deployment on AWS, and data residency controls",
+        "source_url": "https://llms.parsewise.ai/security/soc2-gdpr-compliance/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding GTM (London, £60K-£80K + 0.5-1% equity)",
+      "Hiring Forward Deployed Engineer (London, £80K-£100K + 0.5-1% equity)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/parsewise/__gHivj9mYnu4U5ZwS2X58RRFsmN98k3LWNm3cAwL8pWo"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Supports in-VPC deployment on AWS, Azure, and GCP; security page specifies AWS as primary cloud option for enterprise VPC deployments",
+    "contacts": [
+      {
+        "name": "Maximilian Hofer",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/mwhofer/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/parsewise"
+      },
+      {
+        "name": "Gergely Csegzi",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/gergely-csegzi-553b1aa5",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/parsewise"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "DISQUALIFIED — Parsewise already holds SOC 2 Type II certification (confirmed via their public trust/security page). They serve insurance, asset management, and financial services and have fully invested in compliance. Not a viable lead."
+  },
+  {
+    "slug": "tinfoil",
+    "name": "Tinfoil",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Tinfoil security FAQ explicitly states: 'We have completed a SOC 2 Type II examination covering security, availability, and confidentiality. The report is available through our Trust Center.'",
+        "source_url": "https://tinfoil.sh/security-and-privacy-faq"
+      },
+      {
+        "signal": "HIPAA compliance in progress for a subset of models; BAAs signed with cloud provider",
+        "source_url": "https://tinfoil.sh/security-and-privacy-faq"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/tinfoil"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "AWS explicitly listed as infrastructure provider in security FAQ; encrypted chat backups stored on AWS S3 alongside Cloudflare R2 and TigerData",
+    "contacts": [
+      {
+        "name": "Jules Drean",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jdrean",
+        "twitter": "https://x.com/julesdrean",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/tinfoil"
+      },
+      {
+        "name": "Sacha Servan-Schreiber",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/sacha-servan-schreiber-308341305",
+        "twitter": "https://x.com/sachaservan",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/tinfoil"
+      },
+      {
+        "name": "Tanya Verma",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/tanya-verma-130a23124/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/tinfoil"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "DISQUALIFIED — Tinfoil has completed SOC 2 Type II certification (confirmed on their public security FAQ). They are a privacy/security-first company with deep compliance maturity. Not a viable lead."
+  },
+  {
+    "slug": "probo",
+    "name": "Probo",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Probo IS a compliance platform that helps others achieve SOC 2/HIPAA/ISO 27001 — they would almost certainly hold their own SOC 2 to credibly sell the service; their security page (probo.com/security) confirms AWS hosting with AES-256 encryption, TLS 1.3, RBAC, and pen testing",
+        "source_url": "https://www.getprobo.com/security"
+      },
+      {
+        "signal": "Open-source GRC platform; company sells compliance-as-a-service — holding SOC 2 is a product requirement for their own credibility with customers",
+        "source_url": "https://github.com/getprobo/probo"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/probo/__--6r5jOOgLsGu2MoiAw29MZpLprCU7WKtus3SCRTgQw/funding-and-investors"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Security page confirms Probo hosts on AWS with world-class security infrastructure leveraged for compliance",
+    "contacts": [
+      {
+        "name": "Antoine Bouchardy",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/antoinebouchardy/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/probo"
+      },
+      {
+        "name": "Bryan Frimin",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/gearnode",
+        "twitter": "https://x.com/gearnode",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/probo"
+      }
+    ],
+    "fit_score": 5,
+    "pitch_note": "DISQUALIFIED — Probo IS a direct competitor. They sell SOC 2/ISO 27001/HIPAA compliance automation to startups. Not a lead; in fact a competitive threat to track."
+  },
+  {
+    "slug": "hedge",
+    "name": "Hedge",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on hedgespecialty.com; no trust center or security page visible",
+        "source_url": "https://www.hedgespecialty.com/"
+      },
+      {
+        "signal": "Operates as AI-native wholesale insurance carrier handling sensitive broker and commercial insurance data — regulated industry requiring strong vendor security posture for carrier/reinsurer partnerships",
+        "source_url": "https://www.ycombinator.com/companies/hedge"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Underwriter ($125K-$200K + 0.25-1.5% equity, San Francisco) — underwriting role, not security/DevOps"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/hedge"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Luke Button",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/lukebutton",
+        "twitter": "https://x.com/lukebbutton",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hedge"
+      },
+      {
+        "name": "Luke Rosa",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/luke-rosa-4a2717160",
+        "twitter": "https://x.com/lukerosa_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hedge"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Hedge is a 2-person YC P26 AI wholesale insurance carrier with no detected SOC 2. Insurance carriers and E&S market participants face strict data security expectations from reinsurers, carriers, and large broker partners — SOC 2 attestation is a near-term unlock for credibility. Pitch angle: 'As you onboard wholesale broker partners and seek reinsurance relationships, your carrier-level security posture needs to match — SOC 2 Type I is the fastest way to clear vendor security reviews from Lloyd's-market counterparties.'"
+  },
+  {
+    "slug": "mount",
+    "name": "Mount",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on mount.insure; company is developing its own 'ADR certification' (AI agent risk equivalent of SOC 2) but has no third-party SOC 2 attestation detected",
+        "source_url": "https://mount.insure/"
+      },
+      {
+        "signal": "Sells AI agent liability insurance to enterprise deployers of AI — B2B customers in regulated industries will scrutinize Mount's own security posture as part of vendor approval",
+        "source_url": "https://www.ycombinator.com/companies/mount"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring GTM ($50K-$120K, San Francisco)",
+      "Hiring Founding AI Engineer, Underwriting & AI Risk ($170K-$210K + 0.4-1.4% equity, San Francisco)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/mount"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Fabian Amherd",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/fabianamherd/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mount"
+      },
+      {
+        "name": "John Bachmann",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/john-bachmann-844978301",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mount"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Mount is a 2-person YC P26 AI agent insurance carrier with no detected SOC 2. They sell to enterprise AI deployers and will need SOC 2 to pass vendor security reviews from their own customers — especially in financial services. Their 'ADR certification' concept shows compliance-awareness. Hiring a Founding AI Engineer signals early infra build. Pitch angle: 'You're selling security assurance to enterprise AI deployers — your own SOC 2 Type I is the credibility signal that closes deals faster. Let us run the attestation in parallel with your product launch.'"
+  }
+]

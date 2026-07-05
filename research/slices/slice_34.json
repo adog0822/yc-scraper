@@ -1,0 +1,157 @@
+[
+ {
+  "slug": "abundant",
+  "name": "Abundant",
+  "website": "https://www.abundant.ai/",
+  "one_liner": "Agent simulation and RL for researchers",
+  "team_size": 7,
+  "batch": "Fall 2024",
+  "tags": [
+   "AIOps",
+   "Artificial Intelligence",
+   "API",
+   "AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "dexter",
+  "name": "Dexter",
+  "website": "https://www.getdexter.co/",
+  "one_liner": "Spend Intelligence for Complex Enterprises",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Analytics",
+   "Procurement",
+   "Automation"
+  ],
+  "industries": [
+   "B2B",
+   "Finance and Accounting"
+  ],
+  "is_hiring": true,
+  "locations": "Berlin, Berlin, Germany",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "origami-2",
+  "name": "Origami",
+  "website": "https://origami.chat/",
+  "one_liner": "Get your perfect customers with one prompt",
+  "team_size": 10,
+  "batch": "Fall 2024",
+  "tags": [
+   "Workflow Automation",
+   "Sales",
+   "Search"
+  ],
+  "industries": [
+   "B2B",
+   "Sales"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "capy",
+  "name": "Capy",
+  "website": "https://capy.ai",
+  "one_liner": "The IDE for the parallel age",
+  "team_size": 6,
+  "batch": "Fall 2024",
+  "tags": [
+   "AI",
+   "AI Assistant"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "alex",
+  "name": "Alex",
+  "website": "https://alexcodes.app",
+  "one_liner": "The Cursor for Xcode",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "kilvin",
+  "name": "Kilvin",
+  "website": "https://www.kilvin.ai",
+  "one_liner": "Custom software for non-technical teams.",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "Developer Tools",
+   "Productivity",
+   "Data Engineering",
+   "Automation",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "ryvn",
+  "name": "Ryvn",
+  "website": "https://ryvn.ai",
+  "one_liner": "Easy and secure customer cloud deployments",
+  "team_size": 5,
+  "batch": "Fall 2024",
+  "tags": [
+   "Developer Tools",
+   "SaaS",
+   "DevOps",
+   "Infrastructure"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "canvas",
+  "name": "Canvas",
+  "website": "https://www.canvas.inc/",
+  "one_liner": "Continual learning for agents",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ }
+]

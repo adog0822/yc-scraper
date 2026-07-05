@@ -1,0 +1,391 @@
+[
+  {
+    "slug": "astor",
+    "name": "Astor",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Company website explicitly states: 'We follow SOC 2, the industry standard that audits how customer data is protected. Our SOC 2 Type II process is in progress.'",
+        "source_url": "https://www.astor.app/"
+      },
+      {
+        "signal": "SEC-registered investment advisor; bank-grade encryption; Plaid integration for brokerage data",
+        "source_url": "https://www.astor.app/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles posted on YC platform as of July 2026",
+      "Team size 5; seed-funded ($5M) — growth hiring likely imminent",
+      "CTO Daniel Hochstetler (ex-Stripe, Robinhood, Amazon) — strong infra background suggesting near-term security/DevOps hire"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 5500000,
+      "source_url": "https://fintech.global/2026/04/24/astor-raises-5m-seed-to-democratise-investment-advice/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public mention of AWS on website or in press coverage; cloud provider undisclosed",
+    "contacts": [
+      {
+        "name": "Bruno Koba",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/bruno-koba/",
+        "twitter": "https://x.com/brunokoba_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/astor"
+      },
+      {
+        "name": "Daniel Tulha Hochstetler",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-hochstetler",
+        "twitter": "https://x.com/tulha_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/astor"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Astor is an SEC-registered fintech serving retail investors — a regulated buyer segment. SOC 2 Type II is explicitly in-progress, making this an active compliance buyer. $5M seed gives budget. No security/GRC hiring yet limits urgency signal, and AWS stack is unconfirmed. Pitch around completing their SOC 2 Type II fast to unlock enterprise brokerage partnerships."
+  },
+  {
+    "slug": "shor",
+    "name": "Shor",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page found at shorpay.com/security or trust.shorpay.com; no public mention of SOC 2 in press, YC listing, or job ads",
+        "source_url": "https://www.ycombinator.com/companies/shor"
+      },
+      {
+        "signal": "International payroll product handling cross-border payments and employee PII — SOC 2 will be required by enterprise buyers",
+        "source_url": "https://shorpay.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Growth/GTM Lead posted on YC ($120K-$160K, 0.50-1.50% equity) — scaling go-to-market",
+      "is_hiring: true on YC profile",
+      "No security or DevOps roles visible yet; team of 4"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/shor"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider mentioned publicly; global payroll product likely uses cloud infrastructure but stack unconfirmed",
+    "contacts": [
+      {
+        "name": "Daivik Goel",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/daivikg",
+        "twitter": "https://x.com/daivikgoel",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/shor"
+      },
+      {
+        "name": "Avi Konduru",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/kumaravinash-avi-konduru-54b3a6bb",
+        "twitter": "https://x.com/avikonduru",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/shor"
+      }
+    ],
+    "fit_score": 63,
+    "pitch_note": "Shor handles international payroll and cross-border payments — a regulated domain where enterprise clients will demand SOC 2 before signing. No SOC 2 found, small team, and actively hiring for growth suggests they're starting to sell into larger companies. YC-only funding limits immediate budget, but the compliance need is real and growing. Pitch around SOC 2 Type I as the first step to unblocking enterprise payroll deals."
+  },
+  {
+    "slug": "playgent",
+    "name": "Playgent",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on website (useplaygent.com), YC profile, or any press; 2-person team, no security page",
+        "source_url": "https://www.useplaygent.com/"
+      },
+      {
+        "signal": "Sells RL environments for finance/banking — financial services buyers will require vendor security attestation",
+        "source_url": "https://www.useplaygent.com/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false on YC platform; no open roles posted",
+      "Team of 2; pre-revenue/pre-funding stage — no hiring budget apparent"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/playgent/__lWPvLgSxO9QcMQOziib8j6AKQ7vGOBNJRtGmk5k2fjI"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Website does not disclose cloud provider; infrastructure stack undisclosed",
+    "contacts": [
+      {
+        "name": "Aniruddh Sriram",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/aniruddh-sriram/",
+        "twitter": null,
+        "email": "aniruddh@useplaygent.com",
+        "source": "https://www.ycombinator.com/companies/playgent"
+      },
+      {
+        "name": "Neer Jain",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/neer-jain/",
+        "twitter": null,
+        "email": "neer@useplaygent.com",
+        "source": "https://www.ycombinator.com/companies/playgent"
+      }
+    ],
+    "fit_score": 48,
+    "pitch_note": "Playgent is pre-funding (YC only), 2-person team, and not currently hiring. While their finance/banking ICP will eventually require SOC 2, the company is too early-stage to have compliance budget or urgency today. Low priority lead — revisit after their next funding round."
+  },
+  {
+    "slug": "parachute",
+    "name": "Parachute",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Sells clinical AI governance infrastructure to hospitals — hospital buyers universally require SOC 2 (and often HIPAA BAA) before vendor onboarding. No SOC 2 badge or page found on parachute-ai.com.",
+        "source_url": "https://parachute-ai.com/"
+      },
+      {
+        "signal": "Site references NIST, FDA, HHS, ONC, ISO, CCPA, GDPR compliance frameworks — no SOC 2 explicitly listed; CTO Tony Yamin built ML infra for U.S. DoD (Booz Allen) suggesting security awareness",
+        "source_url": "https://parachute-ai.com/"
+      },
+      {
+        "signal": "$2.3M raised (pre-seed $1.8M Feb 2026 + YC) — funded enough to pursue compliance",
+        "source_url": "https://startupintros.com/orgs/parachute"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false on YC platform; no open roles posted",
+      "Team of 2; very early stage"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 2300000,
+      "source_url": "https://startupintros.com/orgs/parachute"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public mention of AWS; integrations with ServiceNow, MLflow, OneTrust, Microsoft Purview, SharePoint, Gmail listed — mixed cloud environment likely",
+    "contacts": [
+      {
+        "name": "Aria Vikram",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/aria-vikram/",
+        "twitter": null,
+        "email": "founders@parachute-ai.com",
+        "source": "https://www.ycombinator.com/companies/parachute"
+      },
+      {
+        "name": "Tony Yamin",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/tyamin",
+        "twitter": null,
+        "email": "founders@parachute-ai.com",
+        "source": "https://www.ycombinator.com/companies/parachute"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Parachute sells AI governance infrastructure to hospitals — one of the most compliance-demanding buyer segments in tech. No SOC 2 found; hospital procurement will stall without it. Pre-seed funded ($2.3M) with a DoD-background CTO who understands security rigor. Very small team (2) limits near-term budget, but the compliance urgency is extremely high. Pitch: 'Your hospital buyers will ask for SOC 2 on the first enterprise call — let's get Type I done in 90 days.'"
+  },
+  {
+    "slug": "solva",
+    "name": "Solva",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Company website states: 'Robust security and compliance controls are actively operating and currently under evaluation as part of the SOC 2 observation period.' — SOC 2 Type II in active observation window.",
+        "source_url": "https://www.solvatechnology.com/security"
+      },
+      {
+        "signal": "ISO 27001 certified; HIPAA BAA available; GDPR compliant — mature compliance posture for early-stage company",
+        "source_url": "https://www.solvatechnology.com/security"
+      },
+      {
+        "signal": "YC LinkedIn post references 'secure' AI claims automation for insurers",
+        "source_url": "https://www.linkedin.com/posts/y-combinator_solva-automates-insurance-claims-with-secure-activity-7358572547300364308-9L0I"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer posted on YC ($120K-$200K, 3+ years experience) — infrastructure/backend hire",
+      "is_hiring: true; team of 15 — largest team in this slice",
+      "Insurance claims automation for enterprise insurers — regulated buyer environment"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/solva"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit AWS mention found; website does not disclose cloud provider publicly",
+    "contacts": [
+      {
+        "name": "Herman Baaverud Olsson",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/hermanbaverudolsson/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/solva"
+      },
+      {
+        "name": "Sorena Amini",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/sorenaamini",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/solva"
+      },
+      {
+        "name": "Linus Malmen",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/linus-malm%C3%A9n-2588406a/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/solva"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Solva is actively in the SOC 2 Type II observation window — they have already started the compliance journey but may need help accelerating through the audit and attestation phase. ISO 27001 certified and HIPAA-ready suggests a compliance-serious team. However, with only YC funding and a team of 15, budget may be constrained. Best angle: position as a fast-track attestation service to close their observation period and issue the SOC 2 Type II report before enterprise insurer deals stall."
+  },
+  {
+    "slug": "novaflow",
+    "name": "Novaflow",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Company compliance page (novaflow.ai/compliance) explicitly states SOC 2 Type 2 certification; also GDPR and HIPAA compliant; AWS-hosted database using AES encryption",
+        "source_url": "https://novaflow.ai/compliance/"
+      },
+      {
+        "signal": "Initial web search result summary confirms: 'Novaflow maintains SOC 2 Type 2 certification and complies with GDPR and HIPAA standards. All communication encrypted via HTTPS... app database hosted by AWS uses AES encryption'",
+        "source_url": "https://novaflow.ai/compliance/"
+      }
+    ],
+    "hiring_signals": [
+      "7 open roles on YC: Founding Backend Engineer ($150K-$250K), Founding ML Engineer ($150K-$250K), Founding Bioinformatics Engineer ($100K-$150K), plus 4 summer internships",
+      "No security/GRC/DevOps roles; focus on engineering and bioinformatics",
+      "Team of 5 scaling rapidly; $500K seed from YC + BioRender; targeting $6M ARR Series A"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/orgs/novaflow"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Compliance page confirms AWS-hosted database with AES encryption; AWS is the disclosed cloud provider",
+    "contacts": [
+      {
+        "name": "Aman Agarwal",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/aman-agarwal-ca",
+        "twitter": "https://x.com/imamanforyou",
+        "email": "contact@novaflowapp.com",
+        "source": "https://www.ycombinator.com/companies/novaflow"
+      },
+      {
+        "name": "Amulya Balakrishnan",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/amulya-balakrishnan",
+        "twitter": null,
+        "email": "contact@novaflowapp.com",
+        "source": "https://www.ycombinator.com/companies/novaflow"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "DISQUALIFIED: Novaflow already holds SOC 2 Type 2 certification (confirmed on their compliance page). Not a prospect for SOC 2 attestation services."
+  },
+  {
+    "slug": "convexia",
+    "name": "Convexia",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust center, or compliance mention found on convexia.bio or in any press coverage",
+        "source_url": "https://www.convexia.bio/"
+      },
+      {
+        "signal": "AI-maximalist pharma company — primary buyers are internal (company itself acquires/runs drug trials); less of a B2B SaaS selling to regulated enterprise buyers vs. being the regulated entity themselves",
+        "source_url": "https://www.ycombinator.com/companies/convexia"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer role posted on YC ($90K-$200K, new grads ok) — general engineering",
+      "is_hiring: true; team of 4",
+      "No security/compliance/DevOps roles found"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/convexia-bio-funding/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed publicly; AI-heavy pharma workloads likely use cloud compute but stack unspecified",
+    "contacts": [
+      {
+        "name": "Ayaan Parikh",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ayaan-parikh",
+        "twitter": null,
+        "email": "founders@convexia.bio",
+        "source": "https://www.ycombinator.com/companies/convexia"
+      },
+      {
+        "name": "Rahul Vijayan",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/rahulvijayan28/",
+        "twitter": null,
+        "email": "founders@convexia.bio",
+        "source": "https://www.ycombinator.com/companies/convexia"
+      }
+    ],
+    "fit_score": 40,
+    "pitch_note": "Convexia is a pharma company running its own drug pipeline — not a typical SaaS selling to regulated buyers. SOC 2 status unknown but the ICP fit is weaker because the compliance driver comes from FDA/GxP regulations (not enterprise SaaS buyer requirements). Low priority; revisit only if they pivot to a platform/SaaS model selling to pharma companies."
+  },
+  {
+    "slug": "locata",
+    "name": "Locata",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Locata website footer displays both SOC 2 and HIPAA Compliant badges — compliance certifications are publicly displayed",
+        "source_url": "https://locatahealth.com/"
+      },
+      {
+        "signal": "Search result from startupintros.com states Locata has 'HIPAA, SOC 2 Type 2 compliance' and 'compliance is built into every workflow'",
+        "source_url": "https://startupintros.com/orgs/locata"
+      }
+    ],
+    "hiring_signals": [
+      "Software Engineer role posted on YC ($160K-$250K, 3+ years) — general engineering, not security/DevOps",
+      "is_hiring: true; team of 4"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.vcbacked.co/company/locata"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed publicly on website",
+    "contacts": [
+      {
+        "name": "Alejandro Salinas",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/asalinas21/",
+        "twitter": null,
+        "email": "founders@locata.ai",
+        "source": "https://www.ycombinator.com/companies/locata"
+      },
+      {
+        "name": "Joshua Chang",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/joshua-r-chang/",
+        "twitter": null,
+        "email": "founders@locata.ai",
+        "source": "https://www.ycombinator.com/companies/locata"
+      }
+    ],
+    "fit_score": 12,
+    "pitch_note": "DISQUALIFIED: Locata displays SOC 2 and HIPAA compliance badges on their website and a third-party source confirms SOC 2 Type 2. Not a prospect for SOC 2 attestation services."
+  }
+]

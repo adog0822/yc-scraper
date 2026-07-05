@@ -1,0 +1,366 @@
+[
+  {
+    "slug": "vocality-health",
+    "name": "Vocality Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on website or in search results; voice AI for hospitals requires HIPAA and likely SOC 2 as hospital procurement gating criteria",
+        "source_url": "https://www.vocalityhealth.com"
+      },
+      {
+        "signal": "Company is in pre-revenue / early traction stage (YC W25, $500K raised, 2-person team) — no audit infrastructure yet",
+        "source_url": "https://startupintros.com/orgs/vocality-health"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform",
+      "No security or DevOps roles found"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/orgs/vocality-health"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS or cloud infrastructure references found publicly. Healthcare AI at this stage would likely use a managed cloud provider but unconfirmed.",
+    "contacts": [
+      {
+        "name": "Brogan McPartland",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/brogan-mcpartland-05830031a/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/vocality-health"
+      },
+      {
+        "name": "Vivek Jayaram",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/vivek-jayaram/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/vocality-health"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Voice AI for hospitals = strong regulated-buyer signal. No SOC 2 found, 2-person team fresh from YC, $500K raised. Hospital IT security teams will demand SOC 2 as a procurement gate before any enterprise contracts. Pitch: 'Your hospital prospects will ask for SOC 2 before signing — get ahead of procurement blockers with a Type I now, upgrade to Type II once you land your first system deal.'"
+  },
+  {
+    "slug": "10x",
+    "name": "10x",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website mentions encryption and BAA for HIPAA but explicitly no SOC 2 mention found",
+        "source_url": "https://www.10xdental.com"
+      },
+      {
+        "signal": "Targets dental practices (DSOs); enterprise DSOs specifically require SOC 2 Type II from AI vendors per industry articles",
+        "source_url": "https://www.getviva.ai/soc2-type-ii-dental-ai-dso-compliance/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Engineer (general engineering, no security/DevOps focus)",
+      "Actively hiring GTM lead"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/10x"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public cloud infrastructure details found. HIPAA-compliant AI calling likely uses a cloud provider but unconfirmed.",
+    "contacts": [
+      {
+        "name": "Max Bohun",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/maxbohun/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/10x"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "AI calling for dental DSOs — regulated buyer base demanding SOC 2. Has HIPAA BAA but no SOC 2. DSO enterprise contracts will require it. Pitch: 'Large DSO procurement teams require SOC 2 Type II — a Type I attestation now unblocks your enterprise pipeline while you scale.'"
+  },
+  {
+    "slug": "harbera",
+    "name": "Harbera",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website confirms AWS-hosted, AES-256 encryption, HIPAA compliant — but no SOC 2 attestation mentioned",
+        "source_url": "https://www.harbera.com"
+      },
+      {
+        "signal": "Credentialing software sold to healthcare payers and providers — insurance contracting buyers frequently require SOC 2",
+        "source_url": "https://harbera.com"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform",
+      "Contact email listed publicly: founders@harbera.com"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/orgs/harbera"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Website explicitly states all infrastructure is hosted on US-based AWS servers. Source: harbera.com (confirmed via search snippet at https://www.harbera.com/)",
+    "contacts": [
+      {
+        "name": "Sophia Clark",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/sophia-c-07a508b8/",
+        "twitter": null,
+        "email": "founders@harbera.com",
+        "source": "https://www.ycombinator.com/companies/harbera"
+      },
+      {
+        "name": "Veronica Nutting",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/veronicanutting/",
+        "twitter": null,
+        "email": "founders@harbera.com",
+        "source": "https://www.ycombinator.com/companies/harbera"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Ideal ICP: AWS-native (confirmed), HIPAA-compliant but no SOC 2, selling into regulated healthcare credentialing market where payer and hospital buyers require SOC 2. 2-person founding team, lean, early-stage. Pitch: 'You are already on AWS with AES-256 — your SOC 2 Type I is mostly controls documentation at this point. Your insurance-payer buyers will require it before expanding. Get it done in 6 weeks.'"
+  },
+  {
+    "slug": "candor-security",
+    "name": "Candor",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Website security page states: 'Candor's Information Security Program follows the criteria set forth by the SOC 2 Framework' and undergoes independent third-party assessments and annual penetration tests",
+        "source_url": "https://candor.security/"
+      },
+      {
+        "signal": "SSO, 2FA, least-privilege IAM, and vendor risk reviews all in place — strong SOC 2 readiness signals but no attestation certificate found",
+        "source_url": "https://candor.security/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Senior Full-Stack Engineer ($150K-$250K) — no dedicated security/GRC role",
+      "3-person team (Adarsh Ambati CEO, Ansh Gupta CTO, Aditya Iyengar)"
+    ],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/candor/__x0apNSVGxdzya9AKPgnG08Oz1Ri9nFZHMYBkQNj1uGk/funding-and-investors"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Security page references active monitoring of 'various cloud services' and cloud-native security practices; no explicit AWS callout but cybersecurity SaaS at this scale typically runs on AWS.",
+    "contacts": [
+      {
+        "name": "Adarsh Ambati",
+        "role": "Co-founder & CEO",
+        "linkedin": null,
+        "twitter": "https://x.com/AmbatiAdarsh",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/candor-security"
+      },
+      {
+        "name": "Ansh Gupta",
+        "role": "Co-founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/candor-security"
+      },
+      {
+        "name": "Aditya Iyengar",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/candor-security"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Security product company — they know the SOC 2 framework but have not yet attested. Their buyers (defense, energy, biotech) will demand SOC 2 Type II. They are close to readiness. Pitch: 'Your own security posture page demonstrates you follow SOC 2 criteria — the audit is the last mile. A Type I attestation gives your defense and biotech prospects the vendor validation they need.'"
+  },
+  {
+    "slug": "waypoint-transit",
+    "name": "Waypoint Transit",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security trust page found on waypointtransit.com or in any public source",
+        "source_url": "https://www.waypointtransit.com/"
+      },
+      {
+        "signal": "Sells to government / municipalities — government procurement typically requires vendor security certifications (SOC 2 or FedRAMP-lite); SOC 2 Type I is a common first step",
+        "source_url": "https://www.ycombinator.com/companies/waypoint-transit"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Software Engineer ($120K-$170K + equity)",
+      "Hiring Software Engineering Intern",
+      "No security or DevOps role specifically"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://startupintros.com/orgs/waypoint-transit"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Roboflow mentioned for ML/CV model deployment but no cloud provider confirmed. No AWS reference found publicly.",
+    "contacts": [
+      {
+        "name": "Varun Tandon",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/vrntandon/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/waypoint-transit"
+      },
+      {
+        "name": "Ryan Johnston",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/ryan-johnston-b919a7180/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/waypoint-transit"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "Government/municipality buyer is a regulated procurement context — city IT departments require vendor security documentation. No SOC 2 found, 2-person team, $500K seed. AWS status unconfirmed reduces fit slightly. Pitch: 'City procurement offices will stall your contracts without a security attestation. SOC 2 Type I is the fastest path to unblocking government sales cycles.'"
+  },
+  {
+    "slug": "mesh-2",
+    "name": "Mesh",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or trust/security page found on usemesh.com; no attestation certificate in public sources",
+        "source_url": "https://www.usemesh.com/"
+      },
+      {
+        "signal": "Fintech SaaS accessing AP inbox, Slack, Teams, financial journals — enterprise CFO buyers and auditors require SOC 2 before granting access to financial systems",
+        "source_url": "https://www.ycombinator.com/companies/mesh-2"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Engineer (AWS, PostgreSQL, Python, React listed as required skills)",
+      "No dedicated security/DevOps/GRC role"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2000000,
+      "source_url": "https://www.ycombinator.com/companies/mesh-2"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Founding Engineer job posting explicitly lists AWS as a required skill alongside PostgreSQL, Python, React. Source: https://www.ycombinator.com/companies/mesh-2/jobs/iYW1FkK-founding-engineer",
+    "contacts": [
+      {
+        "name": "Erin Kim",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/erinkim720/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mesh-2"
+      },
+      {
+        "name": "Nandini Ramakrishnan",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/nandiniramakrishnan/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mesh-2"
+      }
+    ],
+    "fit_score": 83,
+    "pitch_note": "Strong ICP fit: AWS-native (confirmed via job req), fintech SaaS reading financial data from AP inboxes and ERP systems, no SOC 2 found, $2M seed, hiring engineering. Enterprise CFOs and controllers will not grant access to financial backend without SOC 2. Pitch: 'Your buyers are finance leaders — they will not let you near their ERP or AP inbox without a SOC 2 report. You are already on AWS; a Type I takes 6-8 weeks and unblocks your mid-market deals.'"
+  },
+  {
+    "slug": "copycat",
+    "name": "CopyCat",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Security page confirms SOC 2 Type II certification: 'Independently audited for security, availability, and confidentiality. Reports available under NDA.'",
+        "source_url": "https://www.runcopycat.com/security"
+      },
+      {
+        "signal": "AES-256 at rest, TLS 1.3 in transit, sandboxed workflows, full audit trail — enterprise-grade security stack in place",
+        "source_url": "https://www.runcopycat.com/security"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform"
+    ],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/copycat/__ZXQElAIv08HXQj_ofsdTeVhFiZaV_VikjaiJvlhBbOo"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Job posting and website reference 'cloud infrastructure to run automations via API or on schedules'; no specific AWS callout but cloud-native browser agent infrastructure is consistent with AWS.",
+    "contacts": [
+      {
+        "name": "Graham Sabin",
+        "role": "Co-founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/copycat"
+      },
+      {
+        "name": "Abhi Balijepalli",
+        "role": "Co-founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/copycat"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Disqualified — CopyCat already holds SOC 2 Type II certification. Not a viable prospect for SOC 2 attestation services."
+  },
+  {
+    "slug": "overdrive-health",
+    "name": "Overdrive Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security/trust page found publicly; overdrive.health returned no content on load",
+        "source_url": "https://overdrive.health"
+      },
+      {
+        "signal": "Processes $50M+ in ambulance billing claims per year — ambulance providers and insurers handling PHI and claims data require HIPAA and increasingly SOC 2 from billing vendors",
+        "source_url": "https://www.ycombinator.com/companies/overdrive-health"
+      },
+      {
+        "signal": "AWS required skill in Founding Engineer job posting confirms cloud-native AWS stack",
+        "source_url": "https://www.ycombinator.com/companies/overdrive-health/jobs/THGCs1s-founding-engineer"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Engineer (AWS listed as required skill, Python-heavy stack)",
+      "Hiring actively with $150K-$250K + equity comp — scaling team"
+    ],
+    "funding": {
+      "stage": "Seed / YC W26",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/overdrive-health"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Founding Engineer job posting explicitly lists AWS as a required technical skill. Source: https://www.ycombinator.com/companies/overdrive-health/jobs/THGCs1s-founding-engineer",
+    "contacts": [
+      {
+        "name": "Michael Schroeder",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/michael-schroeder-217513bb/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/overdrive-health"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Strong fit: AWS-native (confirmed), medical billing for ambulance providers (highly regulated, payer audits common), $50M+ claims volume, no SOC 2 found, actively hiring engineering. Billing vendors handling Medicare/Medicaid claims face insurer and CMS audit requirements. Pitch: 'Ambulance billing involves CMS, Medicare, and commercial payer audits — your clients will ask for a security audit report before trusting you with revenue cycle. SOC 2 Type I is achievable in 6-8 weeks on your existing AWS stack.'"
+  }
+]

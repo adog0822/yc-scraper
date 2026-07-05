@@ -1,0 +1,91 @@
+{
+  "slug": "linford-and-company",
+  "name": "Linford & Company LLP",
+  "website": "https://linfordco.com/",
+  "hq": "Denver, CO (1550 Wewatta Street, 2nd Floor; additional offices in Salt Lake City and Seattle)",
+  "founded": "2008",
+  "team_size_estimate": "~33-45 (third-party profiles report 33, 36 as of Oct 2025, and 45; 18 partners listed on leadership page — likely at or just under 40, unconfirmed)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Publishes dedicated startup guidance: 'SOC 2 Audits for Small Business & Start-Ups: Readiness Hacks' blog post with startup-specific readiness advice (pre-approved role matrix, VC-funding rule of thumb for when SOC 2 is needed)",
+      "source_url": "https://linfordco.com/blog/soc-2-audit-readiness-hacks-for-startups/"
+    },
+    {
+      "signal": "Partner Isaac Clarke's bio explicitly cites SOC 1/SOC 2 expertise 'for startups through Fortune 100 companies'",
+      "source_url": "https://linfordco.com/about/leadership-team/"
+    },
+    {
+      "signal": "SaaS-specific SOC 2 content ('SaaS & SOC 2 Audits: Considerations to Achieve Compliance') and transparent audit-cost breakdown content aimed at first-time/small buyers",
+      "source_url": "https://linfordco.com/blog/soc-2-considerations-saas/"
+    },
+    {
+      "signal": "Frequently recommended in third-party roundups as a cost-effective boutique option for small-business/startup first SOC 2 audits (e.g., cited at $8k-15k audit fees alongside Sprinto subscriptions vs. Schellman/A-LIGN pricing)",
+      "source_url": "https://soc2compliancecost.com/thoropass-cost"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (listed in Drata Audit Alliance auditor directory)",
+    "Secureframe (referenced among Secureframe audit-partner content/trainings)"
+  ],
+  "aws_cloud_expertise": "Modest, not a marketed specialty: Partner Jenny Shen holds AWS Cloud Practitioner certification and has focused on SaaS clients since 2015; firm audits cloud-hosted SaaS companies routinely but publishes no AWS-specific practice page",
+  "services": [
+    "SOC 1 audits",
+    "SOC 2 audits",
+    "SOC 3 / SOC for Cybersecurity / SOC for Supply Chain",
+    "HIPAA compliance audits",
+    "HITRUST certification",
+    "FedRAMP assessments",
+    "GovRAMP assessments",
+    "CMMC assessments",
+    "ISO/IEC 27001:2022, 27701, 42001 certifications",
+    "PCI compliance audits",
+    "Penetration testing",
+    "Royalty/licensing audits"
+  ],
+  "contacts": [
+    {
+      "name": "Newel Linford",
+      "role": "Managing Partner (CPA, CISA; firm namesake, ex-Big Four)",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": "(720) 330-7201 (firm main line, public on site)",
+      "source": "https://linfordco.com/about/leadership-team/"
+    },
+    {
+      "name": "Nicole Hemmer",
+      "role": "Partner & Co-founder (CISSP, CISA; ex-Ernst & Young)",
+      "linkedin": "https://www.linkedin.com/in/nicolehemmer/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://linfordco.com/blog/author/nicole/"
+    },
+    {
+      "name": "Isaac Clarke",
+      "role": "Partner (CPA, CISA, CISSP) — bio highlights SOC audits for startups through Fortune 100",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://linfordco.com/about/leadership-team/"
+    }
+  ],
+  "fit_score": 70,
+  "partnership_angle": "Referral partner (validator-tier). Linford is too established for a design-partner feeder role — founded 2008, 18 partners, every engagement staffed with 10+ year auditors — but that seniority is exactly what makes their validation valuable. They are already in the Drata Audit Alliance, so they understand and embrace automation-assisted audits, and they publish startup readiness content that a LoxeAI pre-audit scan slots directly into. Entry motion: get one partner (Isaac Clarke, whose bio leads with startups, or co-founder Nicole Hemmer) to sandbox-test the scan, then have them recommend it to inbound startup prospects who aren't audit-ready yet. Caveats: headcount hovers right at the ~40 line and the firm serves clients up to Fortune 500, so startup work is a segment, not the whole book.",
+  "pitch_note": "You wrote the readiness-hacks playbook that half the startup ecosystem reads before their first SOC 2 — LoxeAI turns that playbook into an automated AWS scan. I'd love 30 minutes to have one of your partners run it against a sandbox AWS account and tear it apart; if it holds up to your 10-years-minimum auditor bar, it becomes something you hand to pre-audit startups: 'run this scan first — it gets you 80% ready before we ever start fieldwork.' No cost, no integration lift — you validate it, your early-stage pipeline shows up cleaner, and your team spends fieldwork on judgment instead of missing MFA screenshots.",
+  "source_urls": [
+    "https://linfordco.com/about/",
+    "https://linfordco.com/about/leadership-team/",
+    "https://linfordco.com/blog/soc-2-audit-readiness-hacks-for-startups/",
+    "https://linfordco.com/blog/soc-2-considerations-saas/",
+    "https://linfordco.com/blog/author/nicole/",
+    "https://www.linkedin.com/in/nicolehemmer/",
+    "https://www.linkedin.com/company/linford-&-company",
+    "https://drata.com/partners/audit-alliance/directory/linford-company-llp",
+    "https://secureframe.com/blog/how-to-choose-an-auditor",
+    "https://soc2compliancecost.com/thoropass-cost",
+    "https://soc2auditors.org/insights/soc-2-software/"
+  ]
+}

@@ -1,0 +1,173 @@
+[
+ {
+  "slug": "infinity",
+  "name": "Infinity",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {"signal": "No SOC 2 mention found in web search or on site; /security page returns 404", "source_url": "https://www.infinityapp.in/"},
+   {"signal": "Cross-border fintech operating under RBI-approved framework with AD-1 bank partners (India-centric compliance, no US attestation advertised)", "source_url": "https://www.ycombinator.com/companies/infinity"}
+  ],
+  "hiring_signals": [
+   "Software Engineer - Backend (Bengaluru, 1+ yrs, 0.20-2.00% equity) listed on YC jobs page; no security/DevOps/GRC roles open"
+  ],
+  "funding": {"stage": "seed", "total_usd_estimate": 2400000, "source_url": "https://tracxn.com/d/companies/infinity/__gPWrnuKiBTLym0y66-ex8h_-AqlNA-4IBZJczIzHOaE"},
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {"name": "Sourav Choraria", "role": "Founder & CEO", "linkedin": "https://in.linkedin.com/in/sourav-choraria-9b389776", "twitter": null, "email": null, "source": "LinkedIn profile found via web search"},
+   {"name": "Sidharth Choraria", "role": "Co-founder", "linkedin": "https://in.linkedin.com/in/sidharth-choraria-25411b65", "twitter": null, "email": null, "source": "LinkedIn profile found via web search"}
+  ],
+  "fit_score": 55,
+  "pitch_note": "Seed-stage fintech ($2.4M) with no SOC 2 badge, but it is Bengaluru-based and RBI/AD-1-bank regulated for the Indian market, so SOC 2 demand (and US audit budget) is uncertain; only one backend role open."
+ },
+ {
+  "slug": "the-new-money-company",
+  "name": "The New Money Company",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {"signal": "No SOC 2, certification, or compliance badge found on homepage or in web search; only a generic 'not a bank' fintech disclaimer", "source_url": "https://newmoneycompany.com/"},
+   {"signal": "Sells insured invoicing/ACH payments to mid-market and enterprise buyers (grocery distributors, durables manufacturers, airlines/hospitality) - buyer segment that typically requires SOC 2", "source_url": "https://newmoneycompany.com/"}
+  ],
+  "hiring_signals": [
+   "No open roles found; YC profile lists is_hiring=false (team of 4)"
+  ],
+  "funding": {"stage": "seed", "total_usd_estimate": 1500000, "source_url": "https://www.startupintros.com/orgs/the-new-money-company"},
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {"name": "Derrick Wolbert", "role": "Co-founder & CEO", "linkedin": "https://www.linkedin.com/in/derrickwolbert/", "twitter": null, "email": null, "source": "LinkedIn profile found via web search; also named on newmoneycompany.com demo-scheduling link"},
+   {"name": "Reuben Balik", "role": "Co-founder & CTO", "linkedin": "https://www.linkedin.com/in/reuben-balik/", "twitter": null, "email": null, "source": "LinkedIn profile found via web search"},
+   {"name": "Q Carlson", "role": "Co-founder & Chief Product Officer", "linkedin": null, "twitter": null, "email": null, "source": "RocketReach org chart via web search (https://rocketreach.co/the-new-money-company-yc-w24-management_b6fd8bbec6461a8a)"}
+  ],
+  "fit_score": 68,
+  "pitch_note": "Insured-invoicing fintech selling to enterprise/regulated buyers with no visible SOC 2 and only $1.5M raised - textbook Type I candidate; the caution is a 4-person team with no hiring signal, so budget and urgency are unproven."
+ },
+ {
+  "slug": "harper",
+  "name": "Harper",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {"signal": "No SOC 2 mention found on website, news pages, or in targeted web search", "source_url": "https://www.harperinsure.com/"},
+   {"signal": "State-licensed commercial insurance brokerage (CA license 6017784, GA 237101) serving 5,000+ businesses - regulated sector with enterprise carrier partners (165+)", "source_url": "https://www.harperinsure.com/news/series-a-announcement"}
+  ],
+  "hiring_signals": [
+   "14 open roles on YC jobs page including 6 engineering roles (Member of Technical Staff, Senior MTS, Senior MTS Voice, Forward Deployed Engineer, GTM Engineer)",
+   "No dedicated security/GRC/DevOps role listed - suggests compliance work would be outsourced"
+  ],
+  "funding": {"stage": "series-a", "total_usd_estimate": 47000000, "source_url": "https://www.harperinsure.com/news/series-a-announcement"},
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {"name": "Dakotah Rice", "role": "Co-founder & CEO", "linkedin": null, "twitter": null, "email": null, "source": "https://www.harperinsure.com/news/series-a-announcement"},
+   {"name": "Tushar Nair", "role": "Co-founder & CTO", "linkedin": null, "twitter": null, "email": null, "source": "https://www.harperinsure.com/news/series-a-announcement"},
+   {"name": "General inquiries", "role": "company inbox", "linkedin": null, "twitter": null, "email": "harper@harperinsure.com", "source": "Publicly listed contact email surfaced from harperinsure.com via web search"}
+  ],
+  "fit_score": 78,
+  "pitch_note": "AI insurance brokerage with $47M raised, 25 people, 14 open roles, no SOC 2 badge, and no in-house security hire - strong buying power and regulated carrier/enterprise counterparties. Slightly outside the '<$10M fresh seed' band, so may skip Type I and go straight to Type II with a larger auditor."
+ },
+ {
+  "slug": "infinite",
+  "name": "Infinite",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {"signal": "No SOC 2 mention found on site (about page checked) or in web search", "source_url": "https://infinite.dev/about"},
+   {"signal": "B2B stablecoin payment processor embedding payments+compliance+risk for businesses/banks; employs a Chief Compliance Officer - compliance-forward posture without an attestation yet", "source_url": "https://infinite.dev/about"}
+  ],
+  "hiring_signals": [
+   "Founding Engineer role open ($108K-$230K, 0.25-1.00% equity, SF in-person) with explicit responsibility for 'ledgering, compliance, and risk' systems and automated compliance reporting"
+  ],
+  "funding": {"stage": "yc-only", "total_usd_estimate": 500000, "source_url": "https://www.crunchbase.com/organization/infinite-17a4"},
+  "aws_native": "unknown",
+  "aws_evidence": "Job post lists Next.js/TypeScript, C#, Go, Python and event-driven architectures; no cloud provider named (https://www.ycombinator.com/companies/infinite/jobs/LqkMhIs-founding-engineer)",
+  "contacts": [
+   {"name": "Nikhil Srinivasan", "role": "Founder & CEO (ex-Sardine, ex-Coinbase)", "linkedin": null, "twitter": null, "email": null, "source": "https://infinite.dev/about"},
+   {"name": "Raj Lad", "role": "Founder & CTO (ex-Sardine payments tech lead)", "linkedin": null, "twitter": null, "email": null, "source": "https://infinite.dev/about"},
+   {"name": "Krisan Nichani", "role": "Chief Compliance Officer", "linkedin": null, "twitter": null, "email": null, "source": "https://infinite.dev/about"}
+  ],
+  "fit_score": 85,
+  "pitch_note": "Ideal ICP: 4-person, YC-standard-funded stablecoin processor selling money movement to businesses and banks, hiring a founding engineer to build compliance/risk systems, with a CCO on staff and no SOC 2 attestation advertised - Type I is a near-term necessity to close bank and enterprise deals."
+ },
+ {
+  "slug": "planbase",
+  "name": "Planbase",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {"signal": "No SOC 2 mention found on site or in web search", "source_url": "https://www.joinplanbase.com/"},
+   {"signal": "Sells AI workforce management (scheduling, credentialing, payroll) to healthcare clinics and telehealth platforms - HIPAA/SOC 2-sensitive buyer base", "source_url": "https://siliconangle.com/2025/11/04/planbase-launches-2-1m-bring-ai-automation-healthcare-workforce-management/"}
+  ],
+  "hiring_signals": [
+   "Founding Engineer and Founding Product Engineer roles open in SF ($130K-$200K, 0.30-1.75% equity); job description says engineers handle 'infrastructure, data modeling, permissions, and compliance'"
+  ],
+  "funding": {"stage": "seed", "total_usd_estimate": 2100000, "source_url": "https://siliconangle.com/2025/11/04/planbase-launches-2-1m-bring-ai-automation-healthcare-workforce-management/"},
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {"name": "Joe Shearman", "role": "Co-founder", "linkedin": null, "twitter": null, "email": null, "source": "https://siliconangle.com/2025/11/04/planbase-launches-2-1m-bring-ai-automation-healthcare-workforce-management/"},
+   {"name": "Jack Light", "role": "Co-founder", "linkedin": null, "twitter": null, "email": null, "source": "https://siliconangle.com/2025/11/04/planbase-launches-2-1m-bring-ai-automation-healthcare-workforce-management/"}
+  ],
+  "fit_score": 82,
+  "pitch_note": "Fresh $2.1M seed (Nov 2025) healthtech SaaS selling into clinics/telehealth with no SOC 2 badge, and founding-engineer job posts that explicitly bundle compliance into engineering work - strong signal they need outside SOC 2 (and likely HIPAA) help now."
+ },
+ {
+  "slug": "arva-ai",
+  "name": "Arva AI",
+  "soc2_status": "has_soc2",
+  "soc2_evidence": [
+   {"signal": "Company blog post announcing SOC 2 Type II certification", "source_url": "https://arva.ai/company/blog/arva-ai-gets-soc-2-type-ii-certified"},
+   {"signal": "Dedicated security page citing SOC 2 Type II, ISO 42001, GDPR, CCPA", "source_url": "https://arva.ai/security/security"}
+  ],
+  "hiring_signals": [
+   "YC profile lists is_hiring=true (London, 20 people); no specific security/GRC role verified"
+  ],
+  "funding": {"stage": "seed", "total_usd_estimate": 3000000, "source_url": "https://www.thesaasnews.com/news/arva-ai-raises-3-million-in-seed-round"},
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {"name": "Rhim Shah", "role": "Co-founder & CEO (ex-Revolut Business)", "linkedin": null, "twitter": null, "email": null, "source": "https://www.thebaehq.com/news/arva-ai-funding"},
+   {"name": "Oliver Wales", "role": "Co-founder & CTO (ex-Seal)", "linkedin": null, "twitter": null, "email": null, "source": "https://www.thebaehq.com/news/arva-ai-funding"}
+  ],
+  "fit_score": 15,
+  "pitch_note": "Disqualified: already SOC 2 Type II certified (publicly announced) plus ISO 42001 - no Type I opportunity; at best a future re-attestation/Type II renewal prospect."
+ },
+ {
+  "slug": "care-gp",
+  "name": "Care GP",
+  "soc2_status": "unknown",
+  "soc2_evidence": [
+   {"signal": "Public data-security page exists but advertises CyberCert Level 3 Gold certification and ISO 27001 'in progress' - no SOC 2 mention; all data hosted in Australia", "source_url": "https://www.caregp.com.au/data-security-compliance-stance"},
+   {"signal": "Press coverage confirms AES-256 encryption, Australian data residency, CyberCert Gold; compliance roadmap is Australian/ISO, not SOC 2", "source_url": "https://www.mobihealthnews.com/news/anz/scaling-agentic-ai-aussie-gps"}
+  ],
+  "hiring_signals": [
+   "No open roles found; YC profile lists is_hiring=false"
+  ],
+  "funding": {"stage": "yc-only", "total_usd_estimate": 500000, "source_url": "https://www.ycombinator.com/companies/care-gp"},
+  "aws_native": "unknown",
+  "aws_evidence": "Data stored and processed in Australia; hosting provider not named (https://www.mobihealthnews.com/news/anz/scaling-agentic-ai-aussie-gps)",
+  "contacts": [
+   {"name": "Melvin Chen", "role": "Founder & CEO", "linkedin": null, "twitter": null, "email": null, "source": "https://www.mobihealthnews.com/news/anz/scaling-agentic-ai-aussie-gps"}
+  ],
+  "fit_score": 30,
+  "pitch_note": "Weak fit: Sydney-based, sells to Australian GP clinics, already profitable, and has chosen the Australian compliance stack (CyberCert Gold, ISO 27001 in progress) - SOC 2 is unlikely to be demanded by its buyers and it is not hiring."
+ },
+ {
+  "slug": "roe",
+  "name": "ROE",
+  "soc2_status": "has_soc2",
+  "soc2_evidence": [
+   {"signal": "Homepage (getroe.ai redirects to roe-ai.com) displays SOC 2 Type II, HIPAA, and GDPR compliance plus a dedicated trust portal at trust.roe-ai.com", "source_url": "https://www.roe-ai.com/"}
+  ],
+  "hiring_signals": [
+   "YC profile lists is_hiring=true (9 people); enterprise customers include Affirm, eBay, Next Insurance, and a G-SIB bank"
+  ],
+  "funding": {"stage": "seed", "total_usd_estimate": 3500000, "source_url": "https://www.ycombinator.com/companies/roe"},
+  "aws_native": "yes",
+  "aws_evidence": "Homepage advertises AWS, GCP, and Azure deployment options including single-tenant VPC and on-prem (https://www.roe-ai.com/)",
+  "contacts": [
+   {"name": "Richard Meng", "role": "Co-founder & CEO", "linkedin": null, "twitter": null, "email": null, "source": "https://www.ycombinator.com/companies/roe"},
+   {"name": "Jason Wang", "role": "Co-founder (infrastructure)", "linkedin": null, "twitter": null, "email": null, "source": "https://www.ycombinator.com/companies/roe (note: a LinkedIn search result suggests he may have since joined OpenAI - verify before outreach)"},
+   {"name": "Support", "role": "company inbox", "linkedin": null, "twitter": null, "email": "support@roe-ai.com", "source": "Publicly listed on https://www.roe-ai.com/"}
+  ],
+  "fit_score": 20,
+  "pitch_note": "Disqualified: already SOC 2 Type II (plus HIPAA/GDPR) with a public trust portal - selling fraud/AML AI to banks forced early compliance; only value is future audit-cycle switching."
+ }
+]

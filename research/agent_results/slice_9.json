@@ -1,0 +1,442 @@
+[
+  {
+    "slug": "finto-de",
+    "name": "Finto",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page found at gofinto.com/security, gofinto.com/trust, or trust.gofinto.com (all 404/NXDOMAIN); no SOC 2 mention anywhere in public-facing content",
+        "source_url": "https://www.gofinto.com/"
+      },
+      {
+        "signal": "Enterprise AI accounting platform targeting mid-market/enterprise finance teams processing invoices in regulated ERP systems (SAP, Oracle NetSuite, Microsoft Dynamics) — exactly the buyer profile that requires SOC 2 from vendors",
+        "source_url": "https://www.ycombinator.com/companies/finto-de"
+      },
+      {
+        "signal": "Only compliance claim found publicly is GDPR compliance (mentioned on main website); no SOC 2 or ISO 27001 certification confirmed from primary sources",
+        "source_url": "https://www.gofinto.com/"
+      },
+      {
+        "signal": "Bilarna AI trust profile gives Finto a 61% trust score (B grade, 40/57 checks passed); no formal compliance certifications noted",
+        "source_url": "https://bilarna.com/provider/gofinto"
+      }
+    ],
+    "hiring_signals": [
+      "YC jobs page lists 2 open roles: (Senior) Solution Engineer (€50K–€80K) and Product Engineer (€60K–€130K), both Munich-based — no security/GRC/DevOps roles currently posted",
+      "No security engineer, compliance, or infrastructure roles found on LinkedIn or external job boards as of July 2026",
+      "Team is ~7 people (S25 batch); at this stage, SOC 2 readiness work typically begins around 10–20 employees, suggesting compliance hires may be imminent"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/finto/__6sRzJmqIsv-2nxRC0QMsMCmVKfalBB4M_zAXs7dP7H0/funding-and-investors"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "StartupHub.ai technology stack detection (June 27, 2026) identifies AWS as Finto's hosting provider. No specific AWS services named in public docs or job posts.",
+    "contacts": [
+      {
+        "name": "Jonas Morgner",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/jonasmorgner/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/finto-de"
+      },
+      {
+        "name": "Linus Boehm",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/linus-boehm/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/finto-de"
+      },
+      {
+        "name": "Lorenz Neuner",
+        "role": "Co-Founder & CPO",
+        "linkedin": "https://www.linkedin.com/in/lorenz-neuner/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/finto-de"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Finto is a strong-fit prospect: enterprise AI accounting targeting CFOs and finance teams at mid-market companies who routinely demand SOC 2 from their vendors — yet Finto has no SOC 2 and no security page whatsoever. They are AWS-hosted, YC-backed (S25), and actively selling to ERP-integrated enterprise buyers (SAP, Oracle, Dynamics). The CTO Linus Boehm is the right contact for a security/compliance conversation. Angle: 'Your SAP and Oracle enterprise customers will block your deals without SOC 2 — we can get you audit-ready in 8–12 weeks before it becomes a revenue bottleneck.'"
+  },
+  {
+    "slug": "consul",
+    "name": "Consul",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page found at onconsul.com/security, onconsul.com/trust, or trust.onconsul.com (all 404/NXDOMAIN); no SOC 2 mention in docs or main website",
+        "source_url": "https://onconsul.com/"
+      },
+      {
+        "signal": "Consul is a FinCEN-registered Money Services Business (MSB) handling USDC payouts for businesses — regulated financial services context where enterprise buyers require SOC 2 from payment infrastructure vendors",
+        "source_url": "https://onconsul.com/"
+      },
+      {
+        "signal": "Security claims on website focus on custody (BNY Mellon, Circle, Coinbase) and TEE/AWS Nitro Enclaves for key management — no third-party SOC 2 audit mentioned",
+        "source_url": "https://onconsul.com/"
+      },
+      {
+        "signal": "Docs reference 'Security and trust' via cryptographic transaction security but disclose no compliance certifications",
+        "source_url": "https://docs.onconsul.com"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs listed on YC jobs page as of July 2026 — 2-person team (founders only)",
+      "No security, DevOps, or GRC roles found on any job board",
+      "Very early stage (2-person team, W24); compliance hires unlikely in near term but enterprise sales pressure will force SOC 2 discussion"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/consul"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Consul's own website states that key management is handled by 'AWS Nitro Enclaves on Coinbase TEE infrastructure,' confirming direct AWS usage for core cryptographic infrastructure.",
+    "contacts": [
+      {
+        "name": "David Lalor",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://linkedin.com/in/davidlalor5",
+        "twitter": "https://x.com/david_lalor",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/consul"
+      },
+      {
+        "name": "Rakeeb Hossain",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://linkedin.com/in/rakeebhossain",
+        "twitter": "https://x.com/rakeeb_hossain",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/consul"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Consul is a fintech payment infrastructure company handling real money (USDC stablecoin payouts via FinCEN-registered MSB) for marketplaces and businesses — a regulated context where enterprise clients will demand SOC 2. They already use AWS Nitro Enclaves for key management, making AWS-native compliance tooling a natural fit. The team is just 2 people (W24), so they have no internal compliance capacity. Lower score than Finto because the very small team size (2) means limited budget and longer sales cycle. Best angle to CTO Rakeeb Hossain: 'FinCEN registration is step one — your marketplace customers will require SOC 2 before going live with payouts. We can run the audit alongside your existing AWS infrastructure.'"
+  },
+  {
+    "slug": "risotto",
+    "name": "Risotto",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Risotto's IT solutions page explicitly states 'SOC 2 Type 2 & HIPAA-certified' alongside compliance badges in the footer",
+        "source_url": "https://www.tryrisotto.com/solutions/it"
+      },
+      {
+        "signal": "Homepage describes platform as 'Enterprise-ready' with SOC 2 and HIPAA compliance badges prominently displayed",
+        "source_url": "https://www.tryrisotto.com"
+      },
+      {
+        "signal": "Third-party search results confirm 'Risotto is SOC 2 Type 2 and HIPAA compliant' as a marketed feature",
+        "source_url": "https://www.tryrisotto.com/solutions/it"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs currently listed on YC platform (confirmed via https://www.ycombinator.com/companies/risotto/jobs)",
+      "Company raised $10M seed round in January 2026 led by Bonfire Ventures — headcount growth likely imminent post-funding",
+      "AWS Marketplace listing exists, indicating enterprise go-to-market motion that often precedes security/compliance hires"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 10500000,
+      "source_url": "https://aijourn.com/risotto-raises-10m-seed-led-by-bonfire-ventures-to-automate-it-support/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Risotto is listed on AWS Marketplace as a SaaS product. A customer case study mentions Risotto integrating with AWS as a core app alongside Jamf and Confluence. Source: https://aws.amazon.com/marketplace/pp/prodview-ejtfsn3feglgi",
+    "contacts": [
+      {
+        "name": "Aron Solberg",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/aronsolberg/",
+        "twitter": "https://x.com/asolberg10",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/risotto"
+      },
+      {
+        "name": "Alex Confer",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/aconfer",
+        "twitter": "https://x.com/aconfer",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/risotto"
+      },
+      {
+        "name": "Chris Paul",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/cmpaul/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/risotto"
+      }
+    ],
+    "fit_score": 42,
+    "pitch_note": "Risotto already holds SOC 2 Type 2 and HIPAA certifications — disqualified as a near-term lead for SOC 2 attestation services. They raised $10M seed in Jan 2026 and are scaling fast. Best angle is post-certification compliance maintenance, access control audit trails, or expanded scope audits (ISO 27001, PCI). Target Alex Confer or Aron Solberg only for compliance-adjacent services, not initial SOC 2 work."
+  },
+  {
+    "slug": "axiom",
+    "name": "Axiom",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Axiom.trade FAQ page references security via non-custodial infrastructure and Turnkey partnership for key management, but no SOC 2 mention found",
+        "source_url": "https://docs.axiom.trade/faqs"
+      },
+      {
+        "signal": "Coin Bureau review confirms platform is 'not a regulated exchange' — compliance posture is blockchain-native rather than enterprise SaaS compliance frameworks",
+        "source_url": "https://coinbureau.com/review/axiom-trade-review"
+      },
+      {
+        "signal": "February 2026 insider trading scandal (ZachXBT investigation) exposed weak internal access controls — SOC 2 controls around data access are clearly absent or immature",
+        "source_url": "https://www.forbes.com/sites/boazsobrado/2026/02/26/axiom-became-ycs-biggest-hit-then-someone-was-watching/"
+      }
+    ],
+    "hiring_signals": [
+      "One open role: Founding Engineer in Austin, TX ($150K–$500K, 0.5–1.5% equity) — https://www.ycombinator.com/companies/axiom/jobs/PYj0leR-founding-engineer",
+      "No dedicated security, DevOps, GRC, or compliance roles listed despite handling $100M+ in user transaction fees",
+      "Insider trading controversy in Feb 2026 may accelerate security/compliance hiring to rebuild user trust"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://humaninvariant.substack.com/p/the-story-of-axiom-and-the-future"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mentions found on axiom.trade, docs.axiom.trade, or in any press coverage. Infrastructure relies on Solana blockchain and Turnkey's wallet key management. No cloud provider identified in public sources.",
+    "contacts": [
+      {
+        "name": "Henry Zhang",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/henryzhang03/",
+        "twitter": "https://x.com/henryzhang99",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/axiom"
+      },
+      {
+        "name": "Preston Ellis",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/preellis/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/axiom"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Axiom is a high-revenue crypto trading platform ($100M+ cumulative fees) with no apparent SOC 2 or formal compliance program. The February 2026 insider trading scandal exposed real access-control gaps, creating a security narrative opening. However, fit is capped at 55 because Axiom is a consumer-facing DeFi app with no regulated enterprise buyer pressure — SOC 2 is not a sales requirement in their market. Best angle: pitch internal security tooling, access management, or incident response tooling post-scandal. Contact Preston Ellis (CTO) directly via LinkedIn."
+  },
+  {
+    "slug": "karsa",
+    "name": "Karsa",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page found at gokarsa.com/security or gokarsa.com/trust — both return 404; trust.gokarsa.com does not resolve",
+        "source_url": "https://gokarsa.com"
+      },
+      {
+        "signal": "Karsa is a FinCEN-registered Money Services Business handling sensitive financial data and stablecoin custody for emerging-market users, placing them squarely in regulated fintech territory where institutional partners (banks, payment rails) routinely require SOC 2",
+        "source_url": "https://gokarsa.com"
+      },
+      {
+        "signal": "Founding Engineer job posting explicitly calls for 'secure, performant, and reliable backend services' using AWS KMS and IAM — security-conscious build but no audit yet at this team size of 2",
+        "source_url": "https://www.ycombinator.com/companies/karsa/jobs/o9iMUSx-founding-engineer-backend"
+      },
+      {
+        "signal": "No SOC 2 announcement found in any web search across YC profile, Crunchbase, Monierate coverage, or Hacker News launch post",
+        "source_url": "https://news.ycombinator.com/item?id=42879661"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (Backend) — New York or San Francisco, $130K–$200K + 0.75–1.50% equity; requires AWS (S3, KMS, IAM, Lambda), Docker, PostgreSQL, TypeScript, Next.js; emphasises 'secure API development' and 'protecting sensitive financial data' (https://www.ycombinator.com/companies/karsa/jobs/o9iMUSx-founding-engineer-backend)",
+      "No dedicated security/GRC/DevSecOps roles posted — sole open role is a backend generalist, suggesting security work will fall to the founding engineer hire"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/karsa/__h6dg0cJaTpcsW_ThivaK4sSIVXvuZtsetOef9Zv4dUw"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Founding Engineer job description explicitly lists AWS S3, KMS, IAM, and Lambda as required stack components alongside Docker and serverless tooling. Source: https://www.ycombinator.com/companies/karsa/jobs/o9iMUSx-founding-engineer-backend",
+    "contacts": [
+      {
+        "name": "Shahryar Hasnani",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/shahryar-hasnani/",
+        "twitter": "https://x.com/0xLilShah",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/karsa"
+      },
+      {
+        "name": "Dale Wilson",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/dalewilson21/",
+        "twitter": "https://x.com/0xdwil",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/karsa"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Karsa is a 2-person YC W25 fintech handling real user funds across 50+ countries — a high-risk, high-scrutiny environment. They are AWS-native (KMS, IAM, Lambda confirmed in JD), have no SOC 2, and their FinCEN MSB registration signals they'll face bank/partner compliance demands soon. The timing is ideal: they're actively hiring their first backend engineer and building security foundations now. Lead with 'your payment-rail partners will require SOC 2 Type II before you can scale with institutional banks — let's get you there before it becomes a blocker.'"
+  },
+  {
+    "slug": "avora",
+    "name": "Avora",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Avora's main site lists HIPAA compliance and links to a trust center at trust.oneleet.com/showandtell (former name ShowAndTell) — the trust center page loaded but contained no SOC 2 certifications or audit reports in the accessible content",
+        "source_url": "https://www.getavora.ai"
+      },
+      {
+        "signal": "getavora.ai/security and getavora.ai/trust both return 404; trust.getavora.ai does not resolve — no public SOC 2 report or in-progress badge found",
+        "source_url": "https://www.getavora.ai"
+      },
+      {
+        "signal": "Avora is selling into DSOs and dental group practices; industry-standard vendor due diligence for DSO contracts requires BAA + SOC 2 Type II. Competitors (e.g. Viva AI) explicitly market SOC 2 Type II to DSO compliance teams, creating direct pressure on Avora",
+        "source_url": "https://www.getviva.ai/soc2-type-ii-dental-ai-dso-compliance/"
+      },
+      {
+        "signal": "No SOC 2 announcement found across seed funding press release, Group Dentistry Now coverage, EIN Presswire launch, or YC profile",
+        "source_url": "https://www.groupdentistrynow.com/dso-group-blog/avora-raises-2-3m-as-hundreds-adopt-ai-powered-documentation-and-case-acceptance-platform/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Product Engineer — San Francisco, $120K–$160K + 0.50–1.50% equity; full-stack (React/TypeScript, Python, PostgreSQL); builds 'evals, inference pipelines, and agent harnesses' (https://www.ycombinator.com/companies/avora/jobs/nrAyNAi-founding-product-engineer)",
+      "Founding Customer Experience Lead — San Francisco, $100K–$140K + 0.10–0.50% equity (https://www.ycombinator.com/companies/avora)",
+      "No security engineer, DevOps, or GRC role currently posted; compliance ownership likely falls to founders at this stage"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 2300000,
+      "source_url": "https://www.groupdentistrynow.com/dso-group-blog/avora-raises-2-3m-as-hundreds-adopt-ai-powered-documentation-and-case-acceptance-platform/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mentions found on website, job postings, or press coverage. Tech stack in job posting is React/TypeScript, Python, PostgreSQL — cloud provider not specified.",
+    "contacts": [
+      {
+        "name": "Daniel Bessonov",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/dbessonov/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/avora"
+      },
+      {
+        "name": "Justin Zhou",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/2018jzhou",
+        "twitter": "https://twitter.com/justinthezhou",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/avora"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Avora is a $2.3M-seeded YC F24 healthcare AI company processing PHI in real-time dental appointments. They are HIPAA-flagged on their site but have no visible SOC 2 — and their DSO customers are exactly the buyers whose procurement teams demand SOC 2 Type II. Revenue is growing 10x, hundreds of practices deployed, which means enterprise contracts and compliance scrutiny are accelerating. Lead with 'DSOs now routinely require SOC 2 Type II alongside your BAA — competitors are already marketing it; let us help you get ahead of the next renewal cycle.' AWS usage is unknown, reducing infrastructure-specific pitch angles."
+  },
+  {
+    "slug": "keye",
+    "name": "Keye",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Keye homepage explicitly states 'SOC II Type 2 Certified' as a listed security feature under enterprise-grade security",
+        "source_url": "https://www.keye.co"
+      }
+    ],
+    "hiring_signals": [
+      "Software Engineer (Remote) — $130K–$200K + 0.10%–0.75% equity (3+ years experience required)",
+      "Founding Private Equity Strategist — $150K–$250K + 0.25%–1.00% equity (3+ years PE experience)",
+      "No security, DevOps, or GRC roles currently posted"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 5000000,
+      "source_url": "https://fintech.global/2025/07/29/private-equity-ai-platform-keye-emerges-with-5m-seed-round/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mentions found in job postings, public documentation, or company website. Cloud infrastructure provider not disclosed publicly.",
+    "contacts": [
+      {
+        "name": "Rohan Parikh",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/parikhrohan/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/keye"
+      },
+      {
+        "name": "Conor Brown",
+        "role": "Co-Founder & COO",
+        "linkedin": "https://www.linkedin.com/in/conor-brown-9a02849b/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/keye"
+      },
+      {
+        "name": "Lalit Lal",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/lalitlal/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/keye"
+      }
+    ],
+    "fit_score": 35,
+    "pitch_note": "Keye already has SOC 2 Type 2 certification, significantly reducing near-term compliance urgency. However, as they expand to more enterprise PE firms and handle increasingly sensitive financial data, they may need expanded scope (ISO 27001, additional SOC 2 categories, penetration testing). Best reengagement trigger: post-Series A when headcount and data volume scale, or if they start targeting larger fund managers with stricter vendor risk requirements."
+  },
+  {
+    "slug": "collectwise",
+    "name": "CollectWise",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification or trust page found. CollectWise operates in regulated fintech (FDCPA-governed debt collection), handles sensitive consumer financial data, and sells to enterprise creditors and agencies — all strong indicators that enterprise buyers will require SOC 2 before procurement.",
+        "source_url": "https://collectwise.com"
+      },
+      {
+        "signal": "YC Launch page mentions FDCPA compliance for AI agents but no SOC 2 or security certifications listed",
+        "source_url": "https://www.ycombinator.com/launches/MGq-collectwise-automating-consumer-debt-collection-with-ai"
+      },
+      {
+        "signal": "No /security or /trust subpages found (both returned 404)",
+        "source_url": "https://collectwise.com/security"
+      }
+    ],
+    "hiring_signals": [
+      "AI Agent Engineer — $200K–$300K + 0.25%–1.00% equity (Node.js, AWS, SQL required)",
+      "Founding Account Executive — $200K–$300K + 0.10%–0.50% equity (enterprise sales focus)",
+      "Senior Forward Deployed Engineer — $240K–$300K + 0.10%–1.00% equity",
+      "No security, GRC, or DevSecOps roles currently posted — compliance posture likely immature"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 2500000,
+      "source_url": "https://www.globenewswire.com/news-release/2025/01/21/3012720/0/en/CoreNest-Capital-Announces-Strategic-Investments-in-SpaceX-CTGT-Open-Clinic-Asha-Health-CollectWise-Curo-Hybrd-and-Study-Dojo.html"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "AWS explicitly listed as a required technical skill in the AI Agent Engineer job posting on YC (alongside Node.js and SQL). The role involves building voice AI infrastructure and production systems on AWS. Source: https://www.ycombinator.com/companies/collectwise/jobs",
+    "contacts": [
+      {
+        "name": "Sean O'Brien",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/sean-o-brien-412b28175/",
+        "twitter": null,
+        "email": "founders@collectwise.com",
+        "source": "https://www.ycombinator.com/companies/collectwise"
+      },
+      {
+        "name": "Vivek Isukapalli",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/vivek-isukapalli-905b28324/",
+        "twitter": null,
+        "email": "founders@collectwise.com",
+        "source": "https://www.ycombinator.com/companies/collectwise"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "CollectWise is a high-priority target. They handle sensitive consumer financial data (PII, payment history, credit bureau data) for enterprise creditors and debt buyers in a heavily regulated space (FDCPA, CFPB oversight, state debt collection laws). No SOC 2 evidence found, yet they're actively selling to enterprise clients and growing fast ($2M ARR with 8 people). AWS-native stack confirmed in job postings. The absence of any security or GRC hire signals an immature compliance program. Opening pitch: 'Your enterprise creditor clients almost certainly require SOC 2 Type 2 — we can get you audit-ready in 8 weeks without slowing down your engineering roadmap.' Use founders@collectwise.com to reach both founders directly."
+  }
+]

@@ -1,0 +1,160 @@
+[
+ {
+  "slug": "selfin",
+  "name": "Selfin",
+  "website": "https://selfin.app",
+  "one_liner": "Building the first AI Bank",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [
+   "Fintech",
+   "Finance",
+   "Consumer",
+   "Consumer Finance",
+   "Neobank"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "antigen",
+  "name": "Antigen",
+  "website": "https://antigen.sh/",
+  "one_liner": "Continuous offensive security for the enterprise.",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Cybersecurity",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "frekil",
+  "name": "Frekil",
+  "website": "https://www.frekil.com",
+  "one_liner": "RWE Generation in minutes",
+  "team_size": 2,
+  "batch": "Spring 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "B2B",
+   "Biotech",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "Bengaluru, India",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "parsewise",
+  "name": "Parsewise",
+  "website": "https://parsewise.ai",
+  "one_liner": "Multi-document processing for your risk teams, AI agents, pipelines",
+  "team_size": 6,
+  "batch": "Spring 2025",
+  "tags": [
+   "Documents",
+   "Artificial Intelligence",
+   "Finance",
+   "API",
+   "Insurance"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "London, England, United Kingdom",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "tinfoil",
+  "name": "Tinfoil",
+  "website": "https://tinfoil.sh",
+  "one_liner": "Encrypted AI with verifiable privacy",
+  "team_size": 5,
+  "batch": "Spring 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Developer Tools",
+   "Security",
+   "Privacy",
+   "Cloud Computing"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "probo",
+  "name": "Probo",
+  "website": "https://www.probo.com/",
+  "one_liner": "We help you get compliant while you focus on your business.",
+  "team_size": 6,
+  "batch": "Spring 2025",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Compliance",
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "hedge",
+  "name": "Hedge",
+  "website": "https://www.hedgespecialty.com/",
+  "one_liner": "AI-Native wholesale insurance company",
+  "team_size": 2,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "mount",
+  "name": "Mount",
+  "website": "https://mount.insure",
+  "one_liner": "The AI Agent Insurance Carrier",
+  "team_size": 2,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ }
+]

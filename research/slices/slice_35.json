@@ -1,0 +1,160 @@
+[
+ {
+  "slug": "openbuilder",
+  "name": "OpenBuilder",
+  "website": "https://theopenbuilder.com/",
+  "one_liner": "The vibe coding platform where builders actually finish.",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Generative AI",
+   "Open Source",
+   "No-code",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "prox",
+  "name": "Prox",
+  "website": "https://useprox.com",
+  "one_liner": "AI technical support for complex physical products",
+  "team_size": 7,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Customer Success",
+   "E-commerce",
+   "Customer Support"
+  ],
+  "industries": [
+   "B2B",
+   "Retail"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "fernstone",
+  "name": "Fernstone",
+  "website": "https://www.fernstone.com",
+  "one_liner": "AI-native insurance brokerage. ",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "brickanta",
+  "name": "Brickanta",
+  "website": "https://www.brickanta.com",
+  "one_liner": "Agentic AI for Society Builders",
+  "team_size": 11,
+  "batch": "Fall 2025",
+  "tags": [
+   "Machine Learning",
+   "Construction",
+   "AI",
+   "AI Assistant"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "Stockholm, Stockholm County, Sweden",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "uplane",
+  "name": "Uplane",
+  "website": "https://uplane.com",
+  "one_liner": "Replace marketing agencies with AI",
+  "team_size": 19,
+  "batch": "Fall 2025",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Analytics",
+   "Advertising",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Marketing"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "bolna-ai",
+  "name": "Bolna AI",
+  "website": "https://bolna.ai",
+  "one_liner": "Voice AI to enable India's next billion",
+  "team_size": 21,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Infrastructure",
+   "Conversational AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "Bengaluru, KA, India",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "hyperspell",
+  "name": "Hyperspell",
+  "website": "https://hyperspell.com",
+  "one_liner": "Your Company Brain",
+  "team_size": 8,
+  "batch": "Fall 2025",
+  "tags": [
+   "Machine Learning",
+   "SaaS",
+   "Data Engineering",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "aspect-inc",
+  "name": "Aspect",
+  "website": "https://aspect.inc",
+  "one_liner": "Intelligent media storage for creative teams.",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 35
+ }
+]

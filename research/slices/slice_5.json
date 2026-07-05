@@ -1,0 +1,164 @@
+[
+ {
+  "slug": "tradeflow",
+  "name": "TradeFlow",
+  "website": "https://www.tradeflowai.com/",
+  "one_liner": "AI-powered settlement for financial securities",
+  "team_size": 2,
+  "batch": "Summer 2024",
+  "tags": [
+   "FinOps",
+   "Fintech",
+   "SaaS",
+   "B2B",
+   "AI"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "elayne",
+  "name": "Elayne",
+  "website": "https://www.elayne.com/",
+  "one_liner": "Estate settlement, from verified discovery to distribution",
+  "team_size": 8,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "B2B",
+   "Legal",
+   "Consumer Finance",
+   "AI"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "usul",
+  "name": "Usul",
+  "website": "https://www.usul.com",
+  "one_liner": "AI Platform for Winning Defense & Government Contracts",
+  "team_size": 15,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Generative AI",
+   "GovTech"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "simcare",
+  "name": "SimCare",
+  "website": "https://simcare.ai",
+  "one_liner": "AI avatars to scale healthcare training.",
+  "team_size": 7,
+  "batch": "Summer 2024",
+  "tags": [
+   "AI-Enhanced Learning",
+   "Education",
+   "Healthcare",
+   "Edtech"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "effigov",
+  "name": "EffiGov",
+  "website": "https://effigov.com",
+  "one_liner": "The AI OS for Cities",
+  "team_size": 3,
+  "batch": "Summer 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "GovTech"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "twentytwo",
+  "name": "TwentyTwo",
+  "website": "https://twentytwo.bio/",
+  "one_liner": "AI infrastructure for biosecurity",
+  "team_size": 3,
+  "batch": "Summer 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Synthetic Biology",
+   "Biotech",
+   "Compliance",
+   "Security"
+  ],
+  "industries": [
+   "Healthcare",
+   "Industrial Bio"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "perspectives-health",
+  "name": "Perspectives Health",
+  "website": "https://perspectiveshealth.ai/",
+  "one_liner": "Automating away admin for behavioral health clinics",
+  "team_size": 5,
+  "batch": "Summer 2025",
+  "tags": [
+   "Workflow Automation",
+   "Healthcare",
+   "Mental Health",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "Chicago, IL, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "veritus",
+  "name": "Veritus",
+  "website": "https://www.veritus.com",
+  "one_liner": "AI agents for the consumer lending industry",
+  "team_size": 10,
+  "batch": "Summer 2025",
+  "tags": [
+   "Fintech",
+   "Lending",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Credit and Lending"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ }
+]

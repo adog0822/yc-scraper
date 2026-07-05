@@ -1,0 +1,386 @@
+[
+  {
+    "slug": "kinro",
+    "name": "Kinro",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Search results state 'Kinro is SOC 2 Type II certified and fully GDPR compliant, ensuring customer data is processed with the highest level of encryption, auditability, and administrative control.'",
+        "source_url": "https://www.ycombinator.com/launches/Qrp-kinro-the-first-autonomous-insurance-brokerage"
+      },
+      {
+        "signal": "Multiple search result snippets consistently cite SOC 2 Type II as a current certification for Kinro",
+        "source_url": "https://kinro.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring 1 Founding AI Engineer (San Francisco, $120K-$300K, 0.75%-2.0% equity) — no security/GRC/DevOps roles open"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://pitchbook.com/profiles/company/1357251-67"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No specific AWS mentions found on website or job posts; CTO Parth Ainampudi has ML infrastructure background from Zoox (GPU clusters, real-time systems) but no AWS-specific signals confirmed",
+    "contacts": [
+      {
+        "name": "Pierre-Alexandre Kamienny",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://linkedin.com/in/pakamienny/",
+        "twitter": "https://twitter.com/pierrealexai",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kinro"
+      },
+      {
+        "name": "Parth Ainampudi",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://linkedin.com/in/partha42/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kinro"
+      },
+      {
+        "name": "Corentin Hugot",
+        "role": "COO & Co-founder",
+        "linkedin": "https://linkedin.com/in/corentin-hugot/",
+        "twitter": "https://twitter.com/corentin_hgt",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kinro"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Disqualified: Kinro already holds SOC 2 Type II certification. Do not pitch compliance attestation services; explore ongoing monitoring or audit renewal only if relevant."
+  },
+  {
+    "slug": "lumius",
+    "name": "Lumius",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on website or in any search results; company is a hardware-focused medical device startup (3D ultrasound), not a SaaS platform",
+        "source_url": "https://www.lumius-imaging.com/"
+      },
+      {
+        "signal": "Only hardware engineer role open; no security, GRC, or infra hiring signals",
+        "source_url": "https://www.ycombinator.com/companies/lumius/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring 1 Hardware & Embedded Engineer (Durham NC, $80K-$110K) — no security/DevOps/GRC roles"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/lumius"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider or software infrastructure details found; product is physical 3D ultrasound hardware, limiting cloud infrastructure signals",
+    "contacts": [
+      {
+        "name": "Luca Menozzi",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/luca-menozzi-7490a6154/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/lumius"
+      },
+      {
+        "name": "Tri Vu",
+        "role": "Co-founder",
+        "linkedin": "https://scholar.google.com/citations?user=kt9OJ3YAAAAJ",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/lumius"
+      },
+      {
+        "name": "Chenhang Li",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://entrepreneurship.duke.edu/duke-ie-network/duke-ie-network-news/"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Poor ICP fit: Lumius is a medical device hardware startup with no software platform requiring SOC 2 attestation. Team of 4, no GRC/security hiring, no SaaS buyers identified. Deprioritize."
+  },
+  {
+    "slug": "infera",
+    "name": "Infera",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Security page explicitly states 'Hosted on SOC 2 Type II certified cloud infrastructure'",
+        "source_url": "https://www.infera.bio/security"
+      },
+      {
+        "signal": "Security page also lists HIPAA-ready architecture, GxP-compatible audit trails, and 21 CFR Part 11 support — indicating deliberate compliance posture for regulated lab buyers",
+        "source_url": "https://www.infera.bio/security"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform; team size is 2"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/infera"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "SOC 2 Type II certified cloud infrastructure cited but provider not named on security page; no job posts to signal AWS usage",
+    "contacts": [
+      {
+        "name": "Chloe Sow",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/chloe-sow",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/infera"
+      },
+      {
+        "name": "Troy Zhang",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/troyzh",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/infera"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified: Infera's security page explicitly claims SOC 2 Type II certified cloud infrastructure. The compliance posture is already established. Not a fit for initial SOC 2 attestation services."
+  },
+  {
+    "slug": "acx",
+    "name": "ACX",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security compliance mention found on website or in search results; company is a biotech/agriculture company developing biocides, not a SaaS platform",
+        "source_url": "https://www.acxtherapeutics.com/"
+      },
+      {
+        "signal": "No security, GRC, or infra hiring; no jobs posted",
+        "source_url": "https://www.ycombinator.com/companies/acx/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform; team size is 4"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": null,
+      "source_url": "https://www.ycombinator.com/companies/acx"
+    },
+    "aws_native": "no",
+    "aws_evidence": "ACX is a wet-lab biotech company developing biocides for agriculture; no software platform, no SaaS product, no cloud infrastructure signals found",
+    "contacts": [
+      {
+        "name": "Emmanouela Petsolari",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/emmanouelapetsolari/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/person/emmanouela-petsolari"
+      },
+      {
+        "name": "Melina Petsolari",
+        "role": "CTO & Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.acxtherapeutics.com/about"
+      }
+    ],
+    "fit_score": 5,
+    "pitch_note": "Not an ICP match: ACX is a biotech/ag-bio company with physical R&D, no SaaS platform, and no enterprise software buyers requiring SOC 2. Self-funded, no SaaS revenue model. Skip entirely."
+  },
+  {
+    "slug": "understood-care",
+    "name": "Understood Care",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Company handles Medicare patient health data (PHI) and claims HIPAA compliance; no SOC 2 mention found on website or in search results, suggesting SOC 2 not yet achieved",
+        "source_url": "https://understoodcare.com"
+      },
+      {
+        "signal": "Healthcare AI platform serving Medicare patients — enterprise health system and insurance buyers typically require SOC 2 Type II before vendor onboarding",
+        "source_url": "https://www.ycombinator.com/companies/understood-care"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform; team size is 7"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/understood-care"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No specific cloud provider mentioned on website or in job descriptions; technology stack not disclosed publicly",
+    "contacts": [
+      {
+        "name": "Samantha Wu",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/samanthawu/",
+        "twitter": null,
+        "email": "Hello@UnderstoodCare.com",
+        "source": "https://understoodcare.com"
+      },
+      {
+        "name": "Kevin Bailey",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/kevin-bailey-2951b0162/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/understood-care"
+      },
+      {
+        "name": "Dr. Adam Bonder",
+        "role": "Medical Director",
+        "linkedin": "https://www.linkedin.com/in/adam-j-bonder-md-mba-83b7a254/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/understood-care"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Moderate fit: Understood Care handles Medicare patient PHI and claims HIPAA compliance but no evidence of SOC 2 yet — strong regulatory need given enterprise health system buyers. Team of 7 with technical CTO. No active security/infra hiring, limiting signal strength. Pitch SOC 2 Type I as fast path to close enterprise deals."
+  },
+  {
+    "slug": "mdhub",
+    "name": "mdhub",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Security page states 'Mdhub, Inc is compliant with the AICPA Service Organization Control (SOC 2) Type 2' with badges for SOC 2, HIPAA, and PIPA displayed",
+        "source_url": "https://www.mdhub.ai/security"
+      },
+      {
+        "signal": "BD Emerson CPA conducted SOC 2 Type I and HIPAA audits; case study confirms completed audit engagement",
+        "source_url": "https://www.bdemerson.com/case-studies/mdhub"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Account Executive, Deployment Strategist, Forward Deployed Engineer, Growth Strategist (all SF, $100K-$200K) — sales and deployment focused, no security/GRC/DevOps roles"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/mdhub/__vOpMslrMziFe7nLmg7zvo1yQ-S1h9Vfasp0MlQVSLoQ/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Cloud infrastructure not disclosed publicly; platform described as 'cloud-based' with SOC 2 Type 2 compliance but specific provider not identified",
+    "contacts": [
+      {
+        "name": "Dominik Middelmann",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/dominik-middelmann-01232378/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mdhub"
+      },
+      {
+        "name": "Efren A. Lamolda",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/efrenal",
+        "twitter": "https://twitter.com/ealamolda",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mdhub"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "Disqualified: mdhub has completed both SOC 2 Type II and HIPAA audits with a named CPA firm. Fully out of ICP for initial attestation. Could explore ongoing monitoring or Type II renewal services."
+  },
+  {
+    "slug": "claimsorted",
+    "name": "ClaimSorted",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on website, trust page 404s, or in search results despite being an AI platform processing insurance claims — a highly regulated enterprise context",
+        "source_url": "https://claimsorted.com"
+      },
+      {
+        "signal": "Engineering job posts confirm GCP + Postgres + Terraform stack (NextJS, NodeJS, LangChain) but no security certifications mentioned in role descriptions",
+        "source_url": "https://www.ycombinator.com/companies/claimsorted/jobs/kW842Qz-product-engineer-front-end"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring 6 roles: Forward Deployed Engineer (London), Product Engineer Front End (London), Founding GTM Sales (NYC), Founding Account Manager (NYC/London), AI Engineer (London), Product Engineer Full-Stack (London) — no dedicated security/GRC/DevOps role but active engineering build-out"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 16300000,
+      "source_url": "https://ibsintelligence.com/ibsi-news/claimsorted-raises-13-3m-to-reinvent-insurance-claims/"
+    },
+    "aws_native": "no",
+    "aws_evidence": "Job posts explicitly list GCP (Google Cloud Platform), Postgres, and Terraform as core stack — not AWS native",
+    "contacts": [
+      {
+        "name": "Pavel Gertsberg",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://linkedin.com/in/pavel-gertsberg",
+        "twitter": "https://twitter.com/grtspvl",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/claimsorted"
+      },
+      {
+        "name": "German Mikulski",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/german-mikulski/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/claimsorted"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Strong-to-moderate fit: ClaimSorted processes insurance claims for carrier clients — a heavily regulated enterprise buyer context almost certainly requiring SOC 2 Type II. $16.3M raised (Atomico-led seed), team of 20, active hiring. GCP stack (not AWS) is a partial ICP miss but SOC 2 applies regardless of cloud. No SOC 2 evidence found. Pitch immediately — scale and regulated buyers create urgency."
+  },
+  {
+    "slug": "sagecare",
+    "name": "Sage Care",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website claims HIPAA compliance and references a Delve-hosted trust center (trust.delve.co/sage) with 67 controls, but no SOC 2 certification mentioned anywhere on the site or in search results",
+        "source_url": "https://www.sagecare.ai/"
+      },
+      {
+        "signal": "Home care agencies and healthcare enterprise buyers increasingly require SOC 2 from AI vendors handling PHI; Sage Care's platform handles intake calls, care plans, and patient records",
+        "source_url": "https://www.ycombinator.com/companies/sagecare"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring 1 Founding Software Engineer (NYC/Miami, $125K-$250K, up to 2% equity) — full-stack/generalist role, no security/GRC specific but senior founding engineer hire suggests infrastructure build-out phase"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/sagecare"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "YC company page images served from bookface-images.s3.amazonaws.com and bookface-images.s3.us-west-2.amazonaws.com indicating AWS S3 usage; HIPAA-compliant AI for healthcare commonly built on AWS HIPAA-eligible services",
+    "contacts": [
+      {
+        "name": "Jon Levinson",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/jonlevinson1/",
+        "twitter": "https://x.com/levinsonjon",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sagecare"
+      },
+      {
+        "name": "Ian Gillis",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://linkedin.com/in/ian-gillis-3a503837",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sagecare"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Good fit: Sage Care handles PHI for home care agencies (regulated buyers), claims HIPAA compliance but shows no SOC 2 evidence — HIPAA trust center suggests compliance awareness without SOC 2 completion. Small team (3), actively hiring a founding engineer, likely AWS-native. Pitch SOC 2 Type I as the next logical compliance step to unlock enterprise home care and hospice contracts."
+  }
+]

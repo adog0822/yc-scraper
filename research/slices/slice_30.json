@@ -1,0 +1,159 @@
+[
+ {
+  "slug": "atlas-discovery",
+  "name": "Atlas Discovery",
+  "website": "https://atlasdiscovery.bio",
+  "one_liner": "Discovering the atlas of disease biology using virtual cells.",
+  "team_size": 3,
+  "batch": "Summer 2026",
+  "tags": [
+   "AI-powered Drug Discovery",
+   "Drug discovery",
+   "Biotechnology"
+  ],
+  "industries": [
+   "Healthcare",
+   "Drug Discovery and Delivery"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "sonia",
+  "name": "Sonia",
+  "website": "https://soniahealth.com",
+  "one_liner": "Validated mental health support in your pocket, anytime. ",
+  "team_size": 7,
+  "batch": "Winter 2024",
+  "tags": [
+   "Consumer Health Services",
+   "Digital Health",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "centauri-ai",
+  "name": "Centauri AI",
+  "website": "https://centauri-ai.tech",
+  "one_liner": "The Modern ETL and Data Science Platform for Finance",
+  "team_size": 5,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "givefront",
+  "name": "Givefront",
+  "website": "https://givefront.com",
+  "one_liner": "Nonprofit Financial Management",
+  "team_size": 4,
+  "batch": "Winter 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Banking and Exchange"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "parcelbio",
+  "name": "ParcelBio",
+  "website": "https://parcelbio.com/",
+  "one_liner": "Elevated mRNA for transformative medicines.",
+  "team_size": 6,
+  "batch": "Winter 2024",
+  "tags": [
+   "Gene Therapy",
+   "Synthetic Biology",
+   "Biotech",
+   "Therapeutics",
+   "Drug discovery"
+  ],
+  "industries": [
+   "Healthcare",
+   "Therapeutics"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "exin-therapeutics",
+  "name": "Exin Therapeutics",
+  "website": "https://www.exintherapeutics.com/",
+  "one_liner": "AI drug discovery platform for neurotherapeutics",
+  "team_size": 9,
+  "batch": "Winter 2025",
+  "tags": [
+   "Neurotechnology",
+   "Biotech",
+   "Therapeutics"
+  ],
+  "industries": [
+   "Healthcare",
+   "Therapeutics"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "tire-swing",
+  "name": "Tire Swing",
+  "website": "https://gettireswing.com",
+  "one_liner": "AI Powered Affordable Housing Eligibility",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "GovTech",
+   "Real Estate",
+   "Housing",
+   "Compliance",
+   "Legal"
+  ],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "agentic-fabriq",
+  "name": "Agentic Fabriq",
+  "website": "https://www.agenticfabriq.com",
+  "one_liner": "The control plane for AI agents.",
+  "team_size": 2,
+  "batch": "Winter 2026",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Identity",
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ }
+]

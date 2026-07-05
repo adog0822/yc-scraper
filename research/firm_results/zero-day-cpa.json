@@ -1,0 +1,85 @@
+{
+  "slug": "zero-day-cpa",
+  "name": "Zero Day CPA, PC",
+  "website": "https://www.zerodaycpa.com",
+  "hq": "Troy, MI (office also listed in West Bloomfield, MI; distributed US-based team)",
+  "founded": "2020",
+  "team_size_estimate": "~25-30 employees",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Homepage positions firm as 'trusted partner for B2B, SaaS, and a spectrum of industries' and describes SOC 2 as 'ideal for tech and cloud service providers'",
+      "source_url": "https://www.zerodaycpa.com"
+    },
+    {
+      "signal": "Third-party profile: specializes in startups and growing companies (1-100 employees) in SaaS, healthcare, fintech, and AI needing their first SOC 2, with flexible payment terms; SOC 2 Type 1 priced $5K-$7K, Type 2 $7K-$10K, 4-6 week turnaround",
+      "source_url": "https://soc2auditors.org/auditors/zero-day-cpa/"
+    },
+    {
+      "signal": "Startup client testimonials: healthcare startup received final SOC 2 Type 1 report within 16 days; SCYTHE praised 'deep familiarity with the Drata platform'",
+      "source_url": "https://soc2auditors.org/auditors/zero-day-cpa/"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Advanced Alliance Member, 5.0 rating across 15+ verified reviews)",
+    "Vanta (evidence-collection partnership/integration)",
+    "Secureframe (evidence-collection partnership/integration)",
+    "Sprinto",
+    "TrustCloud",
+    "Thoropass (supported)",
+    "OneTrust (supported)",
+    "Apptega (supported)"
+  ],
+  "aws_cloud_expertise": "Supports AWS, Azure, and Google Cloud deployments with remote delivery; core client base is cloud/SaaS companies and CTO co-founder Patrick Sesi has a computer science background, but no AWS-exclusive specialization is claimed",
+  "services": [
+    "SOC 1",
+    "SOC 2 Type I & II",
+    "SOC 3",
+    "HIPAA",
+    "ISO 27001",
+    "HITRUST",
+    "Penetration testing (in-house)",
+    "vCISO services"
+  ],
+  "contacts": [
+    {
+      "name": "Patrick Sesi",
+      "role": "Co-Founder & CTO (described as primary contact for new business and partnerships)",
+      "linkedin": "https://www.linkedin.com/in/patrick-sesi-609008b7/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/patrick-sesi-609008b7/"
+    },
+    {
+      "name": "Lance Samona",
+      "role": "President & CPA, Co-Founder",
+      "linkedin": "https://www.linkedin.com/in/lance-samona-cpa-a4515898/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/lance-samona-cpa-a4515898/"
+    },
+    {
+      "name": "Zero Day CPA (firm general contact)",
+      "role": "Main office",
+      "linkedin": "https://www.linkedin.com/company/zero-day-cpa-pc",
+      "twitter": null,
+      "email": "info@zerodaycpa.com",
+      "phone": "+1-800-599-1700",
+      "source": "https://www.zerodaycpa.com/about-us"
+    }
+  ],
+  "fit_score": 95,
+  "partnership_angle": "Referral partner AND sandbox tester — the strongest dual-fit candidate found. As a tech-forward boutique (CTO co-founder with CS background, in-house pen testing) already embedded in Drata, Vanta, AND Secureframe ecosystems, they clearly embrace automation rather than fear it, making them ideal validators of an AWS-native scanning tool. Their entire funnel is first-time SOC 2 startups (1-100 employees, cloud-hosted), which maps exactly to LoxeAI's ICP, and their fast/affordable positioning means a pre-audit readiness scan that shortens engagements complements their business model instead of cannibalizing it. Patrick Sesi (CTO) is the published entry point for partnerships.",
+  "pitch_note": "Reach out to Patrick Sesi: 'You built Zero Day around getting cloud startups through their first SOC 2 fast — LoxeAI is an AWS-native readiness scanner built for exactly those clients. Would you run a scan against a sandbox AWS account (or your own environment) and tear it apart? If it holds up to your standards, your pre-audit pipeline gets a tool you can hand to prospects — run this scan first, it gets you ~80% ready before fieldwork — which makes your 4-6 week turnarounds even faster and your Drata/Vanta-side clients cleaner on day one.' The ask is a 20-minute call plus one sandbox scan; validation converts them into a referral channel for every not-yet-ready startup that calls them too early.",
+  "source_urls": [
+    "https://www.zerodaycpa.com",
+    "https://www.zerodaycpa.com/about-us",
+    "https://soc2auditors.org/auditors/zero-day-cpa/",
+    "https://www.linkedin.com/in/patrick-sesi-609008b7/",
+    "https://www.linkedin.com/in/lance-samona-cpa-a4515898/",
+    "https://www.linkedin.com/company/zero-day-cpa-pc",
+    "https://drata.com/partners/audit-alliance/directory"
+  ]
+}

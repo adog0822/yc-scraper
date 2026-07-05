@@ -1,0 +1,82 @@
+{
+  "slug": "constellation-grc",
+  "name": "Constellation GRC (ConstellationGRC)",
+  "website": "https://www.constellationgrc.com/",
+  "hq": "3020 Old Ranch Pkwy # 300, Seal Beach, CA 90740",
+  "founded": null,
+  "team_size_estimate": "~8 employees (RocketReach/ZoomInfo estimate); four co-founders listed on site plus partnerships/AE staff",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Dedicated 'Audits for Startups' industry page: 'we understand what's important to early stage companies: speed, simplicity, and cost'; recommends Security-criterion-only, 3-month observation windows, Type I 'within weeks' as startup-friendly on-ramps",
+      "source_url": "https://www.constellationgrc.com/industries/audits-for-startups"
+    },
+    {
+      "signal": "Separate industry pages for SaaS companies and agencies; homepage 'catering to the unique needs of startups'; positions SOC 2 as 'table stakes' for SaaS competitive advantage",
+      "source_url": "https://www.constellationgrc.com/industries/audits-for-saas"
+    },
+    {
+      "signal": "About page: founded by 'former big 4 executives looking to work with startups, small and medium-size organizations' seeking security/privacy compliance",
+      "source_url": "https://www.constellationgrc.com/about-us"
+    },
+    {
+      "signal": "Third-party review listing describes them as delivering 'fast, seamless and affordable SOC 2 audits for startups' with pricing 'remarkably accessible... ideal choice for small startups'",
+      "source_url": "https://www.g2.com/products/constellationgrc/reviews"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (fully leverages platform evidence; offers discounts to Vanta users)",
+    "Drata (fully leverages platform evidence; offers discounts to Drata users)"
+  ],
+  "aws_cloud_expertise": "Homepage displays AWS, Azure, Google Cloud, and Digital Ocean logos as 'Trusted Cloud Partners'; SOC 2 page explicitly addresses 'cloud-only infrastructure' clients. Cloud-native client base implied but no dedicated AWS practice page found. (Sources: https://www.constellationgrc.com/, https://www.constellationgrc.com/soc2)",
+  "services": [
+    "SOC 2 Type I and Type II examinations (AICPA standards, CPA firm)",
+    "Startup-focused audit scoping (Security-criterion-only starts, 3-month observation windows)",
+    "Evidence collection via automated compliance platforms ('We fully utilize evidence in automated compliance platforms to minimize back-and-forth')"
+  ],
+  "contacts": [
+    {
+      "name": "Michael Skiles",
+      "role": "Co-Founder & Head of Partnerships (Huntington Beach, CA; PhD UCLA, MBA Quantic; ex-HostGPO)",
+      "linkedin": "https://www.linkedin.com/in/mskiles/",
+      "twitter": "https://x.com/GRCmichael",
+      "email": null,
+      "phone": null,
+      "source": "https://rocketreach.co/constellationgrc-management_b6de3646c737ac2b and https://www.zoominfo.com/p/Michael-Skiles/21346287"
+    },
+    {
+      "name": "Dan Smith",
+      "role": "Co-Founder & CEO",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.constellationgrc.com/about-us"
+    },
+    {
+      "name": "Firm general inbox",
+      "role": "General contact (email + Calendly consultation link on site)",
+      "linkedin": null,
+      "twitter": null,
+      "email": "contact@constellationgrc.com",
+      "phone": null,
+      "source": "https://www.constellationgrc.com/"
+    }
+  ],
+  "fit_score": 92,
+  "partnership_angle": "Referral partner + sandbox tester — the single best profile in this niche. It is a ~8-person, founder-led boutique CPA firm with a dedicated startups practice, it already monetizes GRC-platform alignment (discounts for Vanta/Drata users), and — uniquely — it has a named Co-Founder whose entire job is partnerships (Michael Skiles). A LoxeAI referral arrangement mirrors a motion they already run with Vanta/Drata: auditor validates the tool, then routes pre-audit startup clients to it. Their 'speed, simplicity, cost' positioning for early-stage AWS-native teams matches LoxeAI's readiness-scan value prop exactly.",
+  "pitch_note": "Reach out to Michael Skiles (Co-Founder & Head of Partnerships): 'You already give discounts to startups on Vanta and Drata because clean evidence makes your audits faster — LoxeAI does the same thing one step earlier, for AWS-native teams that aren't audit-ready yet.' Ask for a 30-minute call where his audit team runs a LoxeAI scan against a sandbox AWS account and pokes holes in the findings as auditors. If it holds up, Constellation tells pre-audit startup leads 'run this scan first — it gets you 80% ready,' turning their not-yet-ready pipeline into faster, cheaper engagements they can close sooner.",
+  "source_urls": [
+    "https://www.constellationgrc.com/",
+    "https://www.constellationgrc.com/about-us",
+    "https://www.constellationgrc.com/industries/audits-for-startups",
+    "https://www.constellationgrc.com/soc2",
+    "https://www.constellationgrc.com/industries/audits-for-saas",
+    "https://rocketreach.co/constellationgrc-management_b6de3646c737ac2b",
+    "https://www.zoominfo.com/c/constellation-grc/1340984312",
+    "https://www.linkedin.com/company/painless-soc2",
+    "https://www.linkedin.com/in/mskiles/",
+    "https://x.com/GRCmichael",
+    "https://www.g2.com/products/constellationgrc/reviews"
+  ]
+}

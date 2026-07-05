@@ -1,0 +1,366 @@
+[
+  {
+    "slug": "lexi",
+    "name": "Lexi",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Data controls page states: 'Our security program is aligned with SOC 2's standards for security, availability, and confidentiality — the gold standard for software security.' Language implies alignment/pursuit rather than confirmed certification.",
+        "source_url": "https://www.getlexi.io/data-controls"
+      },
+      {
+        "signal": "Described elsewhere as 'becoming SOC 2 Type 2 compliant' — in-progress phrasing consistent across secondary coverage.",
+        "source_url": "https://www.getlexi.io/data-controls"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform (is_hiring: false in YC profile, confirmed via jobs page)."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/getlexi-io/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Harshit Garg",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/harshitgarg03/",
+        "twitter": "https://x.com/HarshitGarg03",
+        "email": "founders@getlexi.io",
+        "source": "https://www.getlexi.io/about"
+      },
+      {
+        "name": "Kiran Mohan",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/kiranmohanb/",
+        "twitter": "https://x.com/bmnarik",
+        "email": "founders@getlexi.io",
+        "source": "https://www.getlexi.io/about"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Lexi is a lean 15-person legaltech SaaS processing legal documents for law firms — a regulated buyer segment that demands SOC 2. Their own data-controls page shows they are actively working toward SOC 2 Type 2 but have not certified yet. No security/DevOps hiring signals and only $500K raised limits urgency score, but the legal compliance pressure makes SOC 2 a near-term requirement. Strong candidate for a Type I engagement now to accelerate their Type 2 roadmap."
+  },
+  {
+    "slug": "thesis",
+    "name": "Thesis",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on thesislabs.ai website or in any public sources searched.",
+        "source_url": "https://thesislabs.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "One open role: Member of Technical Staff (general AI/ML engineering, $120K-$170K, SF) — no security/DevOps/GRC specifics.",
+      "YC profile marks is_hiring: true."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/thesis"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Sergio Charles",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/sergio-charles-5a8052134/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/sergio-charles-5a8052134/"
+      },
+      {
+        "name": "Luigi Charles",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/luigicharles/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/luigicharles/"
+      }
+    ],
+    "fit_score": 42,
+    "pitch_note": "Thesis is a 3-person autonomous AI research lab with no evidence of regulated enterprise buyers, no SOC 2 signals in any direction, and only YC seed funding (~$500K). Their product targets AI researchers rather than regulated verticals. Very small team and no hiring signals in security or compliance — poor ICP fit at this stage. Revisit if they raise a larger round or pivot toward enterprise customers."
+  },
+  {
+    "slug": "leadbay",
+    "name": "Leadbay",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Enterprise page mentions GDPR compliance and dedicated DPO, but no SOC 2 certification found — typical gap for EU-origin SaaS now expanding to U.S. enterprise buyers.",
+        "source_url": "https://www.leadbay.ai/enterprise-en"
+      },
+      {
+        "signal": "Raised $4.3M seed in May 2026 and explicitly targeting U.S. go-to-market expansion — SOC 2 will likely become a near-term sales blocker for U.S. enterprise prospects.",
+        "source_url": "https://www.finsmes.com/2026/05/leadbay-raises-4-3m-in-seed-funding.html"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Backend Engineer and Frontend Engineer (Paris/SF) — no security/DevOps/GRC roles specifically.",
+      "Engineering Intern role also open.",
+      "YC profile marks is_hiring: true."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 4300000,
+      "source_url": "https://www.finsmes.com/2026/05/leadbay-raises-4-3m-in-seed-funding.html"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mention found in public docs or job postings. Company has EU roots (Sorbonne research partnership, French founding team) — cloud provider unconfirmed.",
+    "contacts": [
+      {
+        "name": "Ludovic Granger",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ludovic-granger/",
+        "twitter": "https://x.com/granger_ludovic",
+        "email": null,
+        "source": "https://www.linkedin.com/in/ludovic-granger/"
+      },
+      {
+        "name": "Milan Stankovic",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/milanstankovic/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/milanstankovic/"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Leadbay just closed a $4.3M seed and is aggressively expanding into the U.S. market with a B2B SaaS product. They have GDPR compliance but no SOC 2, and U.S. enterprise sales prospects in their target verticals (construction, manufacturing, healthcare) will demand it. The freshly funded go-to-market push creates a natural opening to discuss SOC 2 Type I as a sales enablement tool. Cloud provider is unconfirmed which slightly limits fit score."
+  },
+  {
+    "slug": "nucleo",
+    "name": "Nucleo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Oncology AI platform processing CT scans for hospitals including Stanford, Cedars-Sinai, UCI Health, and Weill Cornell — hospital procurement universally requires SOC 2 and often HIPAA BAA.",
+        "source_url": "https://www.ycombinator.com/companies/nucleo"
+      },
+      {
+        "signal": "No SOC 2 certification found on nucleoresearch.com or in any public source.",
+        "source_url": "https://nucleoresearch.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform (is_hiring: false).",
+      "Chief of Staff to CEO role found via external job board (Jobright.ai) — suggests team is growing."
+    ],
+    "funding": {
+      "stage": "Pre-Seed / Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/nucleoresearch-com/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No direct AWS mention found. Hospital-grade deployments suggest potential for AWS HealthLake or HIPAA-eligible AWS services, but unconfirmed.",
+    "contacts": [
+      {
+        "name": "Angelica Iacovelli",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/angelica-iacovelli-490a8a1a7/",
+        "twitter": "https://x.com/AngelicaIAC",
+        "email": "angelica@nucleoresearch.com",
+        "source": "https://www.ycombinator.com/companies/nucleo"
+      },
+      {
+        "name": "Luca Pegolotti",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/luca-pegolotti/",
+        "twitter": "https://x.com/IlPeg",
+        "email": null,
+        "source": "https://www.linkedin.com/in/luca-pegolotti/"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Nucleo is an oncology AI company with only 2 people already deployed at top-tier hospitals (Stanford, Cedars-Sinai). Hospital procurement teams will block or severely delay deals without SOC 2 and a HIPAA BAA — making compliance urgency extremely high. They have a founder email confirmed. Small team and limited funding slightly reduce score, but the regulated buyer pressure is among the strongest in this batch. Pitch angle: 'Your hospital customers need this to even let you through procurement.'"
+  },
+  {
+    "slug": "patent-watch",
+    "name": "Patent Watch",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification or compliance page found on patentwatch.ai.",
+        "source_url": "https://www.patentwatch.ai/"
+      },
+      {
+        "signal": "Serves IP/legal teams at enterprises who are litigation-sensitive — enterprise legal buyers increasingly require SOC 2 before sharing patent portfolios with third-party tools.",
+        "source_url": "https://legaltech.ca/2026/05/28/yc-toronto-startup-patents-revenue-ai-toolkit/"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform (is_hiring: false)."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3200000,
+      "source_url": "https://www.linkedin.com/posts/alex-stroe_we-just-raised-a-28m-seed-round-for-patent-activity-7445476190431113216-vi-k"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mention found in public sources or website.",
+    "contacts": [
+      {
+        "name": "Alex Stroe",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://ca.linkedin.com/in/alex-stroe",
+        "twitter": null,
+        "email": "alex@patentwatch.ai",
+        "source": "https://www.patentwatch.ai/"
+      },
+      {
+        "name": "Andreas Stroe",
+        "role": "Co-founder",
+        "linkedin": "https://ca.linkedin.com/in/andreasstroe",
+        "twitter": null,
+        "email": null,
+        "source": "https://ca.linkedin.com/in/andreasstroe"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Patent Watch has raised $3.2M seed and serves enterprise IP legal teams — a highly regulated, security-sensitive buyer type that routinely audits vendor compliance before sharing patent portfolios. No SOC 2 found anywhere; they are a strong candidate for a Type I engagement to unblock enterprise deals. Direct email for CEO available. Deduct points for no AWS confirmation, small team (4), and Toronto base with unconfirmed U.S. enterprise pipeline depth."
+  },
+  {
+    "slug": "imagine-ai",
+    "name": "Imagine AI",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on imagineai.me or in any public sources searched.",
+        "source_url": "https://www.imagineai.me/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (Full Stack) open — $140K-$200K + equity (SF).",
+      "Founding Customer Success Manager open — $126K-$209K + equity (SF).",
+      "No security, DevOps, or GRC roles listed.",
+      "YC profile marks is_hiring: true."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/imagine-ai"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mention found in any public source for imagineai.me.",
+    "contacts": [
+      {
+        "name": "Sky Yang",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/skyyang/",
+        "twitter": "https://x.com/skygodkingdom",
+        "email": "sky@imagineai.me",
+        "source": "https://www.ycombinator.com/companies/imagine-ai"
+      },
+      {
+        "name": "Neo Lee",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/neo-lky",
+        "twitter": "https://x.com/neo_lky",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/imagine-ai"
+      }
+    ],
+    "fit_score": 38,
+    "pitch_note": "Imagine AI is a 5-person LinkedIn content / B2B marketing SaaS — not a regulated vertical buyer and unlikely to face SOC 2 demands from its SMB and growth-stage customers in the near term. Only $500K raised and buyers are marketing teams, not procurement/legal/security. Poor ICP fit for SOC 2 compliance services. Low priority outreach target."
+  },
+  {
+    "slug": "scott-ai",
+    "name": "Scott AI",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Privacy policy explicitly states: 'We are in the process of pursuing SOC 2 compliance and will update this Privacy Policy when that process is complete.'",
+        "source_url": "https://www.tryscott.ai/privacy"
+      },
+      {
+        "signal": "Amazon Web Services confirmed as their data storage provider in privacy policy.",
+        "source_url": "https://www.tryscott.ai/privacy"
+      }
+    ],
+    "hiring_signals": [
+      "Design Engineer open — $140K-$250K + equity (SF/NYC).",
+      "Product Engineer open — $140K-$250K + equity (NYC/SF).",
+      "No security, DevOps, or GRC roles listed.",
+      "YC profile marks is_hiring: true."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/scottai/__hTmmwLSE7PjlcKDzP1PiHhaCSFfTF5SOoYa_L4L1jFg"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Privacy policy explicitly names Amazon Web Services as their data storage provider. Source: https://www.tryscott.ai/privacy",
+    "contacts": [
+      {
+        "name": "David Maulick",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/davidemaulick/",
+        "twitter": "https://x.com/davidmaulick",
+        "email": null,
+        "source": "https://www.linkedin.com/in/davidemaulick/"
+      },
+      {
+        "name": "Devin Cintron",
+        "role": "CTO & Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/scott-ai"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Scott AI is a confirmed AWS-native startup that has self-disclosed they are actively pursuing SOC 2 — exactly the profile your client targets. They sell to engineering teams (dev tools space), and enterprise engineering buyers increasingly require vendor SOC 2. They are actively hiring product/design but not security, signaling no in-house compliance resource to drive certification internally. Good opening: position a SOC 2 Type I as the fastest path to completing their stated goal. Only $500K raised and 3-person team limit urgency slightly."
+  },
+  {
+    "slug": "sourcebot",
+    "name": "Sourcebot",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found in public docs or website. Enterprise edition advertised with 'security/compliance features' but no specific certification mentioned.",
+        "source_url": "https://www.sourcebot.dev/"
+      },
+      {
+        "signal": "Enterprise customers include NVIDIA, Red Hat, Arista Networks — large companies that routinely require SOC 2 from SaaS vendors before procurement approval.",
+        "source_url": "https://www.sourcebot.dev/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer open — $140K-$200K + equity (SF).",
+      "No security, DevOps, or GRC roles listed.",
+      "YC profile marks is_hiring: true."
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/sourcebot-dev/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Documentation references AWS Bedrock as model backend option and EFS (Elastic File System) for Kubernetes persistent storage on AWS. Self-hosted deployment also supports AWS infrastructure. Source: earlier search result citing docs.sourcebot.dev.",
+    "contacts": [
+      {
+        "name": "Michael Sukkarieh",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/msukkari",
+        "twitter": "https://x.com/msukkarieh1",
+        "email": "team@sourcebot.dev",
+        "source": "https://www.ycombinator.com/companies/sourcebot"
+      },
+      {
+        "name": "Brendan Kellam",
+        "role": "Co-founder",
+        "linkedin": "https://linkedin.com/in/brendan-kellam",
+        "twitter": "https://x.com/bshizzle28",
+        "email": "team@sourcebot.dev",
+        "source": "https://www.ycombinator.com/companies/sourcebot"
+      }
+    ],
+    "fit_score": 74,
+    "pitch_note": "Sourcebot is a developer-tools company with confirmed enterprise customers including NVIDIA and Red Hat — organizations with rigorous vendor security review processes. They advertise an 'enterprise edition' with security/compliance features but have no SOC 2. AWS Bedrock integration confirms AWS-native orientation. With only $500K raised and a 3-person team, they lack the bandwidth to run a compliance program internally. Strong pitch angle: SOC 2 Type I is the prerequisite to close enterprise deals at companies like NVIDIA that already use their product."
+  }
+]

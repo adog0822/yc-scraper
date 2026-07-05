@@ -1,0 +1,85 @@
+{
+  "slug": "mhm-professional-corporation",
+  "name": "MHM Professional Corporation (MHM CPA)",
+  "website": "https://www.mhmcpa.ca/",
+  "hq": "Calgary, AB, Canada",
+  "founded": "2020",
+  "team_size_estimate": "16 employees (per June 2026 acquisition coverage; LinkedIn/SignalHire show 1-10); senior-only staffing model, no juniors — BUT acquired June 2026 by Axiom GRC, a PE-backed UK group with ~1,500 employees",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Stated mission: 'high quality and affordable security and privacy compliance audits to smaller organizations'; pricing 'tailored for small and mid-sized organizations'",
+      "source_url": "https://ca.linkedin.com/in/markhmandel"
+    },
+    {
+      "signal": "Drata directory lists target market as small to mid-sized businesses (1-300 FTE), industries including SaaS and Technology",
+      "source_url": "https://drata.com/partners/audit-alliance/directory/mhm-professional-corporation"
+    },
+    {
+      "signal": "Case studies feature tech startups/scaleups: Neo Financial (Canadian fintech), AutoVerify, F12.net, Field Effect",
+      "source_url": "https://www.mhmcpa.ca/"
+    },
+    {
+      "signal": "Positions itself as 'Big 4 Experience. Better Value' with a transparent fixed-fee pricing page aimed at cost-sensitive smaller buyers",
+      "source_url": "https://www.mhmcpa.ca/pricing"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Audit Alliance registered member, 5.0-star rated)",
+    "Vanta (listed audit partner per prior notes and Vanta auditor-network references; no dedicated Vanta directory page independently verified)"
+  ],
+  "aws_cloud_expertise": "No explicit AWS specialization found. Cloud-adjacent signals only: SaaS/Technology industry focus, 'technology enabled' audit delivery, and Drata/Vanta automation-platform fluency. Jose Costa's post-PwC stint as an industry CISO adds practical security depth.",
+  "services": [
+    "SOC 1 / SOC 2 / SOC 2+ / SOC 3 audits",
+    "SOC readiness assessments",
+    "ISO 27001:2022, ISO 27701, ISO 42001 certification audits (Canada's first ISO 42001-accredited provider)",
+    "Privacy assessments (GDPR, HIPAA)",
+    "Microsoft SSPA and NIST assessments",
+    "Internal controls assessments"
+  ],
+  "contacts": [
+    {
+      "name": "Mark Mandel",
+      "role": "Founder & Principal (CEO); ex-PwC Partner (25 years)",
+      "linkedin": "https://www.linkedin.com/in/markhmandel/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://ca.linkedin.com/in/markhmandel"
+    },
+    {
+      "name": "Jose Costa",
+      "role": "Co-Founder / Principal; ex-PwC Partner and former industry CISO",
+      "linkedin": "https://www.linkedin.com/in/jose-costa/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/jose-costa/"
+    },
+    {
+      "name": "MHM (general inbox)",
+      "role": "Firm contact email",
+      "linkedin": "https://www.linkedin.com/company/mhmprofessionalcorporation/",
+      "twitter": null,
+      "email": "mhm@mhmcpa.ca",
+      "phone": null,
+      "source": "https://www.mhmcpa.ca/pricing"
+    }
+  ],
+  "fit_score": 55,
+  "partnership_angle": "Referral partner / validator — with a timing caveat. Operationally MHM is still an ideal profile: 16-person senior-only team, founder-led delivery, SME/SaaS clientele, Drata + Vanta ecosystem fluency, and a value-vs-Big-4 positioning that pairs naturally with a 'run this scan first, arrive 80% ready' pitch. However, MHM was acquired in June 2026 by Axiom GRC (PE-backed, ~1,500 staff, 7 acquisitions since 2024), so partnership decisions may now route through group leadership, and Axiom may push its own readiness/advisory arms (e.g., sister firm IS Partners) instead of third-party tools. Best motion: get Mark Mandel or Jose Costa on a validator call quickly while founders still steer client relationships; if group politics block a formal referral deal, treat them as a sandbox tester whose validation quote carries ex-PwC credibility across the Canadian startup market.",
+  "pitch_note": "Hi Mark — you built MHM to give smaller companies Big-4-quality SOC 2 audits without the Big-4 drag, and that's exactly the client LoxeAI serves: lean AWS-native startups walking into their first audit unprepared. Would you take 30 minutes to run our automated SOC 2 readiness scan against a sandbox AWS environment and tell us, auditor-to-builder, where it holds up and where it doesn't? If it earns your validation, your pre-audit clients get a 'run this scan first — it gets you 80% ready' head start, and your team gets cleaner, faster Type 2 engagements on the Drata/Vanta evidence you already work with.",
+  "source_urls": [
+    "https://www.mhmcpa.ca/",
+    "https://www.mhmcpa.ca/pricing",
+    "https://www.mhmcpa.ca/our-approach",
+    "https://www.mhmcpa.ca/contact-us",
+    "https://drata.com/partners/audit-alliance/directory/mhm-professional-corporation",
+    "https://ca.linkedin.com/in/markhmandel",
+    "https://www.linkedin.com/in/jose-costa/",
+    "https://www.linkedin.com/company/mhmprofessionalcorporation/",
+    "https://www.consulting.ca/news/5057/axiom-grc-expands-to-canada-with-mhm-acquisition",
+    "https://www.morningstar.com/news/pr-newswire/20260609dc78885/axiom-grc-accelerates-north-american-expansion-via-acquisition-of-canadian-assurance-firm-mhm",
+    "https://www.signalhire.com/companies/mhm-professional-corporation"
+  ]
+}

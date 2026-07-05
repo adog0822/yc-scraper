@@ -1,0 +1,96 @@
+{
+  "slug": "sentry-assurance",
+  "name": "Sentry Assurance",
+  "website": "https://www.sentryassurance.com/",
+  "hq": "2814 Detroit Ave., Cleveland, OH 44113",
+  "founded": "circa 2022 (not officially published; Matt Drewyor listed as CEO of Sentry Assurance since January 2023)",
+  "team_size_estimate": "Boutique — 3 named leaders (Jacob Nix, Matt Drewyor, Chad Gross); exact headcount unpublished, likely well under 40. Affiliated with sister advisory firm RISCPoint (Cleveland), which shares leadership.",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Drata auditor directory profile lists industry focus as Government, Healthcare, SaaS, Technology, and Startups, serving SMBs (1-300 FTE) and mid-market",
+      "source_url": "https://drata.com/partners/audit-alliance/directory/sentry-assurance"
+    },
+    {
+      "signal": "Audit process 'built from the ground up with acceleration tools like Drata in mind' — automation-first methodology designed for lean companies with minimal manual evidence requests",
+      "source_url": "https://drata.com/partners/audit-alliance/directory/sentry-assurance"
+    },
+    {
+      "signal": "Firm markets 'reducing client effort during fieldwork 70% compared to traditional auditors' — pitch aimed at resource-constrained teams",
+      "source_url": "https://www.sentryassurance.com/"
+    },
+    {
+      "signal": "Sister firm RISCPoint has 'served companies ranging from Fortune 10 to pre-Series A startups'",
+      "source_url": "https://www.riscpoint.com/post/riscpoint-hires-information-technology-and-sox-audit-leader-matt-drewyor"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Registered Alliance Member, listed in Drata Auditor Directory with Code of Ethics Pledge, 5.0/5 from 8 reviews)",
+    "Vanta (listed Vanta Audit Partner per prior research notes; Vanta directory page not independently reconfirmed — vanta.com/partners/audit/sentry-assurance returned 404)"
+  ],
+  "aws_cloud_expertise": "Co-founder Jacob Nix is a certified AWS Cloud Practitioner (plus CISM, CISA, CMMC RP, CDPSE, ISO Lead Implementer, CCSFP, Okta Certified Professional). Sister firm RISCPoint is a FedRAMP-accredited 3PAO with work spanning cloud engineering and offensive security — strong cloud-native audit fluency overall, though no AWS-specific marketing on the Sentry site itself.",
+  "services": [
+    "SOC 2 Type 1 & Type 2 attestation",
+    "SOC 1 attestation",
+    "SOC 3",
+    "ISO 27001 / ISO 27701",
+    "HIPAA / healthcare assessments (HITRUST-adjacent via RISCPoint)",
+    "Privacy assessments (CCPA, GDPR)",
+    "Penetration testing",
+    "CISO advisory / risk advisory",
+    "CMMC, NIST frameworks"
+  ],
+  "contacts": [
+    {
+      "name": "Jacob (Jake) Nix",
+      "role": "Co-Founder, Sentry Assurance (also Founder & Chief Growth Officer, RISCPoint); CPA, AWS Cloud Practitioner, CISM, CISA; Ohio Society of CPAs board member",
+      "linkedin": "https://www.linkedin.com/in/jake-nix-risc",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.sentryassurance.com/about; https://www.riscpoint.com/team/jake-nix; https://www.linkedin.com/in/jake-nix-risc"
+    },
+    {
+      "name": "Matt Drewyor",
+      "role": "Co-Founder & Managing Principal / CEO, Sentry Assurance (since Jan 2023); also CEO of RISCPoint (appointed Aug 2025); ex-Deloitte/PwC IT audit",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.sentryassurance.com/about; https://www.prnewswire.com/news-releases/riscpoint-appoints-matt-drewyor-as-chief-executive-officer-302523464.html"
+    },
+    {
+      "name": "Chad Gross",
+      "role": "VP of Cybersecurity Compliance Services (ex-EY, ex-A-LIGN; FIP, CISA, CISM, CDPSE)",
+      "linkedin": "https://www.linkedin.com/in/chad-gross-fip-cisa-cism-cdpse-33163028/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.sentryassurance.com/about; https://www.linkedin.com/in/chad-gross-fip-cisa-cism-cdpse-33163028/"
+    },
+    {
+      "name": "Sentry Assurance (firm)",
+      "role": "General inbox / main line",
+      "linkedin": "https://www.linkedin.com/company/sentry-assurance",
+      "twitter": null,
+      "email": "contact@sentryassurance.com",
+      "phone": "888-320-1327",
+      "source": "https://www.sentryassurance.com/"
+    }
+  ],
+  "fit_score": 88,
+  "partnership_angle": "Referral partner + sandbox tester — the strongest profile researched so far for the validate-then-refer motion. Sentry is a young, founder-led boutique that explicitly built its audit methodology around automation tools (Drata) and sells '70% less client effort,' so a pre-audit AWS readiness scan that reduces evidence churn extends their core pitch rather than competing with it. The RISCPoint affiliation is a bonus: it adds a cloud-engineering/FedRAMP-fluent advisory arm that can absorb remediation work LoxeAI scans surface, and gives two referral surfaces (Sentry for attest, RISCPoint for advisory). Best-fit entry: get Jake Nix (AWS-certified CPA co-founder) to run a sandbox scan and act as the technical validator.",
+  "pitch_note": "You built Sentry's audit process ground-up around tools like Drata so lean SaaS teams aren't buried in evidence requests — LoxeAI attacks the same problem one step earlier, scanning a startup's AWS environment for SOC 2 readiness gaps before they ever engage an auditor. Since you hold the AWS Cloud Practitioner cert yourself, we'd love 30 minutes to have you run the scan against a sandbox account and tear apart the findings. If it holds up to your bar, your pre-audit pipeline gets a simple play: 'run this scan first — it gets you 80% ready,' meaning cleaner fieldwork for your team and faster Type 1s for your SMB clients.",
+  "source_urls": [
+    "https://www.sentryassurance.com/",
+    "https://www.sentryassurance.com/about",
+    "https://drata.com/partners/audit-alliance/directory/sentry-assurance",
+    "https://www.riscpoint.com/team/jake-nix",
+    "https://www.riscpoint.com/team/matt-drewyor",
+    "https://www.prnewswire.com/news-releases/riscpoint-appoints-matt-drewyor-as-chief-executive-officer-302523464.html",
+    "https://www.prnewswire.com/news-releases/riscpoint-founder-jacob-nix-takes-on-chief-growth-officer-as-part-of-executive-team-expansion-302519848.html",
+    "https://www.linkedin.com/in/jake-nix-risc",
+    "https://www.linkedin.com/in/chad-gross-fip-cisa-cism-cdpse-33163028/",
+    "https://www.linkedin.com/company/sentry-assurance"
+  ]
+}

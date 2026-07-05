@@ -1,0 +1,381 @@
+[
+  {
+    "slug": "freeport-markets",
+    "name": "Freeport Markets",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page found on website; no security/trust subpage returned content; no public announcement found",
+        "source_url": "https://www.freeportmarkets.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform",
+      "Team size 3 — pre-hiring phase"
+    ],
+    "funding": {
+      "stage": "yc-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/freeport-markets"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Website uses Privy (Stripe company) for wallet custody; no cloud provider disclosed publicly",
+    "contacts": [
+      {
+        "name": "Lihong Wang",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/lihong062/",
+        "twitter": "https://x.com/Lihong062",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/freeport-markets"
+      },
+      {
+        "name": "Bryan Reed",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/bryan1738/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/freeport-markets"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "Tiny 3-person crypto/fintech team in F25. Unknown SOC 2 status and no hiring signal reduce confidence, but consumer fintech with on-chain trading (crypto/perpetuals/pre-IPO) will face institutional or regulated-broker partner demands for SOC 2 as they scale. Engage as early-education prospect — no urgency yet but plant the flag for when they seek broker-dealer or exchange partnerships."
+  },
+  {
+    "slug": "lunabill",
+    "name": "LunaBill",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "LunaBill website states 'SOC 2 Type I' certified with 'Type II in progress'; public trust center at trust.lunabill.com",
+        "source_url": "https://www.lunabill.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform",
+      "Team size 4"
+    ],
+    "funding": {
+      "stage": "yc-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/lunabill"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed on website or in public sources",
+    "contacts": [
+      {
+        "name": "Suhail Parry",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/suhailparry/",
+        "twitter": "https://x.com/bitcoinbasha",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/lunabill"
+      },
+      {
+        "name": "David Day",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/daviddaytw/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/lunabill"
+      },
+      {
+        "name": "Yash Raj Singh Thakur",
+        "role": "Co-Founder & COO",
+        "linkedin": "https://www.linkedin.com/in/yashraj22/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/yashraj22/"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "DISQUALIFIED — LunaBill already holds SOC 2 Type I and is actively pursuing Type II. They are self-sufficient in their compliance journey. Do not pitch attestation services; consider upselling Type II audit readiness support only if your firm offers that."
+  },
+  {
+    "slug": "avallon-ai",
+    "name": "Avallon AI",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Security page lists 'SOC2 II' under 'Industry Leading Compliance' but no announcement of completed audit found; no press release or trust page confirming certification",
+        "source_url": "https://www.avallon.ai/security"
+      },
+      {
+        "signal": "No blog post or press release confirming SOC 2 II achieved; aspirational listing is common pre-audit",
+        "source_url": "https://www.avallon.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Forward Deployed Engineer ($140K-$210K, 0.20-0.70% equity)",
+      "Hiring Founding Software Engineer ($150K-$230K, 0.30-0.80% equity)",
+      "Both roles in New York, NY — active scale-up hiring"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4600000,
+      "source_url": "https://www.thesaasnews.com/news/avallon-raises-4-6-million-in-seed-funding"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Website mentions 'isolated cloud resources' and 'deploy in regions you choose' but names no specific cloud provider",
+    "contacts": [
+      {
+        "name": "Cornelius Schramm",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/cornelius-schramm-450759150/",
+        "twitter": "https://x.com/cornelius_schra",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/avallon-ai"
+      },
+      {
+        "name": "Bryan Guin",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/bryan-guin/",
+        "twitter": "https://x.com/bryanguin",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/avallon-ai"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Strong ICP match — insurance carrier/TPA buyers are among the most demanding for vendor SOC 2. Avallon lists SOC 2 II on their site aspirationally but no completed audit evidence exists publicly, suggesting they are in-progress or about to start. $4.6M seed, active engineering hiring, regulated insurance buyer base. Pitch: 'Your enterprise TPA clients will gate on SOC 2 Type II — let us run the attestation fast so you can close deals.'"
+  },
+  {
+    "slug": "acolite",
+    "name": "Acolite",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust center, or compliance mention found on website or in public sources",
+        "source_url": "https://acolite.ai/"
+      },
+      {
+        "signal": "AI-native commercial insurance broker selling to enterprise construction firms — regulated buyer base almost certainly requires vendor SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/acolite"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform currently",
+      "Team size 3 — very early stage"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/acolite"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed publicly",
+    "contacts": [
+      {
+        "name": "Daniel Siryakov",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/daniel-siryakov-cfa-07071255/",
+        "twitter": "https://x.com/danielzohan1",
+        "email": "team@acolite.ai",
+        "source": "https://acolite.ai/ (company contact email listed on site)"
+      },
+      {
+        "name": "Barak Ben Noon",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/barak-ben-noon/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/acolite"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "Early-stage insurance broker (construction industry) with regulated enterprise buyers who routinely require SOC 2. No SOC 2 evidence found — good prospect. Small team and limited funding temper urgency; engage founder Daniel Siryakov directly with messaging around unlocking large contractor and carrier partnerships that gate on SOC 2."
+  },
+  {
+    "slug": "novoflow",
+    "name": "Novoflow",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Novoflow website states 'SOC 2 Type II: In progress'; HIPAA listed as 'Aligned'; public trust page at trust.oneleet.com/novoflow",
+        "source_url": "https://www.novoflow.io/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding DevOps Engineer ($120K-$250K, 0.80-1.80% equity) — key infrastructure/security signal",
+      "Hiring Founding Software Engineer ($100K-$300K, 1.00-2.00% equity)",
+      "Hiring Founding Prompt/Context Engineer ($150K-$250K)",
+      "Hiring Account Executive ($130K-$200K)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 3100000,
+      "source_url": "https://www.linkedin.com/posts/y-combinator_novoflow-yc-x25-has-raised-31-million-activity-7391202521500983296-JaOl"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No specific cloud provider found in public sources; EHR-agnostic integration with Epic, Athena, eCW, NextGen, Cerner — often deployed on AWS in healthcare",
+    "contacts": [
+      {
+        "name": "Mathieu Rihet",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/mathieurihet/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/novoflow"
+      },
+      {
+        "name": "Georges Casassovici",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/thegeorgesc/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/novoflow"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Top lead in this slice. Novoflow is a healthcare AI company explicitly mid-SOC-2 journey (Type II in progress, listed publicly on their site). They have $3.1M seed, are actively hiring a Founding DevOps Engineer (infrastructure/compliance ownership signal), and sell to clinics that require HIPAA + SOC 2 from vendors. Pitch: 'You're already in the Type II window — let us run the attestation so your DevOps hire can focus on product, not audit prep.'"
+  },
+  {
+    "slug": "scalar-field",
+    "name": "Scalar Field",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust center, or compliance mention found on website or in public sources",
+        "source_url": "https://www.scalarfield.io/"
+      },
+      {
+        "signal": "Agentic trading platform with 800+ paying traders and $74K MRR; institutional/professional traders increasingly require SOC 2 from trading software vendors",
+        "source_url": "https://www.ycombinator.com/companies/scalar-field"
+      }
+    ],
+    "hiring_signals": [
+      "Only open role is Digital Native Community/Social & Creator Growth Internship — no security/infra hiring"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/scalar-field/___ABReWsbDOOlYeZBf5grV8T5kERa5kBrto602lnie7U"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed publicly; founded by ex-Goldman/Tower Research and ex-Microsoft — likely cloud-native but provider unknown",
+    "contacts": [
+      {
+        "name": "Amandeep Singh",
+        "role": "Co-Founder (Ex-Trader)",
+        "linkedin": "https://www.linkedin.com/in/amandeep-singh0/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/scalar-field"
+      },
+      {
+        "name": "Ramakant Yadav",
+        "role": "Co-Founder (Engineering)",
+        "linkedin": "https://www.linkedin.com/in/ramakant-yadav1/",
+        "twitter": "https://x.com/yoursRY",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/scalar-field"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Fintech trading platform with real traction ($74K MRR, 800 paying traders) but YC-only funding and no security/infra hiring signal limits immediate urgency. SOC 2 will become a blocker when targeting institutional desks or hedge fund clients. Engage Ramakant Yadav (engineering co-founder) with a forward-looking pitch: 'Your institutional prospects will gate on SOC 2 — start the process now before it blocks a deal.'"
+  },
+  {
+    "slug": "adentris",
+    "name": "Adentris",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Adentris publicly announced SOC 2 Type I certification achieved August 1, 2025; SOC 2 Type II audit started August 2025 with year-end completion target",
+        "source_url": "https://blog.adentris.com/adentris-achieves-soc-2-type-i-certification"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs posted on YC platform",
+      "Team size 4"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/adentris"
+    },
+    "aws_native": "no",
+    "aws_evidence": "All AI inference runs inside Microsoft Azure under a signed BAA (confirmed by search result citing their website)",
+    "contacts": [
+      {
+        "name": "Dmitry Karpov",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/adentris/jobs (YC jobs page)"
+      },
+      {
+        "name": "Alex Odin",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/adentris/jobs (YC jobs page)"
+      },
+      {
+        "name": "Sergey Yudovskiy",
+        "role": "Co-Founder & CPO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/adentris/jobs (YC jobs page)"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "DISQUALIFIED — Adentris achieved SOC 2 Type I in August 2025 and is actively pursuing Type II on Azure infrastructure (not AWS-native). Wrong ICP on both compliance status and cloud stack."
+  },
+  {
+    "slug": "clara-2",
+    "name": "Clara",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Trust center at trust.askclara.com exists but content not accessible; no SOC 2 announcement found; website cites HIPAA and LegitScript but not SOC 2",
+        "source_url": "https://askclara.com/"
+      },
+      {
+        "signal": "YC P26 (Spring 2026) batch — very recently launched; $12M pre-seed raised; AI primary care selling to consumers but likely facing enterprise health plan/employer buyer SOC 2 requirements",
+        "source_url": "https://askclara.com/blog/clara-launch"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Data Engineer - Healthcare ($145K-$215K, 0.10-0.40% equity)",
+      "Hiring Founding AI Engineer - Healthcare ($130K-$200K, 0.10-0.40% equity)",
+      "Both roles suggest infrastructure build-out phase"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 12000000,
+      "source_url": "https://askclara.com/blog/clara-launch"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed publicly; healthcare AI typically on AWS (HIPAA-eligible) but unconfirmed",
+    "contacts": [
+      {
+        "name": "George Favvas",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/georgefavvas/",
+        "twitter": "https://x.com/georgefavvas",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/clara-2"
+      },
+      {
+        "name": "Caitlin Swift",
+        "role": "Co-Founder & Clinical Leader",
+        "linkedin": "https://www.linkedin.com/in/caitlin-swift/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/clara-2"
+      },
+      {
+        "name": "Zeeshan Ahmed",
+        "role": "Co-Founder & Product Designer",
+        "linkedin": "https://www.linkedin.com/in/zeeshan1293/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/clara-2"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "High-potential prospect. $12M pre-seed, 9-person team, YC P26 — well-funded healthcare AI at a critical infrastructure-build stage. No SOC 2 evidence found despite having a trust center URL, suggesting it's placeholder or early setup. Consumer-facing AI primary care will face SOC 2 demands from employer health plan integrations and enterprise buyers. Pitch CEO George Favvas (ex-Circle Medical CEO): 'You scaled Circle Medical to $100M — you know SOC 2 is the enterprise unlock. Let us get you Type I fast so the sales cycle doesn't stall.'"
+  }
+]

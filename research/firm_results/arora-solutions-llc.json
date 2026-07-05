@@ -1,0 +1,71 @@
+{
+  "slug": "arora-solutions-llc",
+  "name": "ARORA Solutions LLC",
+  "website": "https://www.arora-solutions.com",
+  "hq": "Holland, MI, USA (Drata directory lists Detroit, MI; APAC office in Port Vila, Vanuatu)",
+  "founded": "2016 (ARORA Solutions Limited founded in Vanuatu; US entity ARORA Solutions LLC added later to serve Americas/Europe)",
+  "team_size_estimate": "Very small boutique, likely 2-10 people (no team page, headcount not published; ~307 LinkedIn followers; founder + small team referenced in Drata webinar bio)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Drata Auditor Alliance directory profile explicitly lists startups among supported client types, with SMB (1-300 FTE) as an ideal client segment and SaaS/technology among industries served",
+      "source_url": "https://drata.com/auditor/directory/arora-solutions-llc"
+    },
+    {
+      "signal": "Remote-first ('Virtual. Human. Solved.') delivery model with flat-fee, AI-assisted audits designed for fast turnarounds, which suits lean startup budgets",
+      "source_url": "https://www.arora-solutions.com/"
+    },
+    {
+      "signal": "Perfect 5.0 rating across 7 Drata directory reviews, with clients citing 'comprehensive and actionable' reports and certification 'with zero non-conformances'",
+      "source_url": "https://drata.com/auditor/directory/arora-solutions-llc"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Auditor Alliance directory member; helps clients maximize Drata instances; founder featured in Drata 'Ask an Auditor' webinar)",
+    "Vanta (partner; integrates Vanta into client compliance strategies and internal audits)",
+    "ISMS.online (partner for ISO compliance management)",
+    "Certification-body partners: Barr Advisory, Prescient Security, TQCSI USA"
+  ],
+  "aws_cloud_expertise": null,
+  "services": [
+    "ISO 27001 / 27701 / 42001 readiness, implementation, and internal audits",
+    "SOC 2 compliance readiness support (not CPA attestation - they are not a SOC 2 report signer)",
+    "CMMC Level 1 & 2 readiness",
+    "Fractional vCISO services",
+    "GDPR / CCPA privacy consulting and EU AI Act conformance",
+    "Virtual internal audits and compliance assessments (also NIS2, DORA, HIPAA, HITRUST, NIST frameworks)"
+  ],
+  "contacts": [
+    {
+      "name": "Steve Cullen",
+      "role": "Founder & Managing Director (MBA, ISO 27001 Lead Auditor, HITRUST CCSFP)",
+      "linkedin": "https://www.linkedin.com/in/steve-cullen-arora-solutions",
+      "twitter": null,
+      "email": null,
+      "phone": "+1 855 960 4885 (firm main line, not personal)",
+      "source": "https://www.arora-solutions.com/our-human-focus"
+    },
+    {
+      "name": "Justin Moore",
+      "role": "Managing Director",
+      "linkedin": "https://www.linkedin.com/in/justinandrewmoore/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/justinandrewmoore/"
+    }
+  ],
+  "fit_score": 62,
+  "partnership_angle": "Referral/channel partner and sandbox tester - NOT an attestation feeder. ARORA is a readiness and internal-audit consultancy (ISO-centric, SOC 2 readiness only), so they cannot sign SOC 2 reports; they hand clients off to certification/audit partners like Prescient Security and Barr Advisory. That makes them a two-way channel: (1) they can embed or white-label the LoxeAI scan inside their readiness and fractional-vCISO engagements to speed up flat-fee delivery, and (2) their partner network gives LoxeAI a bridge into actual attest firms. They are demonstrably automation-friendly (Drata, Vanta, ISMS.online partners; market themselves on AI-assisted audits), so a sandbox validation ask fits their brand. Caveats keeping the score moderate: no AWS/cloud specialization signals, founded 2016 (just outside the 8-year window), and startups are one of several client segments (they also serve mid-market/enterprise).",
+  "pitch_note": "Steve, you've built ARORA around virtual, AI-assisted readiness work on Drata and Vanta - LoxeAI is a natural extension of that stack for your AWS-native startup clients. It's an AWS-focused SOC 2 readiness scanner; I'd love 20 minutes to have you run it against a sandbox AWS account and tear the findings apart as an auditor. If it holds up, your pre-audit and vCISO clients could run the scan first and walk into readiness engagements ~80% of the way there - making your flat-fee model even more profitable per engagement.",
+  "source_urls": [
+    "https://www.arora-solutions.com/",
+    "https://www.arora-solutions.com/contact-us",
+    "https://www.arora-solutions.com/partners",
+    "https://www.arora-solutions.com/our-human-focus",
+    "https://drata.com/auditor/directory/arora-solutions-llc",
+    "https://drata.com/resources/webinars/ask-an-auditor-with-arora-iso-27001",
+    "https://www.linkedin.com/company/arora-solutions-llc",
+    "https://www.linkedin.com/in/justinandrewmoore/"
+  ]
+}

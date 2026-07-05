@@ -1,0 +1,424 @@
+[
+  {
+    "slug": "raycaster",
+    "name": "Raycaster",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Security page explicitly states 'SOC 2 Type II' certification with trust service controls for security, availability, processing integrity, confidentiality, and privacy",
+        "source_url": "https://www.raycaster.ai/security"
+      },
+      {
+        "signal": "Also claims ISO 27001 certification and GDPR compliance; 'Go to Trust Center' link on security page",
+        "source_url": "https://www.raycaster.ai/security"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (general, not security/infra specific) — $100K–$160K + 2–10% equity, New York"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/raycaster-pre-seed--00ecbc7a"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public disclosure of cloud provider. Privacy policy references Google APIs, Microsoft, and Anthropic as integrations but names no infrastructure host. Security page mentions regional data residency options consistent with major cloud providers but none are named.",
+    "contacts": [
+      {
+        "name": "Levi Lian",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/levi-lian",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/raycaster"
+      },
+      {
+        "name": "Anthony Humay",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/ahumay",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/raycaster"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified — Raycaster already has SOC 2 Type II confirmed on their security page, plus ISO 27001. No open compliance need exists. Do not pursue."
+  },
+  {
+    "slug": "revyl",
+    "name": "Revyl",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Pricing page explicitly lists 'SOC 2 Type II' as a feature included across all plan tiers",
+        "source_url": "https://www.revyl.com/pricing/"
+      },
+      {
+        "signal": "Security page displays SOC 2 Type II and HIPAA compliance trust badges",
+        "source_url": "https://www.revyl.com/security"
+      },
+      {
+        "signal": "trust.revyl.com exists with a 'Trust center' header",
+        "source_url": "https://trust.revyl.com"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer — $100K–$200K + 1–2% equity, San Francisco (general engineering, not infra-specific)",
+      "Engineering Intern — $5K–$10K/month, San Francisco"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 1100000,
+      "source_url": "https://betakit.com/canadian-founded-yc-backed-revyl-closes-1-5-million-cad-to-help-companies-catch-bugs-with-ai/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public disclosure of specific cloud provider. Platform provisions cloud iOS/Android devices streamed via WebRTC but does not name the underlying infrastructure host. Open-source CogniSim repo uses local Appium-based automation with no cloud dependencies.",
+    "contacts": [
+      {
+        "name": "Landseer Enga",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/landseerenga",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/revyl"
+      },
+      {
+        "name": "Anam Hira",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/anam-h-5b37a2125",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/revyl"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Disqualified — Revyl already has SOC 2 Type II confirmed on pricing page, security page badges, and a public trust center. Also has HIPAA. No open compliance need exists. Do not pursue."
+  },
+  {
+    "slug": "cekura-ai",
+    "name": "Cekura",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Pricing page lists 'Compliance (SOC 2, HIPAA, GDPR)' as an Enterprise-tier feature, gated to enterprise customers",
+        "source_url": "https://www.cekura.ai/pricing"
+      },
+      {
+        "signal": "Homepage and fundraise blog display SOC 2, HIPAA, and GDPR compliance badges powered by Sprinto/AICPA — indicating active compliance program via Sprinto",
+        "source_url": "https://www.cekura.ai/blogs/fundraise"
+      },
+      {
+        "signal": "No public audit report or dated certification letter found; trust.cekura.ai DNS does not resolve — attestation not yet complete",
+        "source_url": "https://www.cekura.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Forward Deployed Engineer — $100K–$180K, San Francisco (engineering, not security/GRC)",
+      "Founding Account Executive — $100K–$200K + 0.15–0.35% equity, San Francisco",
+      "Founding BDR / Business Development Representative — $60K–$90K, remote US"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2400000,
+      "source_url": "https://www.cekura.ai/blogs/fundraise"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No mentions of AWS, GCP, or Azure found on cekura.ai, fundraise blog, or pricing page. Integration partners (Vapi, Retell, Cisco, Five9, LiveKit, Pipecat) are voice/AI providers. BYOC deployment option suggests cloud-agnostic flexibility. Cannot confirm cloud provider.",
+    "contacts": [
+      {
+        "name": "Tarush Agarwal",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/tarush-agarwal-b14851160/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cekura-ai"
+      },
+      {
+        "name": "Shashij Gupta",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/shashij-gupta-671aa614a",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cekura-ai"
+      },
+      {
+        "name": "Sidhant Kabra",
+        "role": "Co-Founder & President",
+        "linkedin": "https://www.linkedin.com/in/sidhantkabra",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cekura-ai"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "SOC 2 in progress via Sprinto — compliance program is active but attestation not complete. Serving regulated sectors (healthcare AI agents for BFSI and healthcare calls). $2.4M seed closed July 2025, 15 employees, actively hiring sales. Angle: if Sprinto route is slow or expensive, offer a faster Type I attestation path to unblock enterprise deals sooner. Validate whether they have a GRC consultant or rely solely on Sprinto automation."
+  },
+  {
+    "slug": "reticular",
+    "name": "Reticular",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention anywhere on reticular.ai — no security, trust, or compliance page exists (reticular.com/security and trust.reticular.com both return 404)",
+        "source_url": "https://www.reticular.ai/"
+      },
+      {
+        "signal": "Company handles IVF embryo genomic data placing it under HIPAA as a Business Associate — SOC 2 likely required by IVF clinic customers before contract",
+        "source_url": "https://www.ycombinator.com/companies/reticular"
+      },
+      {
+        "signal": "2-person team, only YC funding — SOC 2 audit almost certainly not yet initiated",
+        "source_url": "https://tracxn.com/d/companies/reticular/__tv3XuRV5uKc4CGvrnzSH8TXzV1acWB1uujt7tGHItBo"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/reticular/__tv3XuRV5uKc4CGvrnzSH8TXzV1acWB1uujt7tGHItBo"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No mentions of AWS, GCP, or Azure on reticular.ai or YC profile. Genomic workloads commonly use AWS HealthOmics but no public signal confirms this for Reticular. Cannot determine cloud provider from public sources.",
+    "contacts": [
+      {
+        "name": "John Yang",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/johnyang101",
+        "twitter": "https://x.com/johnyang100",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/reticular"
+      },
+      {
+        "name": "Nithin Parsan",
+        "role": "Co-Founder (possible departure — LinkedIn indicates now at Benchling)",
+        "linkedin": "https://www.linkedin.com/in/nithin-parsan",
+        "twitter": "https://x.com/NithinParsan",
+        "email": null,
+        "source": "https://www.nithin.bio/"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "High structural need for SOC 2: IVF clinic customers handle sensitive genomic/HIPAA-regulated patient data and will require compliance before contracting. No SOC 2 program visible. Very early (2 people, $500K) — timing may be premature but planting the seed now positions you when they close first clinic deals. Verify Nithin Parsan's current involvement before outreach. Target John Yang directly."
+  },
+  {
+    "slug": "unusual",
+    "name": "Unusual",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "unusual.ai/security returns HTTP 404 — no security page exists",
+        "source_url": "https://unusual.ai/security"
+      },
+      {
+        "signal": "trust.unusual.ai DNS does not resolve — no public trust portal",
+        "source_url": "https://unusual.ai"
+      },
+      {
+        "signal": "Company maintains a subprocessors page (GDPR-aligned data transparency) indicating early compliance awareness — processes customer brand data across OpenAI, Anthropic, Perplexity",
+        "source_url": "https://www.unusual.ai/legal/subprocessors"
+      },
+      {
+        "signal": "4-person team, seed stage — SOC 2 audit almost certainly not yet initiated",
+        "source_url": "https://www.ycombinator.com/companies/unusual"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer – Full Stack — $150K–$250K, San Francisco (no infra/security specialization)",
+      "Chief of Staff — $120K–$180K",
+      "Engagement Lead, AI Strategy — $140K–$185K",
+      "Founding GTM Lead — $100K–$300K"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3600000,
+      "source_url": "https://www.unusual.ai/blog/unusual-raises-3.6m-to-help-brands-change-how-ai-talks-about-them"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "AWS is explicitly listed as the primary Cloud Service Provider on Unusual's official subprocessors page, operating across USA, Ireland, Germany, Australia, and Singapore. No Azure or GCP listed.",
+    "contacts": [
+      {
+        "name": "Will Jack",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/willjack",
+        "twitter": "https://x.com/willwjack",
+        "email": "will@unusual.ai",
+        "source": "https://www.ycombinator.com/companies/unusual"
+      },
+      {
+        "name": "Keller Maloney",
+        "role": "Co-Founder & President",
+        "linkedin": "https://www.linkedin.com/in/keller-maloney-130856187/",
+        "twitter": "https://twitter.com/KellerMaloney",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/unusual"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Strong ICP match: confirmed AWS-native (subprocessors page), $3.6M seed, no SOC 2 or security page. Processes sensitive enterprise brand/marketing data across multiple LLMs — their B2B SaaS customers will demand SOC 2. Founder Will Jack has enterprise background (Remedy Health, Khosla/Greylock-backed). Pitch: 'You're AWS-native, selling to brands — SOC 2 Type I is likely already on your roadmap. We can get you there in 6–8 weeks without a full-time compliance hire.' Direct email to will@unusual.ai."
+  },
+  {
+    "slug": "beglaubigtde",
+    "name": "Beglaubigt.de",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "beglaubigt.de/security returns HTTP 404 — no security page exists; trust.beglaubigt.de DNS does not resolve",
+        "source_url": "https://beglaubigt.de/security"
+      },
+      {
+        "signal": "Data centers are ISO 27001-certified (German servers) — European-equivalent standard, not SOC 2. No SOC 2 attestation found.",
+        "source_url": "https://beglaubigt.de/en-us/datenschutz"
+      },
+      {
+        "signal": "GDPR-compliant (DSGVO), eIDAS-compliant, AML (GwG) compliant — mature European compliance posture but no US attestation",
+        "source_url": "https://beglaubigt.de/en-us"
+      },
+      {
+        "signal": "AES-256 at rest, TLS 1.3 in transit, mandatory 2FA, semi-annual penetration tests — strong security controls; SOC 2 would document existing practices",
+        "source_url": "https://beglaubigt.de/en-us/datenschutz"
+      }
+    ],
+    "hiring_signals": [
+      "Entrepreneur in Residence — Founder's Office Internship (Munich / Remote US, €1.5K–€2.5K/month) — only open role, no security/infra focus"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3300000,
+      "source_url": "https://tech.eu/2026/04/16/yc-backed-openlaw-closes-33m-seed-to-digitise-europes-notary-nightmare/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Privacy policy and website state data is stored in 'ISO 27001-certified German data centers' and 'Servers Located in Europe.' No specific cloud provider (AWS, GCP, Azure) named in any public document. Stack is consistent with German-hosted cloud (IONOS, Hetzner, or AWS Frankfurt) but unconfirmed.",
+    "contacts": [
+      {
+        "name": "Alexander Sporenberg",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://de.linkedin.com/in/alexandersporenberg/en",
+        "twitter": null,
+        "email": "alexandros@beglaubigt.de",
+        "source": "https://tech.eu/2026/04/16/yc-backed-openlaw-closes-33m-seed-to-digitise-europes-notary-nightmare/"
+      },
+      {
+        "name": "Felix Gerlach",
+        "role": "Co-Founder & CPO",
+        "linkedin": "https://de.linkedin.com/in/felixgerlach",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/beglaubigtde"
+      }
+    ],
+    "fit_score": 58,
+    "pitch_note": "European-headquartered legal-tech with strong GDPR/ISO 27001 posture but no SOC 2. As they pursue US enterprise customers via their incorporation API, SOC 2 becomes a prerequisite. $3.3M seed, 15 employees. Caveat: primary market is European (German notary workflows) so US SOC 2 urgency may be 12–18 months out. Pitch angle: 'Your ISO 27001 data center and existing controls mean 80% of SOC 2 evidence is already there — we can map it to Type I in weeks, not quarters, ahead of your first US enterprise contract.' Contact: alexandros@beglaubigt.de."
+  },
+  {
+    "slug": "vly-ai-2",
+    "name": "vly.ai",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page found at vly.ai/security or trust.vly.ai — zero hits for 'vly.ai SOC 2' in web search",
+        "source_url": "https://vly.ai/"
+      },
+      {
+        "signal": "Company acquired by Freebuff in 2025 — product now free, all subscriptions cancelled; compliance investment highly unlikely",
+        "source_url": "https://vly.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "Technical Marketing Intern (only active posting — post-acquisition, minimal hiring)"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/vly-ai-pre-seed--52104f9a"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Tech stack uses React + Vite (frontend) and Convex (real-time backend/database) — Convex is a cloud-native managed backend, not AWS. No AWS services named in public documentation or search results.",
+    "contacts": [
+      {
+        "name": "Victor Cheng",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/victor-cheng-89a161180/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/vly-ai-2"
+      },
+      {
+        "name": "Manav Bokinala",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/mbokinala/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/mbokinala/"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "Dead lead — vly.ai was acquired by Freebuff in 2025, all subscriptions cancelled, product moved to free tier. Company no longer operates as an independent commercial entity. Do not pursue."
+  },
+  {
+    "slug": "crustdata",
+    "name": "Crustdata",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "trust.crustdata.com returns DNS not found — no public trust center",
+        "source_url": "https://trust.crustdata.com"
+      },
+      {
+        "signal": "crustdata.com/security returns HTTP 404 — no security page exists",
+        "source_url": "https://crustdata.com/security"
+      },
+      {
+        "signal": "Zero hits for 'Crustdata SOC 2' in web search — no evidence of in-progress or completed attestation",
+        "source_url": "https://crustdata.com"
+      },
+      {
+        "signal": "$6M seed raised Oct 2025, $4M+ ARR, 30 employees — enterprise API sales with company/people data will trigger SOC 2 requirements from enterprise buyers",
+        "source_url": "https://crustdata.com/blog/crustdata-closes-6m-seed-round"
+      }
+    ],
+    "hiring_signals": [
+      "Senior Data Platform Engineer — San Francisco (infra-adjacent, suggests growing data infrastructure)",
+      "Founding Product Engineer — San Francisco",
+      "Founding ML Engineer — San Francisco",
+      "Founding ML Engineer — Bengaluru, India",
+      "Founding Forward Deployed Engineer — San Francisco",
+      "Founding Account Executive — San Francisco",
+      "Founding Growth Hacker — San Francisco"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 6000000,
+      "source_url": "https://crustdata.com/blog/crustdata-closes-6m-seed-round"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public mention of AWS in blog posts, job descriptions, documentation, or press releases. Company operates real-time web crawlers indexing data for AI agents — significant compute implied but cloud provider not disclosed. Senior Data Platform Engineer role suggests active infra investment with no cloud provider named.",
+    "contacts": [
+      {
+        "name": "Abhilash Chowdhary",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/abhilashchowdhary/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/crustdata"
+      },
+      {
+        "name": "Manmohit Grewal",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/manmohitgrewal/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/crustdata"
+      },
+      {
+        "name": "Chris Pisarski",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/chris-pisarski/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/crustdata"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Top lead in this slice: $6M seed, 30 employees, $4M+ ARR growing fast, enterprise B2B API product with company/people data — exactly the profile where enterprise customers demand SOC 2 before signing contracts. No compliance infrastructure visible (no security page, no trust center). Hiring a Senior Data Platform Engineer signals infrastructure investment without dedicated security/GRC. Pitch: 'At $4M ARR selling APIs to enterprise AI teams, your next deal is likely blocked by a security questionnaire. SOC 2 Type I gets you past the gate in 6–8 weeks.' Target Abhilash Chowdhary (CEO) via LinkedIn."
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "slug": "claimglide",
+    "name": "ClaimGlide",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Company website claims HIPAA compliance but makes no mention of SOC 2 certification or any independent security audit",
+        "source_url": "https://claimglide.com/"
+      },
+      {
+        "signal": "No /security or /trust page found (404 returned); no SOC 2 mention in YC company profile",
+        "source_url": "https://www.ycombinator.com/companies/claimglide"
+      },
+      {
+        "signal": "Handles PHI for private medical practices and integrates with EMRs (eClinicalWorks, athenahealth, NextGen, ModMed); regulated healthcare buyers typically require SOC 2 before signing",
+        "source_url": "https://claimglide.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform (team size: 1 solo founder)",
+      "No open roles found on LinkedIn or other job boards as of July 2026"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/claimglide"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No job postings or public documentation reference AWS or any specific cloud provider; HIPAA-compliant infrastructure vendor not disclosed publicly",
+    "contacts": [
+      {
+        "name": "Nami Lindquist",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/namilindquist",
+        "twitter": "https://x.com/NamiLindquist",
+        "email": "contact@claimglide.com",
+        "source": "https://www.ycombinator.com/companies/claimglide"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "ClaimGlide processes PHI for private medical practices via prior-auth automation and EMR integrations but has no SOC 2 and no /security page. Solo YC W26 founder, HIPAA-only today. Healthcare payers and practices will require SOC 2 before expanding enterprise deals — strong early compliance motion opportunity. Lead with HIPAA-to-SOC-2 bridge narrative and speed-to-audit given the regulated buyer base."
+  },
+  {
+    "slug": "kita",
+    "name": "Kita",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Security page explicitly states 'SOC 2 Type II: in active engagement' with engagement letter available upon request",
+        "source_url": "https://www.kita.ai/security"
+      },
+      {
+        "signal": "ISO 27001 also listed as 'in active engagement' on the same security page",
+        "source_url": "https://www.kita.ai/security"
+      },
+      {
+        "signal": "About page also notes SOC 2 Type II and ISO 27001 'in active engagement'",
+        "source_url": "https://www.kita.ai/about"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (DevOps & Security) posted on YC — role covers AWS, Azure, hybrid cloud, on-premise, CI/CD, IAM, container orchestration, compliance-oriented architecture for regulated financial institutions; salary $150K–$220K",
+      "ML Engineer Intern posted on YC — focuses on document intelligence, fraud detection, vision systems, data pipelines for emerging-markets lending",
+      "Active careers page at jobs.gem.com/usekita-com indicates ongoing recruitment pipeline"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/kita"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founding Engineer (DevOps & Security) job description explicitly lists AWS as a primary cloud platform alongside Azure and hybrid/on-prem; security page describes region-pinned storage in US, Mexico, Singapore, Indonesia consistent with multi-region cloud deployment",
+    "contacts": [
+      {
+        "name": "Carmel Limcaoco",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/carmellimcaoco/",
+        "twitter": "https://x.com/carmelkita",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kita"
+      },
+      {
+        "name": "Rhea Malhotra",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/rhea-malhotra-198744142/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kita"
+      }
+    ],
+    "fit_score": 61,
+    "pitch_note": "Kita is already mid-stream on SOC 2 Type II and ISO 27001 — they know they need compliance and are actively engaged. The Founding DevOps & Security hire confirms they are building the infrastructure layer to support it. Best angle is accelerating their audit timeline, reducing evidence-collection burden, and helping them achieve dual SOC 2 + ISO 27001 faster since they serve regulated lenders across SEA, LatAm, and US community banks."
+  },
+  {
+    "slug": "ruma-care",
+    "name": "Ruma Care",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Handles sensitive PHI/ePHI for biologic infusion clinics — prior authorization workflows require EHR integration, insurance data, and patient health information, which creates strong SOC 2 demand from healthcare enterprise buyers",
+        "source_url": "https://www.ycombinator.com/companies/ruma-care"
+      },
+      {
+        "signal": "No SOC 2 page, trust subdomain (trust.rumacare.com), or /security page found — rumacare.com/security returned 404",
+        "source_url": "https://rumacare.com/"
+      },
+      {
+        "signal": "Targets hospital systems and multi-clinic operators who routinely require vendor SOC 2 attestation before procurement sign-off",
+        "source_url": "https://www.ycombinator.com/launches/PIT-ruma-care-we-help-clinics-get-patients-on-their-biologics-faster"
+      }
+    ],
+    "hiring_signals": [
+      "Actively hiring: 'Product Engineer' ($70K–$220K, any experience level, SF/remote) posted on YC jobs board",
+      "Actively hiring: 'Founding Member of Technical Staff / Product Engineer' ($160K–$220K, 0.50–2.00% equity, 3+ yrs, SF) posted on YC jobs board",
+      "CEO Meng Fei Shen LinkedIn headline reads 'I'm hiring Eng!' as of search date",
+      "is_hiring: true per YC company profile"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / Seed",
+      "total_usd_estimate": 2500000,
+      "source_url": "https://pitchbook.com/profiles/company/1325956-06"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit AWS mentions found in job postings, website, or press. Healthcare prior-authorization platforms commonly use AWS HealthLake and FHIR-on-AWS patterns, making AWS likely but unconfirmed for Ruma Care specifically.",
+    "contacts": [
+      {
+        "name": "Meng Fei Shen",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/mengfei-shen/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ruma-care"
+      },
+      {
+        "name": "Christina Huang",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/christina-lee-huang/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ruma-care"
+      }
+    ],
+    "fit_score": 85,
+    "pitch_note": "Strong ICP fit: 2-person YC W26 team handling PHI for regulated healthcare buyers (infusion clinics, hospital systems) with no SOC 2 evidence found. CTO Christina Huang has prior healthcare integrations experience, so she understands compliance requirements. $2.5M raised with active engineering hiring means budget and urgency exist. Lead with: 'Your clinic customers will ask for SOC 2 before they wire $150K drug reimbursement flows through your system — we can get you audit-ready in 90 days.'"
+  },
+  {
+    "slug": "celltype",
+    "name": "CellType",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust subdomain, or /security page found on celltype.com",
+        "source_url": "https://www.celltype.com/"
+      },
+      {
+        "signal": "Signed MOU with public biotech Senhwa Biosciences (TPEx: 6492) in March 2026 — pharma/biotech enterprise partnerships routinely require vendor security attestation",
+        "source_url": "https://www.senhwabio.com/en/media/20260325"
+      },
+      {
+        "signal": "Founding Platform Engineer job description explicitly calls out 'privacy, permissions, and compliance safeguards for sensitive data' as a core responsibility — signals compliance buildout is imminent but not yet complete",
+        "source_url": "https://www.ycombinator.com/companies/celltype/jobs/KmzGkUS-founding-platform-engineer-data-ml-systems"
+      }
+    ],
+    "hiring_signals": [
+      "Actively hiring: 'Founding Platform Engineer, Data & ML Systems' ($145K–$250K, 0.50–2.00% equity, NYC) — JD calls out cloud infrastructure, Kubernetes, IaC, CI/CD, observability, and compliance safeguards",
+      "Actively hiring: 'Founding Research Engineer, Model Training' ($150K–$250K, 0.50–2.00% equity, NYC)",
+      "is_hiring: true per YC company profile",
+      "Platform Engineer JD references building 'compliance safeguards for sensitive data' — direct signal that GRC/security infrastructure is a current gap being built from scratch"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/celltype/__QwGMiPJI-BPPz28ktODWc_nla5reMHOnhoeIdIoDKJ0"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founding Platform Engineer JD explicitly lists cloud infrastructure, containers, Kubernetes, Infrastructure-as-Code, CI/CD, and observability as required skills. Company runs large-scale GPU workloads for foundation model training. AWS (GPU instances, SageMaker, S3) is the dominant cloud for this workload profile.",
+    "contacts": [
+      {
+        "name": "David van Dijk",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/david-van-dijk-b440286/",
+        "twitter": "https://x.com/david_van_dijk",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/celltype"
+      },
+      {
+        "name": "Ivan Vrkic",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ivanvrkic",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/celltype"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Good fit with caveats: early-stage ($500K raised, YC only) so budget is tight, but the Platform Engineer JD is an explicit buying signal — they are actively building compliance infrastructure and will need SOC 2 to close deals with public biotech partners like Senhwa. CEO David van Dijk is a tenured Yale professor-turned-founder. Lead with: 'Your Senhwa MOU and future pharma partnerships will require a security review — your Platform Engineer hire will need a compliance framework to build against on Day 1.'"
+  },
+  {
+    "slug": "proximitty",
+    "name": "Proximitty",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Website security page states the company is 'currently in observation period' for SOC 2, and claims to be 'in accordance of all SOC 2 principles' with encrypted data at rest/in transit, tenant data segregation, and least-privilege access controls",
+        "source_url": "https://www.proximitty.ai/security"
+      },
+      {
+        "signal": "Trust center exists at trust.proximitty.ai, confirming active compliance program",
+        "source_url": "https://trust.proximitty.ai/"
+      },
+      {
+        "signal": "Job posting explicitly requires 'deep understanding of security, reliability, and auditability for AI agents in regulated finance' and lists AWS as part of the tech stack",
+        "source_url": "https://www.ycombinator.com/companies/proximitty/jobs/ctpg0o9-founding-engineer"
+      }
+    ],
+    "hiring_signals": [
+      "Actively hiring Member of Technical Staff / Founding Engineer at $150K-$220K + 1.5-3% equity (YC jobs board, June 2026)",
+      "Job posting lists AWS, TypeScript, Next.js, Mastra, Postgres, Inngest as core stack — AWS infra knowledge explicitly required",
+      "Role includes security/auditability requirements for regulated finance environments",
+      "is_hiring: true per YC company profile"
+    ],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/proximitty/__RltbsenIEubsRteQmjgz3Rcpcmbf542LKxucZTHQASM"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Founding Engineer job description explicitly lists AWS as a primary technology in the tech stack alongside TypeScript, Next.js, Mastra, Postgres, and Inngest. AWS infrastructure knowledge is a stated requirement for the role. Source: https://www.ycombinator.com/companies/proximitty/jobs/ctpg0o9-founding-engineer",
+    "contacts": [
+      {
+        "name": "Wye Yew Ho",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/wyeyew/",
+        "twitter": "https://x.com/WyeYew",
+        "email": "founders@proximitty.ai",
+        "source": "https://www.ycombinator.com/companies/proximitty"
+      },
+      {
+        "name": "Zi Zhang",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/zizixcm/",
+        "twitter": "https://x.com/zizixcm",
+        "email": "founders@proximitty.ai",
+        "source": "https://x.com/ycombinator/status/2024884251678663028"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Proximitty is actively mid-SOC 2 observation period — they have the controls and trust center in place but have not yet completed the audit. They sell to FDIC-insured banks and fintechs (highly regulated, SOC 2-demanding buyers), are confirmed AWS-native, and are hiring their first engineer with explicit security/auditability requirements. The timing is ideal: they need to complete SOC 2 Type II to close enterprise banking deals, and their 2-person team means they will need automated compliance tooling rather than a full internal GRC hire."
+  },
+  {
+    "slug": "galini",
+    "name": "Galini",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certificate, trust page, or compliance badge found on galini.ai or any public source. Company sells compliance guardrails to enterprise AI buyers — those same buyers will demand SOC 2 from their vendors",
+        "source_url": "https://www.galini.ai/"
+      },
+      {
+        "signal": "YC launch page and product description focus on enterprise risk/compliance use cases but disclose no security certifications of their own",
+        "source_url": "https://www.ycombinator.com/launches/MAI-galini-compliance-guardrails-for-ai-applications"
+      },
+      {
+        "signal": "Founder Raul Zablah background is SRE/platform engineering at Bridgewater and Morgan Stanley — enterprise-grade security awareness is likely, but no public attestation found",
+        "source_url": "https://www.linkedin.com/in/raulzablah/"
+      }
+    ],
+    "hiring_signals": [
+      "No active job postings on YC platform as of June 2026 — YC jobs page explicitly states 'No jobs at Galini are currently posted'",
+      "Team size remains at 2 (founders only) per YC profile",
+      "No external hiring signals found on LinkedIn or job boards"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/galini-pre-seed--cef42163"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No mention of AWS or specific cloud infrastructure found on galini.ai, the YC launch page, or in any public job postings or technical documentation.",
+    "contacts": [
+      {
+        "name": "Shaun Ayrton",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/shaun-ayrton/",
+        "twitter": "https://x.com/Shaun_Ayrton",
+        "email": "founders@galini.ai",
+        "source": "https://www.ycombinator.com/companies/galini"
+      },
+      {
+        "name": "Raul Zablah",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/raulzablah/",
+        "twitter": "https://x.com/raulzablah1",
+        "email": "founders@galini.ai",
+        "source": "https://www.linkedin.com/posts/raulzablah_exciting-news-galini-yc-f24-is-live-activity-7259630361037488128-0cWt"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Galini sells compliance guardrails to enterprise AI buyers — the exact regulated buyers who will demand SOC 2 Type II from Galini before signing. They have no visible SOC 2, no trust page, and no public security certifications despite being 18+ months post-YC launch. This is a high-urgency gap: their ICP (fintech, healthcare, enterprise SaaS teams) routinely blocks vendor onboarding on missing SOC 2. With a 2-person founding team and no active engineering hires, they cannot build a compliance program in-house. Pitch around the irony of a compliance company that needs to get compliant itself — fastest path to unblocking enterprise deals."
+  },
+  {
+    "slug": "attimet",
+    "name": "attimet",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, security page, or trust center found on attimet.com. /security returns 404. No public compliance documentation discovered via web search.",
+        "source_url": "https://attimet.com/"
+      },
+      {
+        "signal": "YC F24 batch profile lists no compliance certifications, confirms 3-person team focused on AI trading/prediction — likely pre-compliance stage.",
+        "source_url": "https://www.ycombinator.com/companies/attimet"
+      }
+    ],
+    "hiring_signals": [
+      "Previously posted Founding Researcher / Quant role at $100K–$150K + equity (0.25%–1.00%); job description mentions cloud infrastructure (AWS/GCP) as relevant skill area",
+      "No current openings on YC jobs board as of research date, suggesting small team still in build phase",
+      "Team size: 3; $220K ARR reported as of Sept 2025 — growing but pre-scale on infra hiring"
+    ],
+    "funding": {
+      "stage": "Seed / YC",
+      "total_usd_estimate": 10500000,
+      "source_url": "https://pitchbook.com/profiles/company/865915-75"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founding researcher job posting explicitly listed AWS/GCP as relevant cloud infrastructure. Founders come from Optiver/DRW/Argo AI (heavy compute engineering backgrounds). Source: https://getcoai.com/news/yc-backed-attimet-hiring-founding-researcher-for-ai-trading-systems-at-150k/",
+    "contacts": [
+      {
+        "name": "Kirthi Banothu",
+        "role": "Founder & Managing Partner",
+        "linkedin": "https://www.linkedin.com/in/kirthibanothu/",
+        "twitter": "https://x.com/kirthibanothu",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/attimet"
+      },
+      {
+        "name": "Xiaoyu Li",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/xiaoyuli240/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/attimet"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Strong ICP signal: $10.5M raised, AI finance/trading product handling customer data, 3-person team with no evidence of SOC 2, no dedicated security hire, likely running on AWS/GCP. Kirthi built low-latency infra at Optiver/DRW — will understand the stakes. Pitch angle: 'Your institutional trading customers will require SOC 2 before onboarding you as a vendor — let us get ahead of it before it blocks your first enterprise deal.' No security jobs posted, so likely not started yet — good entry window."
+  },
+  {
+    "slug": "sphinx",
+    "name": "Sphinx",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Sphinx website explicitly states 'SOC 2 Type II Certified — enterprise-grade security built into core systems' and lists GDPR compliance.",
+        "source_url": "https://sphinxhq.com/"
+      },
+      {
+        "signal": "Trust Center exists at trust.oneleet.com/sphinx confirming third-party-hosted compliance documentation.",
+        "source_url": "https://trust.oneleet.com/sphinx"
+      },
+      {
+        "signal": "Bilarna AI Trust Profile review page lists Sphinx as SOC 2 Type II certified.",
+        "source_url": "https://bilarna.com/provider/sphinxhq"
+      }
+    ],
+    "hiring_signals": [
+      "9 open roles as of research date: Member of Technical Staff, Forward Deployed Engineer, Product Engineer, Compliance Solutions Architect, Financial Crime Analyst, Head of Content, Founding Sales, GTM, Chief of Staff",
+      "Compliance Solutions Architect role signals mature product requiring customer-facing compliance expertise — team already has internal compliance/security covered",
+      "$7.1M seed raised Feb 2026 — actively scaling GTM and engineering headcount",
+      "Team size grew to 14 from YC batch — active hiring phase"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 7100000,
+      "source_url": "https://www.businesswire.com/news/home/20260217308151/en/Sphinx-Raises-$7.1M-to-Build-Every-Financial-Institutions-Last-Compliance-Hire"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mentions found in website, job descriptions, press releases, or public docs. Company uses browser-native architecture to operate inside customer tools. Cloud provider not publicly disclosed.",
+    "contacts": [
+      {
+        "name": "Alexandre Berkovic",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/alexandreberkovic/",
+        "twitter": "https://x.com/alexberkovic",
+        "email": null,
+        "source": "https://sphinxhq.com/company"
+      },
+      {
+        "name": "Chrisjan Wust",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/chrisjan-wust/",
+        "twitter": "https://x.com/ChrisWust",
+        "email": null,
+        "source": "https://sphinxhq.com/company"
+      }
+    ],
+    "fit_score": 28,
+    "pitch_note": "Poor fit — confirmed SOC 2 Type II certified and GDPR compliant, with a dedicated trust center. Sphinx sells compliance tools to regulated institutions and built security-first by necessity. Their buyers (banks, fintechs) are also heavily regulated with their own security teams. Deprioritize entirely."
+  }
+]

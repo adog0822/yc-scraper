@@ -1,0 +1,83 @@
+{
+  "slug": "aarc-360",
+  "name": "AARC-360",
+  "website": "https://www.aarc-360.com",
+  "hq": "Alpharetta (Atlanta metro), GA — 8000 Avalon Boulevard, Suite 100, Alpharetta, GA 30009",
+  "founded": "2014",
+  "team_size_estimate": "~33 (33 team members listed on the firm's own team page; third-party data (Cience/ZoomInfo) also cites 33 employees; some delivery staff are India-based so total headcount may run slightly higher, but published team is under the 40-person bar)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Drata Auditor Alliance directory profile lists 'Start-ups', 'SaaS', and 'Technology' as named industry specializations, and targets SMB clients of 1-300 employees",
+      "source_url": "https://drata.com/partners/audit-alliance/directory/aarc-360"
+    },
+    {
+      "signal": "Firm's SOC 2 content positions SOC 2 as a market differentiator for IT, SaaS, and cloud-services companies; audit team cites extensive experience with SaaS, fintech, and cloud providers, partnering long-term from readiness through annual Type 2 audits",
+      "source_url": "https://www.aarc-360.com/assurance/soc-2-report/"
+    },
+    {
+      "signal": "5.0-star rating across 5 customer reviews on Drata directory praising 'non-intimidating, active engagement' — a tone pitched at first-time/pre-audit companies rather than enterprises",
+      "source_url": "https://drata.com/partners/audit-alliance/directory/aarc-360"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Auditor Alliance, Registered Alliance Member with Code of Ethics Pledge)"
+  ],
+  "aws_cloud_expertise": "Generic cloud fluency but no explicit AWS specialization found: audit team claims extensive experience with SaaS and cloud service providers, and the firm audits cloud-hosted environments for SOC 2, but no AWS-specific practice, blog content, or AWS Partner listing was located (sources: https://www.aarc-360.com/assurance/soc-2-report/, https://www.aarc-360.com/)",
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 reports",
+    "PCI DSS assessments (QSA)",
+    "HITRUST CSF",
+    "ISO 27001 / 27701 / 42001",
+    "FedRAMP",
+    "Microsoft SSPA",
+    "Readiness assessments (SOC, PCI, HITRUST, ISO)",
+    "Penetration testing & vulnerability assessments",
+    "Internal audit outsourcing / SOX testing",
+    "GDPR / HIPAA / FISMA-NIST / CCPA compliance"
+  ],
+  "contacts": [
+    {
+      "name": "Neil Gonsalves",
+      "role": "Founder & CEO (CPA, CISA, CISM, PCI QSA, HITRUST CCSFP; ex-A-LIGN Director, ex-EY; personally reviews all engagements)",
+      "linkedin": "https://www.linkedin.com/in/neilgonsalves1/",
+      "twitter": null,
+      "email": "neil.gonsalves@aarc-360.com",
+      "phone": "+1 866-576-4414 x101",
+      "source": "https://www.aarc-360.com/our-team/neil-gonsalves/ (role); https://contactout.com/Neil-Gonsalves-22056996 (public email/phone listing)"
+    },
+    {
+      "name": "Jeffrey A. Sopshin",
+      "role": "Chief Revenue Officer (likely owner of referral/partnership motions)",
+      "linkedin": "https://www.linkedin.com/in/jeffreysopshin/",
+      "twitter": null,
+      "email": null,
+      "phone": "+1 866-576-4414 (main line)",
+      "source": "https://www.aarc-360.com/our-team/"
+    },
+    {
+      "name": "Brian Fischer",
+      "role": "Head of Sales and Marketing",
+      "linkedin": "https://www.linkedin.com/in/brianfischer1",
+      "twitter": null,
+      "email": null,
+      "phone": "+1 866-576-4414 (main line)",
+      "source": "https://www.aarc-360.com/our-team/"
+    }
+  ],
+  "fit_score": 83,
+  "partnership_angle": "Referral partner with sandbox-tester entry. AARC-360 is the near-ideal profile: 33-person founder-led boutique, explicitly startup/SaaS-specialized in the Drata directory, already fluent in GRC automation via the Drata Auditor Alliance, and serving 1-300-employee clients — exactly LoxeAI's ICP. Neil Gonsalves learned the audit-referral playbook at A-LIGN, so he understands tools that feed pre-audit clients into his pipeline. Entry motion: get Neil or CRO Jeff Sopshin to run a LoxeAI scan on a sandbox AWS environment (Tester), have the audit team confirm the findings map cleanly to Trust Services Criteria (Validator), then formalize a referral arrangement where AARC-360 points readiness-stage prospects to LoxeAI (Design Partner feeder). The firm already sells its own readiness assessments, so position LoxeAI as the automated pre-readiness layer that qualifies leads for their higher-margin audit work rather than competing with it.",
+  "pitch_note": "Hi Neil — you built AARC-360 around exactly the SaaS and startup clients we scan for. LoxeAI is an AWS-native SOC 2 readiness scanner for lean startups; before we tell any founder 'this gets you audit-ready,' we want a real auditor to pressure-test it. Would you spend 30 minutes running our scan against a sandbox AWS account? If the findings hold up against your Trust Services mapping, we'd love AARC-360 to be the firm you recommend after clients run the scan — they show up 80% ready, your fieldwork shrinks, and readiness-stage prospects come to you pre-qualified.",
+  "source_urls": [
+    "https://www.aarc-360.com/",
+    "https://www.aarc-360.com/our-team/",
+    "https://www.aarc-360.com/our-team/neil-gonsalves/",
+    "https://www.aarc-360.com/about-us/",
+    "https://www.aarc-360.com/assurance/soc-2-report/",
+    "https://drata.com/partners/audit-alliance/directory/aarc-360",
+    "https://www.linkedin.com/company/aarc-360",
+    "https://www.linkedin.com/in/neilgonsalves1/",
+    "https://contactout.com/Neil-Gonsalves-22056996",
+    "https://www.cience.com/company/aarc-360/156106703348560220"
+  ]
+}

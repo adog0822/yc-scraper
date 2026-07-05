@@ -1,0 +1,353 @@
+[
+  {
+    "slug": "origin-bio",
+    "name": "Origin",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on website (origin.bio) or any public trust/security page. No /security or trust.origin.bio page detected.",
+        "source_url": "https://origin.bio/"
+      },
+      {
+        "signal": "Company targets pharma and AI companies as dataset licensees; enterprise pharma buyers will expect SOC 2 before signing data licensing agreements.",
+        "source_url": "https://www.ycombinator.com/companies/origin-bio"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 15000000,
+      "source_url": "https://www.extruct.ai/hub/origin-bio/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "YC profile image assets served from AWS S3 (bookface-images.s3.amazonaws.com) but no confirmed use of AWS for product infrastructure. Biotech/genomics workloads commonly run on AWS but no direct evidence found.",
+    "contacts": [
+      {
+        "name": "Yash Rathod",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/yrraadi",
+        "twitter": "https://x.com/YashRathod_75",
+        "email": "yash@origin.bio",
+        "source": "https://www.ycombinator.com/companies/origin-bio"
+      },
+      {
+        "name": "Malhar Bhide",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/malhar-bhide-9002791a7/",
+        "twitter": "https://x.com/malhar317",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/origin-bio"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Origin is a well-funded ($15M seed) biotech AI startup building cancer therapeutics datasets for pharma licensing. No SOC 2 found and pharma/enterprise buyers will require it before signing data agreements. Team is 4 engineers with no security hire — prime consulting opportunity. Lead with 'your pharma partners will need a security review before signing; SOC 2 Type I in 6-8 weeks gets you there.'"
+  },
+  {
+    "slug": "panta",
+    "name": "Panta",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Shyft profile and initial search result suggested 'SOC 2 Type II certified with bank-level encryption,' but this could not be independently verified on pantainsure.com, their YC page, or any trust/security page. No trust center or /security page found.",
+        "source_url": "https://pantainsure.com/"
+      },
+      {
+        "signal": "Company claims 'licensed, regulated, and audited' but no SOC 2 report or certification badge found in public sources.",
+        "source_url": "https://www.ycombinator.com/companies/panta"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/panta-insurance-services"
+    },
+    "aws_native": "no",
+    "aws_evidence": "Panta explicitly runs AI operators on 'a rack of Mac Minis' — self-hosted infrastructure, not AWS. This is a deliberate architectural choice for their agentic browser automation workloads.",
+    "contacts": [
+      {
+        "name": "Vincent Chen",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/zihong-chen",
+        "twitter": "https://x.com/dsdvincent",
+        "email": "vincent@pantainsure.com",
+        "source": "https://www.ycombinator.com/companies/panta"
+      },
+      {
+        "name": "Frank Wang",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/jiangdawang/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/panta"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Panta is in regulated fintech/insurance but runs self-hosted Mac Mini infrastructure rather than AWS — weaker fit for AWS-native SOC 2 framing. SOC 2 status unclear (claimed but unverified). With only $500K seed and 3 staff, budget may be tight. If SOC 2 is unconfirmed, worth a short outreach to verify; if they lack it, their insurance carrier partners may demand it soon."
+  },
+  {
+    "slug": "docura-health",
+    "name": "Docura Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website lists HIPAA compliance and encryption but no SOC 2 certification found. A trust center URL (trust.docurahealth.com) is referenced in the footer but returned HTTP 403 Forbidden — likely not yet live or restricted.",
+        "source_url": "https://docurahealth.com/"
+      },
+      {
+        "signal": "Handles workers' comp medical records and PHI — enterprise legal/insurance buyers require SOC 2 attestation. Having a trust center URL stub suggests SOC 2 is planned but not yet completed.",
+        "source_url": "https://www.ycombinator.com/companies/docura-health"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/docurahealth/__1YpVozVHUl7oy8JsgN4xkf0zHHHHW2-28ylHTq8nCl4"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "YC profile images served via signed AWS S3 URLs (bookface-images.s3.us-west-2.amazonaws.com with AWS4-HMAC-SHA256 auth), suggesting AWS is used in their stack. No explicit product infrastructure confirmation.",
+    "contacts": [
+      {
+        "name": "Akhil Sachdev",
+        "role": "Founder",
+        "linkedin": "https://www.linkedin.com/in/akhil-sachdev",
+        "twitter": "https://x.com/akhil_sachdev",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/docura-health"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Docura Health is a strong lead: AI-native med-legal firm processing PHI-heavy workers' comp records for insurance and legal buyers who will demand SOC 2. They have a trust center stub (trust.docurahealth.com returning 403) signaling intent but no live certification. Small 3-person team with no security hire — ideal consulting candidate. Pitch: 'You already have a trust center domain reserved; let us get you SOC 2 Type I certified before your next enterprise legal firm asks for it.'"
+  },
+  {
+    "slug": "scheduling-wizard",
+    "name": "Scheduling Wizard",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website claims support for 'SOC 2, ISO 27001, HIPAA, GDPR, HITECH compliance' but this appears to describe the hospital clients' own compliance needs, not a certification Scheduling Wizard itself holds. No SOC 2 report or certification badge found.",
+        "source_url": "https://schedulingwiz.com/"
+      },
+      {
+        "signal": "Serving 18+ departments at Johns Hopkins, UCSF, Mass General — these institutions will require their vendors to be SOC 2 certified. No public certification found.",
+        "source_url": "https://www.ycombinator.com/companies/scheduling-wizard"
+      }
+    ],
+    "hiring_signals": [
+      "CTO Abdelrahman Hamimi is AWS Cloud Solutions Architect Certified — confirms AWS-native stack",
+      "Serving 13+ major hospital systems suggests infrastructure investment underway"
+    ],
+    "funding": {
+      "stage": "Pre-Seed/Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/scheduling-wizard"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "CTO Abdelrahman Hamimi holds AWS Cloud Solutions Architect certification per YC company profile, confirming AWS-native infrastructure.",
+    "contacts": [
+      {
+        "name": "Samuel Oberly",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/sam-oberly/",
+        "twitter": "https://x.com/samob917",
+        "email": "founders@schedulingwiz.com",
+        "source": "https://www.ycombinator.com/companies/scheduling-wizard"
+      },
+      {
+        "name": "Abdelrahman Hamimi",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/abdelrahman-hamimi-2064ab202/",
+        "twitter": null,
+        "email": "founders@schedulingwiz.com",
+        "source": "https://www.ycombinator.com/companies/scheduling-wizard"
+      },
+      {
+        "name": "Zachary Dermody",
+        "role": "Co-Founder & COO",
+        "linkedin": "https://www.linkedin.com/in/zachary-dermody-41238a202",
+        "twitter": null,
+        "email": "founders@schedulingwiz.com",
+        "source": "https://www.ycombinator.com/companies/scheduling-wizard"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Top lead in this slice. AWS-native (CTO is AWS-certified), selling into regulated hospital systems (Johns Hopkins, UCSF, Mass General) that will require vendor SOC 2, no certification found publicly, and lean 3-person team. Pitch angle: 'Your hospital clients run SOC 2 vendor assessments — an AWS-native SOC 2 Type I in 6 weeks lets you answer their next security questionnaire with a report instead of a spreadsheet.'"
+  },
+  {
+    "slug": "mango-medical-inc",
+    "name": "Mango Medical",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on mangomedical.io or any public trust/security page. Company is pursuing FDA 510(k) clearance and has an 8-figure LOI from a top orthopedic company — enterprise medical device buyers will demand security attestation.",
+        "source_url": "https://www.mangomedical.io/"
+      },
+      {
+        "signal": "Surgical planning AI processes CT scans and PHI; hospital and orthopedic company partners will need SOC 2 evidence before production deployment.",
+        "source_url": "https://www.ycombinator.com/companies/mango-medical-inc"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/mango-medical-inc"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS or specific cloud provider mentioned in public materials. Medical imaging AI workloads commonly use AWS HealthOmics or SageMaker but no confirmation found.",
+    "contacts": [
+      {
+        "name": "Adrian Kilian",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/adrian-kilian",
+        "twitter": "https://x.com/thegadak",
+        "email": "founders@mangomedical.io",
+        "source": "https://www.ycombinator.com/companies/mango-medical-inc"
+      },
+      {
+        "name": "Jorge Padilla Perez",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/jorge-padilla-p%C3%A9rez-871b52195/",
+        "twitter": "https://x.com/padilla_peres",
+        "email": "founders@mangomedical.io",
+        "source": "https://www.ycombinator.com/companies/mango-medical-inc"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Mango Medical handles CT scan PHI for orthopedic surgical planning and has a reported 8-figure LOI from a major orthopedic company — that deal will almost certainly require security attestation. No SOC 2 found, lean team of 3 with no security hire. Pitch: 'Your upcoming orthopedic company partnership will require a security review; SOC 2 Type I is the fastest path to clearing that gate and closing the LOI.'"
+  },
+  {
+    "slug": "opalite-health",
+    "name": "Opalite Health",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Website explicitly states 'SOC 2 Type II certification' and 'HIPAA & SOC2 Certified' for patient data protection.",
+        "source_url": "https://opalitehealth.com/"
+      },
+      {
+        "signal": "Extruct AI funding analysis references SOC 2 compliance as a feature of the platform.",
+        "source_url": "https://www.extruct.ai/hub/opalitehealth-com/"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 745000,
+      "source_url": "https://www.extruct.ai/hub/opalitehealth-com/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS or specific cloud provider mentioned in public materials.",
+    "contacts": [
+      {
+        "name": "Cathleen Kuo",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/cathleenkuo/",
+        "twitter": "https://x.com/KuoCathleen",
+        "email": "cathleen@opalitehealth.com",
+        "source": "https://www.ycombinator.com/companies/opalite-health"
+      },
+      {
+        "name": "Alex Mehregan",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/alex-mehregan",
+        "twitter": "https://x.com/akmehregan",
+        "email": "alex@opalitehealth.com",
+        "source": "https://www.ycombinator.com/companies/opalite-health"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified. Opalite Health already holds SOC 2 Type II certification per their own public website. Not a prospect for initial SOC 2 attestation services."
+  },
+  {
+    "slug": "instinct-xyz",
+    "name": "Instinct",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Website shows only a 'Coming Soon' landing page. No security or trust information available publicly. Platform not yet launched.",
+        "source_url": "https://instinct.xyz/"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/instinct-xyz"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Platform is pre-launch ('Coming Soon'). No technology stack information available. Crypto/trading platforms often use AWS but no evidence found.",
+    "contacts": [
+      {
+        "name": "Joon Won Song",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/mericsong",
+        "twitter": "https://x.com/mericsong",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/instinct-xyz"
+      },
+      {
+        "name": "Eunju Moon",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/eunju-moon-a65823202/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/instinct-xyz"
+      }
+    ],
+    "fit_score": 48,
+    "pitch_note": "Instinct is a pre-launch crypto/AI trading app — platform not yet live. Fintech/trading platforms handling user funds often need SOC 2 to attract institutional users, but ICP fit is speculative until product launches. Too early to engage meaningfully. Monitor for launch and revisit when they have paying customers and an engineering team in place."
+  },
+  {
+    "slug": "prana-health",
+    "name": "Prana",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website mentions HIPAA compliance but no SOC 2 certification found. Terms of Service and privacy policy reference standard HIPAA protections only.",
+        "source_url": "https://www.pranadoc.com/"
+      },
+      {
+        "signal": "Integrates with EHR systems (Fasten) and wearables (Junction), processing continuous patient health data — enterprise health plan partners will require SOC 2 before production access.",
+        "source_url": "https://www.ycombinator.com/companies/prana-health"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/pranadoc-com"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mentions found in public materials. EHR integrations (Fasten, Junction) are cloud-native services but no direct AWS infrastructure evidence found.",
+    "contacts": [
+      {
+        "name": "Meer Patel",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/meerpatel",
+        "twitter": "https://x.com/_meerpatel",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prana-health"
+      },
+      {
+        "name": "Vishvam Rawal",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/vishvam-rawal-985b04238/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prana-health"
+      },
+      {
+        "name": "Sanjit Menon",
+        "role": "Co-Founder & Chief Medical Officer",
+        "linkedin": "https://www.linkedin.com/in/sanjit-menon-6674281a6",
+        "twitter": "https://x.com/smenon21",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prana-health"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Prana is a consumer/B2B2C AI doctor app handling ongoing PHI from EHR and wearable integrations. No SOC 2 found, HIPAA-only posture. Health plan partners or employer benefit buyers will require SOC 2 attestation before signing. Lean 4-person team with a physician CMO but no security hire. Pitch: 'Health plans and employers buying AI primary care tools run vendor security assessments — SOC 2 Type I closes that gap before your next partnership conversation.'"
+  }
+]

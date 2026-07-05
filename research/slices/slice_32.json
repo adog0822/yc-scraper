@@ -1,0 +1,137 @@
+[
+ {
+  "slug": "patientdeskai",
+  "name": "Patientdesk.ai",
+  "website": "https://patientdesk.ai/",
+  "one_liner": "AI front & back office agent for dental practices ",
+  "team_size": 5,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "valence",
+  "name": "Valence",
+  "website": "https://valence.trade",
+  "one_liner": "Unified prediction markets trading platform",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "ditto-biosciences",
+  "name": "Ditto Biosciences",
+  "website": "https://www.dittobio.com/",
+  "one_liner": "Evolutionary intelligence for autoimmune disease",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Drug Discovery and Delivery"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "sequence-markets",
+  "name": "Sequence Markets",
+  "website": "https://sequencemkts.com/",
+  "one_liner": "Low-latency execution across crypto, prediction, and tokenized assets",
+  "team_size": 5,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "variant",
+  "name": "Variant",
+  "website": "https://variant.com",
+  "one_liner": "Creative intelligence",
+  "team_size": 5,
+  "batch": "Fall 2024",
+  "tags": [
+   "Developer Tools",
+   "Design Tools",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "telli",
+  "name": "telli",
+  "website": "https://telli.com",
+  "one_liner": "AI phone agents that convert",
+  "team_size": 16,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "Berlin, Berlin, Germany",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "moonset-health",
+  "name": "Moonset Health",
+  "website": "https://www.moonsethealth.com/",
+  "one_liner": "AI for Post-Acute Senior Care (Hospice, Home Health, Skilled Nursing\u2026",
+  "team_size": 6,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Sales"
+  ],
+  "is_hiring": true,
+  "locations": "Seattle, WA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "openfunnel",
+  "name": "OpenFunnel",
+  "website": "https://openfunnel.dev",
+  "one_liner": "We monitor your TAM and surface companies when custom triggers fire.",
+  "team_size": 4,
+  "batch": "Fall 2024",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Sales Enablement",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Sales"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ }
+]

@@ -1,0 +1,81 @@
+{
+  "slug": "geels-norton",
+  "name": "Geels Norton",
+  "website": "https://www.geelsnorton.com/",
+  "hq": "Distributed, US (Drata directory lists Durham, NC; prior records show Wausau, WI; team spans multiple states)",
+  "founded": "2021 (per Smith + Howard acquisition press release; founders spent 20+ years at national/regional firms before launching)",
+  "team_size_estimate": "~8 employees (ZoomInfo/LinkedIn signals; 4 named team members on the site's team page)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Drata auditor directory listing states focus on 'emerging and high-growth cloud technology companies' with explicit specializations in SaaS, Startups, and Technology, serving SMBs from 1-300 FTE",
+      "source_url": "https://drata.com/auditor/directory/geels-norton"
+    },
+    {
+      "signal": "Homepage testimonials from B2B tech/SaaS clients including Sourcegraph, Resolve, and AITX; pitches a two-week report turnaround and 'white-glove' partner-level access - a lean-startup-friendly model",
+      "source_url": "https://www.geelsnorton.com/"
+    },
+    {
+      "signal": "Vanta partner directory description: helps emerging and high-growth cloud technology companies focus on building products while demonstrating sound, scalable data security practices",
+      "source_url": "https://www.vanta.com/partners/find-a-partner"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (largest channel partner per Partnerbase; listed in Vanta partner directory)",
+    "Drata (listed in Drata auditor directory)",
+    "Hyperproof (listed in Hyperproof partner directory)",
+    "Sprinto (per prior research notes)"
+  ],
+  "aws_cloud_expertise": "Strong cloud fluency: firm was founded specifically to audit 'emerging and high-growth cloud technology companies' and its client base is cloud-native SaaS (e.g., Sourcegraph). No explicit AWS-branded specialization found, but its entire audit practice is oriented to cloud-stack startups.",
+  "services": [
+    "SOC 1 audits",
+    "SOC 2 Type 1 and Type 2 audits",
+    "ISO 27001 internal audit and advisory",
+    "HIPAA compliance",
+    "Microsoft SSPA (Preferred Assessor)",
+    "Risk advisory services"
+  ],
+  "contacts": [
+    {
+      "name": "Bryan Geels",
+      "role": "Co-Founder, CPA",
+      "linkedin": "https://www.linkedin.com/in/bryan-geels-27496311/",
+      "twitter": null,
+      "email": "bryan@geelsnorton.com",
+      "phone": "319-899-2732",
+      "source": "https://www.geelsnorton.com/team"
+    },
+    {
+      "name": "Nick Norton",
+      "role": "Co-Founder, MPAc, CISA",
+      "linkedin": "https://www.linkedin.com/in/nicholas-norton-8559251b/",
+      "twitter": null,
+      "email": "nick@geelsnorton.com",
+      "phone": "207-749-3939",
+      "source": "https://www.geelsnorton.com/team"
+    },
+    {
+      "name": "Turner Lee",
+      "role": "CPA (audit team)",
+      "linkedin": "https://www.linkedin.com/in/turner-lee-cpa-6b2759b4/",
+      "twitter": null,
+      "email": "turner@geelsnorton.com",
+      "phone": "425-681-6311",
+      "source": "https://www.geelsnorton.com/team"
+    }
+  ],
+  "fit_score": 88,
+  "partnership_angle": "Referral partner + validator. This is close to the ideal profile: an 8-person founder-led firm built explicitly for high-growth cloud startups, already fluent in GRC automation (Vanta/Drata/Hyperproof partner) and selling a fast two-week-report model that rewards clients who arrive pre-remediated - exactly what a LoxeAI pre-audit scan produces. Both co-founders publish direct emails and cell numbers, so a founder-to-founder outreach motion works. One caveat lowers the ceiling: acquired by Smith + Howard (Atlanta) effective Feb 1, 2026, so partnership decisions may eventually route through a parent firm; founders remain hands-on under the Geels Norton brand today, so move quickly. Note: SOC 2 thought-leader Troy Fine appears to have departed (LinkedIn now shows 'Fine Assurance') - do not anchor outreach on him.",
+  "pitch_note": "Bryan, you built Geels Norton around a two-week SOC 2 report for cloud startups - the bottleneck you can't compress is how unready clients are when they show up. LoxeAI is an AWS-native readiness scanner for lean startups: 20 minutes on a call, run it against a sandbox or your own AWS environment, and judge the output as an auditor. If it holds up to your bar, tell pre-audit clients 'run this scan first - it gets you 80% ready,' and every referral lands on your desk cleaner and closes faster.",
+  "source_urls": [
+    "https://www.geelsnorton.com/",
+    "https://www.geelsnorton.com/team",
+    "https://drata.com/auditor/directory/geels-norton",
+    "https://www.vanta.com/partners/find-a-partner",
+    "https://www.partnerbase.com/geels-norton",
+    "https://hyperproof.io/partner-directory/geels-norton-llc/",
+    "https://www.smith-howard.com/smith-howard-welcomes-geels-norton-expanding-cyber-risk-audit-and-advisory-capabilities/",
+    "https://www.linkedin.com/company/geels-norton",
+    "https://www.zoominfo.com/c/geels-norton-llc/556262880"
+  ]
+}

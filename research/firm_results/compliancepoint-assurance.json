@@ -1,0 +1,58 @@
+{
+  "slug": "compliancepoint-assurance",
+  "name": "CompliancePoint Assurance",
+  "website": "https://www.compliancepoint.com/assurance/",
+  "hq": "Duluth (Atlanta metro), GA",
+  "founded": "November 2024 (attest entity); parent CompliancePoint founded 2001; parent acquired by Wipfli effective May 1, 2026",
+  "team_size_estimate": "Attest arm is small (led by one Managing Director), but parent CompliancePoint had ~53-54 employees, and the whole organization (2 partners + 52 associates) joined Wipfli, a top-25 national advisory/accounting firm, on May 1, 2026",
+  "founder_led": false,
+  "startup_focus_evidence": [
+    {
+      "signal": "No startup/SaaS/YC-specific marketing found; assurance page showcases enterprise client logos (Verizon, Comcast, Chewy) and speaks to 'organizations' generally",
+      "source_url": "https://www.compliancepoint.com/assurance/"
+    }
+  ],
+  "grc_partnerships": [],
+  "aws_cloud_expertise": "No AWS or cloud-specific specialization signals found; parent lists generic 'Cloud Compliance' among many service areas and promotes proprietary tools (OnePoint, RegInfoHub) rather than Vanta/Drata-style automation",
+  "services": [
+    "SOC 2 Type 1 and Type 2 attestation",
+    "Blended audits (PCI DSS + SOC 2 + HITRUST) with parent CompliancePoint",
+    "PCI DSS assessments (parent)",
+    "ISO 27001 / ISO 27701 certification (parent)",
+    "HITRUST certification (parent)",
+    "AI risk management assessments (parent)",
+    "SOC 2 readiness consulting (parent — competes with LoxeAI)"
+  ],
+  "contacts": [
+    {
+      "name": "Carol Amick",
+      "role": "Managing Director of Audit Services, leads CompliancePoint Assurance (CPA, 20+ yrs infosec/healthcare compliance, ex-Big 4)",
+      "linkedin": "https://www.linkedin.com/in/carolamick/",
+      "twitter": null,
+      "email": null,
+      "phone": "(855) 670-8780 (firm main line)",
+      "source": "https://www.compliancepoint.com/about-us/carol-amick/"
+    },
+    {
+      "name": "Greg Sparrow",
+      "role": "President, CompliancePoint (parent org; quoted in Assurance launch press release)",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.prnewswire.com/news-releases/new-cpa-firm-compliancepoint-assurance-founded-to-conduct-soc-2-audits-302303368.html"
+    }
+  ],
+  "fit_score": 12,
+  "partnership_angle": "Effectively none of the boutique entry motions fit anymore. CompliancePoint (including its assurance arm's parent org) was acquired by Wipfli, a top-25 national accounting firm, effective May 1, 2026 — so this is now a big-firm channel, which the client explicitly excludes. On top of that, the parent sells its own SOC 2 readiness services (now backed by Wipfli's advisory bench), meaning LoxeAI's readiness scan competes directly with their in-house revenue line rather than complementing it. If pursued at all, the only angle is a low-priority sandbox-tester relationship with Carol Amick personally to gather auditor feedback on scan output quality — not a referral pipeline.",
+  "pitch_note": "Not recommended for outreach under the Tester→Validator→Design Partner strategy: post-Wipfli acquisition, referral decisions route through a top-25 firm's partnership machinery, and their own readiness consulting practice is the exact service LoxeAI automates. If contact is made anyway, position narrowly to Carol Amick as a no-cost technical validation exercise: 'Run a LoxeAI scan against a sandbox AWS environment and tell us where the evidence falls short of what your audit team needs' — useful product feedback, but do not expect them to tell pre-audit clients to run the scan when their parent firm sells that readiness work.",
+  "source_urls": [
+    "https://www.compliancepoint.com/assurance/",
+    "https://www.prnewswire.com/news-releases/new-cpa-firm-compliancepoint-assurance-founded-to-conduct-soc-2-audits-302303368.html",
+    "https://www.compliancepoint.com/about-us/carol-amick/",
+    "https://www.prnewswire.com/news-releases/wipfli-to-complete-compliancepoint-transaction-and-add-associates-expanding-capabilities-302756208.html",
+    "https://www.wipfli.com/news/2026/wipfli-and-compliancepoint-enter-into-transaction",
+    "https://www.cpapracticeadvisor.com/2026/04/30/wipfli-adds-risk-management-firm-compliancepoint/182512/",
+    "https://www.linkedin.com/company/compliancepoint"
+  ]
+}

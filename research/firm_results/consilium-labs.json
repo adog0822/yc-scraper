@@ -1,0 +1,87 @@
+{
+  "slug": "consilium-labs",
+  "name": "Consilium Labs",
+  "website": "https://consilium-labs.com/",
+  "hq": "El Dorado Hills, CA (1098 Crestline Circle, El Dorado Hills, CA 95762)",
+  "founded": "2020",
+  "team_size_estimate": "~15 employees (ZoomInfo: 15 with 72.7% YoY growth; SignalHire: 10-50)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Vanta partner page explicitly markets 'affordable, startup-friendly pricing' and 'helping startups like yours overcome cybersecurity challenges swiftly'; Vanta clients get a 15% discount",
+      "source_url": "https://vanta.consilium-labs.com/"
+    },
+    {
+      "signal": "Among the cheapest startup-friendly SOC 2 Type 2 pricing tracked by soc2auditors.org ($10K-$16K range) in its list of SOC 2 auditors for startups",
+      "source_url": "https://soc2auditors.org/soc-2-auditors-startups/"
+    },
+    {
+      "signal": "Blog post 'SOC 2 Made Simple: A Strategic Asset for Scaling SaaS' pitches a redesigned audit experience for SaaS teams: GRC-tool integration, SaaS-aware auditors who understand modern dev teams, delivery SLAs",
+      "source_url": "https://consilium-labs.com/soc-2-made-simple-a-strategic-asset-for-scaling-saas/"
+    },
+    {
+      "signal": "Homepage targets SaaS, cloud-native, and AI companies; client logos are startups (Bria, Pliant, SoSafe, Affinda); LinkedIn post celebrates startup Queue achieving SOC 2 Type I",
+      "source_url": "https://consilium-labs.com/"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (dedicated audit-partner subdomain vanta.consilium-labs.com, 15% Vanta-client discount)",
+    "Drata (Audit Alliance directory listing, dedicated partner page)",
+    "Secureframe (dedicated partner subdomain sf.consilium-labs.com)"
+  ],
+  "aws_cloud_expertise": "No explicit AWS specialization published, but clearly cloud-fluent: targets SaaS/cloud-native/AI companies, is a CSA STAR Level 2 certified auditor (cloud security assurance), and emphasizes automation-driven, GRC-tool-integrated audits. AWS depth unverified.",
+  "services": [
+    "SOC 2 Type I and Type II audits",
+    "ISO/IEC 27001 and 27701 certification (accredited certification body via ANAB/IAS)",
+    "ISO/IEC 42001 (AI governance) certification",
+    "CSA STAR Certification (Level 2)",
+    "Penetration testing",
+    "CMMC pre-assessment",
+    "Microsoft SSPA"
+  ],
+  "contacts": [
+    {
+      "name": "Ben Ben Aderet",
+      "role": "CEO (also co-founder/CEO of GRSee Consulting, Consilium Labs' sister consultancy)",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://councils.forbes.com/profile/Ben-Ben-Aderet-CEO-GRSee-Consulting-Consilium-Labs/9a2d84c6-9c4c-4f59-82c2-07371b8a9cfa"
+    },
+    {
+      "name": "Elad Motola",
+      "role": "Managing Director",
+      "linkedin": "https://www.linkedin.com/in/elad-motola-3233b94a/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/elad-motola-3233b94a/"
+    },
+    {
+      "name": "Consilium Labs (general)",
+      "role": "Firm inbox + office line; Calendly booking link on Vanta partner page",
+      "linkedin": "https://www.linkedin.com/company/consilium-labs",
+      "twitter": null,
+      "email": "info@consilium-labs.com",
+      "phone": "669-777-3084",
+      "source": "https://consilium-labs.com/"
+    }
+  ],
+  "fit_score": 88,
+  "partnership_angle": "Referral partner with a design-partner feeder motion. Consilium Labs is a ~15-person, founder-led boutique founded in 2020 that already runs its practice on GRC automation (dedicated Vanta, Drata, and Secureframe partner pages) and explicitly sells cheap, fast audits to startups and SaaS teams — exactly the pre-audit pipeline LoxeAI needs. Because they are also an accredited ISO 42001/27001 certification body, one relationship covers SOC 2 plus AI-governance referrals. Their whole brand is 'automation-driven efficiency,' so a scanner that pre-cleans AWS environments before evidence collection strengthens their pitch rather than threatening it. Caveats: leadership appears Israel-rooted (GRSee spin-off), so expect a distributed team, and AWS depth is implied rather than proven — validate on the first call.",
+  "pitch_note": "You've built the audit experience startups actually want — startup pricing, Vanta/Drata/Secureframe integrations, SLAs that hold. LoxeAI is an AWS-native SOC 2 readiness scanner for exactly those lean cloud teams: we'd love 30 minutes to have your auditors run it against a sandbox (or your own AWS account) and tear it apart. If it holds up to your standards, your pre-audit pipeline gets a simple play — 'run this scan first, it gets you ~80% ready' — so clients arrive cleaner, audits close faster, and your Vanta-speed positioning gets even sharper.",
+  "source_urls": [
+    "https://consilium-labs.com/",
+    "https://vanta.consilium-labs.com/",
+    "https://sf.consilium-labs.com/",
+    "https://drata.com/partners/audit-alliance/directory/consilium-labs",
+    "https://www.linkedin.com/company/consilium-labs",
+    "https://www.zoominfo.com/c/consilium-labs/541337882",
+    "https://councils.forbes.com/profile/Ben-Ben-Aderet-CEO-GRSee-Consulting-Consilium-Labs/9a2d84c6-9c4c-4f59-82c2-07371b8a9cfa",
+    "https://www.linkedin.com/in/elad-motola-3233b94a/",
+    "https://consilium-labs.com/soc-2-made-simple-a-strategic-asset-for-scaling-saas/",
+    "https://soc2auditors.org/soc-2-auditors-startups/",
+    "https://www.iasonline.org/wp-content/uploads/2024/01/MSCB-352-Cert.pdf"
+  ]
+}

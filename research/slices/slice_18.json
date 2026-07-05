@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "maywood",
+  "name": "Maywood",
+  "website": "https://maywoodai.com/",
+  "one_liner": "The first finance-compliant proactive AI that runs 24/7",
+  "team_size": 5,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Banking and Exchange"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "unifold",
+  "name": "Unifold",
+  "website": "https://unifold.io",
+  "one_liner": "Multi-chain deposit and payment infrastructure",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "healthspark",
+  "name": "HealthSpark",
+  "website": "https://www.joinhealthspark.com",
+  "one_liner": "Empowering Physical Therapists to Go Independent",
+  "team_size": 1,
+  "batch": "Fall 2024",
+  "tags": [
+   "Health Tech",
+   "Digital Health",
+   "Healthcare",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "astrix-health",
+  "name": "Matcha",
+  "website": "https://www.matcha-health.com",
+  "one_liner": "The best way to hire clinical talent.",
+  "team_size": 2,
+  "batch": "Fall 2024",
+  "tags": [
+   "Machine Learning",
+   "Marketplace",
+   "Recruiting",
+   "Healthcare",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "ctgt",
+  "name": "CTGT",
+  "website": "https://www.ctgt.ai/",
+  "one_liner": "The deterministic layer for frontier intelligence",
+  "team_size": 6,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Enterprise"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "norra",
+  "name": "Norra",
+  "website": "https://www.norra.io",
+  "one_liner": "Automating equipment operations for nursing facilities",
+  "team_size": 2,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Hardware",
+   "Health Tech",
+   "Logistics",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "veria-labs",
+  "name": "Veria Labs",
+  "website": "https://verialabs.com",
+  "one_liner": "Continuous AI pentesting that finds and fixes vulnerabilities",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Security",
+   "Cybersecurity",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "mod-ai",
+  "name": "Mod AI",
+  "website": "https://usemod.ai",
+  "one_liner": "Touchless AP Automation",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "Finance",
+   "Enterprise"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ }
+]

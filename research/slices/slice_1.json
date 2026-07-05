@@ -1,0 +1,170 @@
+[
+ {
+  "slug": "greenboard",
+  "name": "Greenboard",
+  "website": "https://www.greenboard.com",
+  "one_liner": "Modern OS for the financial back office. ",
+  "team_size": 26,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "SaaS",
+   "Compliance",
+   "Operations"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 85
+ },
+ {
+  "slug": "archon",
+  "name": "Archon",
+  "website": "https://archon.inc",
+  "one_liner": "We help software companies sell to government.",
+  "team_size": 3,
+  "batch": "Winter 2025",
+  "tags": [
+   "GovTech",
+   "Compliance",
+   "Cybersecurity",
+   "Cloud Computing"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 80
+ },
+ {
+  "slug": "andy-ai",
+  "name": "Andy AI",
+  "website": "https://with-andy.com",
+  "one_liner": "Faster clinical documentation for home health nurses",
+  "team_size": 5,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "Health Tech",
+   "B2B",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 75
+ },
+ {
+  "slug": "synthio-labs",
+  "name": "Synthio Labs",
+  "website": "https://synthiolabs.com/",
+  "one_liner": "Agentic AI platform for Pharma GTM teams",
+  "team_size": 29,
+  "batch": "Spring 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Biotech",
+   "Healthcare",
+   "Enterprise"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "fuse-2",
+  "name": "Fuse",
+  "website": "http://www.fuseinsight.com",
+  "one_liner": "AI-powered workflow automation for US healthcare providers.",
+  "team_size": 3,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "Payments",
+   "B2B",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "London, England, United Kingdom",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "tivara",
+  "name": "Tivara",
+  "website": "https://tivara.com",
+  "one_liner": "The AI workforce for medical groups",
+  "team_size": 2,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "B2B",
+   "Healthcare"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "brighterway",
+  "name": "Brighterway",
+  "website": "https://www.brighterway.ai/",
+  "one_liner": "Streamlining the medical record review process in workers comp",
+  "team_size": 14,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Health Tech",
+   "Healthcare",
+   "LegalTech",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "blaze-2",
+  "name": "Blaze",
+  "website": "https://blaze.money",
+  "one_liner": "Global Venmo for cross border payments",
+  "team_size": 5,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "Crypto / Web3",
+   "Payments",
+   "Finance",
+   "Travel"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": true,
+  "locations": "Mexico City, CDMX, Mexico; Remote",
+  "soc2_prior": 70
+ }
+]

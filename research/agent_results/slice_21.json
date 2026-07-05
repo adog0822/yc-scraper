@@ -1,0 +1,384 @@
+[
+  {
+    "slug": "zeropath",
+    "name": "ZeroPath",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "ZeroPath Trust Center explicitly states 'SOC2 Type II certified' demonstrating commitment to security, availability, and confidentiality",
+        "source_url": "https://zeropath.com/trust-center"
+      },
+      {
+        "signal": "Company also markets automated SOC 2 compliance evidence generation as a product feature for customers",
+        "source_url": "https://zeropath.com/solutions/automate-compliance"
+      }
+    ],
+    "hiring_signals": [
+      "Security Researcher role open (3+ yrs AppSec/pentest/red team required)",
+      "No DevOps or GRC roles listed; team size 4 per YC but reported as 6 elsewhere"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 7530000,
+      "source_url": "https://tracxn.com/d/companies/zeropath/__phm_FMM-n5_Sv1l5cBz3bKMynBB5OLOgz-8yiZCX42c/funding-and-investors"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Trust Center states all data is stored in AWS US-West region data centers (source: https://zeropath.com/trust-center)",
+    "contacts": [
+      {
+        "name": "Dean Valentine",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/dean-valentine-3b7583313/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/zeropath"
+      },
+      {
+        "name": "Raphael Karger",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/raphael-karger/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/posts/raphael-karger_excited-to-announce-that-zeropath-has-raised-activity-7389277579347836928-9mEI"
+      },
+      {
+        "name": "Nathan Hrncirik",
+        "role": "Co-Founder & CIO",
+        "linkedin": "https://www.linkedin.com/in/nathan-hrncirik/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/zeropath"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Hard disqualify: ZeroPath holds SOC 2 Type II and is a cybersecurity product company that sells compliance tooling to others. They are both already certified and are a direct competitor in the security/compliance tooling space."
+  },
+  {
+    "slug": "draft-the-record",
+    "name": "Draft The Record",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Handles sensitive privileged legal communications, deposition audio, court records, and confidential case materials — enterprise law firm buyers will require SOC 2",
+        "source_url": "https://www.drafttherecord.com/"
+      },
+      {
+        "signal": "No SOC 2 Trust Center, /security, or trust page found; security page states encryption in transit/at rest and minimal access controls but no attestation mentioned",
+        "source_url": "https://www.drafttherecord.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Customer Success Specialist (non-technical) — no security/DevOps/GRC roles listed",
+      "is_hiring: true per YC directory"
+    ],
+    "funding": {
+      "stage": "Seed (YC S24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/draft-the-record"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider mentioned in public-facing pages; encryption and access controls described generically without specifying cloud platform",
+    "contacts": [
+      {
+        "name": "Adnan Sherif",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/adnan-sherif-as/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/draft-the-record"
+      },
+      {
+        "name": "Yash Ramchandani",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/yashmr/",
+        "twitter": "https://twitter.com/yash14700/",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/draft-the-record"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Solid prospect: legaltech handling privileged attorney-client communications and court records will face SOC 2 demands from enterprise law firm buyers. Team of 5, no attestation found, and only $500K YC funding suggests they haven't prioritized compliance yet. Lead with 'your law firm customers will require SOC 2 before signing' angle."
+  },
+  {
+    "slug": "tesora",
+    "name": "Tesora",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Secureframe Trust Center shows SOC 2 Type I completed and attested by Prescient Assurance; SOC 2 Type II currently 'under observation' (in progress)",
+        "source_url": "https://app.secureframe.com/ext/trust-center/tesora-ai-inc/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring GTM Insurance Executive ($125K-$250K, 3+ yrs experience) — indicates commercial scaling, not security hiring",
+      "Hiring Forward Deployed 'Actuarial' Engineer — domain-focused, not infra/security",
+      "No security, DevOps, or GRC roles listed"
+    ],
+    "funding": {
+      "stage": "Seed (YC S25)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/tesora"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit cloud provider mentioned in public materials; insurance/actuarial SaaS context makes cloud-native likely but unconfirmed",
+    "contacts": [
+      {
+        "name": "Vivek Rao",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/vivek-raop/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/vivek-raop/"
+      },
+      {
+        "name": "Joseph Burns",
+        "role": "Co-Founder / Actuarial Lead",
+        "linkedin": "https://www.linkedin.com/in/joseph-burns-486856165/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/joseph-burns-486856165/"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Moderate fit: SOC 2 Type I done but Type II still in observation — could upsell Type II attestation services. Insurance carrier customers will require Type II. Small team of 3 with no dedicated security hire; a compliance partner could accelerate their Type II audit timeline significantly."
+  },
+  {
+    "slug": "careswift",
+    "name": "CareSwift",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Trust Center page exists (compliance.careswift.com) but returned no certification details; HIPAA compliance confirmed via Vanta third-party audits and NEMSIS/HIPAA report validation",
+        "source_url": "https://careswift.ai/platform"
+      },
+      {
+        "signal": "No SOC 2 Type I or II attestation found in any public source; platform processes PHI in ambulance ePCR systems — EMS agencies and hospital network buyers will require SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/careswift"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding EMS Sales Development Representative ($80K-$120K) — sales-focused, no security/infra roles",
+      "is_hiring: true per YC directory"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3500000,
+      "source_url": "https://startupintros.com/orgs/careswift"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Platform described as built on Amazon AWS with enterprise-grade infrastructure; Vanta used for third-party security audits (source: search results from careswift.ai/platform and shyft.ai/tools/careswift)",
+    "contacts": [
+      {
+        "name": "Brian Weigand",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/brian-weigand/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/brian-weigand/"
+      },
+      {
+        "name": "Jonathan Zero",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.stjohns.edu/news-media/news/2025-07-21/local-students-earn-500000-develop-tech-platform-emts"
+      },
+      {
+        "name": "John Paul Mussalli",
+        "role": "Co-Founder & COO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.stjohns.edu/news-media/news/2025-07-21/local-students-earn-500000-develop-tech-platform-emts"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Strong lead: AWS-native healthtech handling PHI in regulated EMS/emergency context, $3.5M seed-funded, no SOC 2 attestation found despite using Vanta. EMS agency contracts and hospital system integrations will demand SOC 2. Small team (2 people) with no security hire means they need an external compliance partner — ideal timing post-seed."
+  },
+  {
+    "slug": "procindex",
+    "name": "ProcIndex",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Blog states 'ProcIndex is built on SOC 2 compliant infrastructure' but this describes infrastructure vendor compliance (e.g. AWS), not their own attestation; no SOC 2 audit or trust center page found",
+        "source_url": "https://procindex.com/blog/ai-accounting-security-governance"
+      },
+      {
+        "signal": "Blog also states 'SOC 2 Type II compliance is the baseline for evaluating AI accounting partners' — implies they aspire to it but may not yet hold it",
+        "source_url": "https://procindex.com/blog/ai-accounting-security-governance"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Software Engineer (India/Remote, ₹1.5M-₹2M INR) — engineering, not security/compliance",
+      "Hiring Sales Executive — growth focus, not infra",
+      "is_hiring: true per YC directory"
+    ],
+    "funding": {
+      "stage": "Seed (YC S25)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/procindex"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "No explicit confirmation, but fintech/accounting SaaS with ERP integrations (NetSuite, SAP, QuickBooks) implies major cloud; team includes ex-Apple CTO suggesting modern cloud infrastructure",
+    "contacts": [
+      {
+        "name": "Neha Suresh",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/nehasuresh1904/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/procindex"
+      },
+      {
+        "name": "Akash Thakur",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/akashthakur1203/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/procindex"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Good prospect: fintech AI handling financial data for CFOs/accounting teams — enterprise buyers will require SOC 2. Blog content signals awareness of SOC 2 need but no attestation confirmed. Small team of 4, no security hire, only YC funding. Pitch angle: 'your blog already tells customers SOC 2 Type II is the baseline — let us help you achieve it.'"
+  },
+  {
+    "slug": "prescience-inc",
+    "name": "Prescience, Inc.",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Privacy page states security program is 'informed by the SOC 2 Trust Services Criteria' but explicitly says this does NOT mean they have completed a Type I or Type II examination or received independent attestation",
+        "source_url": "https://www.getprescience.com/privacy"
+      },
+      {
+        "signal": "HIPAA compliance and HITECH Act mentioned; handles employer PHI and health insurance data — enterprise employer clients and insurance carriers will require SOC 2",
+        "source_url": "https://www.getprescience.com/privacy"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC directory — no open roles listed",
+      "Team of 2 founders only; no security or compliance headcount"
+    ],
+    "funding": {
+      "stage": "Seed (YC S26)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/prescience-inc"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Healthcare AI platform working with service providers supporting 'hosting, security, analytics, AI infrastructure' under HIPAA-compliant obligations — consistent with AWS; no explicit provider named",
+    "contacts": [
+      {
+        "name": "Rishab Jain",
+        "role": "Co-Founder",
+        "linkedin": "https://linkedin.com/in/rishab-jain-k",
+        "twitter": "https://twitter.com/rishabjaink",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prescience-inc"
+      },
+      {
+        "name": "Aditya Jain",
+        "role": "Co-Founder (MD, Harvard Medical School)",
+        "linkedin": "https://www.linkedin.com/in/adityajain2000/",
+        "twitter": "https://x.com/adityajain_42",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/prescience-inc"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Strong prospect: healthtech handling employer PHI and insurance data with a privacy page that explicitly acknowledges SOC 2 is aspirational but not yet attained. YC S26 = very early stage, 2-person team with no security hire, ideal window before first enterprise deals require attestation. Both founders are accessible on LinkedIn and X."
+  },
+  {
+    "slug": "blueprints",
+    "name": "Blueprints",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust center, /security page, or compliance mention found on useblueprints.ai or in any public sources",
+        "source_url": "https://useblueprints.ai/"
+      },
+      {
+        "signal": "Consumer-facing prediction market trading tool (Polymarket); consumer fintech context is lower SOC 2 urgency than B2B enterprise fintech",
+        "source_url": "https://www.ycombinator.com/companies/blueprints"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC directory — no open roles listed",
+      "Team of 2 founders only"
+    ],
+    "funding": {
+      "stage": "Seed (YC S26)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/blueprints"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO Bence Redmond is ex-AWS; strong prior experience suggests AWS-first infrastructure decisions",
+    "contacts": [
+      {
+        "name": "Ryan Morrissey",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/blueprints"
+      },
+      {
+        "name": "Bence Redmond",
+        "role": "Co-Founder & CTO (ex-AWS)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/blueprints"
+      }
+    ],
+    "fit_score": 40,
+    "pitch_note": "Weak fit for now: consumer-facing Polymarket trading tool — SOC 2 is typically driven by B2B enterprise buyers, not individual retail traders. If they pivot toward institutional or B2B fintech clients, SOC 2 need rises significantly. Monitor for product pivot; deprioritize for current outreach."
+  },
+  {
+    "slug": "verdant",
+    "name": "Verdant",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust center, /security page, or compliance mention found on verdantapp.com",
+        "source_url": "https://www.verdantapp.com/"
+      },
+      {
+        "signal": "GovTech platform selling to local governments (municipalities) — government buyers increasingly require SOC 2 or FedRAMP-equivalent for SaaS vendors handling permit and land-use data",
+        "source_url": "https://www.ycombinator.com/companies/verdant"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring: false per YC directory — no open roles listed",
+      "Team of 2 founders only; no security/DevOps headcount"
+    ],
+    "funding": {
+      "stage": "Seed (YC S26)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/verdant"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider mentioned in public materials; govtech context makes AWS GovCloud a possibility but unconfirmed",
+    "contacts": [
+      {
+        "name": "Aidan Ng",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.verdantapp.com/"
+      },
+      {
+        "name": "Jason Yi",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jason-yi1/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/jason-yi1/"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Good prospect: local government buyers are increasingly mandating SOC 2 for SaaS vendors handling land-use and permit data. Very early stage (YC S26, 2-person team), no attestation found, and government procurement cycles will surface compliance requirements quickly. Lead with 'your city government customers will ask for SOC 2 or equivalent before signing a vendor agreement.'"
+  }
+]

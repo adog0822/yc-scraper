@@ -1,0 +1,344 @@
+[
+  {
+    "slug": "grade",
+    "name": "Grade",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention on site or in web search; company sells a B2B payroll/payouts API and markets itself on compliance ('Pay Your Creators and Stay Compliant'), a segment where buyers demand SOC 2",
+        "source_url": "https://usegrade.com/"
+      },
+      {
+        "signal": "Press coverage notes compliance certifications are part of the trust infrastructure Grade is still building (no current SOC 2 claim found)",
+        "source_url": "https://www.startuphub.ai/ai-news/claudes-corner/2026/claudes-corner-grade-yc-w2026"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/usegrade/__nUrlkaISXkv4ELRoUDOElyCyAOrB8pnDJYvtib-ZhbQ"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Lotanna Ezeike",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://linkedin.com/in/lottsnomad",
+        "twitter": "https://x.com/lottsnomad",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/grade"
+      },
+      {
+        "name": "James Heaney",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://linkedin.com/in/jvheaney",
+        "twitter": "https://x.com/jvheaney",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/grade"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Fresh W26 fintech payroll API with only ~$500K raised and no SOC 2 badge; handles money movement and tax/compliance data, so enterprise/marketplace customers will demand SOC 2 soon. Downside: 2-person team with zero open roles, so budget and urgency may be 3-6 months out."
+  },
+  {
+    "slug": "durate",
+    "name": "Durate",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Security page states: 'At Durate, we're proud to be SOC 2 Type II compliant' (HIPAA listed as 'compliance planned')",
+        "source_url": "https://www.durate.com/about/security"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": null,
+      "source_url": "https://tracxn.com/d/companies/durate/__YbWlHPeIBK_OHtk3Nz1lvNPCL87Pa71RISlG37dM9Fs"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Michael Mounajjed",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://linkedin.com/in/michael-mounajjed",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/durate"
+      },
+      {
+        "name": "Benjamin Liu",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ben-franklin-liu/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/durate"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified for SOC 2 Type I services: already advertises SOC 2 Type II compliance on its security page. Only residual angle is their stated plan to add HIPAA compliance 'in the near future.'"
+  },
+  {
+    "slug": "riskcube",
+    "name": "RiskCube",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 attestation claim found for RiskCube itself on site or in search; company is an AI insurance broker handling sensitive startup financial/risk data and markets around enterprise procurement readiness (they educate customers on SOC 2 but don't claim their own)",
+        "source_url": "https://riskcube.com/"
+      },
+      {
+        "signal": "Data policy page discusses vendor security reviews and SOC 2 in the context of customers' enterprise deals, not RiskCube's own attestation",
+        "source_url": "https://riskcube.com/data-policy"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/riskcube/__0vAzSzCfwC568Nw4eo6xdX6W52x10NPZMfkeJjpHAAk"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Andrei Craciunescu",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/andrei-craciunescu/",
+        "twitter": "https://x.com/andreicscu",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/riskcube"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "Insurtech broker with no SOC 2 badge of its own, handling sensitive customer risk/financial data, and deeply fluent in the vendor-security-review world (they sell cyber insurance to startups doing SOC 2). Small 3-person team with no open roles and only ~$500K raised tempers urgency; also a natural co-marketing/referral partner rather than just a buyer."
+  },
+  {
+    "slug": "careforce",
+    "name": "Careforce",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, HIPAA badge, trust page, or Vanta/Drata badge found anywhere on careforce.ai despite selling AI agents that access EMR/patient data for healthcare orgs",
+        "source_url": "https://careforce.ai/"
+      },
+      {
+        "signal": "Engineering job posting has no SOC 2/HIPAA compliance mention; healthcare enterprise buyers will require both",
+        "source_url": "https://www.ycombinator.com/companies/careforce-prev-helpcare-ai/jobs/Hjx9nA3-senior-fullstack-engineer"
+      }
+    ],
+    "hiring_signals": [
+      "Senior Fullstack Engineer (Oakland/Remote US, $120K-$180K)",
+      "Technical Product Manager",
+      "Technical Program Delivery Lead",
+      "Enterprise Sales Lead (strong signal of enterprise healthcare buyers)"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/helpcare-ai"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Job post lists Python, React, FastAPI, Supabase stack; no explicit AWS/GCP/Azure mention (https://www.ycombinator.com/companies/careforce-prev-helpcare-ai/jobs/Hjx9nA3-senior-fullstack-engineer)",
+    "contacts": [
+      {
+        "name": "Huzaifa Sial",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/hsial/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/careforce"
+      },
+      {
+        "name": "Ayush Tomar",
+        "role": "CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/organization/helpcare-ai"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Strong fit: AI agents touching EMR and patient data for healthcare orgs with zero public SOC 2/HIPAA evidence, actively hiring 4 roles including an Enterprise Sales Lead — enterprise health-system procurement will force a SOC 2 + HIPAA motion imminently. 9-person team, early-stage funding, exactly the pre-attestation window."
+  },
+  {
+    "slug": "zavo",
+    "name": "Zavo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Privacy policy describes encryption, access controls, and pen testing but cites no SOC 2 or PCI DSS certification; company is a B2B payments/POS platform",
+        "source_url": "https://zavopay.com/policies/privacy-policy"
+      }
+    ],
+    "hiring_signals": [],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/zavo/__GU4g5EWcQ-O4bk0-6P0fJ_NcTuoXrvsF0g5bzZ_cDmQ"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Privacy policy references generic 'cloud hosting, storage, database' services; only named vendors are Adyen and TrueLayer (https://zavopay.com/policies/privacy-policy)",
+    "contacts": [
+      {
+        "name": "Can Zehebi",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/canzehebi/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/zavo"
+      },
+      {
+        "name": "Ilkan Gezer",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ilkan-gezer-4a16a6268",
+        "twitter": null,
+        "email": "privacy@zavopay.com",
+        "source": "https://zavopay.com/policies/privacy-policy (company privacy contact email, not personal)"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Payments fintech with no SOC 2 badge, but buyers are SMB restaurants (not enterprise procurement), the company is London-based (UK market leans ISO 27001/PCI DSS over SOC 2), and there are no security/infra hires open. Weak-to-moderate fit."
+  },
+  {
+    "slug": "rovi-health",
+    "name": "Rovi Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Employer-facing site claims 'HIPAA-compliant infrastructure' with encryption and access controls, but no SOC 2 attestation or trust-center badge found",
+        "source_url": "https://www.employers.rovi.health/"
+      },
+      {
+        "signal": "Sells to employers/benefits teams (enterprise buyers) handling employee health data — a segment where SOC 2 is table stakes in procurement",
+        "source_url": "https://www.ycombinator.com/companies/rovi-health"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (NYC, $170K-$250K, 0.75%-1.50% equity)",
+      "Senior/Staff Founding Engineer (8+ yrs)",
+      "Founding GTM Engineer",
+      "AI / Full Stack Engineer (https://www.ycombinator.com/companies/rovi-health/jobs/mrl5CKY-ai-full-stack-engineer)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": null,
+      "source_url": "https://www.ycombinator.com/companies/rovi-health/jobs/tSysGWC-founding-engineer"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Founding engineer post lists Python, React, TypeScript, LLM orchestration; no cloud provider named (https://www.ycombinator.com/companies/rovi-health/jobs/tSysGWC-founding-engineer)",
+    "contacts": [
+      {
+        "name": "Santosh Vallabhaneni",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/santoshvallabhaneni/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rovi-health"
+      },
+      {
+        "name": "Tarun Vallabhaneni",
+        "role": "Co-founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/tvallabh/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rovi-health"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Strong fit: sells an AI health concierge to employers (enterprise benefits procurement + PHI), claims HIPAA-ready infrastructure but shows no SOC 2, is live with 30,000 patients, backed by Lightspeed/Gradient/Liquid 2, and is hiring multiple founding engineers. Classic pre-Type-I window where a benefits-buyer security questionnaire triggers the purchase."
+  },
+  {
+    "slug": "qfex",
+    "name": "QFEX",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, trust page, or compliance certification found on qfex.com or in web search for a company operating a 24/7 trading exchange (heavily regulated, security-sensitive buyers)",
+        "source_url": "https://www.qfex.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Backend Engineer (London, $100K-$150K)",
+      "Research Engineer (London, $100K-$150K; posting mentions 'deep Kubernetes or infrastructure-as-code experience' as a plus)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 9500000,
+      "source_url": "https://fintech.global/2026/03/05/qfex-launches-with-9-5m-seed-round-to-disrupt-global-trading/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Job posts mention Kubernetes/IaC experience but no explicit cloud provider (https://www.ycombinator.com/companies/qfex/jobs/S7XSybx-founding-backend-engineer)",
+    "contacts": [
+      {
+        "name": "Annanay Kapila",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/annanay-kapila/",
+        "twitter": "https://x.com/annanay",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/qfex"
+      },
+      {
+        "name": "Joshua Wharton",
+        "role": "Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/joshua-wharton/",
+        "twitter": "https://x.com/joshuawharton",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/qfex"
+      }
+    ],
+    "fit_score": 74,
+    "pitch_note": "Trading exchange with a fresh $9.5M seed (General Catalyst, just under the $10M bar), hiring backend/infra engineers, and no public SOC 2 — financial-market counterparties and institutional users will demand attestation. Caveat: London-based, so financial-services regulatory audits (FCA-style) or ISO 27001 may compete with SOC 2 for priority."
+  },
+  {
+    "slug": "claim-health",
+    "name": "Claim Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or HIPAA certification claim found on claimhealth.com or in press/search; platform processes claims, referral, and reimbursement data (PHI) for post-acute providers",
+        "source_url": "https://www.claimhealth.com/"
+      },
+      {
+        "signal": "Public job listings contain no security/compliance certifications despite revenue-cycle (claims/PHI) product",
+        "source_url": "https://www.ycombinator.com/companies/claim-health/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Full Stack Engineer (NYC, $150K-$220K)",
+      "Deployment Specialist",
+      "Operations Associate",
+      "Content Marketing Intern, Visual Design Intern"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4400000,
+      "source_url": "https://www.businesswire.com/news/home/20260121240981/en/Claim-Health-Launches-AI-Powered-Revenue-Infrastructure-for-Post-Acute-Care-with-$4.4M-Seed-Funding"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Kevin Calcado",
+        "role": "Co-founder (CEO/revenue)",
+        "linkedin": "https://linkedin.com/in/kevincalcado",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/claim-health"
+      },
+      {
+        "name": "Jayen (JJ) Ram",
+        "role": "Co-founder (engineering)",
+        "linkedin": "https://www.linkedin.com/in/jayenram/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/claim-health"
+      }
+    ],
+    "fit_score": 85,
+    "pitch_note": "Best lead in this slice: AI revenue-cycle platform touching claims/PHI for post-acute providers, fresh $4.4M seed (Jan 2026, Maverick/Peak XV), 30x revenue growth, hiring engineers and deployment staff, and zero public SOC 2 or HIPAA attestation. Provider and payer procurement will force SOC 2 + HIPAA on them fast."
+  }
+]

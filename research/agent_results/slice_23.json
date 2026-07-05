@@ -1,0 +1,370 @@
+[
+  {
+    "slug": "opencall",
+    "name": "Opencall",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Claims HIPAA compliance on homepage but no SOC 2 badge or trust page found; serves healthcare practices handling PHI — SOC 2 is a natural next step",
+        "source_url": "https://opencall.ai"
+      },
+      {
+        "signal": "No SOC 2 mention found on opencall.ai or in any public-facing documentation",
+        "source_url": "https://opencall.ai"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring AI Prompt & Agent Developer ($90K-$145K) — no security/DevOps roles posted",
+      "7-person team; no dedicated security hire yet"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / Seed",
+      "total_usd_estimate": 6500000,
+      "source_url": "https://tracxn.com/d/companies/opencall/__tyC9neFzyNPoAMjxoRF-6VsiAGpiCnV2ax59F5_Iw-8/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS references found publicly; HIPAA focus suggests need for HIPAA-eligible cloud (AWS HealthOmics is common). Stack not disclosed.",
+    "contacts": [
+      {
+        "name": "Oliver Silverstein",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/oliver-silverstein-42949515b/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/oliver-silverstein-42949515b/"
+      },
+      {
+        "name": "Eric Mei",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.extruct.ai/hub/opencall-ai-funding"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Healthcare AI voice platform handling PHI for medical practices — HIPAA compliance claimed but no SOC 2. With $6.5M raised and enterprise health clients demanding trust documentation, SOC 2 Type I is the logical next step. Small team (7) means no internal compliance resource."
+  },
+  {
+    "slug": "prosights",
+    "name": "ProSights",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "ProSights has a dedicated security subdomain (security.prosights.co) suggesting active security posture, but access returned 403; SOC 2 status unconfirmed",
+        "source_url": "https://prosights.co"
+      },
+      {
+        "signal": "No public SOC 2 badge or trust report found; serves PE-backed firms handling sensitive financial data — strong incentive to pursue SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/prosights"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Forward Deployed Engineer ($160K-$200K) and Account Executive — no security/GRC/DevOps roles posted",
+      "14-person team; no dedicated security hire visible"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2500000,
+      "source_url": "https://www.crunchbase.com/organization/prosights/funding_rounds/funding_rounds_list"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Targets PE-backed portcos with data/AI transformation; financial data SaaS companies in this space predominantly run on AWS. Deployment model described as 'inside your environment' suggesting private cloud flexibility, but no explicit AWS confirmation found.",
+    "contacts": [
+      {
+        "name": "Justin Wu",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/justinwuokc/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/justinwuokc/"
+      },
+      {
+        "name": "Howard Zhong",
+        "role": "Co-Founder (ML PhD, Princeton)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/organization/prosights"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Fintech AI platform serving PE firms and portcos — regulated financial buyers routinely require SOC 2 before signing. Has a dedicated security page but no confirmed SOC 2; 14-person team unlikely has compliance staff. Strong ICP fit: lean, funded, serving enterprises that demand trust documentation."
+  },
+  {
+    "slug": "polar",
+    "name": "Polar",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on polarfi.com; as a neobank/fintech handling USD earnings and remittances globally, SOC 2 is standard expectation from B2B partners",
+        "source_url": "https://www.polarfi.com"
+      },
+      {
+        "signal": "Fintech handling cross-border payments and banking — institutional partners typically require SOC 2 or equivalent",
+        "source_url": "https://www.ycombinator.com/companies/polar"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring — 0 open roles on YC platform",
+      "2-person founding team; no security or DevOps capacity"
+    ],
+    "funding": {
+      "stage": "Seed (YC only)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/polar"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS references found; fintech/neobank stack not disclosed. Polarfi.com returned minimal content on fetch.",
+    "contacts": [
+      {
+        "name": "Grant Ackerman",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/polar"
+      },
+      {
+        "name": "Andrew Wang",
+        "role": "Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/polar/jobs"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "2-person fintech neobank with only YC funding (~$500K) — very early stage, likely pre-revenue or early traction. SOC 2 need is real given banking/payments vertical, but budget and urgency may be limited. Lower priority than larger funded peers; revisit at next funding milestone."
+  },
+  {
+    "slug": "haplotype-labs",
+    "name": "Haplotype Labs",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Builds HaploHub SaaS for genetic testing labs and medical practices — handles genomic and health data; HIPAA compliance expected, SOC 2 is a natural accompaniment for B2B enterprise sales",
+        "source_url": "https://www.haplotypelabs.com/"
+      },
+      {
+        "signal": "No SOC 2 certification or trust page found publicly; single-person founding team means no compliance resources in-house",
+        "source_url": "https://www.ycombinator.com/companies/haplotype-labs"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Member(s) of Technical Staff ($60K-$240K, 6+ yrs exp) — broad technical role, not security-specific",
+      "1-person team currently; compliance infrastructure absent"
+    ],
+    "funding": {
+      "stage": "Seed (YC only)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/haplotype-labs"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founder Mike Polcari was VP & Chief Architect at 23andMe which ran on AWS/GCP. AWS HealthOmics is the dominant platform for genomics SaaS; very likely to be AWS-native given founder background and genomics industry norms.",
+    "contacts": [
+      {
+        "name": "Mike Polcari",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/polcari/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/polcari/"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Genomics SaaS handling sensitive patient genetic data — enterprise healthcare buyers (labs, payer/providers) will require SOC 2 before signing. Founder has deep 23andMe security/compliance pedigree so understands the need. Solo founder with no compliance staff makes outsourced attestation ideal; budget may be tight at current funding stage."
+  },
+  {
+    "slug": "indemni",
+    "name": "Indemni",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Processes identity verification, driver CDLs, shipment documents — handles PII and B2B carrier data; freight broker and logistics enterprise buyers routinely demand SOC 2",
+        "source_url": "https://www.indemni.com/"
+      },
+      {
+        "signal": "No SOC 2 mention found on indemni.com or in any public documentation",
+        "source_url": "https://www.indemni.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Full Stack Engineer ($100K-$200K) — no security/DevOps/GRC roles posted",
+      "7-person team; founder Omar Draz has fraud/logistics background from DoorDash"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/indemni/__I_uZjz1s4emHCuTmsJxONX1J-IRca47FM7AsV-T6jsQ/funding-and-investors"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Real-time fraud/identity verification at scale typically runs on AWS (Lambda, Fraud Detector). Founder background at DoorDash (AWS-heavy). No public confirmation found.",
+    "contacts": [
+      {
+        "name": "Omar Draz",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/odraz",
+        "twitter": "@oamdraz",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/indemni"
+      },
+      {
+        "name": "Zach En'Wezoh",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://tracxn.com/d/companies/indemni/__I_uZjz1s4emHCuTmsJxONX1J-IRca47FM7AsV-T6jsQ/founders-and-board-of-directors"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Logistics fraud prevention platform handling PII/identity docs for freight brokers — enterprise supply chain buyers will ask for SOC 2. Lean 7-person team with no security hire; Lloyd's Lab involvement suggests insurance-grade compliance will be expected. Modest funding may constrain timeline but signals real enterprise sales motion."
+  },
+  {
+    "slug": "overstand-labs",
+    "name": "Overstand Labs",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Has a /data-security page claiming CCPA Ready, GDPR Ready, HIPAA Ready, and executes BAAs — but explicitly no SOC 2 mention",
+        "source_url": "https://overstandlabs.com/data-security"
+      },
+      {
+        "signal": "Serves legal firms with sensitive discovery corpus data; legal enterprise buyers require SOC 2 as baseline trust requirement",
+        "source_url": "https://www.ycombinator.com/companies/overstand-labs"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Founding Software Engineer - Forward Deployed ($150K-$200K, 1-2% equity) — no security/DevOps/GRC roles",
+      "4-person team; no compliance staff"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://tracxn.com/d/companies/overstand-labs/__9h9IRZmbz8FCTbWF50VnxWk1rbcUTnMAIzNUEZdeW2k/funding-and-investors"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Founder Mihir Patil (ex-Palantir privacy engineering) and Derrick Cheng (ex-Meta infra/AI) likely build on AWS given enterprise data pipeline workloads. No explicit AWS mention found publicly.",
+    "contacts": [
+      {
+        "name": "Mihir Patil",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/mihirnpatil/",
+        "twitter": null,
+        "email": null,
+        "source": "https://overstandlabs.com/about"
+      },
+      {
+        "name": "Derrick Cheng",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/chengderrick",
+        "twitter": "@dowithderrick",
+        "email": null,
+        "source": "https://overstandlabs.com/about"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "LegalTech AI ingesting sensitive legal discovery data — law firms require SOC 2 as table stakes for vendor approval. Has HIPAA/GDPR/CCPA readiness already but no SOC 2 means deals will stall. 4-person team with ex-Palantir privacy founder understands compliance need; $1M seed means limited internal compliance budget — strong outsourced attestation candidate."
+  },
+  {
+    "slug": "youshift",
+    "name": "YouShift",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Hospital workforce OS processing scheduling data for healthcare staff — hospital enterprise buyers require HIPAA and SOC 2 before vendor approval",
+        "source_url": "https://www.ycombinator.com/companies/youshift"
+      },
+      {
+        "signal": "No SOC 2 found on you-shift.com or any public page; compliance listed as future roadmap feature not current certification",
+        "source_url": "https://www.ycombinator.com/companies/youshift"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Customer Success Manager (Mexico/Colombia/Spain, $15K-$35K) — international CS role, no security/DevOps hiring",
+      "10-person team; no security or GRC staff visible; founders are Harvard engineers, not compliance-focused"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/youshift/__PPKhF9aRH8pKkEEqs-x-FG67XiVmMU4SrCyIAK0vPcM"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Healthcare SaaS with AI scheduling — AWS is dominant HIPAA-eligible cloud for healthcare startups. youshift.vercel.app subdomain found suggesting Vercel/cloud frontend; backend stack unknown but AWS likely.",
+    "contacts": [
+      {
+        "name": "Jota Chamorro",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jotachamorro/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/jotachamorro/"
+      },
+      {
+        "name": "Lucia Vives Martorell",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/luciavivesmartorell/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/luciavivesmartorell/"
+      },
+      {
+        "name": "Adolfo Roquero Gimenez",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adolfo-roquero-gimenez-a8b853181/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/adolfo-roquero-gimenez-a8b853181/"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Hospital workforce management SaaS — US hospital system buyers require SOC 2 as a prerequisite for vendor contracts. 10-person team with 1,000+ doctors using the platform signals active enterprise sales motion where SOC 2 will be demanded soon. No current compliance capacity; Harvard engineer founders will want to close deals blocked by missing trust documentation."
+  },
+  {
+    "slug": "candor",
+    "name": "Candor",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Helps companies win US government funding — ironically, as a govtech vendor itself, Candor will face procurement requirements from government-adjacent customers who demand SOC 2 or FedRAMP",
+        "source_url": "https://www.ycombinator.com/companies/candor"
+      },
+      {
+        "signal": "No SOC 2 or FedRAMP found on usecandor.ai (site returned 402); 2-person team with no compliance resources",
+        "source_url": "https://www.usecandor.ai/about"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring — 0 open roles on YC platform",
+      "2-person founding team (Marcus Zimmerman CEO, Ethne Laude CTO); no capacity for compliance work"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/candor/__x0apNSVGxdzya9AKPgnG08Oz1Ri9nFZHMYBkQNj1uGk/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No tech stack information found publicly. GovTech AI companies often prefer AWS GovCloud for compliance but no evidence of this for Candor.",
+    "contacts": [
+      {
+        "name": "Marcus Zimmerman",
+        "role": "Co-Founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/candor_yc_w25/"
+      },
+      {
+        "name": "Ethne Laude",
+        "role": "Co-Founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/candor_yc_w25/"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "GovTech AI helping defense/deeptech companies win government contracts — the irony is Candor itself will need SOC 2 (and eventually FedRAMP) as its customers are government-adjacent and will demand it. 2-person team with Stanford CS/national security backgrounds understands compliance needs; very early stage limits immediate budget but strong strategic fit."
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "slug": "sunset",
+    "name": "Sunset",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage/learn page explicitly states 'SOC 2 Type II; robust identity verification, anti-fraud, and staff background checks' in Security, compliance, and privacy section",
+        "source_url": "https://learn.hellosunset.com/automated-estate-settlement"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform (is_hiring: false per YC data)",
+      "Team size 5 — very early stage"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/sunset-1e2c-pre-seed--28820af0"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Stephen Walter",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/stephen-walter-sunset/",
+        "twitter": "https://x.com/stephen_walter",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sunset"
+      },
+      {
+        "name": "Kaela Worthen",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/kaelaworthen/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sunset"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Disqualified: Sunset already holds SOC 2 Type II certification, confirmed on their own learn/product pages. Not a viable prospect for attestation services."
+  },
+  {
+    "slug": "futureclinic",
+    "name": "FutureClinic",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage links to a HIPAA Statement page (/hipaa), indicating HIPAA awareness but no SOC 2 claim found on public pages",
+        "source_url": "https://www.futureclinic.com/"
+      },
+      {
+        "signal": "No SOC 2 certification found in any public search or website scan; operates as healthcare SaaS (EHR platform) serving licensed doctors — regulated buyer context implies SOC 2 will be required",
+        "source_url": "https://www.ycombinator.com/companies/futureclinic"
+      },
+      {
+        "signal": "Raised $5M seed at $40M valuation in Jan 2025 — now funded enough to pursue SOC 2",
+        "source_url": "https://tracxn.com/d/companies/futureclinic/__hFIY-PEQNSkiohdZZJb67slVM4TIWlBEBKT3K7_wLOA"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently listed on YC platform",
+      "Team of 4 — early stage, likely no dedicated security function yet",
+      "CTO Nabil Belahouane is a platform/data engineer background (former GoCardless) — tech-focused founder likely thinking about infra security"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 5500000,
+      "source_url": "https://tracxn.com/d/companies/futureclinic/__hFIY-PEQNSkiohdZZJb67slVM4TIWlBEBKT3K7_wLOA"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Usama Syed",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/usama-syed-419b0078",
+        "twitter": "https://x.com/usamasyedmd",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/futureclinic"
+      },
+      {
+        "name": "Nabil Belahouane",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/nabil-belahouane",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/futureclinic"
+      },
+      {
+        "name": "Hassan Mirza",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/hassan-m-b07250256/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/futureclinic"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Healthcare EHR SaaS serving licensed doctors with AI diagnostics — regulated buyers will demand SOC 2. No certification found yet. Seed-funded ($5.5M total), team of 4 with no dedicated security headcount. Pitch: SOC 2 Type I fast-track to unlock enterprise healthcare clinic deals before their next fundraise."
+  },
+  {
+    "slug": "ember",
+    "name": "Ember",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage explicitly states 'SOC 2 Type II' and 'HIPAA' certifications in security section near EHR integration features",
+        "source_url": "https://www.embercopilot.ai/"
+      },
+      {
+        "signal": "Multiple sources confirm: 'Ember AI is fully HIPAA and SOC 2 Type II compliant and signs Business Associate Agreements (BAAs) with all covered entities'",
+        "source_url": "https://www.embercopilot.ai/nexus-venture-partners-leads-4-3m-seed-funding-in-healthcare-ai-startup-ember"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Healthcare Account Executive (Mid-Market), Full Stack Engineer, B2B Marketing, Healthcare SDR",
+      "No security/GRC/DevOps/infra roles listed — compliance already established"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4300000,
+      "source_url": "https://www.embercopilot.ai/nexus-venture-partners-leads-4-3m-seed-funding-in-healthcare-ai-startup-ember"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "References 'U.S.-based cloud infrastructure' for HIPAA compliance, specific cloud provider not confirmed",
+    "contacts": [
+      {
+        "name": "Charlene Wang",
+        "role": "CEO & Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.embercopilot.ai/nexus-venture-partners-leads-4-3m-seed-funding-in-healthcare-ai-startup-ember"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "Disqualified: Ember holds SOC 2 Type II and HIPAA compliance, confirmed on homepage and press releases. Not a prospect for attestation services."
+  },
+  {
+    "slug": "asha-health",
+    "name": "Asha Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on website or in any public search; homepage mentions no compliance certifications",
+        "source_url": "https://asha.health/"
+      },
+      {
+        "signal": "Healthcare AI platform helping medical practices become AI-native — operates in regulated environment where SOC 2 is expected by enterprise physician group buyers",
+        "source_url": "https://www.ycombinator.com/companies/asha-health"
+      },
+      {
+        "signal": "CTO Gokul Kumarresen previously 'built secure data-transfer tools for regulated environments at Salesforce' — team is security-aware but no formal attestation found",
+        "source_url": "https://www.ycombinator.com/companies/asha-health"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Staff Software Engineer AI Agents (Bengaluru), Account Executive AI SaaS (NYC), 2x Software Engineer AI Agents (NYC)",
+      "No dedicated security/GRC/DevOps/infra roles yet — team of 9",
+      "Funded ~$3.5-4.4M with seed round from General Catalyst, Reach Capital, 186 Ventures and others"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4400000,
+      "source_url": "https://tracxn.com/d/companies/asha-health/__KXoTPWm7si4LXyTNXPkGC5sEQu5dqSsIFTcNfovrAfY/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Akkshay Khoslaa",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/akkshay/",
+        "twitter": "https://twitter.com/akkshaykhoslaa",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/asha-health"
+      },
+      {
+        "name": "Gokul Kumarresen",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/gokul-kumarresen/",
+        "twitter": "https://x.com/GokulKumarresen",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/asha-health"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Healthcare AI SaaS for physician practices — regulated buyers require SOC 2 to sign contracts. Seed-funded ($4.4M), team of 9 actively hiring engineers. No SOC 2 found. CTO has Salesforce regulated-infra background — will understand the value. Pitch: SOC 2 Type I to unlock enterprise medical group deals before they scale AE team further."
+  },
+  {
+    "slug": "autonomous-technologies-group",
+    "name": "Autonomous Technologies Group",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on homepage or public search; homepage only references SEC registration, SIPC/Apex custodianship, and fiduciary duty",
+        "source_url": "https://becomeautonomous.com/"
+      },
+      {
+        "signal": "SEC-registered investment advisor managing client assets — financial advisory platforms serving retail investors under SEC oversight will need SOC 2 for enterprise/institutional client acquisition",
+        "source_url": "https://becomeautonomous.com/"
+      },
+      {
+        "signal": "Hiring 'Member of Technical Staff (Infrastructure)' role ($180K-$260K) suggesting infra build-out phase — compliance readiness likely follows",
+        "source_url": "https://www.ycombinator.com/companies/autonomous-technologies-group/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Member of Technical Staff (Infrastructure) — $180K-$260K NYC",
+      "Also hiring: Backend, Full Stack, iOS, Research Engineering, Research Scientist, Product Designer, Quantitative Systems",
+      "Active infra hiring signals compliance build-out phase"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 15000000,
+      "source_url": "https://traded.co/vc/deal/autonomous-technologies-group-raises-15-million-in-pre-seed-funding-from-y-combinator-and-others/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Ex-Paperspace founders (GPU cloud, acquired by DigitalOcean) with deep cloud infra expertise; quantitative/AI-native stack typically runs on AWS. No explicit confirmation found.",
+    "contacts": [
+      {
+        "name": "Dillon Erb",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/dillonerb/",
+        "twitter": "https://x.com/dlnrb",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/autonomous-technologies-group"
+      },
+      {
+        "name": "Daniel Kobran",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/daniel-kobran/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/autonomous-technologies-group"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "SEC-registered AI financial advisor with $15M raised and active infra hiring. No SOC 2 found. As they onboard institutional/enterprise clients, SOC 2 Type I will be a prerequisite. Founders (ex-Paperspace, Dillon Erb) are infra-savvy — pitch on technical implementation speed. Strong lead given funding level, regulated environment, and active infra build."
+  },
+  {
+    "slug": "logosguard",
+    "name": "LogosGuard",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage claims only 'HIPAA Compliant' — no SOC 2 certification mentioned; company is 2 people (founded 2025)",
+        "source_url": "https://www.logosguard.com/"
+      },
+      {
+        "signal": "Sells AI data redaction layer to enterprises in regulated industries (B2B, Compliance, Security, Cybersecurity tags) — their own enterprise customers will ask for LogosGuard's SOC 2 attestation before procurement",
+        "source_url": "https://www.ycombinator.com/companies/logosguard"
+      },
+      {
+        "signal": "Product targets regulated enterprise buyers (references NIST AI RMF, ISO/IEC 42001) — vendor security questionnaires from those buyers will mandate SOC 2",
+        "source_url": "https://www.logosguard.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs posted on YC platform",
+      "Team of 2 — extremely early stage; no security or GRC headcount"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/logosguard"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Sukrut Oak",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/sukrut-oak/",
+        "twitter": "https://x.com/sukrut_oak",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/logosguard"
+      },
+      {
+        "name": "Abel John",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/abel-john-85a7551b6",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/logosguard"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Security/compliance tooling company targeting enterprise regulated buyers — ironic but real need: LogosGuard will need its own SOC 2 to win sales cycles with compliance-conscious enterprise customers. Only YC funding ($500K), team of 2 — budget constrained. Pitch: SOC 2 Type I now to credibly sell into regulated enterprise accounts. Score is moderate because tight budget limits near-term deal size."
+  },
+  {
+    "slug": "savahq",
+    "name": "Sava",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention on homepage or public search results; homepage is a minimal 'early access' landing page",
+        "source_url": "https://www.savahq.com/"
+      },
+      {
+        "signal": "Building a chartered trust company — a regulated financial entity serving trusts & estates attorneys, RIAs, fintechs, and family offices. These buyer segments routinely require SOC 2 attestation from software vendors",
+        "source_url": "https://www.ycombinator.com/companies/savahq"
+      },
+      {
+        "signal": "Job posting for Founding Engineer explicitly states 'Sava is building a new full-stack, chartered trust company... the actual regulated entity' — extreme regulatory environment means SOC 2 is an early requirement",
+        "source_url": "https://www.ycombinator.com/companies/savahq/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding Engineer ($150K-$250K, 0.5-1.5% equity) — NYC",
+      "Team of 3; engineering build-out just starting",
+      "Founding Engineer role implies first technical hire — no security function yet"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/savahq"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Nimit Maru",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/nimit/",
+        "twitter": "https://x.com/nimit",
+        "email": "founders@savahq.com",
+        "source": "https://www.ycombinator.com/companies/savahq"
+      },
+      {
+        "name": "Rush Sadiwala",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/rushabh-sadiwala/",
+        "twitter": "https://x.com/updating_priors",
+        "email": "founders@savahq.com",
+        "source": "https://www.ycombinator.com/companies/savahq"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Building an actual chartered trust company — one of the most regulated fintech categories. Serving attorneys, RIAs, fintechs, and family offices who will all demand SOC 2. No SOC 2 found. Founders have prior exit experience (Fullstack Academy, Bloomspot/JPMorgan) so they understand compliance as a sales enabler. Pitch: SOC 2 Type I as foundational trust infrastructure before they onboard first institutional clients."
+  },
+  {
+    "slug": "exonic",
+    "name": "Exonic",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention on homepage or in any public search; company is 3 people founded 2025",
+        "source_url": "https://exonic.ai/"
+      },
+      {
+        "signal": "Focus is drug discovery / synthetic genomics AI platform — primarily serves research scientists and pharma buyers rather than direct patient data. SOC 2 may not be immediate priority but pharma enterprise buyers often require it",
+        "source_url": "https://www.ycombinator.com/companies/exonic"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding Scientist (Synthetic Genomics) — $120K-$180K, SF",
+      "Team of 3 — science-focused early stage; no engineering or security headcount yet"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://www.extruct.ai/hub/exonic-ai/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Biological AI / genomics workloads at this scale typically use AWS (SageMaker, S3, EC2 GPU) or GCP — AWS Genomics is a common fit. Pioneer Fund-backed; no explicit stack confirmation found.",
+    "contacts": [
+      {
+        "name": "Ben Brimacombe",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/benjamin-brimacombe/",
+        "twitter": "https://x.com/thebrimacombe",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/exonic"
+      },
+      {
+        "name": "Mikhail Kulak",
+        "role": "CSO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/mikhail-kulak/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/exonic"
+      }
+    ],
+    "fit_score": 50,
+    "pitch_note": "Unsupervised biological AI for gene therapy design — early stage (team 3, $1M raised). SOC 2 status unknown. If targeting pharma/biotech enterprise buyers for platform access, SOC 2 will eventually be required but is likely 12-18 months out given early stage. Monitor for Series A raise or enterprise pilot announcements before outreach."
+  }
+]

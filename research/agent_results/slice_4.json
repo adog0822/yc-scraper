@@ -1,0 +1,363 @@
+[
+ {
+  "slug": "lucis",
+  "name": "Lucis",
+  "soc2_status": "unknown",
+  "soc2_evidence": [
+   {
+    "signal": "No SOC 2 mention found; site advertises HDS certification, ISO 27001 and GDPR compliance instead (European compliance path)",
+    "source_url": "https://www.lucis.life/"
+   }
+  ],
+  "hiring_signals": [
+   "Platform Engineering (Paris, 6+ yrs) - listed on YC jobs page",
+   "AI Engineering (Paris)",
+   "Founders Associate, Customer Excellence, Head of Growth (no dedicated security/GRC roles)"
+  ],
+  "funding": {
+   "stage": "series-a",
+   "total_usd_estimate": 20000000,
+   "source_url": "https://www.lucis.life/blog/lucis-raises-20m-series-a"
+  },
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {
+    "name": "Max Berthelot",
+    "role": "Founder & CEO",
+    "linkedin": "https://linkedin.com/in/maximeberthelot",
+    "twitter": "https://x.com/Iam_maxb",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/lucis"
+   },
+   {
+    "name": "Baptiste Debever",
+    "role": "Co-founder & CTO",
+    "linkedin": "https://linkedin.com/in/bdebever",
+    "twitter": "https://x.com/baptistedebever",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/lucis"
+   },
+   {
+    "name": "Lucis (generic)",
+    "role": "Company inbox",
+    "linkedin": null,
+    "twitter": "https://x.com/lucis_life",
+    "email": "founders@lucis.life",
+    "source": "https://www.lucis.life/ (email surfaced in public web results referencing lucis.life contact)"
+   }
+  ],
+  "fit_score": 35,
+  "pitch_note": "Paris-based consumer health company already on the European compliance track (ISO 27001, HDS, GDPR) and freshly funded with a $20M Series A, so it exceeds the <$10M lean-startup profile; SOC 2 is a secondary need unless they pursue US B2B customers."
+ },
+ {
+  "slug": "pelica",
+  "name": "Pelica",
+  "soc2_status": "has_soc2",
+  "soc2_evidence": [
+   {
+    "signal": "Site states Pelica is SOC 2 Type II certified, HIPAA-aligned with full BAA coverage; SOC 2 Type II report available on request",
+    "source_url": "https://www.pelica.com/"
+   },
+   {
+    "signal": "YC profile content also references 'HIPAA-compliant, SOC 2 Type II, and RADV-defensible'",
+    "source_url": "https://www.ycombinator.com/companies/pelica"
+   }
+  ],
+  "hiring_signals": [
+   "Full Stack Software Engineer (SF/Remote)",
+   "Machine Learning Engineer (SF/Remote)"
+  ],
+  "funding": {
+   "stage": "yc-only",
+   "total_usd_estimate": 500000,
+   "source_url": "https://www.ycombinator.com/companies/pelica"
+  },
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {
+    "name": "Lalit Kundu",
+    "role": "Co-founder (ex-Google Staff Engineer)",
+    "linkedin": "https://linkedin.com/in/lalitkundu",
+    "twitter": "https://x.com/lalitkundu_lk",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/pelica"
+   },
+   {
+    "name": "Catherine Zhao",
+    "role": "Co-founder",
+    "linkedin": "https://linkedin.com/in/cat-catherine-zhao",
+    "twitter": "https://x.com/cthrnzh",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/pelica"
+   }
+  ],
+  "fit_score": 20,
+  "pitch_note": "Disqualified for Type I outreach: already advertises SOC 2 Type II plus HIPAA/BAA coverage on its homepage. Only angle would be ongoing audit/renewal services."
+ },
+ {
+  "slug": "code-four",
+  "name": "Code Four",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {
+    "signal": "No SOC 2 badge or claim found; marketing centers on FBI CJIS compliance (AES-256, audit logging, RBAC). /security page returns 404.",
+    "source_url": "https://www.codefour.us/"
+   },
+   {
+    "signal": "Company published a Medium post arguing SOC 2 alone doesn't cover CJIS - implies they have not obtained SOC 2 and lean on CJIS positioning",
+    "source_url": "https://medium.com/@codefour.us/chatgpt-is-not-cjis-compliant-6bc6992252aa"
+   }
+  ],
+  "hiring_signals": [
+   "Founding Fullstack Software Engineer (SF, $130K-$300K, 0.25%-2% equity)",
+   "Account Executive (SF/Remote US)"
+  ],
+  "funding": {
+   "stage": "seed",
+   "total_usd_estimate": 2700000,
+   "source_url": "https://www.aol.com/articles/two-19-old-mit-dropouts-100001219.html"
+  },
+  "aws_native": "yes",
+  "aws_evidence": "Terms of service state the platform is 'hosted exclusively in AWS GovCloud' with AES-256 at rest and TLS 1.3 in transit (https://codefour.us/termofservice)",
+  "contacts": [
+   {
+    "name": "George Cheng",
+    "role": "Co-founder & CEO",
+    "linkedin": null,
+    "twitter": "https://www.x.com/gcheng713",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/code-four"
+   },
+   {
+    "name": "Dylan Nguyen",
+    "role": "Co-founder & CTO",
+    "linkedin": null,
+    "twitter": "https://x.com/dynguyen0",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/code-four"
+   }
+  ],
+  "fit_score": 72,
+  "pitch_note": "AWS GovCloud-native govtech with 25 police-department customers, a fresh $2.7M seed, founding-engineer hiring, and no SOC 2 - larger agencies and city procurement will ask for it alongside CJIS. Note: their own content downplays SOC 2 vs CJIS, so pitch it as complementary to their CJIS story."
+ },
+ {
+  "slug": "bayesline",
+  "name": "Bayesline",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {
+    "signal": "No SOC 2 mention found on site, YC profile, or in web results; sells cloud-deployed analytics to hedge funds and institutional asset managers who run vendor due-diligence/SOC report reviews",
+    "source_url": "https://www.ycombinator.com/companies/bayesline"
+   },
+   {
+    "signal": "About page and launch describe cloud-deployed GPU analytics for institutional investors with no trust/compliance page found",
+    "source_url": "https://bayesline.com/about"
+   }
+  ],
+  "hiring_signals": [
+   "Full Stack Founding Engineer (NYC, $150K-$250K, 1-2% equity) - YC jobs page",
+   "Job/launch materials emphasize cloud deployment into client environments"
+  ],
+  "funding": {
+   "stage": "seed",
+   "total_usd_estimate": 2000000,
+   "source_url": "https://bayesline.com/blog/announcing-seed-round"
+  },
+  "aws_native": "likely",
+  "aws_evidence": "Cloud-deployed GPU analytics solution that 'deploys on client cloud' per YC profile; no explicit provider named (https://www.ycombinator.com/companies/bayesline)",
+  "contacts": [
+   {
+    "name": "Sebastian Janisch",
+    "role": "Co-founder (ex-BlackRock Director, ex-Bloomberg Quant/AI Research)",
+    "linkedin": "https://www.linkedin.com/in/sebastianjanisch/",
+    "twitter": null,
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/bayesline"
+   },
+   {
+    "name": "Misha van Beek",
+    "role": "Co-founder (ex-BlackRock Managing Director)",
+    "linkedin": "https://www.linkedin.com/in/mishavanbeek/",
+    "twitter": null,
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/bayesline"
+   }
+  ],
+  "fit_score": 80,
+  "pitch_note": "No SOC 2 found, yet its buyers are hedge funds and institutional asset managers whose vendor due diligence explicitly requires SOC reports; $2M seed and a founding-engineer hire make this the classic pre-attestation moment. Cloud deployment into client environments raises the compliance stakes further."
+ },
+ {
+  "slug": "saturn",
+  "name": "Saturn",
+  "soc2_status": "has_soc2",
+  "soc2_evidence": [
+   {
+    "signal": "Saturn's own security page metadata: 'Saturn puts security at it's heart with data residency, SOC 2 certification and a privacy focus'",
+    "source_url": "https://saturnos.com/security"
+   }
+  ],
+  "hiring_signals": [
+   "Platform Engineer (London)",
+   "Senior Platform Engineer (London, PS90K-PS150K)",
+   "Product Engineer / Senior Product Engineer (London)",
+   "Junior BizOps (London)"
+  ],
+  "funding": {
+   "stage": "series-a",
+   "total_usd_estimate": 17800000,
+   "source_url": "https://fintech.global/2025/10/22/wealthtech-saturn-raises-15m-in-its-series-a/"
+  },
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {
+    "name": "Amal Jolly",
+    "role": "Co-founder & CEO",
+    "linkedin": "https://linkedin.com/in/amaljolly",
+    "twitter": "https://x.com/theamaljolly",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/saturn"
+   },
+   {
+    "name": "Michael Ettlinger",
+    "role": "Co-founder & CTO",
+    "linkedin": "https://linkedin.com/in/michaelettlinger/",
+    "twitter": "https://x.com/etticat",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/saturn"
+   }
+  ],
+  "fit_score": 15,
+  "pitch_note": "Disqualified: already advertises SOC 2 certification on its security page and just closed a $15M Series A ($17.8M total), putting it past both the compliance and funding thresholds of the ICP."
+ },
+ {
+  "slug": "paasa",
+  "name": "Paasa",
+  "soc2_status": "unknown",
+  "soc2_evidence": [
+   {
+    "signal": "No SOC 2 mention found; site emphasizes SEBI RIA registration, RBI LRS compliance and SIPC insurance via IBKR - consumer fintech regulatory framing, not SOC 2",
+    "source_url": "https://paasa.com/"
+   }
+  ],
+  "hiring_signals": [
+   "Founding Engineer (Gurugram, India, $25K-$50K)",
+   "Customer Support (Gurugram)"
+  ],
+  "funding": {
+   "stage": "pre-seed",
+   "total_usd_estimate": 500000,
+   "source_url": "https://tracxn.com/d/companies/paasa/__qNBz2V0EUN6sYixjwiLvgjbcteQEZTC6IX7h40TLnZI/funding-and-investors"
+  },
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {
+    "name": "Nitish Sahni",
+    "role": "Founder (ex-SoFi data governance engineering)",
+    "linkedin": "https://linkedin.com/in/nitishsahni",
+    "twitter": null,
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/paasa"
+   },
+   {
+    "name": "Sparsh Sharma",
+    "role": "Founder & Chief Product Officer",
+    "linkedin": "https://www.linkedin.com/in/sparsh-sharma-design/",
+    "twitter": null,
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/paasa"
+   }
+  ],
+  "fit_score": 45,
+  "pitch_note": "Lean pre-seed fintech with a founding-engineer opening and no SOC 2, but it is an India-based consumer investing app whose compliance needs run through SEBI/RBI rather than US enterprise procurement - marginal ICP fit unless they court B2B wealth-manager partners."
+ },
+ {
+  "slug": "finosu",
+  "name": "Finosu",
+  "soc2_status": "likely_needs",
+  "soc2_evidence": [
+   {
+    "signal": "No SOC 2 badge or claim found on site or in web results; sells B2B to regulated consumer lenders and pitches 'compliance default' loan servicing (state lending licenses, loan book audit prep) - a segment where lenders and bank partners demand SOC 2",
+    "source_url": "https://www.finosu.com/"
+   },
+   {
+    "signal": "Infra Engineer job says 'everything is compliant default' but lists no SOC 2 certification, and notes current priorities are cost reduction and observability 'over compliance certifications' - attestation gap is explicit",
+    "source_url": "https://www.ycombinator.com/companies/finosu/jobs/TKx1Llu-infra-engineer"
+   }
+  ],
+  "hiring_signals": [
+   "Infra Engineer (NYC, $125K-$200K, 0.25%-2% equity) - AWS, Kubernetes, PostgreSQL, Redis, Datadog-to-Grafana migration"
+  ],
+  "funding": {
+   "stage": "pre-seed",
+   "total_usd_estimate": 500000,
+   "source_url": "https://www.extruct.ai/hub/finosu-com-funding/"
+  },
+  "aws_native": "yes",
+  "aws_evidence": "Infra Engineer job posting explicitly lists Amazon Web Services (AWS) as a required skill, plus Kubernetes scaling work (https://www.ycombinator.com/companies/finosu/jobs/TKx1Llu-infra-engineer)",
+  "contacts": [
+   {
+    "name": "Mark Ricciardi",
+    "role": "Co-founder (ex private credit investor)",
+    "linkedin": "https://www.linkedin.com/in/mark-ricciardi",
+    "twitter": null,
+    "email": "mark@finosu.com",
+    "source": "https://www.finosu.com/ (publicly listed demo contact surfaced in web results)"
+   },
+   {
+    "name": "Gabriel Vincent Kho",
+    "role": "Co-founder (Stanford, ex-Flexport)",
+    "linkedin": "https://www.linkedin.com/in/%F0%9F%94%B0-gabriel-kho-924a6166/",
+    "twitter": "https://twitter.com/gakho",
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/finosu"
+   }
+  ],
+  "fit_score": 88,
+  "pitch_note": "Best lead in the slice: AWS-native (explicit in their Infra Engineer posting) consumer-loan servicer selling into regulated lenders, marketing 'compliance default' with zero SOC 2 attestation, pre-seed lean, and actively hiring the exact infra role that owns a Type I readiness project."
+ },
+ {
+  "slug": "moreta",
+  "name": "Moreta",
+  "soc2_status": "unknown",
+  "soc2_evidence": [
+   {
+    "signal": "No SOC 2 or PCI certification claims found; FAQ/site only reference generic 'banking-grade infrastructure'",
+    "source_url": "https://moretapay.com/faq"
+   }
+  ],
+  "hiring_signals": [
+   "No open positions listed (YC profile shows 0 jobs; is_hiring false)"
+  ],
+  "funding": {
+   "stage": "yc-only",
+   "total_usd_estimate": 500000,
+   "source_url": "https://www.ycombinator.com/companies/moreta"
+  },
+  "aws_native": "unknown",
+  "aws_evidence": null,
+  "contacts": [
+   {
+    "name": "Walid Mahd",
+    "role": "Co-founder & CEO (ex-Mastercard Advisors)",
+    "linkedin": "https://www.linkedin.com/in/walidmahd/",
+    "twitter": null,
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/moreta"
+   },
+   {
+    "name": "Sam Yu",
+    "role": "Co-founder & CTO (Waterloo CS; ex-Apple/Google/Meta/Uber)",
+    "linkedin": "https://linkedin.com/in/yu-sam",
+    "twitter": null,
+    "email": null,
+    "source": "https://www.ycombinator.com/companies/moreta"
+   }
+  ],
+  "fit_score": 30,
+  "pitch_note": "Consumer travel-payments app with no B2B/enterprise buyers, no open roles, and no funding beyond the YC standard deal - PCI DSS is its more urgent framework than SOC 2, and hiring/growth signals are flat."
+ }
+]

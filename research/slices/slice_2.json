@@ -1,0 +1,170 @@
+[
+ {
+  "slug": "infinity",
+  "name": "Infinity",
+  "website": "https://www.infinityapp.in/",
+  "one_liner": "Business banking for cross-border SMBs & Startups",
+  "team_size": 15,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Payments",
+   "B2B",
+   "Investing",
+   "International"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": true,
+  "locations": "Bengaluru, KA, India",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "the-new-money-company",
+  "name": "The New Money Company",
+  "website": "https://newmoneycompany.com",
+  "one_liner": "Invoicing that pays you even if your buyer doesn\u2019t",
+  "team_size": 4,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Payments",
+   "B2B",
+   "Insurance",
+   "Enterprise"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "harper",
+  "name": "Harper",
+  "website": "https://www.harperinsure.com/",
+  "one_liner": "AI-native commercial insurance brokerage",
+  "team_size": 25,
+  "batch": "Winter 2025",
+  "tags": [
+   "Fintech",
+   "Insurance",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "infinite",
+  "name": "Infinite",
+  "website": "https://infinite.dev",
+  "one_liner": "Global B2B Stablecoin Processor",
+  "team_size": 4,
+  "batch": "Winter 2025",
+  "tags": [
+   "Developer Tools",
+   "Payments",
+   "B2B",
+   "Compliance"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 70
+ },
+ {
+  "slug": "planbase",
+  "name": "Planbase",
+  "website": "https://www.joinplanbase.com/",
+  "one_liner": "AI workforce management for healthcare ",
+  "team_size": 6,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "Health Tech",
+   "B2B",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 65
+ },
+ {
+  "slug": "arva-ai",
+  "name": "Arva AI",
+  "website": "https://www.arva.ai",
+  "one_liner": "AI Agents to scale AML, KYB and KYC operations",
+  "team_size": 20,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "B2B",
+   "Compliance",
+   "Regtech",
+   "AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "London, United Kingdom",
+  "soc2_prior": 65
+ },
+ {
+  "slug": "care-gp",
+  "name": "Care GP",
+  "website": "https://caregp.com.au/",
+  "one_liner": "AI agents to run primary healthcare operations",
+  "team_size": 10,
+  "batch": "Summer 2026",
+  "tags": [
+   "SaaS",
+   "Healthcare",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "Sydney, NSW, Australia",
+  "soc2_prior": 65
+ },
+ {
+  "slug": "roe",
+  "name": "ROE",
+  "website": "https://getroe.ai",
+  "one_liner": "AI for risk and compliance",
+  "team_size": 9,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Generative AI",
+   "Compliance",
+   "Regtech"
+  ],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 65
+ }
+]

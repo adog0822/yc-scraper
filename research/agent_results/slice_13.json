@@ -1,0 +1,407 @@
+[
+  {
+    "slug": "dodo",
+    "name": "Dodo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Handles HIPAA-regulated patient data (dental/veterinary clinic communications, PHI); website claims HIPAA and GDPR compliance and offers BAA to subprocessors but no SOC 2 attestation found publicly",
+        "source_url": "https://www.dodo.ai/"
+      },
+      {
+        "signal": "Security page not found (404); no SOC 2 badge, trust center, or third-party audit report publicly listed",
+        "source_url": "https://www.dodo.ai/security"
+      },
+      {
+        "signal": "Enterprise clinics and healthcare systems will require SOC 2 Type I as a prerequisite for procurement",
+        "source_url": "https://www.ycombinator.com/companies/dodo"
+      }
+    ],
+    "hiring_signals": [
+      "Senior Backend Developer (NodeJS) posted on YC jobs page — no dedicated security/devops/GRC role posted yet"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/dodo/__ftZ9cNS1GPBG264zNe7Crju8g0auZLmrw9zixneJdB0/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public mention of AWS in job postings, website, or press. Stack not disclosed.",
+    "contacts": [
+      {
+        "name": "Dominik Moehrle",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/dominik-moehrle/",
+        "twitter": "https://twitter.com/dominik_moehrle",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/dodo"
+      },
+      {
+        "name": "Julius Hillebrand",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/juliushillebrand/",
+        "twitter": "https://twitter.com/julezhillebrand",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/dodo"
+      },
+      {
+        "name": "Tim Reinhart",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/t-reinhart/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/dodo"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Dodo processes PHI for dental and veterinary clinics and claims HIPAA/GDPR compliance but has no public SOC 2 attestation — a gap that blocks deals with enterprise clinic networks. At $500K YC seed with 6 employees and active hiring, they're at the exact inflection point where SOC 2 Type I accelerates enterprise sales. Pitch around SOC 2 Type I as the unlock for their first hospital group or DSO contracts."
+  },
+  {
+    "slug": "anthrogen",
+    "name": "Anthrogen",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on website, press, or any third-party source. Company is a research-stage biotech (protein foundation models), not yet selling SaaS to regulated enterprise buyers",
+        "source_url": "https://anthrogen.com"
+      },
+      {
+        "signal": "Participating in AWS/IRCAI Compute for Climate Fellowship — suggests likely AWS infrastructure use but no compliance certifications found",
+        "source_url": "https://ircai.org/ircai-and-aws-climate-fellowship/"
+      }
+    ],
+    "hiring_signals": [
+      "Robotics Engineer posting on YC jobs page",
+      "Member of Technical Staff (Applied) posting on YC jobs page — no security/GRC/devops roles"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4000000,
+      "source_url": "https://www.synbiobeta.com/read/anthrogen-raises-4m-to-tackle-carbon-emissions-with-co2-consuming-microbes-and-ai"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Anthrogen selected for AWS/IRCAI Compute for Climate Fellowship, building generative AI foundation model on AWS compute resources. Source: https://ircai.org/ircai-and-aws-climate-fellowship/",
+    "contacts": [
+      {
+        "name": "Ankit Singhal",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ankit-singhal-columbia/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/anthrogen"
+      },
+      {
+        "name": "Connor Lee",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/connor-lee-692a40263",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/anthrogen"
+      }
+    ],
+    "fit_score": 40,
+    "pitch_note": "Anthrogen is a research-stage biotech building protein foundation models — their current buyers are pharma R&D teams, not traditional regulated enterprise software buyers. SOC 2 is not an immediate blocker for them and they are not actively hiring compliance/security roles. Low priority for SOC 2 services outreach at this stage."
+  },
+  {
+    "slug": "baseline-ai",
+    "name": "Baseline AI",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "AI document creation and data management for clinical trials — handles regulated pharma/biotech data under FDA, GCP, and likely HIPAA-adjacent requirements; enterprise pharma buyers universally require SOC 2 Type I or II",
+        "source_url": "https://www.ycombinator.com/companies/baseline-ai"
+      },
+      {
+        "signal": "No SOC 2, trust page, or security certification found on baselinetrials.com (SSL certificate expired — site may be early-stage)",
+        "source_url": "https://www.baselinetrials.com/"
+      },
+      {
+        "signal": "Delve compliance profile page exists for Baseline AI — indicates company is tracking compliance tooling",
+        "source_url": "https://app.delve.co/baseline-ai"
+      }
+    ],
+    "hiring_signals": [
+      "No current YC job postings — team of 2, pre-hiring phase"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/baseline-ai"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public cloud infrastructure details found. Clinical trials data management strongly suggests cloud-based stack but provider unknown.",
+    "contacts": [
+      {
+        "name": "Zoe Sheill",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/zoesheill",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/baseline-ai"
+      },
+      {
+        "name": "Nabil Baugher",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/nabil-baugher-93822a18a",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/baseline-ai"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Baseline AI serves pharma/biotech clinical trial teams — arguably the most compliance-demanding buyer segment. With only 2 founders and $500K raised, they have zero bandwidth to build SOC 2 in-house, yet pharma procurement will require it before any enterprise contract. Pitch SOC 2 Type I as the fastest path to their first paid pharma customer."
+  },
+  {
+    "slug": "kontigo",
+    "name": "Kontigo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "USDC stablecoin neobank handling financial data for 1M+ users and $1B+ payment volume — fintech/banking buyers and partners (Coinbase Ventures, DST Global) will require SOC 2 Type II for institutional integrations",
+        "source_url": "https://www.fintechfutures.com/blockchain-crypto-digital-assets/kontigo-raises-20m-in-seed-funding"
+      },
+      {
+        "signal": "Suffered a $340K USDC hack in January 2025 from compromised user wallets — active security incident indicates security controls need formalization",
+        "source_url": "https://coincentral.com/neobank-kontigo-hit-by-340k-usdc-hack-promises-full-customer-refunds/"
+      },
+      {
+        "signal": "Partnered with Flagright for AML/transaction monitoring compliance but no SOC 2 attestation found publicly",
+        "source_url": "https://fintech.global/2025/08/27/flagright-and-kontigo-unite-to-enhance-transaction-monitoring/"
+      },
+      {
+        "signal": "No SOC 2, trust page, or security certification found on kontigo.lat",
+        "source_url": "https://kontigo.lat/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer role posted on YC — broad infra/engineering role, not specifically security/GRC"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 20000000,
+      "source_url": "https://www.fintechfutures.com/blockchain-crypto-digital-assets/kontigo-raises-20m-in-seed-funding"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Described as blockchain-native infrastructure; no explicit AWS mention in public sources. Likely uses cloud but provider unknown.",
+    "contacts": [
+      {
+        "name": "Jesus Alberto Castillo Ferrer",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/jesus-castillo-81a58b186/",
+        "twitter": "https://twitter.com/jecastillof",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kontigo"
+      },
+      {
+        "name": "Gino Guatavita",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/gino-guatavita-7269139b",
+        "twitter": "https://twitter.com/GinoGuatavita",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kontigo"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Kontigo is a high-growth fintech ($20M seed, 1M users, $1B payments) that has already faced a major security incident and serves regulated financial customers — a perfect storm for immediate SOC 2 demand. Banking partners and institutional investors will require SOC 2 Type I before Kontigo can land US banking integrations. Post-hack urgency + scale + regulated buyers = very strong fit; lead with security incident context."
+  },
+  {
+    "slug": "pharos",
+    "name": "Pharos",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Pharos platform is HIPAA and SOC 2 Type II compliant and runs in the cloud using modern security practices — confirmed in press coverage",
+        "source_url": "https://www.maginative.com/article/pharos-raises-5m-to-automate-hospital-quality-reporting-with-ai/"
+      },
+      {
+        "signal": "Multiple sources independently confirm SOC 2 Type II and HIPAA compliance for the Pharos platform",
+        "source_url": "https://www.prnewswire.com/news-releases/pharos-announces-5m-seed-round-to-automate-hospital-quality-reporting-302287614.html"
+      }
+    ],
+    "hiring_signals": [
+      "No current YC job postings — team of 5, not currently posting on YC"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 5000000,
+      "source_url": "https://techcrunch.com/2024/10/25/yc-startup-pharos-lands-a-5m-seed-led-by-felicis-to-bring-ai-to-quality-reporting/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Described as running 'in the cloud using modern security practices' but specific cloud provider not disclosed publicly.",
+    "contacts": [
+      {
+        "name": "Felix Brann",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/felix-brann",
+        "twitter": "https://twitter.com/felix_brann",
+        "email": "felix@pharos.health",
+        "source": "https://www.ycombinator.com/companies/pharos"
+      },
+      {
+        "name": "Matthew Jones",
+        "role": "CTO & Founder",
+        "linkedin": "https://www.linkedin.com/in/matthewrj",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/pharos"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Pharos is disqualified — already SOC 2 Type II and HIPAA certified per press release and multiple third-party sources. Not a fit for SOC 2 services outreach."
+  },
+  {
+    "slug": "vera-health",
+    "name": "Vera Health",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Vera Health Trust Center at trust.verahealth.ai explicitly lists SOC 2 Type 2 certification alongside GDPR, HIPAA, and NIST AI RMF",
+        "source_url": "https://trust.verahealth.ai/"
+      },
+      {
+        "signal": "Company website security section states 'SOC 2 Type II Certified' with a dedicated Trust Center powered by SafeBase",
+        "source_url": "https://www.verahealth.ai/home"
+      }
+    ],
+    "hiring_signals": [
+      "No current YC job postings — team of 6, not posting on YC platform"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 2500000,
+      "source_url": "https://tracxn.com/d/companies/vera-health/__gQ4Bk04Q7KL1BRi5Eyd8tC5CWoZSItuUIgK7hRS0h-8"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No specific cloud provider mentioned in public sources. Trust Center references network diagrams not publicly accessible.",
+    "contacts": [
+      {
+        "name": "Taieb Bennani",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/taiebbennani/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/vera-health"
+      },
+      {
+        "name": "Maxime Allouch",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/maxime-allouch/",
+        "twitter": "https://twitter.com/_maximall",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/vera-health"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Vera Health is disqualified — SOC 2 Type II certified with a live Trust Center (SafeBase-powered at trust.verahealth.ai). Not a fit for SOC 2 services outreach."
+  },
+  {
+    "slug": "syntra",
+    "name": "Syntra",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Syntra FAQ page explicitly states: 'Syntra is fully HIPAA compliant and SOC 2 Type II certified, with enterprise-grade encryption and a signed BAA on every account'",
+        "source_url": "https://www.syntra.com/faq"
+      },
+      {
+        "signal": "Third-party vendor trust profile on Bilarna lists HIPAA Compliant and SOC2 certifications for Syntra",
+        "source_url": "https://bilarna.com/provider/syntra"
+      }
+    ],
+    "hiring_signals": [
+      "Head of Marketing — San Francisco",
+      "Healthcare Forward Deployed Engineer — San Francisco",
+      "Applied Healthcare AI Engineer — San Francisco",
+      "Healthcare Enterprise Full Cycle Account Executive — San Francisco/Remote",
+      "Healthcare SMB Outbound SDR — San Francisco/Remote",
+      "Healthcare SMB Account Executive — San Francisco/Remote"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/syntra-e682"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit AWS mention in public sources, job postings, or website. Stack not disclosed.",
+    "contacts": [
+      {
+        "name": "Ayush Jain",
+        "role": "CEO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ayushaadijain/",
+        "twitter": "https://twitter.com/ayushaadijain",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/syntra"
+      },
+      {
+        "name": "Aniketh Kolla",
+        "role": "CTO & Co-founder",
+        "linkedin": "https://www.linkedin.com/in/aniketh-kolla-1043b01a0/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/syntra"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "Syntra is disqualified — already SOC 2 Type II certified and HIPAA compliant per their own FAQ and third-party verification. Not a fit for SOC 2 services outreach."
+  },
+  {
+    "slug": "blank-bio",
+    "name": "Blank Bio",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "RNA intelligence platform targeting pharma (Sanofi, GSK are named collaborators) for clinical trials and precision medicine — enterprise pharma buyers require SOC 2 for commercial partnerships",
+        "source_url": "https://www.blank.bio/"
+      },
+      {
+        "signal": "No SOC 2, trust page, or security certification found on blank.bio or in any press coverage",
+        "source_url": "https://www.genomeweb.com/informatics/blank-bio-raises-72m-seed-funding-rna-foundation-model-development"
+      },
+      {
+        "signal": "YC S25 launch post (Hacker News) mentions open-source models used by Sanofi and GSK — regulated pharma buyer relationships will trigger SOC 2 requirement",
+        "source_url": "https://news.ycombinator.com/item?id=44986809"
+      }
+    ],
+    "hiring_signals": [
+      "Computational Biologist — San Francisco",
+      "Software Engineer — San Francisco (3+ years)",
+      "Machine Learning Engineer — San Francisco (3+ years)",
+      "Machine Learning Research Scientist — San Francisco"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 7200000,
+      "source_url": "https://www.genomeweb.com/informatics/blank-bio-raises-72m-seed-funding-rna-foundation-model-development"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No explicit AWS mention in public sources. Biotech ML workloads typically run on cloud (AWS/GCP); no specific provider confirmed.",
+    "contacts": [
+      {
+        "name": "Jonny Hsu",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/jonathanhsuuw/",
+        "twitter": "https://twitter.com/hsu_jonny",
+        "email": "jonathan@blank.bio",
+        "source": "https://www.ycombinator.com/companies/blank-bio"
+      },
+      {
+        "name": "Philip Fradkin",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/philip-fradkin-330a417b/",
+        "twitter": "https://twitter.com/phil_fradkin",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/blank-bio"
+      },
+      {
+        "name": "Ian Shi",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ruian-shi-4b5215b9/",
+        "twitter": "https://twitter.com/ianshi3",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/blank-bio"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Blank Bio has $7.2M seed, active pharma relationships with Sanofi and GSK, and is hiring ML and software engineers — all signals of rapid scale toward commercial pharma deals. Pharma enterprise procurement will require SOC 2 Type I before any paid data-sharing or API agreement. Pitch as the compliance unlock before their first commercial pharma contract closes."
+  }
+]

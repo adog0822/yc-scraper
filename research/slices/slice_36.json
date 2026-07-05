@@ -1,0 +1,139 @@
+[
+ {
+  "slug": "deeptrace",
+  "name": "Deeptrace",
+  "website": "https://deeptrace.com/",
+  "one_liner": "AI agents for on-call",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "trelium",
+  "name": "Trelium",
+  "website": "https://www.trelium.com",
+  "one_liner": "The Agent to Build Your Agents",
+  "team_size": 6,
+  "batch": "Fall 2025",
+  "tags": [
+   "B2B",
+   "Workflow Automation",
+   "AI"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "hypercubic",
+  "name": "Hypercubic",
+  "website": "https://www.hypercubic.ai/",
+  "one_liner": "Agentic AI for Mainframe Operations and Modernization",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "atlasgrid",
+  "name": "AtlasGrid",
+  "website": "https://atlasgrid.ai",
+  "one_liner": "Accelerate Product Iteration",
+  "team_size": 6,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "hillclimb",
+  "name": "hillclimb",
+  "website": "https://hillclimb.com",
+  "one_liner": "Training Data for Recursive Self-Improvement",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [
+   "Reinforcement Learning"
+  ],
+  "industries": [
+   "B2B",
+   "Engineering, Product and Design"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "sf-tensor",
+  "name": "SF Tensor",
+  "website": "https://sf-tensor.com",
+  "one_liner": "Infrastructure for AI labs to focus on research.",
+  "team_size": 6,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Infrastructure"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "allus-ai",
+  "name": "Allus AI",
+  "website": "https://allus.ai",
+  "one_liner": "Transforming manufacturing with our next-gen Vision Foundation Model",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Machine Learning",
+   "SaaS",
+   "Computer Vision",
+   "Manufacturing"
+  ],
+  "industries": [
+   "Industrials",
+   "Manufacturing and Robotics"
+  ],
+  "is_hiring": true,
+  "locations": "Atlanta, GA, USA",
+  "soc2_prior": 35
+ },
+ {
+  "slug": "multifactor",
+  "name": "Multifactor",
+  "website": "https://multifactor.com",
+  "one_liner": "Zero-trust authentication, authorization, and auditing for AI agents",
+  "team_size": 6,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 35
+ }
+]

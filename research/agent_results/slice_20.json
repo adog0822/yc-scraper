@@ -1,0 +1,363 @@
+[
+  {
+    "slug": "river-markets",
+    "name": "River Markets",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on website or trust page; homepage focuses on trading features with no compliance mentions",
+        "source_url": "https://www.rivermarkets.com/"
+      },
+      {
+        "signal": "Fintech prime brokerage handling institutional funds — enterprise/hedge fund buyers will demand SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/river-markets"
+      }
+    ],
+    "hiring_signals": [
+      "1 open role: Founding Engineer (SF) — generalist, no dedicated security/devops/infra listed",
+      "Team size 2; infrastructure security not yet staffed"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC P26",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/river-markets"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public cloud infrastructure disclosures; job posting does not mention AWS",
+    "contacts": [
+      {
+        "name": "Oscar Levy",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/oscar-levy/",
+        "twitter": null,
+        "email": "contact@rivermarkets.com",
+        "source": "https://www.ycombinator.com/companies/river-markets"
+      },
+      {
+        "name": "Antonin Parrot",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/antonin-parrot-a16625196/",
+        "twitter": "https://x.com/antonin_parrot",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/river-markets"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "River Markets is a fintech prime brokerage for institutional prediction-market traders with no SOC 2 visible yet. Hedge fund and institutional clients will soon require it. Team is tiny (2 people) with no security function — prime candidate for a turnkey SOC 2 Type I. Reach Oscar or Antonin directly; fintech compliance is a clear deal-gate for their enterprise sales motion."
+  },
+  {
+    "slug": "lattice-health",
+    "name": "Lattice Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on latticehealthai.com; compliance page lists FDA PCCP, ONC HTI-1, ARCH-AI/Assess-AI, and IHE standards but no SOC 2",
+        "source_url": "https://www.latticehealthai.com/"
+      },
+      {
+        "signal": "Sells to hospitals and regulated healthcare buyers — hospital procurement routinely requires SOC 2 before onboarding vendors",
+        "source_url": "https://www.ycombinator.com/companies/lattice-health"
+      },
+      {
+        "signal": "Product emphasizes HIPAA-safe egress and cryptographic verification; compliance-first positioning suggests SOC 2 is on roadmap",
+        "source_url": "https://www.latticehealthai.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring on YC platform (team size: 1, solo founder)",
+      "No security/devops/infra roles posted"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC P26",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/lattice-health"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Deploys 'inside your network' (on-prem or private cloud) per website; no AWS mention found",
+    "contacts": [
+      {
+        "name": "Christine Park",
+        "role": "Founder / CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": "christine@latticehealthai.com",
+        "source": "https://www.latticehealthai.com/"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Lattice Health is a solo-founder medical imaging AI governance company selling directly into hospitals — regulated buyers who require SOC 2 at procurement stage. No SOC 2 found, HIPAA-safe design referenced. This is a high-urgency window before they close their first major hospital deal. Email Christine directly at christine@latticehealthai.com and frame SOC 2 as the credential hospitals need before signing."
+  },
+  {
+    "slug": "huscarl",
+    "name": "Huscarl",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security compliance found on huscarl.io website or any public source",
+        "source_url": "https://www.huscarl.io/"
+      },
+      {
+        "signal": "Sells AI actuarial decisioning to corporations ($50M+ revenue) — insurance and finance buyers require compliance attestations",
+        "source_url": "https://www.ycombinator.com/companies/huscarl"
+      }
+    ],
+    "hiring_signals": [
+      "1 open role: Member of Technical Staff (Paris) — generalist engineering, no security/infra specialization",
+      "Team size 2; no compliance function"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC P26",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/huscarl"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud infrastructure disclosures found; Paris-based hire suggests EU deployment possible",
+    "contacts": [
+      {
+        "name": "Alex Musy",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/alexandre-musy-653012148/",
+        "twitter": null,
+        "email": "contact@huscarl.io",
+        "source": "https://www.ycombinator.com/companies/huscarl"
+      },
+      {
+        "name": "Paulien Jeunesse",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/paulienjeunesse",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/huscarl"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Huscarl is an AI-native actuary for corporate insurance buyers — a regulated, high-stakes domain where enterprise clients demand proof of security controls. No SOC 2 found, team of 2, no security hire. Founders come from Descartes Underwriting (cyber insurance) so they understand the compliance landscape. SOC 2 Type I is the fastest way for them to unlock corporate procurement. Pitch Alex directly via LinkedIn."
+  },
+  {
+    "slug": "codes-health",
+    "name": "Codes Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website explicitly states 'HIPAA, Fully compliant' with BAA execution, AES-256 encryption, and third-party pen testing — but no SOC 2 mentioned",
+        "source_url": "https://getcodeshealth.com/"
+      },
+      {
+        "signal": "Handles PHI (medical records) and sells to healthcare providers and legal firms — SOC 2 is increasingly required alongside HIPAA for vendor onboarding",
+        "source_url": "https://getcodeshealth.com/"
+      }
+    ],
+    "hiring_signals": [
+      "4 open roles: Strategy & Ops (Providers), Customer Success Manager, Strategy & Ops, Software Engineer (NY)",
+      "No dedicated security/devops/GRC roles — security is not yet a hire priority",
+      "12-person team with growth trajectory suggests compliance needs incoming"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/funding_round/codes-health-pre-seed--0b418a76"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Website references 'enterprise-grade infrastructure' with multi-region redundancy and 99.9% uptime SLA — consistent with AWS-hosted HIPAA workloads; no explicit AWS named",
+    "contacts": [
+      {
+        "name": "Alvaro Rivera",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/ariveraandrade/",
+        "twitter": null,
+        "email": "support@getcodeshealth.com",
+        "source": "https://www.crunchbase.com/organization/codes-health"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Codes Health handles PHI for healthcare and legal firms, is HIPAA-compliant but shows no SOC 2. With 12 employees and enterprise clients, hospital and insurance buyer procurement will demand SOC 2 soon. They have the compliance mindset (pen testing, BAA) but need the audit. This is a strong near-term opportunity — reach Alvaro on LinkedIn and position SOC 2 Type I as their fastest path to closing regulated enterprise deals."
+  },
+  {
+    "slug": "maitai",
+    "name": "Maitai",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or trust page found on trymaitai.com; website is sparse on compliance details",
+        "source_url": "https://trymaitai.com"
+      },
+      {
+        "signal": "Targets enterprise buyers with AI reliability tooling — enterprise procurement in regulated industries requires SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/maitai"
+      }
+    ],
+    "hiring_signals": [
+      "1 open role: Full-Stack Engineer (Redwood City, CA) — no security/devops/GRC specialization",
+      "Team size 6; no compliance hire yet"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/maitai-fbf8"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed publicly; prior YC batch founders (Presto S10 background) likely familiar with AWS",
+    "contacts": [
+      {
+        "name": "Christian DalSanto",
+        "role": "Co-Founder / CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": "founders@trymaitai.ai",
+        "source": "https://foundertrace.com/companies/maitai/"
+      },
+      {
+        "name": "Ian Hoegen",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/ihoegen/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/ihoegen/"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "Maitai sells enterprise AI reliability tooling — the exact buyers who put SOC 2 on their vendor checklist. Team of 6, seed-stage, no compliance hire or SOC 2 page found. The enterprise AI market is SOC 2-gated and Maitai needs it to close deals. Email founders@trymaitai.ai or reach Ian on LinkedIn; frame SOC 2 Type I as the 'enterprise unlock' for their GTM."
+  },
+  {
+    "slug": "firstwork",
+    "name": "FirstWork",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Website states platform is 'SOC 2 & GDPR-ready' — indicates preparation/readiness but not yet attested",
+        "source_url": "https://firstwork.com"
+      },
+      {
+        "signal": "Sells HR/compliance tooling to enterprise employers handling employee PII — SOC 2 is a customer requirement",
+        "source_url": "https://www.firstwork.com/post/firstwork-raises-5m-seed"
+      }
+    ],
+    "hiring_signals": [
+      "2 open roles: VP Marketing, Chief of Staff — no security/devops/GRC roles posted",
+      "9-person team post $5M seed raise; compliance likely outsourced or pending"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 5500000,
+      "source_url": "https://www.firstwork.com/post/firstwork-raises-5m-seed"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider publicly disclosed; CTO Shubham Choudhary built infrastructure at Rippling and Deel — likely AWS-familiar",
+    "contacts": [
+      {
+        "name": "Vardhan Kapoor",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/vardhan-kapoor/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/posts/vardhan-kapoor_ycombinator-startuplife-futureofwork-activity-7245537033169838080-IDnO"
+      },
+      {
+        "name": "Shubham Choudhary",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/shubhamtech/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/shubhamtech/"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "FirstWork is 'SOC 2 & GDPR-ready' per their site, meaning they are in preparation but not yet attested — a warm lead who already understands the need. $5.5M raised, 9-person team, enterprise HR compliance focus. They likely need an auditor to formalize Type I. Position your services as completing the journey they've started; reach Vardhan or Shubham on LinkedIn."
+  },
+  {
+    "slug": "benchify",
+    "name": "Benchify",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Website explicitly states 'SOC 2 Type II — Independently audited controls for security, availability, and confidentiality. Reports available under NDA.'",
+        "source_url": "https://www.benchify.com/"
+      },
+      {
+        "signal": "Also lists HIPAA compliance with BAA, AES-256 encryption, annual penetration testing — mature compliance posture for a 4-person team",
+        "source_url": "https://www.benchify.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "No security/devops/GRC roles posted anywhere"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/benchify"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud infrastructure details disclosed publicly",
+    "contacts": [
+      {
+        "name": "Juan Castaño",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/jfcastano/",
+        "twitter": null,
+        "email": null,
+        "source": "https://foundertrace.com/companies/benchify_s24/"
+      },
+      {
+        "name": "Max von Hippel",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/maxvonhippel/",
+        "twitter": "https://x.com/maxvonhippel",
+        "email": null,
+        "source": "https://foundertrace.com/companies/benchify_s24/"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "Benchify already holds SOC 2 Type II and HIPAA compliance — disqualified as a prospect. Do not pursue."
+  },
+  {
+    "slug": "ontra-mobility",
+    "name": "Ontra Mobility",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 found on ontramobility.com or any public source; website has no security/compliance page",
+        "source_url": "https://www.ontramobility.com/"
+      },
+      {
+        "signal": "Sells to city transit agencies and government bodies — GovTech procurement (FedRAMP, StateRAMP, or SOC 2) is typically required for public-sector contracts",
+        "source_url": "https://www.ycombinator.com/companies/ontra-mobility"
+      },
+      {
+        "signal": "Selected for 2026 Transit Tech Lab cohort with MTA NYCT and LIRR — government agency pilots will require security attestation",
+        "source_url": "https://www.ontramobility.com/press"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "Team size 2 (both founders); no security/devops function"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/ontra-mobility"
+    },
+    "aws_native": "no",
+    "aws_evidence": "Confirmed DigitalOcean as primary cloud provider: uses Managed Kubernetes, Spaces, Container Registry via DigitalOcean Hatch program",
+    "contacts": [
+      {
+        "name": "Anthony Trasatti",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/anthony-trasatti/",
+        "twitter": null,
+        "email": "founders@ontramobility.com",
+        "source": "https://www.ycombinator.com/companies/ontra-mobility"
+      },
+      {
+        "name": "Connor Riley",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/connortriley/",
+        "twitter": null,
+        "email": "founders@ontramobility.com",
+        "source": "https://www.ycombinator.com/companies/ontra-mobility"
+      }
+    ],
+    "fit_score": 58,
+    "pitch_note": "Ontra Mobility is a GovTech transit platform now conducting pilots with MTA NYCT and LIRR — government agency contracts will require security attestation (SOC 2 or FedRAMP). Team of 2, no compliance function, no SOC 2 found. Not AWS-native (DigitalOcean), which slightly reduces fit but doesn't disqualify. Position SOC 2 Type I as the fastest path to closing government contracts. Reach Anthony or Connor at founders@ontramobility.com."
+  }
+]

@@ -1,0 +1,330 @@
+[
+  {
+    "slug": "maywood",
+    "name": "Maywood",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Trust center live at trust.maywoodai.com; website explicitly states SOC 2 Type II certification and AES-256, TLS 1.2+, MFA, 72-hr breach SLA, WORM-compliant storage",
+        "source_url": "https://trust.maywoodai.com/"
+      },
+      {
+        "signal": "Marketing copy references 'SOC 2 Type II' and 'full domain architecture, SOC 2 package available under NDA'",
+        "source_url": "https://www.maywoodai.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Applied AI Engineer and AI Researcher (YC job board); no dedicated security/DevOps/GRC role found",
+      "is_hiring=true per YC profile"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/maywood-839e"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public AWS-specific infrastructure signals found; integrates with Microsoft Graph (Outlook, Teams, SharePoint) suggesting possible Azure or multi-cloud; internal stack not disclosed",
+    "contacts": [
+      {
+        "name": "Drake Goodman",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/drake-goodman/",
+        "twitter": "https://twitter.com/drakegoodman",
+        "email": null,
+        "source": "https://www.crunchbase.com/person/drake-goodman-e2a4"
+      },
+      {
+        "name": "Kent Goodman",
+        "role": "Co-Founder (AI & GTM)",
+        "linkedin": "https://www.linkedin.com/in/kent-goodman/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/kent-goodman/"
+      }
+    ],
+    "fit_score": 20,
+    "pitch_note": "Disqualified: Maywood explicitly advertises SOC 2 Type II on its trust center (trust.maywoodai.com) and marketing materials. Already compliant — not a viable prospect."
+  },
+  {
+    "slug": "unifold",
+    "name": "Unifold",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Multi-chain fintech payment infrastructure; website mentions 'enterprise-grade security' and 'detailed logs for every routed execution and continuous monitoring' but no SOC 2 attestation page found",
+        "source_url": "https://unifold.io/"
+      },
+      {
+        "signal": "No trust center or SOC 2 badge found in search results or YC profile",
+        "source_url": "https://www.ycombinator.com/companies/unifold"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring=true per YC profile; no specific security/DevOps job postings found publicly",
+      "3-person founding team; all technical (blockchain/fintech engineers)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/unifold-io/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Blockchain/multi-chain infrastructure; tech stack not publicly disclosed. SDK supports React, React Native, Swift, Kotlin — no AWS-specific signals found",
+    "contacts": [
+      {
+        "name": "Timothy Chung",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/timchunght/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.crunchbase.com/person/timothy-chung-2e33"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Fintech payment rail handling on-chain deposits for fintechs and marketplaces — enterprise customers will demand SOC 2 before integrating. No attestation found. Small team (3) with budget constraints but high regulatory exposure. Lead with 'your fintech partners will require this before going live at scale.'"
+  },
+  {
+    "slug": "healthspark",
+    "name": "HealthSpark",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Healthcare platform handling insurance billing, credentialing, and patient data — HIPAA compliance likely in place but no SOC 2 page or trust center found",
+        "source_url": "https://www.joinhealthspark.com/"
+      },
+      {
+        "signal": "YC profile and LinkedIn show no SOC 2 mention; 1-person team suggests compliance work not yet started",
+        "source_url": "https://www.ycombinator.com/companies/healthspark"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring=false per YC profile",
+      "1-person team — solo founder, no security or DevOps headcount"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/healthspark-0d10"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS-specific infrastructure signals found; typical health tech SaaS likely uses AWS HIPAA-eligible services but not confirmed",
+    "contacts": [
+      {
+        "name": "Stephen Grinich",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/stephengrinich/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.joinhealthspark.com/about"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Solo-founder healthcare SaaS handling PT billing and insurance — HIPAA is the primary compliance driver but SOC 2 will be required by larger clinic systems and insurers. Not currently hiring. Deferred lead: revisit when team grows to 3+ or hiring signals appear."
+  },
+  {
+    "slug": "astrix-health",
+    "name": "Matcha",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Healthcare talent marketplace handling clinical candidate data for hospitals — no SOC 2 trust page or attestation badge found publicly",
+        "source_url": "https://www.matcha-health.com/"
+      },
+      {
+        "signal": "Terms of service references Astrix Health Inc as legal entity; no compliance certifications mentioned",
+        "source_url": "https://www.matcha-health.com/terms-of-service"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring=false per YC profile",
+      "2-person team (CEO + CTO); no security or GRC role posted"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/astrix-health"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS-specific signals in job postings or public docs; Palantir background of founders suggests familiarity with cloud-native infrastructure but no evidence of AWS specifics",
+    "contacts": [
+      {
+        "name": "Abhinav Swaminathan",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/abuswami/",
+        "twitter": "https://twitter.com/abuswaminathan",
+        "email": null,
+        "source": "https://rocketreach.co/abhinav-swaminathan-email_371449025"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "Healthcare recruiting marketplace selling to hospitals — enterprise hospital buyers routinely require SOC 2 before onboarding HR software vendors handling clinical data. 2-person team not yet hiring; early-stage but strong ICP fit on regulated buyer side. Pitch: 'hospitals will gate-keep you without it.'"
+  },
+  {
+    "slug": "ctgt",
+    "name": "CTGT",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Enterprise AI platform deployed at Fortune 500 firms and Tier-1 financial institutions; no SOC 2 trust center or attestation page found despite enterprise customer claims",
+        "source_url": "https://www.ctgt.ai/"
+      },
+      {
+        "signal": "Website mentions 'institutional-grade security' and 'audit trails' but no SOC 2 badge or report referenced",
+        "source_url": "https://www.ctgt.ai/about-us"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring Senior Software Engineer (Product) and Software Engineering Intern — no dedicated security/GRC/DevOps role posted",
+      "is_hiring=true per YC profile; 6-person team"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 7200000,
+      "source_url": "https://www.globenewswire.com/news-release/2025/02/20/3029732/0/en/CTGT-Raises-7-2M-To-Help-Enterprises-Break-Through-the-Limits-of-AI-Compute-with-a-New-Approach-to-Customizing-Training-and-Deploying-Models-That-s-500x-Faster.html"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS-specific infrastructure signals found in job postings or public docs; enterprise B2B AI platform likely multi-cloud but not confirmed",
+    "contacts": [
+      {
+        "name": "Cyril Gorlla",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/cyrilgorlla/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.rippling.com/blog/founder-spotlight-cyril-gorlla"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Well-funded ($7.2M seed) enterprise AI platform selling to Fortune 500 financial institutions and regulated enterprises — exactly the buyer profile that mandates SOC 2 before vendor sign-off. No attestation found despite enterprise claims. 6-person team, actively hiring engineers. Strong pitch: 'your Tier-1 bank customers are asking for this now.'"
+  },
+  {
+    "slug": "norra",
+    "name": "Norra",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Healthcare IoT platform for skilled nursing facilities — website claims HIPAA compliance but no SOC 2 attestation or trust center page found",
+        "source_url": "https://www.norra.io/"
+      },
+      {
+        "signal": "YC launch post and Fondo profile mention HIPAA but no SOC 2 mention",
+        "source_url": "https://www.ycombinator.com/launches/Onb-norra-the-ai-equipment-operations-platform-for-nursing-facilites"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring=false per YC profile",
+      "2-person team; no security or DevOps headcount"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.extruct.ai/hub/norra-io/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Hardware + AI platform for healthcare IoT equipment tracking; ML at NASA and MD Anderson backgrounds suggest cloud-native ML infrastructure; HIPAA-eligible AWS services are standard for this workload class, but no direct AWS confirmation found",
+    "contacts": [
+      {
+        "name": "Ben Rubin",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/rubinben/",
+        "twitter": "https://twitter.com/benrbn",
+        "email": null,
+        "source": "https://www.crunchbase.com/person/ben-rubin-efe9"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Healthcare IoT for nursing facilities — SNF operators and their technology vendors face HIPAA requirements and increasingly SOC 2 expectations from GPO and hospital-network buyers. 2-person team not hiring. Budget-constrained but regulated-buyer exposure is real. Revisit when team grows."
+  },
+  {
+    "slug": "veria-labs",
+    "name": "Veria Labs",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Cybersecurity pentest-as-a-service company — no SOC 2 attestation or trust center page found on verialabs.com despite selling to fintech and healthcare enterprises",
+        "source_url": "https://verialabs.com/"
+      },
+      {
+        "signal": "Seed round announcement blog post mentions security capabilities but no compliance certifications",
+        "source_url": "https://verialabs.com/blog/announcing-veria-labs-seed-round/"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring=false per YC profile; 3-person founding team",
+      "No security/GRC/DevOps job postings found"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3200000,
+      "source_url": "https://verialabs.com/blog/announcing-veria-labs-seed-round/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "CI/CD pipeline integration for pentest — likely cloud-agnostic by design; no AWS-specific signals in public materials",
+    "contacts": [
+      {
+        "name": "Stephen Xu",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/stuxf/",
+        "twitter": null,
+        "email": null,
+        "source": "https://antigravity.capital/portfolio/veria-labs/stephen-xu-ceo"
+      },
+      {
+        "name": "Cayden Liao",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/cayden-liao-6b018a272/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/veria-labs"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Security company ($3.2M seed) selling to fintech and healthcare enterprises — ironic but real: even cybersecurity vendors need SOC 2 for enterprise procurement. Fintech and hospital security buyers will require it before handing over access to their CI/CD pipelines. 3-person team, not hiring. Pitch angle: 'your customers will ask for your SOC 2 before they give you repo access.'"
+  },
+  {
+    "slug": "mod-ai",
+    "name": "Mod AI",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "AP automation platform touching financial data and ERP integrations (NetSuite, SAP, Workday, QuickBooks) — no SOC 2 trust center or attestation page found on usemod.ai",
+        "source_url": "https://www.usemod.ai/"
+      },
+      {
+        "signal": "No SOC 2 badge, trust page, or compliance mention found in YC profile or public search results",
+        "source_url": "https://www.ycombinator.com/companies/mod-ai"
+      }
+    ],
+    "hiring_signals": [
+      "is_hiring=false per YC profile; 4-person team",
+      "No security/DevOps/GRC job postings found publicly"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.trysignalbase.com/news/funding/mod-ai-secures-500k"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO previously at Amazon (distributed systems and AI agents); likely AWS-native infrastructure given background, but not confirmed publicly",
+    "contacts": [
+      {
+        "name": "Evan Meyer",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/evanameyer/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mod-ai"
+      },
+      {
+        "name": "Jeet Chugh",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jeetchugh",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/jeetchugh"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Fintech AP automation touching 16+ ERPs including SAP, NetSuite, and Workday at mid-market enterprises — CFO buyers and their procurement teams will require SOC 2 before allowing AI agents access to financial workflows. CTO from Amazon suggests likely AWS-native. $500K seed but strong enterprise ICP match. Pitch: 'every CFO your team demos to will have a security questionnaire; SOC 2 Type I unblocks those deals.'"
+  }
+]

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LEADFLIX — SOC 2 Lead Theater</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">LEAD<span>FLIX</span></div>
+  <nav class="mode-nav" id="mode-nav" aria-label="Catalog">
+    <button class="mode-btn is-active" data-mode="leads">Startups</button>
+    <button class="mode-btn" data-mode="firms">Audit Firms</button>
+  </nav>
+  <nav class="top-filters" id="tier-nav" aria-label="Tier filter">
+    <button class="chip is-active" data-tier="all">All</button>
+    <button class="chip" data-tier="hot">Hot</button>
+    <button class="chip" data-tier="warm">Warm</button>
+    <button class="chip" data-tier="watch">Watch</button>
+    <button class="chip" data-tier="attested">Attested</button>
+  </nav>
+  <div class="top-actions">
+    <input id="search" type="search" placeholder="Search leads, founders, tags…" aria-label="Search leads">
+    <button id="export-csv" class="ghost-btn" title="Export filtered leads as CSV">CSV</button>
+    <button id="export-json" class="ghost-btn" title="Export filtered leads as JSON">JSON</button>
+  </div>
+</header>
+
+<div class="subbar">
+  <div class="facets" id="facets">
+    <select id="f-sector" aria-label="Sector">
+      <option value="">Sector: all</option>
+    </select>
+    <select id="f-batch" aria-label="Batch">
+      <option value="">Batch: all</option>
+    </select>
+    <select id="f-aws" aria-label="AWS">
+      <option value="">AWS: any</option>
+      <option value="yes">AWS-native (confirmed)</option>
+      <option value="likely">AWS likely</option>
+    </select>
+    <select id="f-grc" aria-label="GRC network" hidden>
+      <option value="">GRC network: any</option>
+    </select>
+    <select id="f-status" aria-label="Pipeline status">
+      <option value="">Pipeline: any</option>
+      <option>New</option><option>Contacted</option><option>Replied</option>
+      <option>Meeting</option><option>Won</option><option>Passed</option>
+    </select>
+    <button id="clear-filters" class="ghost-btn">Clear</button>
+  </div>
+  <div class="meta-line" id="meta-line"></div>
+</div>
+
+<main id="app">
+  <section class="billboard" id="billboard" hidden></section>
+  <div id="shelves"></div>
+  <section class="grid-view" id="grid-view" hidden>
+    <h2 class="shelf-title" id="grid-title"></h2>
+    <div class="grid" id="grid"></div>
+  </section>
+  <p class="empty" id="empty" hidden>No leads match. Clear filters to see the full catalog.</p>
+</main>
+
+<div class="modal-backdrop" id="modal" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="m-name">
+    <button class="modal-close" id="modal-close" aria-label="Close dossier">×</button>
+    <div class="modal-body" id="modal-body"></div>
+  </div>
+</div>
+
+<footer class="foot">
+  <span>Sourced from YC public directory + open-web research · every signal carries a source link</span>
+  <span id="foot-date"></span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

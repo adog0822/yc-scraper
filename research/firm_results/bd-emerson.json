@@ -1,0 +1,88 @@
+{
+  "slug": "bd-emerson",
+  "name": "BD Emerson",
+  "website": "https://www.bdemerson.com/",
+  "hq": "Richmond, Virginia, US (multi-state remote team)",
+  "founded": "2020",
+  "team_size_estimate": "~14 employees per LinkedIn/directory data; ~28 people listed on site team page (likely incl. contractors/advisors) — well under 40",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Dedicated 'Cybersecurity Services for Startups' industry page: 'your strategic partner in innovation... ensures that your startup is on the fast track to regulatory compliance from the very beginning', featuring a 'VC Backed Startup' SOC 2 Type 1-in-60-days case study",
+      "source_url": "https://www.bdemerson.com/industries/startups"
+    },
+    {
+      "signal": "Runs a 'SOC 2 Compliance Cohort Program' — a group/shared-cost readiness program aimed at small companies getting SOC 2 for the first time",
+      "source_url": "https://www.bdemerson.com/service/soc-2-compliance-cohort-program"
+    },
+    {
+      "signal": "Case-study roster is dominated by small SaaS/tech startups: Boxcore, Dedupely, HiredHelpr, Incentiv, LifeLenz, Meridian AI, Titan Intake, mdhub (HIPAA + SOC 2 audit)",
+      "source_url": "https://www.bdemerson.com/industries/startups"
+    },
+    {
+      "signal": "Recommended organically on r/soc2 by a practitioner who works with multiple audit firms: 'BD Emerson in particular is very economical and works with a lot of SaaS companies your size' (context: ~10-person SaaS startup)",
+      "source_url": "https://www.reddit.com/r/soc2/"
+    },
+    {
+      "signal": "Vanta customer story: 'Lemba Therapeutics builds trust in biotech with Vanta and BD Emerson' — early-stage-company co-sell motion with a GRC automation platform",
+      "source_url": "https://www.vanta.com/customers/lemba-therapeutics"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (strategic partnership; one of the first Vanta Certified implementation partners; dedicated Vanta Implementation service line; SOC auditors partnered with Vanta)",
+    "VComply (Premier Partner, 2024)"
+  ],
+  "aws_cloud_expertise": "Yes — team certification badges displayed on the SOC 2 service page include AWS Solutions Architect and AWS Security (Specialty); firm offers a Managed Cloud Security service line; Managing Director Drew Danner's bio highlights 'securing cloud infrastructure' plus a software-engineering background (sources: https://www.bdemerson.com/service/soc-2, https://www.bdemerson.com/team/drew-danner)",
+  "services": [
+    "SOC 2 readiness/compliance consulting",
+    "SOC 2 Type 1 & Type 2 audits (BD Emerson CPA audit arm)",
+    "SOC 2 Compliance Cohort Program",
+    "Vanta implementation",
+    "ISO 27001 / HIPAA / GDPR / CMMC / FedRAMP / NIST compliance consulting",
+    "vCISO / vCTO / vCIO / vDPO fractional leadership",
+    "Web app penetration testing",
+    "Managed cloud security & IT",
+    "Technology due diligence",
+    "AI governance / ISO 42001 / EU AI Act consulting"
+  ],
+  "contacts": [
+    {
+      "name": "Drew Danner",
+      "role": "Managing Director (leads the firm; CISSP, PMP; background in military intelligence, software engineering, security leadership)",
+      "linkedin": "https://www.linkedin.com/in/drew-danner-strategy-transformation-risk-innovation-security/",
+      "twitter": null,
+      "email": "Drew.Danner@bdemerson.com",
+      "phone": "+1 (804) 913-3012 (firm main line, published sitewide)",
+      "source": "https://www.bdemerson.com/team/drew-danner"
+    },
+    {
+      "name": "Jose Gonzalez Jr.",
+      "role": "Director - Operations",
+      "linkedin": null,
+      "twitter": null,
+      "email": "Jose.Gonzalez@bdemerson.com",
+      "phone": null,
+      "source": "https://www.bdemerson.com/team/jose-gonzalez-jr"
+    }
+  ],
+  "fit_score": 90,
+  "partnership_angle": "Referral partner + sandbox tester — the strongest-profile firm in the pipeline. They hit every criterion: boutique (~14 FTE, founded 2020, Richmond VA), founder-led (Drew Danner), startup/SaaS-specialized (dedicated startups page, SOC 2 cohort program, VC-backed case studies), already automation-first (early Vanta Certified implementation partner, VComply Premier Partner), and AWS-credentialed staff (AWS SA + AWS Security badges). Because they run both a readiness consulting arm and a CPA audit arm, a validated LoxeAI scan slots directly into their pre-audit intake, and the SOC 2 Cohort Program is a natural bulk-distribution channel. Two caveats reflected in the score: (1) they sell readiness consulting themselves, so position LoxeAI as automating their lowest-margin evidence-gathering work rather than replacing advisory; (2) they joined Andersen Consulting as a collaborating firm in July 2025 (Danner's LinkedIn now shows Andersen Consulting) — move fast while boutique decision-making autonomy is intact, and confirm AICPA independence lines given their dual consult+audit model.",
+  "pitch_note": "Hi Drew — you were one of the first Vanta Certified implementation partners, so you clearly bet early on automation that makes SOC 2 cheaper for the SaaS startups you serve. We built LoxeAI, an AWS-native SOC 2 readiness scanner for exactly that segment; I'd love 20 minutes for you to run it against a sandbox AWS account and tear the results apart with your auditor's eye. If it holds up, the ask is simple: tell pre-audit clients and your SOC 2 cohort members to run the scan first — it gets them ~80% audit-ready before your team bills an hour, and every report arrives pre-mapped to the evidence your CPA arm needs.",
+  "source_urls": [
+    "https://www.bdemerson.com/",
+    "https://www.bdemerson.com/team/drew-danner",
+    "https://www.bdemerson.com/team/jose-gonzalez-jr",
+    "https://www.bdemerson.com/industries/startups",
+    "https://www.bdemerson.com/service/soc-2",
+    "https://www.bdemerson.com/service/soc-2-compliance-cohort-program",
+    "https://www.bdemerson.com/about",
+    "https://www.bdemerson.com/service/vanta-implementation-services",
+    "https://www.vanta.com/customers/lemba-therapeutics",
+    "https://www.v-comply.com/partnership-b-d-emerson-2024/",
+    "https://www.linkedin.com/company/bd-emerson",
+    "https://www.linkedin.com/in/drew-danner-strategy-transformation-risk-innovation-security/",
+    "https://www.bbb.org/us/va/richmond/profile/cyber-security/bd-emerson-0603-63421272",
+    "https://andersen.com/resources/andersen-consulting-strengthens-cybersecurity-capabilities-addition-bd-emerson",
+    "https://www.businesswire.com/news/home/20250722998030/en/Andersen-Consulting-Strengthens-Cybersecurity-Capabilities-with-Addition-of-BD-Emerson"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "slug": "rs-assurance-advisory",
+  "name": "RS Assurance & Advisory (RSAA)",
+  "website": "https://rsassure.com/",
+  "hq": "United States (likely Texas; firm phone uses 903 area code, no published office address)",
+  "founded": null,
+  "team_size_estimate": "Very small boutique; only 3 people named on the Who We Are page (Managing Partner, Sales Director, Solutions Advisor). Firm states every team member has 10+ years experience, i.e. no entry-level staff. Almost certainly well under 40.",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Blog post 'What Is SOC 2 and Why Do Investors Keep Asking For It?' targets venture-backed companies facing investor/customer SOC 2 demands",
+      "source_url": "https://rsassure.com/blog/"
+    },
+    {
+      "signal": "Client logos skew small/startup: Hubifi, Vetriq, Workback, LucyRX (early-stage SaaS/health-tech names) alongside SMU and Dimont",
+      "source_url": "https://rsassure.com/"
+    },
+    {
+      "signal": "Listed as a startup-focused SOC 2 auditor in third-party soc2auditors.org roundup (per prior research notes); not explicitly self-described as startup-focused on its own site",
+      "source_url": "https://rsassure.com/soc-2-audit-firm-automation-expertise/"
+    },
+    {
+      "signal": "Blog covers pre-audit readiness topics ('5 Signs You're Not Ready for a SOC 2 Audit', 'How Much Does SOC 2 Readiness Actually Cost?') aimed at first-time audit buyers",
+      "source_url": "https://rsassure.com/blog/"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (self-described 'trusted partner'; site: 'collaborate seamlessly with leading Governance, Risk, and Compliance (GRC) platforms, such as Vanta, where we serve as a trusted partner')"
+  ],
+  "aws_cloud_expertise": null,
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 examinations",
+    "SOC readiness assessments",
+    "HIPAA advisory and risk assessments",
+    "HITRUST readiness/certification support",
+    "CMMC readiness and gap assessments (NIST 800-171)",
+    "Penetration testing (delivered in partnership with RSI Security)",
+    "Microsoft security and privacy assessments"
+  ],
+  "contacts": [
+    {
+      "name": "Richard Stevenson",
+      "role": "Managing Partner (firm initials 'RS' match his name; presumed founder)",
+      "linkedin": "https://www.linkedin.com/in/richardstevensoncpa/",
+      "twitter": null,
+      "email": "partners@rsassure.com",
+      "phone": "(903) 229-0341",
+      "source": "https://rsassure.com/who-we-are/ (name/role); LinkedIn profile richardstevensoncpa matches a cyber-credentialed CPA (CPA, CISSP, CISA, CCSFP, CITP, CIPM) consistent with a 'Cyber CPA Firm' founder, but headline still shows a prior firm (Lawrence J Beardsley CPA) — verify before outreach"
+    },
+    {
+      "name": "Mason Guyette",
+      "role": "Sales Director",
+      "linkedin": null,
+      "twitter": null,
+      "email": "partners@rsassure.com",
+      "phone": "(903) 229-0341",
+      "source": "https://rsassure.com/who-we-are/"
+    },
+    {
+      "name": "Matthew Lim",
+      "role": "Solutions Advisor",
+      "linkedin": null,
+      "twitter": null,
+      "email": "partners@rsassure.com",
+      "phone": "(903) 229-0341",
+      "source": "https://rsassure.com/who-we-are/"
+    }
+  ],
+  "fit_score": 65,
+  "partnership_angle": "Referral partner + sandbox tester. RSAA is exactly the profile that benefits from a readiness-scan feeder: a tiny CPA-led shop (3 named people) that sells SOC 2 readiness AND audits, already embraces automation (Vanta 'trusted partner', markets 'continuous evidence collection' and 'real-time readiness dashboards'), and publishes a blog post arguing your compliance advisor and auditor should be DIFFERENT firms — which is precisely the wedge for LoxeAI to be the independent pre-audit readiness layer that keeps RSAA's auditor independence clean. Entry motion: get Richard Stevenson to run a LoxeAI scan against a sandbox AWS account as a validation exercise, then have RSAA recommend the scan to inbound pre-audit prospects that aren't audit-ready yet (their '5 Signs You're Not Ready' funnel). Caveats keeping the score at 65: no AWS/cloud specialization signals, no published founding year or headcount, and startup positioning is inferred from clients/blog rather than explicit — verify size and Stevenson's LinkedIn before outreach. Rank behind firms with explicit startup + AWS positioning.",
+  "pitch_note": "Hi Richard — you wrote that a compliance advisor and auditor should be different firms, and that's exactly how we built LoxeAI: an AWS-native SOC 2 readiness scanner that does the pre-audit legwork so a CPA-led firm like RSAA never has to blur the independence line. Could we get 30 minutes to have you run a scan against one of your sandbox AWS environments and pick apart the findings against your SOC 2 workpapers? If it holds up to your standards, your not-ready-yet inbound leads (the '5 signs' crowd) get a 'run this scan first — it gets you ~80% audit-ready' referral, and they arrive at RSAA cleaner, faster, and cheaper to audit.",
+  "source_urls": [
+    "https://rsassure.com/",
+    "https://rsassure.com/who-we-are/",
+    "https://rsassure.com/cybersecurity-compliance-assurance/",
+    "https://rsassure.com/soc-2-audit-firm-automation-expertise/",
+    "https://rsassure.com/blog/",
+    "https://www.linkedin.com/in/richardstevensoncpa/",
+    "https://www.linkedin.com/company/rs-assurance-advisory"
+  ]
+}

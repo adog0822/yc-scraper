@@ -1,0 +1,56 @@
+{
+  "slug": "audit-advantage-group",
+  "name": "Audit Advantage Group",
+  "website": "https://www.auditadvantagegroup.com/",
+  "hq": "Ann Arbor, MI (455 E Eisenhower Pkwy, Suite 300, Ann Arbor, MI 48108)",
+  "founded": "2023 (LinkedIn founding year; Michigan accountancy firm license #1102025673 issued 2023-08-25)",
+  "team_size_estimate": "2-10 employees (LinkedIn company page); owner-operated CPA firm",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Owner directly pitched the firm in an r/soc2 auditor-recommendation thread ('I own a CPA firm that does SOC 2 audits... audit portal that streamlines evidence collection... issue an audit report within 2 weeks of closing fieldwork') — actively hustling for early-stage clients in startup communities (from prior research notes; original Reddit thread no longer surfaced in search)",
+      "source_url": "https://www.reddit.com/r/soc2/"
+    },
+    {
+      "signal": "LinkedIn posts tagged #saasgrowth #enterprisesales #soc2compliance — marketing SOC 2 to growth-stage SaaS companies",
+      "source_url": "https://www.linkedin.com/posts/audit-advantage-group_saasgrowth-enterprisesales-soc2compliance-activity-7395083161300480000-BIhA"
+    },
+    {
+      "signal": "Homepage targets cloud service providers, payment processors, edtech platforms, and MSPs, with a 4-step process (readiness assessment -> control implementation guidance -> portal-driven audit -> report within 2 weeks of testing completion) built for fast, small engagements",
+      "source_url": "https://www.auditadvantagegroup.com/"
+    }
+  ],
+  "grc_partnerships": [],
+  "aws_cloud_expertise": "No explicit AWS specialization. Serves 'cloud service providers' as a named industry and runs a streamlined evidence-collection audit portal (Zoho Projects-based client login at projects.zoho.com/portal/auditprojects), indicating comfort with cloud/SaaS tooling but no stated AWS depth.",
+  "services": [
+    "SOC 2 Type 1 and Type 2 audits",
+    "SOC 1 audits",
+    "SOC 3 audits",
+    "SOC readiness assessments",
+    "ISO 27001 internal audits",
+    "Outsourced internal audit",
+    "Tax management"
+  ],
+  "contacts": [
+    {
+      "name": "Owner/founder (name not published; identify via LinkedIn company page employees before outreach)",
+      "role": "Owner, CPA firm principal",
+      "linkedin": "https://www.linkedin.com/company/audit-advantage-group",
+      "twitter": "https://x.com/AuditAdvantage",
+      "email": null,
+      "phone": "888-341-7149",
+      "source": "https://www.auditadvantagegroup.com/about"
+    }
+  ],
+  "fit_score": 55,
+  "partnership_angle": "Referral partner + sandbox tester. This is a tiny (2-10 person), owner-operated, 2023-founded CPA firm that hunts for pre-audit startup clients on Reddit and LinkedIn — exactly the profile that benefits from a free lead-qualification tool. They have no Vanta/Drata/Secureframe ecosystem ties, so LoxeAI would face no incumbent GRC-platform conflict; a validated LoxeAI scan slots in as their readiness front-end, feeding clients into their fast 2-week-report audit motion. Their DIY streak (own evidence portal, self-promotion in communities) makes them a plausible early sandbox tester who will actually run the scan.",
+  "pitch_note": "You built an audit portal to kill evidence-collection friction — LoxeAI attacks the same problem one step earlier, at readiness. It's an AWS-native SOC 2 scan built for the lean cloud startups you're already courting on r/soc2: 15-minute call, we hand you a sandbox AWS environment (or scan your own), and you judge the findings as an auditor. If it holds up, you tell pre-audit prospects 'run this scan first — it gets you 80% ready,' so they arrive at your fieldwork cleaner and your 2-week report promise gets even easier to keep.",
+  "source_urls": [
+    "https://www.auditadvantagegroup.com/",
+    "https://www.auditadvantagegroup.com/about",
+    "https://www.linkedin.com/company/audit-advantage-group",
+    "https://www.linkedin.com/posts/audit-advantage-group_saasgrowth-enterprisesales-soc2compliance-activity-7395083161300480000-BIhA",
+    "https://ald.nasba.org/search/firm/459454571?jurisdictionId=117",
+    "https://x.com/AuditAdvantage"
+  ]
+}

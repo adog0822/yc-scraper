@@ -1,0 +1,76 @@
+{
+  "slug": "decrypt-compliance",
+  "name": "Decrypt Compliance",
+  "website": "https://decrypt.cpa/",
+  "hq": "3031 Tisch Way, San Jose, CA 95128 (Silicon Valley)",
+  "founded": "2023",
+  "team_size_estimate": "~11-12 (founder/CEO, Director of Audit Operations, ~10 'Technology Trust Services' auditors listed on About Us page)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Homepage positioning: 'Get high-growth B2B SaaS companies certified 50% faster'; SOC auditors for B2B SaaS",
+      "source_url": "https://decrypt.cpa/"
+    },
+    {
+      "signal": "About Us: 'a Silicon Valley cybersecurity audit firm built by technology veterans for high-growth B2B SaaS companies'; founder-led, 'No PE ownership, no rotating staff'",
+      "source_url": "https://decrypt.cpa/about-us/"
+    },
+    {
+      "signal": "Company describes itself as built to help cloud-native startups prove their cybersecurity and grow revenue via SOC 2, ISO 27001, etc.",
+      "source_url": "https://www.linkedin.com/company/decrypt-compliance"
+    },
+    {
+      "signal": "Testimonials emphasize async, timezone-flexible engagement style suited to lean startup teams",
+      "source_url": "https://decrypt.cpa/"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (works alongside client Vanta stacks per site FAQ; NOT found in Vanta's official audit-partner directory)",
+    "Drata (works alongside client Drata stacks per site FAQ; official partner status not independently confirmed)"
+  ],
+  "aws_cloud_expertise": "Cloud-native SaaS specialization (audits 'cloud-native tech stacks'); founder holds CCSK (Certificate of Cloud Security Knowledge). No AWS-specific practice or AWS partner signal found.",
+  "services": [
+    "SOC 1 Type I & II",
+    "SOC 2 Type I & II",
+    "SOC 3",
+    "ISO 27001",
+    "ISO 27701",
+    "ISO 42001 (AI management)",
+    "PCI DSS",
+    "HIPAA",
+    "HITRUST",
+    "GDPR"
+  ],
+  "contacts": [
+    {
+      "name": "Raymond Cheng",
+      "role": "Founder, CEO & Managing Partner (CPA, CITP, CISSP, CISA, CCSK, CIPP/E, ISO 27001/42001 Lead Auditor; ex-EY, Salesforce, Tencent; Forbes Best-in-State CPA 2025-26)",
+      "linkedin": "https://www.linkedin.com/in/raymondvcheng/",
+      "twitter": null,
+      "email": "info@decrypt.cpa",
+      "phone": null,
+      "source": "https://decrypt.cpa/raymond-cheng/"
+    },
+    {
+      "name": "Marcel Pillay",
+      "role": "Director of Audit Operations",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://decrypt.cpa/about-us/"
+    }
+  ],
+  "fit_score": 86,
+  "partnership_angle": "Referral partner + validator, with design-partner potential. Decrypt is exactly the target profile: a 2023-founded, ~12-person founder-led Silicon Valley firm auditing high-growth B2B SaaS/cloud-native startups (the same companies LoxeAI targets), and it already embraces automation by working alongside Vanta and Drata client stacks. Because it competes on speed ('certified 50% faster'), a pre-audit AWS readiness scan that makes clients arrive audit-ready directly reinforces its core pitch. Raymond Cheng is technically deep (CISSP, CCSK, ISO 42001 Lead Auditor) and publicly brand-forward (Forbes, AICPA recognition), making him a credible early validator whose endorsement carries weight with startup founders.",
+  "pitch_note": "Raymond -- Decrypt promises SaaS startups certification 50% faster, and the biggest drag on that promise is clients showing up with messy AWS environments. LoxeAI is an AWS-native SOC 2 readiness scanner built for lean startups: I'd love 30 minutes to have you run it against a sandbox AWS account and tear apart the findings as an auditor. If it holds up to your standard, your pre-audit pipeline gets a simple play: 'run this scan first -- it gets you ~80% ready before fieldwork starts,' which means cleaner evidence, fewer exceptions, and faster engagements for Decrypt.",
+  "source_urls": [
+    "https://decrypt.cpa/",
+    "https://decrypt.cpa/about-us/",
+    "https://decrypt.cpa/raymond-cheng/",
+    "https://www.linkedin.com/in/raymondvcheng/",
+    "https://www.linkedin.com/company/decrypt-compliance",
+    "https://www.crunchbase.com/organization/decrypt-compliance",
+    "https://www.forbes.com/profile/raymond-cheng/"
+  ]
+}

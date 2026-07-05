@@ -1,0 +1,148 @@
+[
+ {
+  "slug": "astor",
+  "name": "Astor",
+  "website": "https://astor.app/",
+  "one_liner": "AI advisor for retail investors",
+  "team_size": 5,
+  "batch": "Summer 2025",
+  "tags": [
+   "Fintech",
+   "Investing",
+   "Consumer Finance",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "shor",
+  "name": "Shor",
+  "website": "https://www.shorpay.com",
+  "one_liner": "International payroll, built for founders",
+  "team_size": 4,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "playgent",
+  "name": "Playgent",
+  "website": "https://useplaygent.com",
+  "one_liner": "Sandboxes for AI agents",
+  "team_size": 2,
+  "batch": "Summer 2025",
+  "tags": [
+   "SaaS",
+   "Infrastructure",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "parachute",
+  "name": "Parachute",
+  "website": "https://parachute-ai.com",
+  "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI ",
+  "team_size": 2,
+  "batch": "Summer 2025",
+  "tags": [
+   "SaaS",
+   "Health Tech",
+   "B2B",
+   "Healthcare IT",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "solva",
+  "name": "Solva",
+  "website": "https://solvatechnology.com",
+  "one_liner": "Automates insurance claims and stops incorrect payouts",
+  "team_size": 15,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "novaflow",
+  "name": "Novaflow",
+  "website": "https://www.novaflowapp.com/",
+  "one_liner": "The AI data analyst for biology labs",
+  "team_size": 5,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "convexia",
+  "name": "Convexia",
+  "website": "https://convexia.bio",
+  "one_liner": "The world's first AI-maximalist pharma company",
+  "team_size": 4,
+  "batch": "Summer 2025",
+  "tags": [
+   "AI-powered Drug Discovery",
+   "Biotech",
+   "Drug Delivery"
+  ],
+  "industries": [
+   "Healthcare",
+   "Drug Discovery and Delivery"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "locata",
+  "name": "Locata",
+  "website": "https://www.locatahealth.com/",
+  "one_liner": "AI Referral Automation for Primary Care Clinics",
+  "team_size": 4,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ }
+]

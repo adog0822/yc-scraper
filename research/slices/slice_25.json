@@ -1,0 +1,145 @@
+[
+ {
+  "slug": "claimglide",
+  "name": "ClaimGlide",
+  "website": "https://claimglide.com/",
+  "one_liner": "AI automated prior-auths for private medical practices",
+  "team_size": 1,
+  "batch": "Winter 2026",
+  "tags": [
+   "Digital Health",
+   "Healthcare",
+   "AI",
+   "AI Assistant"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare Services"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "kita",
+  "name": "Kita",
+  "website": "https://www.usekita.com/",
+  "one_liner": "Automate credit review for lenders in emerging markets",
+  "team_size": 2,
+  "batch": "Winter 2026",
+  "tags": [
+   "Fintech",
+   "Computer Vision",
+   "Lending",
+   "Emerging Markets"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "ruma-care",
+  "name": "Ruma Care",
+  "website": "https://rumacare.com",
+  "one_liner": "The operations stack for biologic infusion clinics",
+  "team_size": 2,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "celltype",
+  "name": "CellType",
+  "website": "https://www.celltype.com",
+  "one_liner": "The agentic drug company. We simulate human biology.",
+  "team_size": 2,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Drug Discovery and Delivery"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "proximitty",
+  "name": "Proximitty",
+  "website": "https://proximitty.ai",
+  "one_liner": "AI operating system for commercial loans",
+  "team_size": 2,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Credit and Lending"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "galini",
+  "name": "Galini",
+  "website": "https://www.galini.ai/",
+  "one_liner": "Compliance guardrails-as-a-service for AI applications",
+  "team_size": 2,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "SaaS",
+   "B2B",
+   "Compliance",
+   "Enterprise"
+  ],
+  "industries": [
+   "B2B"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "attimet",
+  "name": "attimet",
+  "website": "https://attimet.com/",
+  "one_liner": "we predict stuff",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Finance",
+   "Trading"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "sphinx",
+  "name": "Sphinx",
+  "website": "https://sphinxhq.com/",
+  "one_liner": "AI Compliance Analysts for Banks & Fintechs",
+  "team_size": 14,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ }
+]

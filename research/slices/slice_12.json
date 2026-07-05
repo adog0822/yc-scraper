@@ -1,0 +1,150 @@
+[
+ {
+  "slug": "kinro",
+  "name": "Kinro",
+  "website": "https://www.kinro.com/",
+  "one_liner": "Autonomous insurance brokerage for small businesses",
+  "team_size": 3,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "lumius",
+  "name": "Lumius",
+  "website": "https://www.lumius-imaging.com",
+  "one_liner": "Fast, smart, accessible 3D ultrasound that anyone can use",
+  "team_size": 4,
+  "batch": "Spring 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Medical Devices"
+  ],
+  "is_hiring": true,
+  "locations": "Durham, NC, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "infera",
+  "name": "Infera",
+  "website": "https://www.infera.bio",
+  "one_liner": "Control lab instruments with natural language.",
+  "team_size": 2,
+  "batch": "Spring 2026",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Biotech",
+   "Automation",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Industrial Bio"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "acx",
+  "name": "ACX",
+  "website": "https://www.acxtherapeutics.com/",
+  "one_liner": "Next-generation biocides for sustainable agriculture at scale",
+  "team_size": 4,
+  "batch": "Summer 2024",
+  "tags": [
+   "Synthetic Biology",
+   "Biotech",
+   "Healthcare",
+   "Agriculture",
+   "Drug discovery"
+  ],
+  "industries": [
+   "Healthcare",
+   "Industrial Bio"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "understood-care",
+  "name": "Understood Care",
+  "website": "https://understoodcare.com",
+  "one_liner": "Healthcare personal assistants for Medicare patients.",
+  "team_size": 7,
+  "batch": "Summer 2024",
+  "tags": [
+   "Health Tech",
+   "Healthcare",
+   "Health Insurance",
+   "AI",
+   "AI Assistant"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "mdhub",
+  "name": "mdhub",
+  "website": "https://www.mdhub.ai/",
+  "one_liner": "AI-native operating system for behavioral health clinics.",
+  "team_size": 11,
+  "batch": "Summer 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "claimsorted",
+  "name": "ClaimSorted",
+  "website": "https://claimsorted.com",
+  "one_liner": "Making it easy for insurance companies to process claims",
+  "team_size": 20,
+  "batch": "Summer 2024",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "sagecare",
+  "name": "Sage Care",
+  "website": "https://sagecare.ai",
+  "one_liner": "Automating home care agency operations with AI",
+  "team_size": 3,
+  "batch": "Summer 2024",
+  "tags": [
+   "AIOps",
+   "Automation",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ }
+]

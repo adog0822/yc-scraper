@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "pluto",
+    "name": "Pluto",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found in web search or on pluto.trade; company is a CFTC-regulated derivatives exchange for compute (materially complete DCM/clearinghouse applications), a heavily regulated buyer/operator profile",
+        "source_url": "https://www.ycombinator.com/companies/pluto"
+      },
+      {
+        "signal": "Company site markets 'The Market for Compute' with no security/trust page or SOC 2 badge found",
+        "source_url": "https://www.pluto.trade/"
+      }
+    ],
+    "hiring_signals": [
+      "Senior Software Engineer - AI Infrastructure ($250K-$300K) — founding-infra-type role (https://www.ycombinator.com/companies/pluto)",
+      "Chief Compliance Officer ($200K-$300K) — direct compliance buildout signal (https://www.ycombinator.com/companies/pluto)",
+      "Head of Strategic Finance (https://www.ycombinator.com/companies/pluto/jobs/NJuuObz-head-of-strategic-finance)",
+      "Head of Compute Sales / Head of Compute Markets (https://www.ycombinator.com/companies/pluto/jobs/LyijONR-head-of-compute-markets)"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/pluto"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider named on YC profile or site; job posts reference large-scale AI systems and GPU infrastructure (H100/A100/B200) but not a specific cloud (https://www.ycombinator.com/companies/pluto)",
+    "contacts": [
+      {
+        "name": "Ronit Jain",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/ronitjain5/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/pluto"
+      },
+      {
+        "name": "Aarav Patel",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/pluto"
+      }
+    ],
+    "fit_score": 85,
+    "pitch_note": "CFTC-regulated exchange with no visible SOC 2, actively hiring a Chief Compliance Officer and a senior infrastructure engineer — compliance buildout is happening right now and SOC 2 will be table stakes for institutional counterparties. Ideal timing for a Type I engagement."
+  },
+  {
+    "slug": "blindpay",
+    "name": "BlindPay",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Third-party product listing quotes BlindPay marketing copy claiming 'SOC 2 compliance', but this could not be verified on BlindPay's own site",
+        "source_url": "https://huntscreens.com/en/products/blindpay"
+      },
+      {
+        "signal": "BlindPay's own /compliance page mentions FinCEN MSB registration and KYC/KYB but contains no SOC 2, audit, or Vanta/Drata language; /security returns 404",
+        "source_url": "https://www.blindpay.com/compliance"
+      }
+    ],
+    "hiring_signals": [
+      "0 jobs listed on YC profile; is_hiring=false (https://www.ycombinator.com/companies/blindpay)"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 3300000,
+      "source_url": "https://www.blindpay.com/blog/blindpay-seed-round"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO Gabriel Lyra formerly worked at AWS and at LendingClub optimizing AWS infrastructure costs; no explicit statement of BlindPay's own cloud found (https://www.ycombinator.com/companies/blindpay)",
+    "contacts": [
+      {
+        "name": "Bernardo Simonassi",
+        "role": "Co-founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/bernardosm",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/posts/bernardosm_blindpay-yc-w25-raised-33m-in-a-seed-activity-7358876030717112320-Bqhi"
+      },
+      {
+        "name": "Gabriel Lyra",
+        "role": "CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/blindpay"
+      },
+      {
+        "name": "BlindPay (company)",
+        "role": "Company X account",
+        "linkedin": "https://www.linkedin.com/company/blindpay",
+        "twitter": "https://x.com/blindpaylabs",
+        "email": null,
+        "source": "https://x.com/blindpaylabs"
+      }
+    ],
+    "fit_score": 60,
+    "pitch_note": "Fresh $3.3M seed, $125M+ processed, ex-AWS CTO, and a compliance page with no SOC 2 attestation shown — a stablecoin payments API selling to fintechs will get security-questionnaired constantly. Caveat: old launch marketing copy claimed 'SOC 2 compliance', so verify status on the first call."
+  },
+  {
+    "slug": "ritivel",
+    "name": "Ritivel",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, HIPAA, GDPR, or 21 CFR Part 11 certification mentioned anywhere on ritivel.com; security is marketed via 'fully local deployment' and zero data retention instead of third-party attestation",
+        "source_url": "https://www.ritivel.com/"
+      },
+      {
+        "signal": "Sells AI drafting of CTDs/CSRs/INDs/BLAs to pharma regulatory teams — highly regulated enterprise buyers who require vendor security attestation",
+        "source_url": "https://www.ycombinator.com/launches/PJn-ritivel-ai-native-platform-for-regulatory-document-submission"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles found; is_hiring=false on YC data, team of 3 (https://www.ycombinator.com/companies/ritivel)"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/ritivel"
+    },
+    "aws_native": "no",
+    "aws_evidence": "Site explicitly markets '100% local deployment', 'No cloud storage. Fully local deployment. Your documents stay inside your infrastructure.' (https://www.ritivel.com/)",
+    "contacts": [
+      {
+        "name": "Pavan Kalyan",
+        "role": "Co-founder & CEO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.founderland.ai/articles/yc-backed-ritivel-automates-drug-regulatory-filings-with-ai-mna9onyc"
+      },
+      {
+        "name": "Nirmit Arora",
+        "role": "Co-founder & CTO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.founderland.ai/articles/yc-backed-ritivel-automates-drug-regulatory-filings-with-ai-mna9onyc"
+      },
+      {
+        "name": "Gunin Gupta",
+        "role": "Co-founder & CBO",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.founderland.ai/articles/yc-backed-ritivel-automates-drug-regulatory-filings-with-ai-mna9onyc"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "Sells into pharma regulatory teams — buyers who will demand SOC 2 in every vendor review — and currently has zero certifications, leaning on 'local deployment' messaging instead. Caveats: W26 (very early, 3 people, YC-only funding) and their on-prem posture weakens the AWS-native angle."
+  },
+  {
+    "slug": "luthor",
+    "name": "Luthor",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Company blog post 'Luthor Reaches SOC 2 for Safer AI Compliance for RIAs' announces completed SOC 2 certification after ~6 months of work",
+        "source_url": "https://www.luthor.ai/blog-post/luthor-soc2-certification"
+      }
+    ],
+    "hiring_signals": [
+      "Software Engineer, $120K-$180K, SF/Remote US — only open role (https://www.ycombinator.com/companies/luthor/jobs)"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/luthor-ai"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Glenn Espinosa",
+        "role": "Co-founder & CEO (ex Risk/Compliance Eng at Square)",
+        "linkedin": "https://www.linkedin.com/in/glennespinosa",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/luthor"
+      },
+      {
+        "name": "John Espinosa",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/luthor"
+      }
+    ],
+    "fit_score": 25,
+    "pitch_note": "Disqualified for Type I outreach: Luthor already completed and publicly announced SOC 2 certification. Only residual angle is Type II renewal/continuous-compliance support down the line."
+  },
+  {
+    "slug": "lakonia",
+    "name": "Lakonia",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2, FedRAMP, or CJIS mention found on lakonia.us.com or in web search; sells AI C2/comms transcription to law enforcement and military — regulated government buyers, but their compliance path is more likely CJIS/FedRAMP than SOC 2",
+        "source_url": "https://www.lakonia.us.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles found; is_hiring=false, team of 2 (https://www.ycombinator.com/companies/lakonia)"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/lakonia"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider evidence found; product targets tactical/edge environments (https://www.lakonia.us.com/)",
+    "contacts": [
+      {
+        "name": "Gordy Sun",
+        "role": "Co-founder (Stanford EE/CS, 8VC Fellow, ex-Saronic systems team)",
+        "linkedin": "https://www.linkedin.com/in/gordysun/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.8vc.com/fellows/gordy-sun"
+      },
+      {
+        "name": "Justin (last name not published)",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/lakonia"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Gov/defense buyers mean heavy compliance eventually, and SOC 2 is often the first checkbox for police-department SaaS pilots — but at 2 people, YC-only funding, no hiring, and a likely CJIS/FedRAMP-first path, this is an early nurture lead rather than an active one."
+  },
+  {
+    "slug": "complydo",
+    "name": "ComplyDo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Site claims ISO 27001 and GDPR compliance and says security is 'based on ISO 27001, SOC-2, NIS-2, DORA, TISAX, and OWASP' — framework alignment language, not a SOC 2 attestation; has a Trust Center",
+        "source_url": "https://www.complydo.io/"
+      },
+      {
+        "signal": "Sells compliance automation (DORA, NIS-2, ISO 27001) to regulated enterprises — a vendor that must itself pass security review",
+        "source_url": "https://www.ycombinator.com/companies/complydo"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles found; is_hiring=false, team of 10 (https://www.ycombinator.com/companies/complydo)"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://www.extruct.ai/hub/complydo-io/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Site says 'Hosted where it fits best. By default on a sovereign cloud in your region' — no AWS/GCP/Azure named (https://www.complydo.io/)",
+    "contacts": [
+      {
+        "name": "Leo Schuhmann",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/leo-schuhmann",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/posts/leo-schuhmann_ycombinator-complydo-cybersecurity-activity-7385905014344417280-Rifx"
+      },
+      {
+        "name": "Moritz Moser",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/complydo"
+      },
+      {
+        "name": "Matthias Schneider",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/complydo"
+      },
+      {
+        "name": "ComplyDo (company)",
+        "role": "General contact",
+        "linkedin": "https://www.linkedin.com/company/complydo-io",
+        "twitter": null,
+        "email": "info@complydo.io",
+        "source": "https://www.complydo.io/"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Compliance vendor that would need SOC 2 to sell to US enterprises, but it is Berlin-based, ISO 27001-first, sovereign-cloud-hosted, and EU-regulation-focused (DORA/NIS-2) — a mismatch for a US AWS-native SOC 2 ICP unless they push into the US market."
+  },
+  {
+    "slug": "mayflower",
+    "name": "Mayflower",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security certification mention found on mayflowervisa.com or in web search",
+        "source_url": "https://mayflowervisa.com/"
+      },
+      {
+        "signal": "Product plugs into enterprise HR systems and processes sensitive immigration/identity documents — buyers will require vendor security attestation",
+        "source_url": "https://www.ycombinator.com/companies/mayflower"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles found; is_hiring=false, team of 2 (https://www.ycombinator.com/companies/mayflower)"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://www.extruct.ai/hub/mayflowervisa-com/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider evidence found on site or job posts (https://mayflowervisa.com/)",
+    "contacts": [
+      {
+        "name": "Naren Chittem",
+        "role": "Co-founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://fyicombinator.com/company/mayflower"
+      },
+      {
+        "name": "Aryan Gulati",
+        "role": "Co-founder (Stanford CS)",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://fyicombinator.com/company/mayflower"
+      },
+      {
+        "name": "Mayflower (company)",
+        "role": "General contact",
+        "linkedin": null,
+        "twitter": null,
+        "email": "team@mayflowervisa.com",
+        "source": "https://mayflowervisa.com/"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Handles sensitive employee immigration documents inside enterprise HR stacks with zero published security certifications — the first mid-market HR customer security review will force SOC 2, and at F25/pre-seed they will want the fastest Type I path. Publicly listed team@ email makes outreach easy."
+  },
+  {
+    "slug": "chestnut",
+    "name": "Chestnut",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security certification mention on chestnutmortgage.com; site shows NMLS #2688280 licensing (regulated lender) but no security/trust page",
+        "source_url": "https://chestnutmortgage.com/"
+      },
+      {
+        "signal": "AI mortgage lender licensed in TX and CO handling borrower financial documents; lender/investor partners typically require SOC 2 from tech-enabled originators",
+        "source_url": "https://www.ycombinator.com/launches/NZm-chestnut-the-first-ai-mortgage-lender"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (https://www.ycombinator.com/companies/chestnut/jobs/WyWW99I-founding-engineer)",
+      "Growth Lead (https://www.ycombinator.com/companies/chestnut/jobs/soTdSQG-growth-lead)"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://pitchbook.com/profiles/company/863191-63"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider evidence found on site or job listings (https://chestnutmortgage.com/)",
+    "contacts": [
+      {
+        "name": "Spencer Brown",
+        "role": "Founder & CEO (second mortgage-tech startup)",
+        "linkedin": "https://www.linkedin.com/in/spencercbrown",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/posts/spencercbrown_launch-yc-chestnut-the-first-ai-mortgage-activity-7331385148476686338-Ge5W"
+      },
+      {
+        "name": "Chestnut (company)",
+        "role": "General contact",
+        "linkedin": "https://www.linkedin.com/company/chestnutmortgage",
+        "twitter": null,
+        "email": "contact@chestnutmortgage.com",
+        "source": "https://chestnutmortgage.com/"
+      }
+    ],
+    "fit_score": 68,
+    "pitch_note": "Regulated NMLS-licensed AI lender handling borrower financial data with no visible SOC 2, actively hiring a Founding Engineer — compliance needs will hit as they add lender partners and states. Slightly below strong-lead threshold only because buyers are consumers and total raised looks like YC-standard only."
+  }
+]

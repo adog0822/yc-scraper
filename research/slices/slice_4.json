@@ -1,0 +1,169 @@
+[
+ {
+  "slug": "lucis",
+  "name": "Lucis",
+  "website": "https://www.lucis.life",
+  "one_liner": "Function Health for Europe ",
+  "team_size": 17,
+  "batch": "Spring 2025",
+  "tags": [
+   "Telehealth",
+   "Digital Health",
+   "Health & Wellness",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": true,
+  "locations": "Paris, \u00cele-de-France, France",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "pelica",
+  "name": "Pelica",
+  "website": "https://www.pelica.com/",
+  "one_liner": "Transforming healthcare operations with AI agents",
+  "team_size": 5,
+  "batch": "Spring 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Healthcare",
+   "Healthcare IT",
+   "AI"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "code-four",
+  "name": "Code Four",
+  "website": "https://codefour.us/",
+  "one_liner": "Modernizing the police workflow.",
+  "team_size": 3,
+  "batch": "Spring 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "GovTech",
+   "Computer Vision"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "bayesline",
+  "name": "Bayesline",
+  "website": "https://bayesline.com",
+  "one_liner": "Highly customizable and blazingly fast analytics for asset managers.",
+  "team_size": 3,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "Finance",
+   "B2B",
+   "Analytics",
+   "AI"
+  ],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "saturn",
+  "name": "Saturn",
+  "website": "https://www.SaturnOS.com",
+  "one_liner": "Compliance and back office workflows for Wealth Managers.",
+  "team_size": 18,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "Generative AI",
+   "B2B"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "London, England, United Kingdom",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "paasa",
+  "name": "Paasa",
+  "website": "https://paasa.com",
+  "one_liner": "Invest in Global Equities from India",
+  "team_size": 9,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "Consumer",
+   "Investing",
+   "Emerging Markets"
+  ],
+  "industries": [
+   "Fintech",
+   "Asset Management"
+  ],
+  "is_hiring": true,
+  "locations": "Gurugram, HR, India",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "finosu",
+  "name": "Finosu",
+  "website": "https://www.finosu.com",
+  "one_liner": "AI Native Consumer Loan Servicer",
+  "team_size": 7,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "B2B",
+   "Lending",
+   "Consumer Finance"
+  ],
+  "industries": [
+   "Fintech",
+   "Credit and Lending"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 60
+ },
+ {
+  "slug": "moreta",
+  "name": "Moreta",
+  "website": "https://moretapay.com",
+  "one_liner": "Payments made easy for international travelers.",
+  "team_size": 4,
+  "batch": "Summer 2024",
+  "tags": [
+   "Fintech",
+   "Payments",
+   "Consumer",
+   "Travel",
+   "Consumer Finance"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 60
+ }
+]

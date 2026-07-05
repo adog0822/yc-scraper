@@ -1,0 +1,85 @@
+{
+  "slug": "auditvisor",
+  "name": "Auditvisor LLC",
+  "website": "https://auditvisor.com/",
+  "hq": "Fort Lauderdale, FL (1007 N Federal Hwy F2, Fort Lauderdale, FL 33304); founder based in Mississauga, ON, Canada",
+  "founded": "2025 (Florida filing dated May 1, 2025)",
+  "team_size_estimate": "1-10 employees (ZoomInfo); very small boutique",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Site segments clients by stage, with a dedicated 'Startups: Building a Strong Foundation' tier offering tailored consultation and initial audits",
+      "source_url": "https://auditvisor.com/"
+    },
+    {
+      "signal": "AWS Marketplace listing says the firm serves 'B2B SaaS companies, financial service providers, healthcare organizations' — 'from early-stage startups to global enterprises'",
+      "source_url": "https://aws.amazon.com/marketplace/pp/prodview-zwdcg5dyj4pay"
+    },
+    {
+      "signal": "Positions itself for SaaS, fintech, payment processors, and cloud/data-center companies as named industry verticals",
+      "source_url": "https://auditvisor.com/"
+    }
+  ],
+  "grc_partnerships": [
+    "Vanta (claimed 'seamless collaboration' on AWS Marketplace listing; not found in Vanta's official partner directory)",
+    "Drata (claimed collaboration, same listing)",
+    "Secureframe (claimed collaboration, same listing)",
+    "Tugboat Logic (claimed collaboration, same listing)"
+  ],
+  "aws_cloud_expertise": "Strong: registered AWS Marketplace seller with a dedicated 'SOC 2 Audit & Attestation Services' listing that includes an 'AWS Security Controls Audit & Mapping' service covering Security Hub, GuardDuty, WAF, CloudTrail, and Control Tower; claims deep expertise in cloud-native AWS/GCP/Azure deployments (https://aws.amazon.com/marketplace/pp/prodview-zwdcg5dyj4pay)",
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 attestation",
+    "SOC 2 readiness assessments",
+    "AWS security controls audit & mapping",
+    "PCI DSS",
+    "ISO certification",
+    "HIPAA",
+    "GDPR",
+    "NIST",
+    "FedRAMP",
+    "Penetration testing (VAPT)",
+    "Non-attest cybersecurity/compliance consulting (via Auditvisor Solutions LLC)"
+  ],
+  "contacts": [
+    {
+      "name": "Pranav Tulsian",
+      "role": "Founder & Director (CPA, CFE; ex-PricewaterhouseCoopers); active LinkedIn poster on SOC 2 topics",
+      "linkedin": "https://ca.linkedin.com/in/tulsianpranav",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://ca.linkedin.com/in/tulsianpranav"
+    },
+    {
+      "name": "Daniel Hoffman",
+      "role": "Manager / Authorized Representative (per Florida filing)",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.bizprofile.net/fl/fort-lauderdale/auditvisor-llc"
+    },
+    {
+      "name": "Auditvisor (firm general)",
+      "role": "Main firm contact",
+      "linkedin": "https://www.linkedin.com/company/usauditvisor",
+      "twitter": null,
+      "email": "info@auditvisor.com",
+      "phone": "+1 (647) 574-2353",
+      "source": "https://www.auditvisor.com/about-us"
+    }
+  ],
+  "fit_score": 88,
+  "partnership_angle": "Referral partner + sandbox tester — near-ideal profile. A brand-new (2025), founder-led, 1-10 person CPA boutique that already sells SOC 2 audits ON AWS Marketplace and offers an AWS-specific security-controls audit (Security Hub, GuardDuty, CloudTrail, Control Tower), so LoxeAI's AWS-native scan maps directly onto work they already do manually. As a young firm hungry for deal flow, a co-referral loop (LoxeAI sends scan users needing an auditor; Auditvisor sends pre-audit clients to the scan) is mutually valuable. Their alternative practice structure (separate attest and consulting entities) makes it clean for them to recommend a readiness tool without independence conflicts. One nuance: founder Pranav Tulsian has publicly posted 'AI in SOC 2 audits: a misleading promise' — he is skeptical of AI-replaces-auditor claims, so position LoxeAI strictly as pre-audit readiness scanning that feeds him better-prepared clients, not as audit automation.",
+  "pitch_note": "Pranav — you already audit AWS Security Hub, GuardDuty, and CloudTrail configs by hand, and your posts make clear you have no patience for tools that overpromise on SOC 2. LoxeAI doesn't claim to audit anything: it's an AWS-native readiness scan that gets lean startups ~80% of the way before they ever call a CPA. Run it against your own or a sandbox AWS account on a 20-minute call — if the findings hold up to your standards, tell your pre-audit pipeline 'run this scan first,' and we'll route scan users who need a Type 1/Type 2 straight to Auditvisor.",
+  "source_urls": [
+    "https://auditvisor.com/",
+    "https://www.auditvisor.com/about-us",
+    "https://aws.amazon.com/marketplace/pp/prodview-zwdcg5dyj4pay",
+    "https://ca.linkedin.com/in/tulsianpranav",
+    "https://www.linkedin.com/company/usauditvisor",
+    "https://www.bizprofile.net/fl/fort-lauderdale/auditvisor-llc",
+    "https://www.zoominfo.com/c/auditvisor-llc/1327050469",
+    "https://www.linkedin.com/posts/tulsianpranav_soc2-cpa-auditethics-activity-7343072470712598528-VC4W"
+  ]
+}

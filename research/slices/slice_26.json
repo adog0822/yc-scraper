@@ -1,0 +1,155 @@
+[
+ {
+  "slug": "gecko-security",
+  "name": "Gecko Security",
+  "website": "https://gecko.security",
+  "one_liner": "The AI Security Engineer to Find and Fix Vulnerabilities ",
+  "team_size": 2,
+  "batch": "Fall 2024",
+  "tags": [
+   "SaaS",
+   "B2B",
+   "Security",
+   "Cybersecurity",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "London, United Kingdom",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "roundabout-technologies",
+  "name": "Roundabout Technologies",
+  "website": "https://roundabout.tech",
+  "one_liner": "Software for AI-powered traffic lights",
+  "team_size": 5,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "nori",
+  "name": "Nori",
+  "website": "https://nori.ai",
+  "one_liner": "AI health coach in your pocket",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Consumer Health Services",
+   "Health Tech",
+   "Digital Health",
+   "Health & Wellness"
+  ],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "kaigo-health",
+  "name": "Kaigo Health",
+  "website": "https://www.kaigohealth.ai/",
+  "one_liner": "AI outpatient care workforce",
+  "team_size": 3,
+  "batch": "Fall 2025",
+  "tags": [
+   "Health Tech",
+   "Digital Health",
+   "Healthcare IT"
+  ],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "casey",
+  "name": "Casey",
+  "website": "https://caseyinsure.com/",
+  "one_liner": "Casey is an AI-native commercial insurance brokerage",
+  "team_size": 5,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "play-health",
+  "name": "Play Health",
+  "website": "http://playhealth.com",
+  "one_liner": "Perimenopause Care Platform",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [
+   "Biometrics",
+   "Biotech",
+   "Digital Health",
+   "Health & Wellness",
+   "Women's Health"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "Boulder, CO, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "anto-biosciences",
+  "name": "Anto Biosciences",
+  "website": "https://www.anto.bio/",
+  "one_liner": "A Foundation Model for Microbial Communities.",
+  "team_size": 4,
+  "batch": "Fall 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Generative AI",
+   "Biotech",
+   "Genomics",
+   "Drug discovery"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "amera",
+  "name": "Amera",
+  "website": "https://amerahealthsolutions.com/",
+  "one_liner": "Automating claims processing workflows for health insurance payers.",
+  "team_size": 8,
+  "batch": "Fall 2025",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ }
+]

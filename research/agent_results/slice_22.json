@@ -1,0 +1,388 @@
+[
+  {
+    "slug": "bylaw",
+    "name": "Bylaw",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust page or compliance mention found on usebylaw.com; S26 batch (Summer 2026) — too early for attestation",
+        "source_url": "https://www.usebylaw.com/"
+      },
+      {
+        "signal": "Product is an AI agent runtime enforcement/compliance layer — sells to regulated buyers who will demand SOC 2 from vendors",
+        "source_url": "https://www.ycombinator.com/companies/bylaw"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring on YC platform (3-person team, S26 batch)"
+    ],
+    "funding": {
+      "stage": "Pre-seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://app.dealroom.co/news/feed/yc-debuts-500k-usdc-funding-for-all-s26-startups-completes-first-fully-on-chain-seed-investment"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS references found in public materials; product integrates with LangSmith, Langfuse, OpenAI, MCP logs but no cloud provider specified",
+    "contacts": [
+      {
+        "name": "Gurshabd Singh Varaich",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/gvaraich/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/bylaw"
+      },
+      {
+        "name": "Farhan Ur Rehman",
+        "role": "Founder (ex-Meta Instagram Reels)",
+        "linkedin": "https://www.linkedin.com/in/farhan-ur-rehman/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/bylaw"
+      },
+      {
+        "name": "Mazin Al-Ani",
+        "role": "Founder (ex-Optiver, Boosted.ai)",
+        "linkedin": "https://www.linkedin.com/in/mazinalani/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/bylaw"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Bylaw is a 3-person S26 YC company selling AI agent compliance enforcement to regulated buyers — exactly the profile that will face SOC 2 demands from customers within 6-12 months. No SOC 2 detected. Too early to be hiring security staff, making this a direct founder sell. Pitch: 'Your customers in financial services and enterprise will require SOC 2 Type I before signing — let us get you audit-ready in 90 days.'"
+  },
+  {
+    "slug": "risklytics",
+    "name": "Risklytics",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust page or compliance certification found on risklytics.ai; S26 batch (Summer 2026) — too early for attestation",
+        "source_url": "https://www.risklytics.ai/"
+      },
+      {
+        "signal": "Sells AI catastrophe risk modeling to insurance carriers — regulated buyers will require SOC 2 from data vendors",
+        "source_url": "https://www.ycombinator.com/companies/risklytics"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring on YC platform (2-person team, S26 batch)"
+    ],
+    "funding": {
+      "stage": "Pre-seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://app.dealroom.co/news/feed/yc-debuts-500k-usdc-funding-for-all-s26-startups-completes-first-fully-on-chain-seed-investment"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Catastrophe risk modeling at scale typically requires AWS HPC/ML infrastructure; AWS publishes guidance for insurance data lakes; no explicit confirmation found",
+    "contacts": [
+      {
+        "name": "Samuel Gold",
+        "role": "Co-Founder (on leave from Harvard)",
+        "linkedin": "https://www.linkedin.com/in/samuelggold",
+        "twitter": "https://x.com/SamGGld",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/risklytics"
+      },
+      {
+        "name": "Alexander Risio",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/alexanderrisio/",
+        "twitter": "https://x.com/alexrisio",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/risklytics"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Risklytics is a 2-person YC S26 team selling AI risk models to insurance carriers — one of the most SOC 2-demanding buyer segments. No SOC 2 detected. Insurance enterprise deals will stall without attestation. Pitch: 'Insurance carriers run formal vendor security reviews; a SOC 2 Type I is table stakes for your first enterprise contract — we can get you there in 60-90 days.'"
+  },
+  {
+    "slug": "onyx",
+    "name": "Onyx",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Onyx is SOC 2 Type II and GDPR compliant per their official documentation",
+        "source_url": "https://docs.onyx.app/security/onyx_cloud/compliance"
+      },
+      {
+        "signal": "Homepage prominently features 'SOC 2 Type II' as enterprise security credential",
+        "source_url": "https://onyx.app/"
+      },
+      {
+        "signal": "Deployed in FedRAMP, ITAR, CMMC, FERPA, and GDPR-regulated environments",
+        "source_url": "https://onyx.app/solutions/secure-ai"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Technical Lead Frontend, Founding Account Executive, ML Engineer, Fullstack Engineer (no security/DevOps roles)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 10000000,
+      "source_url": "https://onyx.app/blog/seed-round"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Deployment docs reference AWS VPC, Bedrock Gateway, and custom proxy configurations; supports Docker/Kubernetes on AWS",
+    "contacts": [
+      {
+        "name": "Yuhong Sun",
+        "role": "Co-Founder (ML/NLP, ex-Alation)",
+        "linkedin": "https://www.linkedin.com/in/yuhongsun",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/onyx"
+      },
+      {
+        "name": "Chris Weaver",
+        "role": "Co-Founder (ex-Robinhood Tech Lead)",
+        "linkedin": "https://www.linkedin.com/in/chris-weaver101",
+        "twitter": null,
+        "email": "hello@onyx.app",
+        "source": "https://www.ycombinator.com/companies/onyx"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "DISQUALIFIED: Onyx already holds SOC 2 Type II certification and is deployed in FedRAMP/CMMC regulated environments. Not a prospect for initial SOC 2 services."
+  },
+  {
+    "slug": "copper-health",
+    "name": "Copper Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust page found; website domain copperhealth.co not resolving in DNS — very early stage",
+        "source_url": "https://www.ycombinator.com/companies/copper-health"
+      },
+      {
+        "signal": "Remote therapeutic monitoring platform handling PHI — HIPAA BAA required from all vendors; SOC 2 commonly demanded alongside HIPAA",
+        "source_url": "https://www.ycombinator.com/companies/copper-health"
+      },
+      {
+        "signal": "Bootstrapped/self-funded as of last data point — no outside investment yet",
+        "source_url": "https://getlatka.com/companies/copperhealth.co#funding"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring on YC platform (2-person team)"
+    ],
+    "funding": {
+      "stage": "Bootstrapped / YC",
+      "total_usd_estimate": 125000,
+      "source_url": "https://www.ycombinator.com/companies/copper-health"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider mentioned in public materials; CTO Tommy Guo has deep Stripe infrastructure background suggesting cloud-native approach",
+    "contacts": [
+      {
+        "name": "Joanne Wang",
+        "role": "Co-Founder & CEO (ex-General Atlantic)",
+        "linkedin": "https://www.linkedin.com/in/joanne-wang-156ba9154",
+        "twitter": "https://x.com/joannewang_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/copper-health"
+      },
+      {
+        "name": "Tommy Guo",
+        "role": "Co-Founder & CTO (ex-Stripe, search infrastructure)",
+        "linkedin": "https://www.linkedin.com/in/thomasguo",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/copper-health"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Copper Health is a 2-person bootstrapped YC W24 healthtech handling patient PHI. Their telehealth/RTM platform will face HIPAA+SOC 2 requirements from healthcare enterprise buyers. No compliance certifications found. Pitch: 'Healthcare enterprise and insurance payers require SOC 2 Type I before vendor onboarding — we can get you audit-ready alongside your HIPAA BAA process.'"
+  },
+  {
+    "slug": "dime-2",
+    "name": "Dime",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust page, /security page, or compliance certification found on dimehealth.ai",
+        "source_url": "https://www.dimehealth.ai/"
+      },
+      {
+        "signal": "Healthcare clinic automation handling PHI — HIPAA compliance claimed but SOC 2 not evidenced publicly",
+        "source_url": "https://www.ycombinator.com/companies/dime-2"
+      },
+      {
+        "signal": "Raised $500K from Burst Capital + YC; very lean team of 3",
+        "source_url": "https://tracxn.com/d/companies/dime/__mx7kLVNnI-EDfTFIuyx6cBQVimywxmxgptE8748l2WE/funding-and-investors"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: 2 Forward Deployed Engineer roles in New York (no security/DevOps/GRC)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/dime/__mx7kLVNnI-EDfTFIuyx6cBQVimywxmxgptE8748l2WE/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider mentioned in public materials; CTO Akash Kumar has Snapchat AI Platform background (cloud-native)",
+    "contacts": [
+      {
+        "name": "Ashish Bajaj",
+        "role": "Co-Founder (ex-Rothschild banker, ex-TPG investor)",
+        "linkedin": "https://www.linkedin.com/in/ashish-bajaj1",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/dime-2"
+      },
+      {
+        "name": "Akash Kumar",
+        "role": "Co-Founder (MS AI/ML Georgia Tech, ex-Snapchat AI Platform)",
+        "linkedin": "https://www.linkedin.com/in/akashkumar2296",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/dime-2"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Dime is a 3-person YC W24 healthcare AI company automating clinic admin workflows (referrals, authorizations, scheduling). Sells to clinics and EHR-integrated buyers who require HIPAA + SOC 2. No SOC 2 found. Lean seed-funded team won't hire a GRC lead yet. Pitch: 'Your clinic customers and EHR integration partners will gate contracts on SOC 2 Type I — we handle readiness fast so your engineers stay focused on product.'"
+  },
+  {
+    "slug": "codeant-ai",
+    "name": "CodeAnt AI",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "CodeAnt AI maintains a Trust Center on Sprinto confirming SOC 2 Type II, HIPAA, GDPR, and PCI DSS compliance",
+        "source_url": "https://codeantai.trustcenter.sprinto.com/"
+      },
+      {
+        "signal": "LinkedIn post confirms 'CodeAnt AI is now SOC2 compliant'",
+        "source_url": "https://www.linkedin.com/posts/codeant-ai_codeant-ai-is-now-soc2-compliant-we-activity-7165972983042228226-TZLC"
+      },
+      {
+        "signal": "Secondary trust center at codeantai.trust.site",
+        "source_url": "https://codeantai.trust.site/"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding BDR and Founding Account Executive (sales focus, no security/DevOps/GRC roles)"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 2500000,
+      "source_url": "https://www.thesaasnews.com/news/codeant-ai-raises-2-million-in-seed-round"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No specific AWS references found in public job posts or documentation",
+    "contacts": [
+      {
+        "name": "Amartya Jha",
+        "role": "Co-Founder & CEO (disclosed 87 zero-days)",
+        "linkedin": "https://www.linkedin.com/in/amartya-jha",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/codeant-ai"
+      },
+      {
+        "name": "Chinmay Bharti",
+        "role": "Co-Founder & CTO (ex-HFT, IIT Bombay EE)",
+        "linkedin": "https://www.linkedin.com/in/chinmay-bharti",
+        "twitter": "https://x.com/chhinna00",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/codeant-ai"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "DISQUALIFIED: CodeAnt AI already holds SOC 2 Type II, HIPAA, GDPR, and PCI DSS certifications. Not a prospect for initial SOC 2 services."
+  },
+  {
+    "slug": "carma",
+    "name": "Carma",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Carma Trust Center (Vanta-powered) shows active SOC 2 Type II audit with continuous monitoring of all security controls",
+        "source_url": "https://trust.joincarma.com/"
+      },
+      {
+        "signal": "Trust center publicly accessible at trust.joincarma.com — audit underway but not completed",
+        "source_url": "https://trust.joincarma.com/controls"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: Founding Head of Engineering (React/Node/NestJS/PostgreSQL/AWS) — $200K-$250K + 3-5% equity",
+      "Hiring: Founding Full-Stack Engineer (React/Node/NestJS/PostgreSQL/AWS) — $175K-$225K + 2-3% equity",
+      "Stack explicitly lists AWS (ECS Fargate, RDS, S3, Bedrock, WAF) + Terraform"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 5500000,
+      "source_url": "https://tracxn.com/d/companies/carma/__gnd7cghrX8ii-nvbVnfFMtGDjNMQE7tLKbwOqU2Obe4/funding-and-investors"
+    },
+    "aws_native": "yes",
+    "aws_evidence": "Job postings explicitly list AWS (ECS Fargate, RDS, S3, Bedrock, WAF) + Terraform as core infrastructure stack",
+    "contacts": [
+      {
+        "name": "Muhammad Alasgarli",
+        "role": "Co-Founder & CEO (ex-investment banking M&A/Restructuring)",
+        "linkedin": "https://www.linkedin.com/in/muhammadalasgarli",
+        "twitter": null,
+        "email": "suleyman@joincarma.com",
+        "source": "https://www.ycombinator.com/companies/carma/jobs"
+      },
+      {
+        "name": "Suleyman Alasgarli",
+        "role": "Co-Founder & Chief Growth Officer",
+        "linkedin": "https://www.linkedin.com/in/salasgarli",
+        "twitter": null,
+        "email": "suleyman@joincarma.com",
+        "source": "https://www.ycombinator.com/companies/carma/jobs"
+      }
+    ],
+    "fit_score": 45,
+    "pitch_note": "Carma already has SOC 2 Type II audit in progress via Vanta. They may need an attestation partner/auditor if their current engagement is incomplete, or could use help accelerating. Lower priority as audit is underway. Monitor for Type I → Type II upgrade need."
+  },
+  {
+    "slug": "offdeal",
+    "name": "OffDeal",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust page, /security page, or public compliance certification found for offdeal.io",
+        "source_url": "https://offdeal.io/"
+      },
+      {
+        "signal": "Handles sensitive M&A financial data for SMBs (revenue, valuations, deal terms) — investment banking buyers and their SMB clients expect vendor security attestation",
+        "source_url": "https://offdeal.io/news/offdeal-series-a-funding-radical-ventures-2025"
+      }
+    ],
+    "hiring_signals": [
+      "Hiring: 2 Full Stack Engineer roles (New Grad and Senior) in New York — no security/DevOps/GRC roles"
+    ],
+    "funding": {
+      "stage": "Series A",
+      "total_usd_estimate": 17200000,
+      "source_url": "https://offdeal.io/news/offdeal-series-a-funding-radical-ventures-2025"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS references found in public job posts or documentation; CTO Alston Lin has cloud-native background (Meta, Google, PagerDuty)",
+    "contacts": [
+      {
+        "name": "Ori Eldarov",
+        "role": "Co-Founder & CEO (Harvard MBA, ex-banker)",
+        "linkedin": "https://www.linkedin.com/in/eldarov",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/offdeal"
+      },
+      {
+        "name": "Alston Lin",
+        "role": "Co-Founder & CTO (ex-Meta, Google, PagerDuty)",
+        "linkedin": "https://www.linkedin.com/in/alstonlin/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/offdeal"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "OffDeal is a Series A fintech ($17.2M raised) acting as an AI investment bank for SMB M&A — handles confidential financial data. No SOC 2 found. With Radical Ventures backing and 30+ live transactions, enterprise and institutional buyers will start requiring attestation. Pitch: 'Your Wall Street and institutional counterparties increasingly require SOC 2 Type I before sharing deal data — we can get you audit-ready while you scale.'"
+  }
+]

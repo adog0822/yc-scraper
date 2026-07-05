@@ -1,0 +1,74 @@
+{
+  "slug": "mjd-advisors",
+  "name": "MJD Advisors",
+  "website": "https://www.mjd.cpa/",
+  "hq": "Des Moines, IA",
+  "founded": "2021",
+  "team_size_estimate": "~7 employees (5-10 range; staff more than doubled in 2023)",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "SOC-only boutique CPA firm serving 'software and cloud companies'; homepage testimonials are all SaaS/tech startups (Bonfire, Trovata, Pipedream, Weglot, Wednesday)",
+      "source_url": "https://www.mjd.cpa/"
+    },
+    {
+      "signal": "Fixed-fee pricing aimed at first-time SOC 2 startups: Type I $8K-$20K, Type II $15K-$35K, no hourly billing; targets 'tech startups and mid-stage SaaS companies seeking affordable first SOC 2 audits'",
+      "source_url": "https://soc2auditors.org/auditors/mjd-advisors/"
+    },
+    {
+      "signal": "CEO Mike DeKock co-presented with Drata on 'what SOC 2 readiness actually looks like for startups' and appears on podcasts about simplifying tech compliance (Brains Byte Back)",
+      "source_url": "https://sociable.co/brains-byte-back/not-your-typical-cpa-firm-a-ceo-on-a-mission-to-guide-companies-through-the-ever-changing-world-of-tech-compliance-brains-byte-back-podcast/"
+    },
+    {
+      "signal": "Firm does only SOC 1/2/2+/3 engagements for technology companies — no tax, no financial audit; completed 300+ SOC 2 reports by 2023; named Accounting Today 2026 Best Firms for Technology",
+      "source_url": "https://drata.com/blog/mjd-advisors"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Auditor Alliance directory member)",
+    "Vanta (listed Vanta Audit Partner per prior research notes; not independently re-verified on vanta.com)"
+  ],
+  "aws_cloud_expertise": "Third-party auditor profile credits MJD with fluency in 'cloud-native, AWS/GCP/Azure, containerized environments'; firm site emphasizes 'modern tech stack' and integrating the client's compliance platform and internal systems into the audit (source: https://soc2auditors.org/auditors/mjd-advisors/)",
+  "services": [
+    "SOC 1 examinations",
+    "SOC 2 Type I and Type II examinations (fixed-fee)",
+    "SOC 2+ (additional frameworks mapped into SOC 2)",
+    "SOC 3 reports",
+    "SOC 2 readiness assessments"
+  ],
+  "contacts": [
+    {
+      "name": "Mike DeKock",
+      "role": "Founder & CEO",
+      "linkedin": "https://www.linkedin.com/in/mike-dekock-7325a654/",
+      "twitter": null,
+      "email": "info@mjd.cpa",
+      "phone": null,
+      "source": "https://www.mjd.cpa/ (firm public email) and https://www.linkedin.com/in/mike-dekock-7325a654/"
+    },
+    {
+      "name": "Chris Giles, CPA",
+      "role": "Senior Manager",
+      "linkedin": "https://www.linkedin.com/in/chris-giles-cpa-812567121/",
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.linkedin.com/in/chris-giles-cpa-812567121/"
+    }
+  ],
+  "fit_score": 95,
+  "partnership_angle": "Referral partner + design-partner feeder — near-perfect profile: ~7-person founder-led SOC-only shop that lives entirely in the first-time-SOC-2 startup segment LoxeAI targets. They already operate inside GRC automation ecosystems (Drata Auditor Alliance, Vanta partner) and publicly celebrate tooling that streamlines evidence collection, so an AWS-native pre-audit scan slots naturally in front of their fixed-fee Type 2 engagements. Mike DeKock is content-forward (podcasts, Accounting Today columns, Drata webinars), making him both reachable and a high-leverage amplifier if he validates the scan.",
+  "pitch_note": "Mike, you built MJD to make SOC 2 predictable for first-time startups — LoxeAI is trying to do the same one step earlier. It's an AWS-native readiness scan; we'd love 30 minutes for you to run it against a sandbox AWS account and pressure-test what it flags against what your auditors actually see in fieldwork. If it holds up, your pre-audit pipeline gets a simple play: 'run this scan first — it gets you ~80% ready,' which means cleaner fixed-fee engagements for MJD and fewer stalled readiness phases.",
+  "source_urls": [
+    "https://www.mjd.cpa/",
+    "https://www.mjd.cpa/about-us",
+    "https://soc2auditors.org/auditors/mjd-advisors/",
+    "https://drata.com/partners/audit-alliance/directory/mjd-advisors-llc",
+    "https://drata.com/blog/mjd-advisors",
+    "https://www.linkedin.com/company/mjd-advisors",
+    "https://www.linkedin.com/in/mike-dekock-7325a654/",
+    "https://www.linkedin.com/in/chris-giles-cpa-812567121/",
+    "https://sociable.co/brains-byte-back/not-your-typical-cpa-firm-a-ceo-on-a-mission-to-guide-companies-through-the-ever-changing-world-of-tech-compliance-brains-byte-back-podcast/",
+    "https://www.accountingtoday.com/author/mike-dekock"
+  ]
+}

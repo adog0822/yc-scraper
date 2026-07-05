@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "finto-de",
+  "name": "Finto",
+  "website": "https://www.gofinto.com/",
+  "one_liner": "AI accounting for enterprise finance teams",
+  "team_size": 7,
+  "batch": "Summer 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "Fintech",
+   "B2B",
+   "Enterprise",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Finance and Accounting"
+  ],
+  "is_hiring": true,
+  "locations": "Munich, BY, Germany",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "consul",
+  "name": "Consul",
+  "website": "https://onconsul.com",
+  "one_liner": "The Stablecoin Payouts Platform",
+  "team_size": 2,
+  "batch": "Winter 2024",
+  "tags": [
+   "Fintech",
+   "Payments"
+  ],
+  "industries": [
+   "Fintech",
+   "Payments"
+  ],
+  "is_hiring": false,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "risotto",
+  "name": "Risotto",
+  "website": "https://tryrisotto.com",
+  "one_liner": "Risotto auto-solves IT support requests using AI",
+  "team_size": 3,
+  "batch": "Winter 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "B2B",
+   "Compliance",
+   "Security",
+   "Enterprise"
+  ],
+  "industries": [
+   "B2B",
+   "Operations"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA; Remote",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "axiom",
+  "name": "Axiom",
+  "website": "https://axiom.trade",
+  "one_liner": "Trade memecoins, perpetuals, and earn yield.",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Fintech",
+   "Crypto / Web3",
+   "Consumer Finance",
+   "Trading"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": true,
+  "locations": "",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "karsa",
+  "name": "Karsa",
+  "website": "https://gokarsa.com/",
+  "one_liner": "Stablecoin neobank for emerging markets",
+  "team_size": 2,
+  "batch": "Winter 2025",
+  "tags": [
+   "Fintech",
+   "Emerging Markets",
+   "Cryptocurrency"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 55
+ },
+ {
+  "slug": "avora",
+  "name": "Avora",
+  "website": "https://www.getavora.ai",
+  "one_liner": "Agents for dental operations",
+  "team_size": 4,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "keye",
+  "name": "Keye",
+  "website": "https://www.keye.co",
+  "one_liner": "The Smartest Private Equity Investor",
+  "team_size": 3,
+  "batch": "Fall 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Finance",
+   "Investing",
+   "Enterprise Software",
+   "AI"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York, NY, USA",
+  "soc2_prior": 50
+ },
+ {
+  "slug": "collectwise",
+  "name": "CollectWise",
+  "website": "https://collectwise.com/",
+  "one_liner": "Automating consumer debt collection with AI",
+  "team_size": 8,
+  "batch": "Fall 2024",
+  "tags": [],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 50
+ }
+]

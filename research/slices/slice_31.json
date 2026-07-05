@@ -1,0 +1,132 @@
+[
+ {
+  "slug": "origin-bio",
+  "name": "Origin",
+  "website": "https://origin.bio/",
+  "one_liner": "AI and Data for Cancer Therapeutics",
+  "team_size": 4,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Drug Discovery and Delivery"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "panta",
+  "name": "Panta",
+  "website": "https://pantainsure.com",
+  "one_liner": "AI Native Commercial Insurance Brokerage ",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Fintech",
+   "Insurance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "docura-health",
+  "name": "Docura Health",
+  "website": "https://docurahealth.com",
+  "one_liner": "AI-Native Med-Legal Firm",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "scheduling-wizard",
+  "name": "Scheduling Wizard",
+  "website": "https://www.schedulingwiz.com",
+  "one_liner": "Logistics infrastructure to modernize healthcare operations",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "mango-medical-inc",
+  "name": "Mango Medical",
+  "website": "https://mangomedical.io",
+  "one_liner": "Foundation models for planning orthopedic surgery",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Healthcare IT"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "opalite-health",
+  "name": "Opalite Health",
+  "website": "http://opalitehealth.com/",
+  "one_liner": "Helping Healthcare Providers Speak Any Language ",
+  "team_size": 3,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "instinct-xyz",
+  "name": "Instinct",
+  "website": "https://instinct.xyz",
+  "one_liner": "Trade your instinct",
+  "team_size": 5,
+  "batch": "Winter 2026",
+  "tags": [
+   "Artificial Intelligence",
+   "Machine Learning",
+   "Trading",
+   "Cryptocurrency"
+  ],
+  "industries": [
+   "Fintech"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ },
+ {
+  "slug": "prana-health",
+  "name": "Prana",
+  "website": "https://pranadoc.com",
+  "one_liner": "An AI primary care doctor in your pocket",
+  "team_size": 4,
+  "batch": "Winter 2026",
+  "tags": [],
+  "industries": [
+   "Healthcare",
+   "Consumer Health and Wellness"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 40
+ }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "aegis",
+    "name": "Aegis",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "HIPAA Compliant badge monitored by Oneleet shown on homepage, but no SOC 2 certification found on website or public trust pages",
+        "source_url": "https://aegishealth.us/"
+      },
+      {
+        "signal": "Healthcare AI handling denied insurance claims for providers — regulated buyers will demand SOC 2 before signing",
+        "source_url": "https://www.ycombinator.com/companies/aegis"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform as of research date",
+      "3-person team (Krishang Todi CEO, Aarav Bajaj, Dhanya Shah) — no dedicated security or DevOps hire yet"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/aegis-yc-x25"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS references found on website or job postings; infrastructure details not publicly disclosed",
+    "contacts": [
+      {
+        "name": "Krishang Todi",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/krishang-todi-a6525b135/",
+        "twitter": null,
+        "email": "founders@aegishealth.us",
+        "source": "https://www.ycombinator.com/companies/aegis"
+      },
+      {
+        "name": "Aarav Bajaj",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/aarav-bajaj-408ab01b1/",
+        "twitter": null,
+        "email": "founders@aegishealth.us",
+        "source": "https://www.ycombinator.com/companies/aegis"
+      },
+      {
+        "name": "Dhanya Shah",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/dhanya-shah-97878835b/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/aegis"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Aegis processes sensitive PHI for health insurance denial appeals — their hospital and provider clients will gate purchasing on SOC 2 Type I. They have HIPAA monitoring via Oneleet but no SOC 2 yet. A 3-person YC X25 team with no security hire is a prime candidate: pitch as the fastest path to enterprise sales readiness before regulated provider customers stall deals."
+  },
+  {
+    "slug": "finaldose",
+    "name": "FinalDose",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security/trust page found on finaldose.ai; website appears minimal (fetch failed, no public compliance page indexed)",
+        "source_url": "https://finaldose.ai/"
+      },
+      {
+        "signal": "Therapeutics/gene therapy company — primary compliance focus would be FDA/GMP, not SOC 2; SaaS compliance less relevant for current stage",
+        "source_url": "https://www.ycombinator.com/companies/finaldose"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "5-person team of Oxford PhDs (Jeff Liu CEO, Li-Yao Huang CSO, Steven Lin CTO) — biotech/lab focus, not SaaS"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/finaldose"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS or cloud infrastructure mentions found in any public source",
+    "contacts": [
+      {
+        "name": "Jeff Liu",
+        "role": "CEO",
+        "linkedin": "https://www.linkedin.com/in/jeff-liu-dphil-194a1372/",
+        "twitter": null,
+        "email": "founders@finaldose.ai",
+        "source": "https://www.ycombinator.com/companies/finaldose"
+      },
+      {
+        "name": "Li-Yao Huang",
+        "role": "CSO",
+        "linkedin": "https://www.linkedin.com/in/li-yao-huang-13676b1b2",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/finaldose"
+      },
+      {
+        "name": "Steven Lin",
+        "role": "CTO",
+        "linkedin": "https://www.linkedin.com/in/steven-shang-kuan-lin-b8438196/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/finaldose"
+      }
+    ],
+    "fit_score": 22,
+    "pitch_note": "FinalDose is a DNA therapeutics/biotech company, not a SaaS vendor. SOC 2 is not a standard requirement for this category — their buyers (pharma/biotech partners) would require FDA/GMP compliance, not AICPA audit frameworks. Poor ICP fit; do not prioritize."
+  },
+  {
+    "slug": "klarify",
+    "name": "Klarify",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "HIPAA, PIPEDA, PHIPA compliant via self-attestation on homepage, but no SOC 2 Type I or II found in any public source or trust page",
+        "source_url": "https://www.klarify.ca/"
+      },
+      {
+        "signal": "Founderland article confirms YC Spring 2026 batch with ~6,000 therapists using the tool — at this scale, enterprise/group practices will require third-party audit",
+        "source_url": "https://www.founderland.ai/articles/yc-backed-klarify-launches-ai-agent-to-automate-therapist-ad-mpjhsnoy"
+      },
+      {
+        "signal": "Privacy policy page published; no external audit certification referenced",
+        "source_url": "https://www.klarify.ca/legal/privacy-policy"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "4-person team; Moody Abdul (CEO, ex-LinkedIn) and Alexander Bergholm (CTO, ex-Workday LLM infra) — no security/GRC role yet"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://pitchbook.com/profiles/company/718309-18"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS mentions found on website, job listings, or in any searched source; Alexander Bergholm has Workday (cloud) infrastructure background suggesting cloud-native approach",
+    "contacts": [
+      {
+        "name": "Moody Abdul",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/moodyabdul",
+        "twitter": "https://twitter.com/MoodyAbdulf",
+        "email": "info@klarify.ca",
+        "source": "https://www.ycombinator.com/companies/klarify"
+      },
+      {
+        "name": "Alexander Bergholm",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/bergholmalexander/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/klarify"
+      }
+    ],
+    "fit_score": 75,
+    "pitch_note": "Klarify is an AI agent for therapists handling session content and clinical notes — a regulated healthcare workflow that touches PHI. With 6,000 therapists and growing, group practices and EHR integrations will require SOC 2. They have HIPAA self-attestation only; no third-party audit. Pitch as the credibility unlock that lets them move upmarket from solo practitioners to multi-location clinics and enterprise health systems."
+  },
+  {
+    "slug": "zolvo",
+    "name": "Zolvo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on zolvo.com, YC listing, or launch post; fintech AI handling invoices, reconciliation, and collections for commercial lenders",
+        "source_url": "https://zolvo.com/"
+      },
+      {
+        "signal": "YC launch post notes first client (Chubb-level enterprise) paid before product existed — regulated lenders will require SOC 2 as contracts scale",
+        "source_url": "https://www.ycombinator.com/launches/Q8P-zolvo-ai-that-automates-servicing-for-commercial-lenders"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "3-person team; Tony Montes CTO has AI/ML infrastructure background from Domu (YC S24) — infra-capable but no dedicated security role"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/zolvo"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "YC bookface images served from bookface-images.s3.amazonaws.com; Tony Montes built voice AI infrastructure at scale at Domu (YC S24) — implies cloud-native AWS-style deployment",
+    "contacts": [
+      {
+        "name": "Isabela Rodriguez",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/isabela-rodriguez-438785170/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/zolvo"
+      },
+      {
+        "name": "Tony Montes",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/t-montes",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/zolvo"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Zolvo automates back-office for commercial lenders — factoring, ABL, loan servicing. Their clients (lenders like Chubb) are regulated financial institutions that will require SOC 2 before expanding data access. No compliance certifications found publicly. A 3-person YC P26 team with a fast-moving CTO is ideal: pitch SOC 2 Type I as the gate between their first enterprise contract and their next ten."
+  },
+  {
+    "slug": "hevn-inc",
+    "name": "HEVN, inc",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security certification found on gethevn.com or any public source; fintech handling cross-border payroll and payments for businesses and AI agents",
+        "source_url": "https://gethevn.com/"
+      },
+      {
+        "signal": "HEVN explicitly works with regulated partner banks and MSBs — their institutional banking partners will expect HEVN to carry SOC 2 as a vendor",
+        "source_url": "https://gethevn.com/"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "4-person team: Peter Volnov (CEO), Nik Briuzgin (CPO), Pavel Mitsevich (CMO), Andrei Zhevlakov (CTO) — no GRC, compliance, or security hire"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/hevn-inc"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Payroll and payments API/CLI product suggests cloud-native infrastructure; no explicit AWS mention found but fintech payments infrastructure typically runs on AWS or GCP",
+    "contacts": [
+      {
+        "name": "Peter Volnov",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/pvolnov",
+        "twitter": "https://twitter.com/p_volnov",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hevn-inc"
+      },
+      {
+        "name": "Andrei Zhevlakov",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/azbang",
+        "twitter": "https://twitter.com/azbang_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/hevn-inc"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "HEVN runs global payroll and payments for businesses and AI agents across 82 countries — processing real financial transactions. Their regulated banking partners and enterprise clients will demand SOC 2 as a vendor qualification. No public compliance signals found. Pitch to the CTO (Andrei Zhevlakov) that SOC 2 Type I is the credibility signal that unlocks bank partnership and enterprise fintech contracts."
+  },
+  {
+    "slug": "kelai",
+    "name": "KelAI",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or security page found on kelaitech.com or any public source; AI research platform for hedge funds and institutional investors handling proprietary trading data",
+        "source_url": "https://kelaitech.com/"
+      },
+      {
+        "signal": "KelAI launch post notes signals running in production with an institutional investor since October 2025 — institutional allocators require vendor security attestations",
+        "source_url": "https://www.ycombinator.com/launches/QXP-kelai-autonomous-ai-research-engine-for-hedge-funds"
+      }
+    ],
+    "hiring_signals": [
+      "KelAI website lists open roles: senior ML engineer, quant engineer (contact@kelaicapital.com) — no security or compliance role listed",
+      "No open jobs on YC platform"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/kelai/__0egodJsIvvCBzkIEmnNYrMDrfsXBoMm6_YH2XmzaBSI/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No AWS or cloud infrastructure mentions found in any public source; ML/quant platform likely cloud-native but stack not disclosed",
+    "contacts": [
+      {
+        "name": "Jeremie Cohen",
+        "role": "CEO & Founder",
+        "linkedin": "https://www.linkedin.com/in/jeremcoh/",
+        "twitter": null,
+        "email": "contact@kelaicapital.com",
+        "source": "https://www.ycombinator.com/companies/kelai"
+      }
+    ],
+    "fit_score": 76,
+    "pitch_note": "KelAI serves hedge funds and institutional investors with AI-driven alpha research — handling proprietary market data and trading signals. Institutional allocators and prime brokers will require SOC 2 or equivalent before sharing data. Jeremie Cohen (ex-WorldQuant, ex-Millennium) understands compliance culture; pitch SOC 2 Type I as the enterprise sales prerequisite their buy-side clients will demand before scale."
+  },
+  {
+    "slug": "kimpton-ai",
+    "name": "Kimpton AI",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Security page explicitly states SOC 2 Type II audit is 'in review'; live trust center at trust.kimpton.ai with real-time compliance status and controls matrix",
+        "source_url": "https://kimpton.ai/security"
+      },
+      {
+        "signal": "AES-256 at rest, TLS 1.2+ in transit, Auth0 MFA, tenant isolation — structured for enterprise institutional investors ($1B–$10B AUM funds)",
+        "source_url": "https://kimpton.ai/home"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "5-person team: Jack Zumwalt (CEO, ex-Goldman), Mauricio Ortiz (CEO, ex-Goldman), Adrian Del Bosque (Founding Engineer, ex-SpaceX, Senior Cloud & Platform Engineer at Vistra Energy) — strong infra background"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/kimpton-ai"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Adrian Del Bosque has Senior Cloud & Platform Engineer background; SOC 2 compliant providers on US-based infrastructure stated on security page; no explicit AWS branding but cloud-native posture confirmed",
+    "contacts": [
+      {
+        "name": "Jack Zumwalt",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/jack-zumwalt/",
+        "twitter": "https://twitter.com/jackzumwalt",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kimpton-ai"
+      },
+      {
+        "name": "Mauricio Ortiz",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/ortizmauricio01/",
+        "twitter": "https://twitter.com/ortizmauricio_",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kimpton-ai"
+      },
+      {
+        "name": "Adrian Del Bosque",
+        "role": "Founding Engineer & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adriandelbosque/",
+        "twitter": "https://twitter.com/adriandelb",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/kimpton-ai"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Kimpton AI already has SOC 2 Type II in progress with a live trust center — they are actively self-managing compliance. They may already have an auditor engaged. Approach only if they have not yet selected an attestation firm; pitch speed and cost advantage for Type I before the Type II window closes. Lower priority than companies with no compliance motion started."
+  },
+  {
+    "slug": "voquill",
+    "name": "Voquill",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Voquill homepage explicitly states SOC 2 'In progress' alongside HIPAA 'Compliant' and CAP 'Compliant' under security badges",
+        "source_url": "https://voquill.com/"
+      },
+      {
+        "signal": "Serving pathologists at Fortune 500 labs (Mayo Clinic, Quest, Labcorp via prior employer Techcyte) — lab and hospital procurement requires SOC 2 before vendor approval",
+        "source_url": "https://neuronfeed.com/startups/voquill"
+      }
+    ],
+    "hiring_signals": [
+      "No open jobs on YC platform",
+      "3-person team: Michael Gibson (CEO, ex-VP Engineering Techcyte), Henry Habib (COO, ex-Oliver Wyman), Josiah Saunders (CTO, ex-Techcyte, founding eng Relay Health YC S22) — strong engineering background but no dedicated compliance hire"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/voquill"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "YC profile image URLs reference AWS us-west-2 region (bookface-images.s3.us-west-2.amazonaws.com); Josiah Saunders has Techcyte background deploying digital pathology at Mayo Clinic — enterprise medical lab integrations typically require AWS or Azure",
+    "contacts": [
+      {
+        "name": "Michael Gibson",
+        "role": "CEO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/michael--gibson/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/voquill"
+      },
+      {
+        "name": "Henry Habib",
+        "role": "COO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/hasanainhn",
+        "twitter": "https://x.com/HenryHabibAI",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/voquill"
+      },
+      {
+        "name": "Josiah Saunders",
+        "role": "CTO & Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/josiah-saunders/",
+        "twitter": "https://x.com/josiahsrc",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/voquill"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Voquill is an AI scribe for pathologists at major reference labs — HIPAA and CAP compliant with SOC 2 explicitly listed as 'in progress' on their homepage. They have the intent but no auditor confirmed publicly. Their buyers (Mayo Clinic, Quest, Labcorp-tier labs) require SOC 2 as a vendor prerequisite. Pitch to CTO Josiah Saunders: position as the fastest path to completing what they've already started, before the next enterprise lab deal gets blocked at procurement."
+  }
+]

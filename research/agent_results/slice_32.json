@@ -1,0 +1,415 @@
+[
+  {
+    "slug": "patientdeskai",
+    "name": "Patientdesk.ai",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust center, or compliance badge found on patientdesk.ai website; handles PHI and dental practice data for HIPAA-covered entities, which typically triggers SOC 2 pressure from customers",
+        "source_url": "https://patientdesk.ai/"
+      },
+      {
+        "signal": "Raised $1M pre-seed (Feb 2026), deployed in 60+ US/UK/AU clinics — enterprise dental groups will demand SOC 2 before signing",
+        "source_url": "https://theaiinsider.tech/2026/02/25/patientdesk-ai-raises-1m-pre-seed-backed-by-y-combinator-to-modernize-dental-front-desks/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles listed on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://theaiinsider.tech/2026/02/25/patientdesk-ai-raises-1m-pre-seed-backed-by-y-combinator-to-modernize-dental-front-desks/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed on website or job postings",
+    "contacts": [
+      {
+        "name": "Oncel Ozgul",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/oncelozgul/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/patientdeskai"
+      },
+      {
+        "name": "Emre Kaplaner",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/emre-kaplaner-7b3a3b15b/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/patientdeskai"
+      },
+      {
+        "name": "Fikri San Koktas",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/fikri-san-koktas-47a73b1ab/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/patientdeskai"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Healthcare AI handling real PHI across dental practices in three countries — SOC 2 demand from enterprise dental groups is imminent. No evidence of existing SOC 2. Team of 5, just raised $1M, will need compliance to close larger DSO contracts. Lead with HIPAA-aligned SOC 2 Type I path."
+  },
+  {
+    "slug": "valence",
+    "name": "Valence",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "Search for 'Valence.trade SOC 2' returns results for Valence Security (valencesecurity.com), a different company with SOC 2 Type II — not Valence (valence.trade). No trust page or security page found at valence.trade",
+        "source_url": "https://valence.trade"
+      },
+      {
+        "signal": "Y Combinator W26 company; 3-person team, no public compliance documentation found",
+        "source_url": "https://www.ycombinator.com/companies/valence"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles listed on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC only)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/valence"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No infrastructure details disclosed publicly; prediction markets trading platform — likely cloud-based but provider unknown",
+    "contacts": [
+      {
+        "name": "Daniel Kasabov-Nouvion",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://yctierlist.com/w26/valence/"
+      },
+      {
+        "name": "Neo Wang",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/valence"
+      },
+      {
+        "name": "Arthur Zhou",
+        "role": "Co-Founder",
+        "linkedin": null,
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/valence"
+      }
+    ],
+    "fit_score": 42,
+    "pitch_note": "Prediction markets trading platform in fintech/crypto space — regulatory pressure exists but SOC 2 is less of an immediate enterprise gating factor for crypto trading tools vs. SaaS. Very early (3 people, YC-only funding), no enterprise sales motion evident. Low priority for SOC 2 services outreach."
+  },
+  {
+    "slug": "ditto-biosciences",
+    "name": "Ditto Biosciences",
+    "soc2_status": "unlikely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Drug discovery / biotech research company — primary compliance framework would be HIPAA if handling patient data, but as a drug discovery AI tool for autoimmune diseases, SOC 2 is a lower near-term priority than regulatory submissions (FDA, IND). No SOC 2 evidence found.",
+        "source_url": "https://www.dittobio.com/"
+      },
+      {
+        "signal": "3-person PhD science team (W26), YC-only funding — primary focus is scientific R&D, not enterprise SaaS sales",
+        "source_url": "https://www.ycombinator.com/companies/ditto-biosciences"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles listed on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC only)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/ditto-biosciences"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Drug discovery AI companies commonly use AWS for compute-intensive genomics workloads; AWS dominates pharma/biotech sector. No explicit confirmation found.",
+    "contacts": [
+      {
+        "name": "Dennis Sun",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/dennis-sun-57740532/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ditto-biosciences"
+      },
+      {
+        "name": "Adair Borges",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/adair-borges-phd-729857222/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ditto-biosciences"
+      },
+      {
+        "name": "Emily Weiss",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/emily-weiss-939559124/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/ditto-biosciences"
+      }
+    ],
+    "fit_score": 28,
+    "pitch_note": "Drug discovery research company — SOC 2 is not a near-term priority for biotech R&D tools. Enterprise pharma customers may eventually require it, but the team of 3 PhD scientists is in early-stage research mode. Poor ICP fit for SOC 2 compliance services now."
+  },
+  {
+    "slug": "sequence-markets",
+    "name": "Sequence Markets",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 page, trust center, or security documentation found on sequencemkts.com. Site shows 'Coming Soon' for main product.",
+        "source_url": "https://sequencemkts.com/"
+      },
+      {
+        "signal": "Fintech/crypto execution layer handling trade execution across centralized exchanges and DeFi — institutional trading clients will require SOC 2 before integration",
+        "source_url": "https://www.ycombinator.com/companies/sequence-markets"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles listed on YC platform as of research date"
+    ],
+    "funding": {
+      "stage": "Pre-Seed (YC only)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/sequence-markets"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Muhammad Awan (CTO) has background as founding engineer at tech unicorn and built radar/sonar systems — likely cloud-native; low-latency execution infrastructure typically runs on AWS or GCP",
+    "contacts": [
+      {
+        "name": "Peter Bai",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/peter-bai/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/sequence-markets"
+      },
+      {
+        "name": "Muhammad Awan",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/muhammad-awan0/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.linkedin.com/in/muhammad-awan0/"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Fintech execution layer for crypto/tokenized asset trading — institutional clients and regulated exchange partners will demand SOC 2 attestation before signing on. No compliance documentation found; team of 5, YC-only funding. Approach CTO Muhammad Awan given technical infrastructure ownership. Pitch around fintech compliance readiness for institutional sales."
+  },
+  {
+    "slug": "variant",
+    "name": "Variant",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No trust page or SOC 2 documentation found at variant.com. B2B AI developer/design tool — enterprise customers will require SOC 2 before purchasing.",
+        "source_url": "https://www.ycombinator.com/companies/variant"
+      },
+      {
+        "signal": "Hiring senior engineers (Staff-level backend and frontend) at $180K-$235K — growing technical team but no security/compliance hire yet",
+        "source_url": "https://www.ycombinator.com/companies/variant/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Agentic Backend Engineer (Senior/Staff)",
+      "Founding Frontend Engineer (Staff)",
+      "Applied Researcher",
+      "Storyteller (Short-form)"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/variant"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Agentic AI backend — Daniel Bulhosa Solorzano previously worked on ML at Square; Founding Backend Engineer job description likely implies cloud-native AWS/GCP stack. No explicit confirmation.",
+    "contacts": [
+      {
+        "name": "Benjamin South Lee",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/hoopla",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/variant"
+      },
+      {
+        "name": "Daniel Bulhosa Solorzano",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/dbulhosa/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/variant"
+      }
+    ],
+    "fit_score": 65,
+    "pitch_note": "B2B AI developer/design tool targeting engineering and design teams — enterprise deals will gate on SOC 2. Actively hiring senior engineers (no security hire yet). 5-person team, F24 cohort. CTO Daniel Bulhosa Solorzano is the right contact. Pitch: enterprise customers are asking for it, here's the fastest path to Type I."
+  },
+  {
+    "slug": "telli",
+    "name": "telli",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "telli.com homepage displays SOC 2 compliance badge alongside GDPR, EU AI Act — suggests SOC 2 is claimed or in progress",
+        "source_url": "https://www.telli.com/"
+      },
+      {
+        "signal": "Trust/compliance email trust@telli.com listed on site; no dedicated trust center URL found publicly, suggesting attestation may be in process rather than completed",
+        "source_url": "https://www.telli.com/fundraise"
+      }
+    ],
+    "hiring_signals": [
+      "Head of Marketing",
+      "Founder's Associate (CTO Office)",
+      "Engineering, Voice AI",
+      "Engineering, Product",
+      "Account Executive (x2)",
+      "Success Engineer",
+      "Deployment Engineer",
+      "Founding SDR",
+      "Founding Design Engineer",
+      "Engineering, All"
+    ],
+    "funding": {
+      "stage": "Pre-Seed",
+      "total_usd_estimate": 3600000,
+      "source_url": "https://techcrunch.com/2025/04/15/telli-a-yc-alum-raises-pre-seed-funding-for-its-ai-voice-agents/"
+    },
+    "aws_native": "no",
+    "aws_evidence": "telli explicitly states EU hosting infrastructure on their website — based in Berlin and emphasizes EU data residency, indicating they likely use EU-based cloud (AWS EU regions or European providers). Not a disqualifier but worth noting.",
+    "contacts": [
+      {
+        "name": "Finn zur Muhlen",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/finnzurmuehlen/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/telli"
+      },
+      {
+        "name": "Seb Hapte-Selassie",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/sebhs/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/telli"
+      },
+      {
+        "name": "Philipp Baumanns",
+        "role": "Co-Founder / COO",
+        "linkedin": "https://www.linkedin.com/in/philipp-b-a2986ab9/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/telli"
+      }
+    ],
+    "fit_score": 50,
+    "pitch_note": "Telli shows SOC 2 badge on homepage, suggesting they are in process or have a partial attestation — could be a fit if they need help completing/formalizing their Type I report. EU-hosted and Berlin-based; SOC 2 is US-centric but increasingly required by US enterprise buyers. $3.6M raised, 16-person team hiring aggressively. Approach CTO Seb Hapte-Selassie. Lower priority if SOC 2 is already completed."
+  },
+  {
+    "slug": "moonset-health",
+    "name": "Moonset Health",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "Moonset Health Trust Center (trust.delve.co/moonset-health) confirms 'SOC 2 Type II controls currently in observation period' — attestation in progress, not yet complete",
+        "source_url": "https://trust.delve.co/moonset-health"
+      },
+      {
+        "signal": "moonsethealth.com/faq confirms SOC 2 Type II is in observation period with HIPAA self-attested; SOC 2 Type 2 Report for 2026 listed as available upon request",
+        "source_url": "https://www.moonsethealth.com/faq"
+      }
+    ],
+    "hiring_signals": [
+      "Founding CX Lead",
+      "Product Engineer"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/moonset-health"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No cloud provider disclosed on website or job postings; healthcare AI scribe for hospice/home health — cloud provider not specified",
+    "contacts": [
+      {
+        "name": "Kevin Bao",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/kevin-bao/",
+        "twitter": "@kzbao",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/moonset-health"
+      },
+      {
+        "name": "Tyler Rich",
+        "role": "Co-Founder",
+        "linkedin": "https://www.linkedin.com/in/tylerrich",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/moonset-health"
+      },
+      {
+        "name": "Sherril Wang",
+        "role": "Co-Founder / CPO",
+        "linkedin": "https://www.linkedin.com/in/sherrilwang",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/moonset-health"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "SOC 2 Type II is already in observation period via Delve — they have started the journey but may still need attestation services, audit prep support, or help formalizing controls. Healthcare AI for hospice/senior care means HIPAA-regulated buyers are primary customers. If their current provider is not meeting expectations or they need a formal Type I first, there's a conversation. Contact Kevin Bao (CTO)."
+  },
+  {
+    "slug": "openfunnel",
+    "name": "OpenFunnel",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "openfunnel.dev homepage footer displays AICPA SOC badge, indicating SOC 2 compliance is claimed or in process",
+        "source_url": "https://openfunnel.dev/"
+      },
+      {
+        "signal": "No dedicated trust center URL (e.g. trust.openfunnel.dev) found publicly — badge may indicate in-progress attestation rather than completed Type II report",
+        "source_url": "https://openfunnel.dev/"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer (AI + Backend)"
+    ],
+    "funding": {
+      "stage": "Seed (YC F24)",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/openfunnel"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Fenil Suchak (co-founder) scaled Oracle's 23ai Cloud DB across GCP, Azure, and AWS — multi-cloud experience suggests AWS likely in the stack. Enterprise tier offers 'On-Prem Deployment' option.",
+    "contacts": [
+      {
+        "name": "Aditya Lahiri",
+        "role": "Co-Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/aditya-lahiri-0b33261a/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/openfunnel"
+      },
+      {
+        "name": "Fenil Suchak",
+        "role": "Co-Founder / CTO",
+        "linkedin": "https://www.linkedin.com/in/fenilsuchak",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/openfunnel"
+      }
+    ],
+    "fit_score": 52,
+    "pitch_note": "B2B SaaS GTM intelligence tool with AICPA SOC badge on homepage — SOC 2 journey has started but may not be complete. 4-person team, one open engineering hire. Enterprise tier suggests enterprise sales motion. If they need audit readiness, gap assessment, or formal attestation support to close enterprise deals, there's a pitch. Approach Fenil Suchak (CTO) given cloud infrastructure background."
+  }
+]

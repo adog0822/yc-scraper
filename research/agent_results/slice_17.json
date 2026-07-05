@@ -1,0 +1,382 @@
+[
+  {
+    "slug": "trueclaim",
+    "name": "TrueClaim",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage explicitly states 'TrueClaim is SOC II Type II certified, undergoes regular audits, and adheres to the highest data protection and encryption standards.' Also undergoes yearly HIPAA audits.",
+        "source_url": "https://www.trytrueclaim.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Solutions Engineer (San Francisco, CA) - $120K-$160K",
+      "Product Engineer Full Stack (San Francisco, CA) - $140K-$180K",
+      "Health Plan Operations Specialist (San Francisco / Remote US) - $60K-$90K",
+      "No security/DevOps/GRC roles currently listed"
+    ],
+    "funding": {
+      "stage": "pre-seed",
+      "total_usd_estimate": 2100000,
+      "source_url": "https://www.trysignalbase.com/news/funding/trueclaim-secures-2.1-million-in-pre-seed-funding-to-revolutionize-healthcare-cost-reduction"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Barbora Howell",
+        "role": "CEO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/podzimkovab",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/trueclaim"
+      },
+      {
+        "name": "Bobby Bayer",
+        "role": "CTO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/rwbayer",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/trueclaim"
+      }
+    ],
+    "fit_score": 15,
+    "pitch_note": "DISQUALIFIED: TrueClaim is already SOC 2 Type II certified (explicitly stated on homepage). Do not pitch SOC 2 attestation services."
+  },
+  {
+    "slug": "healia",
+    "name": "Healia",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on website or in any public source. Health insurance product serving employers with sensitive PHI/PII data strongly implies enterprise buyer compliance requirements.",
+        "source_url": "https://www.healiahealth.com/"
+      },
+      {
+        "signal": "Raised $4.04M total (First Round Capital, GoAhead Ventures, North Coast Ventures, Pioneer Fund, YC) - growing enterprise-focused insurance product will face SOC 2 demands from employer clients.",
+        "source_url": "https://pitchbook.com/profiles/company/519592-24"
+      }
+    ],
+    "hiring_signals": [
+      "Head of Finance ($180K-$250K, Columbus OH)",
+      "Director of Account Management ($190K-$210K)",
+      "Account Manager ($160K-$170K)",
+      "Account Executive ($160K-$200K)",
+      "Senior Software Engineer Full Stack",
+      "Business Operations Specialist",
+      "No dedicated security/DevOps/GRC roles currently listed"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4040000,
+      "source_url": "https://pitchbook.com/profiles/company/519592-24"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Priyang Shah",
+        "role": "Founder / CEO",
+        "linkedin": "https://www.linkedin.com/in/priyangshah",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/healia"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Health insurance startup selling to employers - regulated buyers will demand SOC 2. No evidence of existing certification. Seed-funded with real revenue (50+ employer clients). Founder has deep insurance background (ex-Root Insurance). Pitch around enabling enterprise deals: 'Your employer clients will require SOC 2 before processing their employees health data - we can get you there fast.'"
+  },
+  {
+    "slug": "granza-bio",
+    "name": "Granza Bio",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 or IT security compliance information found on website or public sources. Company focuses on wet-lab oncology therapeutics research (not SaaS/data platform), making SOC 2 less likely to be a priority.",
+        "source_url": "https://www.granzabio.com/"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring (is_hiring: false per YC profile)",
+      "No open YC jobs listed"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 7640000,
+      "source_url": "https://techcrunch.com/2024/07/03/granza-bio-grabs-7m-seed-from-felicis-and-yc-to-advance-delivery-of-cancer-treatments/"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Ashwin Nandakumar",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ashwin-nandakumar-menon",
+        "twitter": "https://twitter.com/Menon_Ashwin",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/granza-bio"
+      },
+      {
+        "name": "Ashwin Jainarayanan",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/jainarayananak",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/granza-bio"
+      }
+    ],
+    "fit_score": 22,
+    "pitch_note": "Wrong ICP. Granza Bio is a wet-lab biotech therapeutics company building cancer treatments, not a SaaS/data platform with enterprise software buyers. SOC 2 is not applicable to their business model. Do not pitch."
+  },
+  {
+    "slug": "karoo",
+    "name": "Karoo",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website mentions 'bank-grade encryption' but no SOC 2 certification found. Consumer lending fintech handling personal financial data will face SOC 2 demands from bank/partner integration requirements.",
+        "source_url": "https://www.karoo.ca"
+      },
+      {
+        "signal": "All three founders come from Lendable (UK lending fintech) - experienced in regulated financial services, understand compliance needs.",
+        "source_url": "https://www.ycombinator.com/companies/karoo"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform",
+      "Very early stage team of 3 - no dedicated security hire yet"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/karoo/__0oncEUeeArNsoQid0hrwT1NXtZNJP2omWqRFadJkOOQ/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Jeanot Dawson",
+        "role": "CEO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/jeanot-dawson-67191b17",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/karoo"
+      },
+      {
+        "name": "Oliver Lambson",
+        "role": "CTO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/oliverlambson/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/karoo"
+      },
+      {
+        "name": "Hugo Markland",
+        "role": "Chief Capital Officer / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/hugo-markland-cfa-712409125/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/karoo"
+      }
+    ],
+    "fit_score": 55,
+    "pitch_note": "Consumer lending fintech targeting underserved Americans - any bank partner or financial institution integration will require SOC 2. No certification found. Only YC-funded so budget may be tight. Pitch: 'Lenders and financial partners you integrate with will require SOC 2 before live integration - we help early-stage fintech teams get certified fast without a full-time compliance hire.'"
+  },
+  {
+    "slug": "rally-3",
+    "name": "Rally",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Homepage header explicitly lists 'GDPR / SOC2 / ISO 27001' as compliance certifications.",
+        "source_url": "https://www.getrally.com/"
+      },
+      {
+        "signal": "Supabase customer story confirms Rally achieved SOC 2 compliance. Thiago Peres (CTO) stated: 'We got our SOC 2 in a week. We did the work upfront to put the safeguards in place.'",
+        "source_url": "https://supabase.com/customers/rally"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform",
+      "5-person team based in Berlin"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/rally/__77C_6jd9q53sPWDCryR74xg_9hnqJgVhLef53_9jS8g/funding-and-investors"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Rally uses Supabase for its entire backend. Supabase case study mentions 'zero downtime during incidents, even during upstream AWS outages' - indicating Supabase/Rally runs on AWS infrastructure.",
+    "contacts": [
+      {
+        "name": "Nick Telecki",
+        "role": "CEO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/nick-telecki",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rally-3"
+      },
+      {
+        "name": "Thiago Peres",
+        "role": "CTO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/thiagoperespm/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rally-3"
+      }
+    ],
+    "fit_score": 10,
+    "pitch_note": "DISQUALIFIED: Rally already holds SOC 2 certification, confirmed both on their homepage and in a Supabase customer case study. Also ISO 27001 and GDPR certified. Do not pitch."
+  },
+  {
+    "slug": "cardamon",
+    "name": "Cardamon",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Multiple sources confirm Cardamon is independently audited for SOC 2 Type 2 and certified to ISO 27001. The company is itself a compliance tool vendor and markets these certifications to enterprise clients.",
+        "source_url": "https://cardamon.ai/"
+      },
+      {
+        "signal": "Cardamon received ISO 27001 certification announcement published on their blog.",
+        "source_url": "https://cardamon.ai/articles/cardamon-receives-iso27001-certification"
+      },
+      {
+        "signal": "Microsoft AI Partnership Program member - further signals enterprise-grade compliance posture.",
+        "source_url": "https://fintech.global/2026/01/30/cardamon-partners-microsoft-to-scale-secure-ai-in-compliance/"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform",
+      "2-person founding team"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/cardamon"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": null,
+    "contacts": [
+      {
+        "name": "Areg Nzsdejan",
+        "role": "CEO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/areg-nzsdejan-85b894a1/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cardamon"
+      },
+      {
+        "name": "Dmytro Astakhov",
+        "role": "CTO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/dmytro-astakhov",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/cardamon"
+      }
+    ],
+    "fit_score": 5,
+    "pitch_note": "DISQUALIFIED: Cardamon is itself an AI compliance co-pilot for regulated financial businesses. They hold SOC 2 Type 2 and ISO 27001 certifications. They compete adjacent to your service and would never be a buyer."
+  },
+  {
+    "slug": "healthkey",
+    "name": "HealthKey",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "HealthKey has a public trust center at trust.oneleet.com/healthkey powered by Oneleet, indicating active compliance work is underway. Homepage states 'Security-first. HIPAA Compliant' and displays HIPAA and FHIR badges.",
+        "source_url": "https://gethealthkey.com/"
+      },
+      {
+        "signal": "A separate search result notes enterprise customers can 'request HealthKey's full security documentation, SOC 2 report, and penetration testing summary under NDA' - suggesting SOC 2 report exists or is in progress but not yet publicly available.",
+        "source_url": "https://gethealthkey.com/"
+      },
+      {
+        "signal": "Founder Josh Sabol previously worked as a Product Manager at AWS - company likely uses AWS infrastructure.",
+        "source_url": "https://www.ycombinator.com/companies/healthkey"
+      }
+    ],
+    "hiring_signals": [
+      "Account Executive Founding GTM (Austin TX, $160K-$180K)",
+      "Actively expanding go-to-market for clinical trial recruitment product",
+      "No security/DevOps/GRC roles listed - compliance likely handled by founders"
+    ],
+    "funding": {
+      "stage": "yc-only",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/healthkey"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CEO Josh Sabol was previously a Product Manager at AWS managing the ~$20B supply chain. Strong prior AWS affinity makes AWS the likely cloud of choice.",
+    "contacts": [
+      {
+        "name": "Josh Sabol",
+        "role": "CEO / Co-founder",
+        "linkedin": "https://www.linkedin.com/in/joshsabol",
+        "twitter": "https://twitter.com/JoshSabol",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/healthkey"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Strong lead. HealthKey accesses patient EHR data for clinical trials - a highly regulated space where hospital and pharma enterprise buyers will demand SOC 2. They have a trust center in progress (Oneleet) and reference SOC 2 reports available under NDA, suggesting SOC 2 work is underway but not yet complete. Founder is an ex-AWS PM. Pitch around speed-to-certification for healthcare AI dealing with clinical data: 'Your pharma and hospital partners will require a clean SOC 2 report before sharing EHR data - we can get you to Type I in weeks.'"
+  },
+  {
+    "slug": "mecha-health",
+    "name": "Mecha Health",
+    "soc2_status": "has_soc2",
+    "soc2_evidence": [
+      {
+        "signal": "Website explicitly states 'SOC 2 Type II compliant' under security features alongside 'HIPAA-ready' and 'End-to-end encryption'.",
+        "source_url": "https://www.mecha-health.ai/"
+      }
+    ],
+    "hiring_signals": [
+      "No jobs currently posted on YC platform",
+      "4-person founding team"
+    ],
+    "funding": {
+      "stage": "seed",
+      "total_usd_estimate": 4600000,
+      "source_url": "https://www.mecha-health.ai/blog/Mecha-raises-seed"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Website mentions 'Deploy anywhere' with 'Cloud or on-premise infrastructure' and 'Enterprise VPC ready' - cloud-agnostic offering, specific provider unknown.",
+    "contacts": [
+      {
+        "name": "Ahmed Abdulaal",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ahmed-abdulaal-5b8b6a295/",
+        "twitter": "https://twitter.com/AAY1993",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "name": "Hugo Fry",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/hugo-fry-825828271/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "name": "Ayodeji Ijishakin",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/ayodeji-ijishakin-b6208b1a9/",
+        "twitter": "https://twitter.com/AIjishakin",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mecha-health"
+      },
+      {
+        "name": "Nina Montana Brown",
+        "role": "Co-founder",
+        "linkedin": "https://www.linkedin.com/in/nina-montana-brown-6aa24b133/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mecha-health"
+      }
+    ],
+    "fit_score": 12,
+    "pitch_note": "DISQUALIFIED: Mecha Health explicitly claims SOC 2 Type II compliance on their website. Also HIPAA-ready. Do not pitch."
+  }
+]

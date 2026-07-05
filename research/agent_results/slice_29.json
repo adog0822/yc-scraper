@@ -1,0 +1,377 @@
+[
+  {
+    "slug": "abel-police",
+    "name": "Abel Police",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification found on abelpolice.com or any public trust page; website only mentions CJIS-compliant chat, not SOC 2",
+        "source_url": "https://abelpolice.com"
+      },
+      {
+        "signal": "Sells AI to police departments (government buyers); CJIS compliance mentioned but SOC 2 not yet evidenced; government/enterprise contracts will eventually require SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/abel-police"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board as of research date",
+      "CEO Daniel Francis stated publicly he would use $5M seed funding to hire engineers",
+      "Team size 5 — actively scaling post-seed"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 5000000,
+      "source_url": "https://techcrunch.com/2024/10/17/from-elon-musk-to-cop-car-chases-how-a-software-engineer-launched-a-police-ai-startup/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Police/public safety AI workloads on AWS are common (AWS CJIS-compliant infrastructure widely used in this sector); no direct Abel Police AWS confirmation found but highly likely given CJIS requirements and AWS's dominant position for law enforcement AI",
+    "contacts": [
+      {
+        "name": "Daniel Francis",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/daniel-francis/",
+        "twitter": "https://x.com/growing_daniel",
+        "email": null,
+        "source": "https://news.bensbites.com/posts/29056-abel-founded-by-daniel-francis-or-at-growing_daniel-on-x-to-build-ai-that-uses-body-cam-footage-and-other-data-to-fill-out-police-reports-raised-a-5m-seed"
+      }
+    ],
+    "fit_score": 62,
+    "pitch_note": "Abel Police sells AI to government (police departments) and has no SOC 2 evidenced. With $5M seed recently closed and active hiring, they are scaling into institutional contracts that will soon demand SOC 2 Type I. CJIS compliance is in scope but SOC 2 is the enterprise trust signal their buyers (city procurement offices, state agencies) increasingly require. Good timing to engage pre-audit."
+  },
+  {
+    "slug": "aminoanalytica",
+    "name": "AminoAnalytica",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on aminoanalytica.com or any public source; biotech/biodefense company — SOC 2 is less standard in this vertical than HIPAA or FedRAMP",
+        "source_url": "https://www.ycombinator.com/companies/aminoanalytica"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently hiring on YC jobs board",
+      "Team size 3 — very early stage",
+      "London-based; primarily academic/research profile"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.crunchbase.com/organization/aminoanalytica"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public infrastructure or stack information found; biotech/protein engineering workloads often use HPC or cloud ML services but no AWS-specific signal confirmed for AminoAnalytica",
+    "contacts": [
+      {
+        "name": "Abhi Rajendran",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/abhirajen/",
+        "twitter": "https://x.com/amino_abhi",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/aminoanalytica"
+      },
+      {
+        "name": "Adam Wu",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/akhwu/",
+        "twitter": "https://x.com/adaminoacid",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/aminoanalytica"
+      }
+    ],
+    "fit_score": 30,
+    "pitch_note": "AminoAnalytica is a biodefense/biotech protein engineering company with a 3-person team and only YC pre-seed funding. Their buyers are pharma/research organizations where SOC 2 is less the primary compliance gate (FDA, GxP, and biosafety matter more). Poor ICP fit — wrong vertical for SOC 2 compliance services and too early-stage to prioritize it."
+  },
+  {
+    "slug": "mito-health",
+    "name": "Mito Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website confirms HIPAA Authorization and Telehealth Consent language in checkout flow; HIPAA-covered entity handling PHI — SOC 2 commonly required alongside HIPAA by B2B health partners",
+        "source_url": "https://mitohealth.com"
+      },
+      {
+        "signal": "No SOC 2 trust page or certification found publicly; mitohealth.com/security returns 404",
+        "source_url": "https://mitohealth.com/security"
+      }
+    ],
+    "hiring_signals": [
+      "Not currently posting security or DevOps roles on YC board",
+      "Raised $2.2M seed round March 2025 — actively scaling",
+      "Consumer health with B2B lab marketplace model; enterprise partnerships will trigger SOC 2 demand"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 3500000,
+      "source_url": "https://www.linkedin.com/posts/y-combinator_mito-health-yc-s24-has-raised-an-additional-activity-7307792939659771905-xaDP"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Digital health / consumer health SaaS; HIPAA workloads on AWS are standard; no direct AWS-specific stack confirmation but highly probable given YC-era tech defaults",
+    "contacts": [
+      {
+        "name": "Kenneth Lou",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/kenneth-lou/",
+        "twitter": "https://x.com/kenneth_lou",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mito-health"
+      },
+      {
+        "name": "Joel Kek",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/joelkek/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/mito-health"
+      }
+    ],
+    "fit_score": 70,
+    "pitch_note": "Mito Health handles PHI through a HIPAA-governed lab testing marketplace; no SOC 2 evidenced despite recent $3.5M in funding and expansion to all 50 states. As they pursue B2B employer or insurer partnerships, SOC 2 Type I will be a procurement gate. CTO Joel Kek is the right contact for infra/compliance conversations."
+  },
+  {
+    "slug": "mage-legal",
+    "name": "Mage Legal",
+    "soc2_status": "in_progress",
+    "soc2_evidence": [
+      {
+        "signal": "magelegal.com schema/feature listing explicitly includes 'SOC 2 Type II security controls' as a product attribute, suggesting compliance is either achieved or being marketed as in-scope",
+        "source_url": "https://magelegal.com"
+      },
+      {
+        "signal": "No independent SOC 2 audit report, trust page, or attestation letter found publicly for Mage Legal (magelegal.com) — this is distinct from Mage AI (mage.ai) which IS SOC 2 Type II certified",
+        "source_url": "https://www.mage.ai/legal/soc2"
+      },
+      {
+        "signal": "Sells AI diligence to M&A/PE/law firms — regulated legal buyers will require SOC 2 as a procurement prerequisite",
+        "source_url": "https://www.ycombinator.com/companies/mage-legal"
+      }
+    ],
+    "hiring_signals": [
+      "Founding AI Engineer role open on YC board — $100K-$150K, 0.5%-2.5% equity",
+      "Founding Front End Engineer role open",
+      "Founding Design Engineer role open",
+      "No dedicated security/DevOps/GRC roles listed — compliance work likely falls on founders at this stage"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/mage-legal"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "No public stack information; legal AI SaaS integrating with Box, Dropbox, Google Drive data rooms — cloud provider unconfirmed",
+    "contacts": [
+      {
+        "name": "Raffi Isanians",
+        "role": "Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/raffi-isanians/",
+        "twitter": "https://x.com/RIsanians",
+        "email": "founders@magelegal.com",
+        "source": "https://www.ycombinator.com/companies/mage-legal"
+      }
+    ],
+    "fit_score": 72,
+    "pitch_note": "Mage Legal markets SOC 2 Type II controls as a feature but no public attestation exists — either they are in progress or leveraging the marketing language ahead of the audit. Their M&A/PE law firm buyers (Kirkland, Goodwin caliber) will demand SOC 2 before any enterprise contract. Founder Raffi Isanians has Big Law background and understands compliance requirements intuitively. Strong candidate for SOC 2 Type I as a first step toward Type II attestation."
+  },
+  {
+    "slug": "rescript",
+    "name": "Rescript",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 certification or trust page found at rescript.ai/security (404) or via public search",
+        "source_url": "https://rescript.ai"
+      },
+      {
+        "signal": "Sells to Fortune 100 compliance officers, AmLaw 200 law firms, and top-10 government relations firms — regulated enterprise buyers who typically require SOC 2",
+        "source_url": "https://www.ycombinator.com/companies/rescript"
+      },
+      {
+        "signal": "Company describes itself as profitable and backed by General Catalyst and Floodgate — at revenue scale with enterprise clients, SOC 2 is a near-term necessity",
+        "source_url": "https://www.ycombinator.com/companies/rescript/jobs"
+      }
+    ],
+    "hiring_signals": [
+      "Founding Engineer role open on YC board — $130K-$190K, 0.75%-2.75% equity",
+      "No dedicated security/GRC roles listed — early-stage team of 2"
+    ],
+    "funding": {
+      "stage": "Seed",
+      "total_usd_estimate": 1000000,
+      "source_url": "https://www.ycombinator.com/companies/rescript"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "AI SaaS scanning regulatory documents for Fortune 100 and federal compliance teams; CEO previously worked on AI for Air Force Cloud Computing Team (AWS context likely); no direct stack confirmation",
+    "contacts": [
+      {
+        "name": "Nikhil Ajjarapu",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/nikhil-ajjarapu/",
+        "twitter": "https://x.com/NikhilAjjarapu",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rescript"
+      },
+      {
+        "name": "Alexander Pesendorfer",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/alex-pesendorfer/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/rescript"
+      }
+    ],
+    "fit_score": 82,
+    "pitch_note": "Rescript is a profitable AI SaaS selling to Fortune 100 compliance officers, AmLaw 200 law firms, and federal government relations teams — some of the most SOC 2-sensitive buyers in existence. They have no SOC 2 evidenced despite serving regulated enterprise clients at scale. Backed by General Catalyst and Floodgate with real revenue, the business is ready for and likely already hearing SOC 2 requests from prospects. CTO Alexander Pesendorfer (Princeton CS, ex-derivatives markets) is the technical decision-maker. Top-tier lead."
+  },
+  {
+    "slug": "xtraffic",
+    "name": "XTraffic",
+    "soc2_status": "unknown",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 mention found on XTraffic.com or any public source; government/city infrastructure company — FedRAMP or FISMA may be more relevant than SOC 2 for municipal contracts",
+        "source_url": "https://www.ycombinator.com/companies/xtraffic"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board",
+      "Team size 3; early-stage government infrastructure startup"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://tracxn.com/d/companies/xtraffic/__WC4W_uXkVSpRzyYEYthbtUIh62LdPBKxJo8Qw4wjwJc/funding-and-investors"
+    },
+    "aws_native": "unknown",
+    "aws_evidence": "Traffic light control/embedded systems company; likely on-premise or edge computing rather than AWS cloud — no cloud infrastructure signals found",
+    "contacts": [
+      {
+        "name": "Everett Ivy",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/everett-ivy-b686b0248/",
+        "twitter": "https://x.com/XTrafficAI",
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/xtraffic"
+      },
+      {
+        "name": "Luke Adams",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/luke-adams-8528b72b1/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/xtraffic"
+      }
+    ],
+    "fit_score": 28,
+    "pitch_note": "XTraffic sells embedded traffic control software to municipalities — a hardware/edge computing product, not SaaS. Municipal government buyers typically require FedRAMP, StateRAMP, or CJIS rather than SOC 2. Only YC funding, no AWS signal, not hiring. Poor fit for SOC 2 compliance services."
+  },
+  {
+    "slug": "phases",
+    "name": "Phases",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "No SOC 2 trust page or certification found at phases.ai or via public search",
+        "source_url": "https://phases.ai"
+      },
+      {
+        "signal": "Automates clinical trial oversight and patient recruitment for pharmaceutical and biotech companies — heavily regulated buyers (FDA 21 CFR Part 11, GxP) who also increasingly require SOC 2 for SaaS vendors handling trial data",
+        "source_url": "https://www.ycombinator.com/companies/phases"
+      },
+      {
+        "signal": "Already live with customers including J&J and Syneos Health per founder background — enterprise pharma buyers require SOC 2 as vendor management prerequisite",
+        "source_url": "https://www.ycombinator.com/launches/NvZ-phases-automating-clinical-trials-with-ai-agents-starting-in-patient-recruitment"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board",
+      "Team size 3 — YC S25 very early stage",
+      "CTO (Jonathan van Wersch) previously at Meta and Improbable — ML/infra background suggests cloud-native build"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://www.ycombinator.com/companies/phases"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "CTO Anton Zaliznyi ex-Palantir (heavy AWS user); clinical trial AI SaaS — likely cloud-native; no direct AWS confirmation but Palantir and Meta alumni typically build on AWS or GCP",
+    "contacts": [
+      {
+        "name": "James Wall",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/j-m-wall/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/phases"
+      },
+      {
+        "name": "Jonathan van Wersch",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/jonathan-vw/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/phases"
+      },
+      {
+        "name": "Anton Zaliznyi",
+        "role": "Co-Founder & Chief AI Officer",
+        "linkedin": "https://www.linkedin.com/in/anton-zaliznyi/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/phases"
+      }
+    ],
+    "fit_score": 78,
+    "pitch_note": "Phases automates clinical trial oversight for pharma buyers (J&J, Syneos Health caliber) who require SOC 2 from every SaaS vendor in their supply chain. Brand new YC S25 company with no SOC 2 yet — ideal window to engage before they begin an expensive DIY compliance journey. CEO James Wall's clinical trial pedigree means he understands enterprise procurement gates. Engage CTO Jonathan van Wersch on the infrastructure/security discussion."
+  },
+  {
+    "slug": "avelis-health",
+    "name": "Avelis Health",
+    "soc2_status": "likely_needs",
+    "soc2_evidence": [
+      {
+        "signal": "Website claims 'HIPAA compliant enterprise security' but no SOC 2 certification or trust page found",
+        "source_url": "https://avelishealth.com"
+      },
+      {
+        "signal": "Audits medical claims for self-insured employers and health plans — sells directly into HR/benefits departments at large employers; SOC 2 is standard requirement for health data SaaS in this segment",
+        "source_url": "https://www.ycombinator.com/companies/avelis-health"
+      },
+      {
+        "signal": "Processes PHI at scale (medical claims, records requests, provider negotiations); HIPAA alone is insufficient for enterprise SaaS buyers who require SOC 2 Type II as vendor management standard",
+        "source_url": "https://urbangeekz.com/2025/06/avelis-health-secures-500k-from-y-combinator-to-reduce-patients-medical-bills/"
+      }
+    ],
+    "hiring_signals": [
+      "No open roles on YC jobs board",
+      "Team size 3 — very early stage YC S25",
+      "CEO Angel Onuoha is a 3x founder with prior fintech experience at Goldman Sachs, JPMorgan scale — understands enterprise procurement requirements"
+    ],
+    "funding": {
+      "stage": "Pre-Seed / YC",
+      "total_usd_estimate": 500000,
+      "source_url": "https://urbangeekz.com/2025/06/avelis-health-secures-500k-from-y-combinator-to-reduce-patients-medical-bills/"
+    },
+    "aws_native": "likely",
+    "aws_evidence": "Healthcare AI SaaS processing medical claims for large employers — HIPAA workloads on AWS are industry standard; no direct AWS confirmation but highly probable",
+    "contacts": [
+      {
+        "name": "Angel Onuoha",
+        "role": "Co-Founder & CEO",
+        "linkedin": "https://www.linkedin.com/in/angel-onuoha/",
+        "twitter": null,
+        "email": null,
+        "source": "https://www.ycombinator.com/companies/avelis-health"
+      },
+      {
+        "name": "Ahmad Shehu",
+        "role": "Co-Founder & CTO",
+        "linkedin": "https://www.linkedin.com/in/ahmad-shehu/",
+        "twitter": null,
+        "email": null,
+        "source": "https://uk.linkedin.com/in/ahmad-shehu"
+      }
+    ],
+    "fit_score": 80,
+    "pitch_note": "Avelis Health processes PHI-laden medical claims for self-insured employers and health plans — a segment where SOC 2 Type II is increasingly table stakes for vendor approval. They have HIPAA language on their site but no SOC 2, are fresh from YC S25, and are building enterprise partnerships at the earliest stage. CEO Angel Onuoha's fintech background (Goldman, JPMorgan partnerships) means he has lived SOC 2 demands from the buyer side and will prioritize it quickly. Strong timing for outreach."
+  }
+]

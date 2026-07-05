@@ -1,0 +1,156 @@
+[
+ {
+  "slug": "zeropath",
+  "name": "ZeroPath",
+  "website": "https://zeropath.com",
+  "one_liner": "Automatically find and fix your software vulnerabilities",
+  "team_size": 4,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Developer Tools",
+   "B2B",
+   "Security",
+   "Cybersecurity"
+  ],
+  "industries": [
+   "B2B",
+   "Security"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "draft-the-record",
+  "name": "Draft The Record",
+  "website": "https://www.drafttherecord.com/",
+  "one_liner": "AI For Litigation",
+  "team_size": 5,
+  "batch": "Summer 2024",
+  "tags": [
+   "Artificial Intelligence",
+   "Legal",
+   "LegalTech",
+   "AI Assistant"
+  ],
+  "industries": [
+   "B2B",
+   "Legal"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "tesora",
+  "name": "Tesora",
+  "website": "https://tesora.ai",
+  "one_liner": "Frontier AI for Actuaries",
+  "team_size": 3,
+  "batch": "Summer 2025",
+  "tags": [
+   "Artificial Intelligence",
+   "API",
+   "Insurance"
+  ],
+  "industries": [
+   "B2B",
+   "Analytics"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "careswift",
+  "name": "CareSwift",
+  "website": "https://www.careswift.com/",
+  "one_liner": "AI scribe for Ambulance Reports",
+  "team_size": 2,
+  "batch": "Summer 2025",
+  "tags": [],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": true,
+  "locations": "New York City, NY, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "procindex",
+  "name": "ProcIndex",
+  "website": "https://procindex.com/",
+  "one_liner": "AI Agents for Accounting Operations",
+  "team_size": 4,
+  "batch": "Summer 2025",
+  "tags": [
+   "Fintech",
+   "Finance",
+   "B2B",
+   "AI"
+  ],
+  "industries": [
+   "B2B",
+   "Finance and Accounting"
+  ],
+  "is_hiring": true,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "prescience-inc",
+  "name": "Prescience, Inc.",
+  "website": "https://www.getprescience.com/",
+  "one_liner": "Healthcare for the age of abundant intelligence.",
+  "team_size": 2,
+  "batch": "Summer 2026",
+  "tags": [
+   "Health Insurance",
+   "Insurance"
+  ],
+  "industries": [
+   "Healthcare"
+  ],
+  "is_hiring": false,
+  "locations": "Boston, MA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "blueprints",
+  "name": "Blueprints",
+  "website": "https://useblueprints.ai",
+  "one_liner": "Agentic harness for financial markets",
+  "team_size": 2,
+  "batch": "Summer 2026",
+  "tags": [
+   "Fintech",
+   "Generative AI",
+   "Consumer"
+  ],
+  "industries": [
+   "Fintech",
+   "Consumer Finance"
+  ],
+  "is_hiring": false,
+  "locations": "San Francisco, CA, USA",
+  "soc2_prior": 45
+ },
+ {
+  "slug": "verdant",
+  "name": "Verdant",
+  "website": "https://www.verdantapp.com/",
+  "one_liner": "AI-native land-use permit management for local gov",
+  "team_size": 2,
+  "batch": "Summer 2026",
+  "tags": [
+   "GovTech"
+  ],
+  "industries": [
+   "Government"
+  ],
+  "is_hiring": false,
+  "locations": "",
+  "soc2_prior": 45
+ }
+]

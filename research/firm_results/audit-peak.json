@@ -1,0 +1,78 @@
+{
+  "slug": "audit-peak",
+  "name": "Audit Peak",
+  "website": "https://www.auditpeak.com",
+  "hq": "1441 Broadway, Suite 6107, New York, NY 10018",
+  "founded": "2021",
+  "team_size_estimate": "Very small boutique — RocketReach lists only 2-3 named staff; soc2auditors.org estimated ~10-25 auditors; firm describes '25+ years of combined experience', consistent with a sub-15-person team",
+  "founder_led": true,
+  "startup_focus_evidence": [
+    {
+      "signal": "Firm's own launch press release: 'completed hundreds of audits for start-ups, mid-caps, and large-cap companies' and worked with companies 'with less than ten (10) employees'",
+      "source_url": "https://www.auditpeak.com/bridging-diversity-gap-minority-cpa-firm/"
+    },
+    {
+      "signal": "Drata Auditor Directory profile: explicitly experienced with 'startups, high-growth companies, and global enterprises'; 5.0/5 rating with a startup reviewer saying 'As a startup, we've found the guidance provided by the Audit Peak team to be invaluable'",
+      "source_url": "https://drata.com/auditor/directory/audit-peak"
+    },
+    {
+      "signal": "About page: serves 'start-ups, mid-size and large-cap companies' with fair pricing and a no-sales-culture ethos; prior research put SOC 2 Type II pricing at $15-45K, below specialist-tier average — priced for lean startups",
+      "source_url": "https://www.auditpeak.com/about/"
+    }
+  ],
+  "grc_partnerships": [
+    "Drata (Registered Alliance Member, 5.0/5 rating in Drata Auditor Directory)",
+    "Sprinto (listed per prior soc2auditors.org research; not independently re-confirmed this pass)"
+  ],
+  "aws_cloud_expertise": "Team holds AWS and Cloud certifications alongside CPA/CISA (about page); Drata directory profile lists 'cloud infrastructure evaluation (AWS, Azure, GCP)' as a key specialty; firm markets experience auditing both legacy and cloud environments",
+  "services": [
+    "SOC 1 / SOC 2 / SOC 3 audits (Type I and II)",
+    "Readiness assessments",
+    "HIPAA, GDPR, GLBA compliance",
+    "FISMA, NIST 800-53, NIST CSF, IRS Publication 1075, MARS-E",
+    "HITRUST, ISO 27001, PCI DSS advisory",
+    "Agreed-Upon Procedures",
+    "Cybersecurity assessments and risk advisory"
+  ],
+  "contacts": [
+    {
+      "name": "Chevorne Lewis",
+      "role": "Project Manager / Compliance Officer (media contact in firm press releases)",
+      "linkedin": "https://www.linkedin.com/in/chevorne-lewis/",
+      "twitter": null,
+      "email": "chevorne.lewis@auditpeak.com",
+      "phone": "+1 212-740-7325",
+      "source": "https://www.auditpeak.com/bridging-diversity-gap-minority-cpa-firm/"
+    },
+    {
+      "name": "Monifa Sutherland",
+      "role": "Senior Accountant",
+      "linkedin": null,
+      "twitter": null,
+      "email": null,
+      "phone": null,
+      "source": "https://rocketreach.co/audit-peak-management_b70301ebc4f94d92"
+    },
+    {
+      "name": "Audit Peak (general)",
+      "role": "Firm inbox / scheduling",
+      "linkedin": "https://www.linkedin.com/company/auditpeak",
+      "twitter": null,
+      "email": "info@auditpeak.com",
+      "phone": "+1 (212) 740-7325",
+      "source": "https://www.auditpeak.com"
+    }
+  ],
+  "fit_score": 90,
+  "partnership_angle": "Referral partner + sandbox tester. Audit Peak is exactly the profile LoxeAI wants: a founder-led, sub-15-person boutique founded in 2021 that already audits 10-person cloud-native startups at startup-friendly prices ($15-45K Type II), holds AWS certifications, and already operates inside the Drata automation ecosystem — so recommending a readiness scan to pre-audit clients is a natural extension of how they already work. Their small size means one validated relationship converts the whole firm. Best entry: get them to run LoxeAI against a sandbox AWS account (sandbox tester), then convert to a standing referral partner for their pre-audit/readiness-assessment pipeline. Caveat: the founder is not publicly named, so the first call likely routes through Chevorne Lewis or info@/Calendly.",
+  "pitch_note": "You built Audit Peak to give 10-person cloud startups Big 4-quality SOC 2 audits without Big 4 friction — LoxeAI was built for the same clients on the readiness side. It's an AWS-native scanner that maps a startup's actual AWS posture against SOC 2 criteria before the audit starts; we'd love 30 minutes to have you run it against a sandbox (or your own) AWS environment and tear it apart as an auditor. If it holds up, your pre-audit clients get a 'run this scan first — it gets you 80% ready' step that shortens your readiness assessments and sends you cleaner evidence on day one.",
+  "source_urls": [
+    "https://www.auditpeak.com",
+    "https://www.auditpeak.com/about/",
+    "https://www.auditpeak.com/bridging-diversity-gap-minority-cpa-firm/",
+    "https://drata.com/auditor/directory/audit-peak",
+    "https://rocketreach.co/audit-peak-management_b70301ebc4f94d92",
+    "https://www.linkedin.com/company/auditpeak",
+    "https://www.linkedin.com/in/chevorne-lewis/"
+  ]
+}
